@@ -1,0 +1,1492 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N002</uid>
+  <seanceRef>RUANR5L17S2025IDS28578</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20241002140000000</dateSeance>
+    <dateSeanceJour>mercredi 02 octobre 2024</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>2</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20240002</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2024-10-14T12:48:05.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3513146">Présidence de Mme Yaël Braun-Pivet</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3513150">
+          <intitule>Questions au Gouvernement</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <sommaire2>
+          <titreStruct id_syceron="3513152">
+            <intitule>Situation à Mayotte</intitule>
+          </titreStruct>
+          <para id_syceron="3513154">Mme Anchya Bamana</para>
+          <para id_syceron="3513158">M. Bruno Retailleau, ministre de l’intérieur</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513171">
+            <intitule>Situation en Nouvelle-Calédonie</intitule>
+          </titreStruct>
+          <para id_syceron="3513173">M. Nicolas Metzdorf</para>
+          <para id_syceron="3513187">M. François-Noël Buffet, ministre des outre-mer</para>
+          <para id_syceron="3513191">M. Nicolas Metzdorf</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513192">
+            <intitule>Situation au Liban</intitule>
+          </titreStruct>
+          <para id_syceron="3513194">M. Pierre-Yves Cadalen</para>
+          <para id_syceron="3513203">M. Jean-Louis Thiériot, ministre délégué auprès du ministre des armées et des anciens combattants</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513276">
+            <intitule>Situation dans les outre-mer</intitule>
+          </titreStruct>
+          <para id_syceron="3513278">M. Jiovanny William</para>
+          <para id_syceron="3513344">M. François-Noël Buffet, ministre des outre-mer</para>
+          <para id_syceron="3513291">M. Jiovanny William</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513294">
+            <intitule>Négociations salariales</intitule>
+          </titreStruct>
+          <para id_syceron="3513296">Mme Justine Gruet</para>
+          <para id_syceron="3513306">Mme Astrid Panosyan-Bouvet, ministre du travail et de l’emploi</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513317">
+            <intitule>Conflit au Proche-Orient</intitule>
+          </titreStruct>
+          <para id_syceron="3513319">Mme Sabrina Sebaihi</para>
+          <para id_syceron="3513393">M. Jean-Louis Thiériot, ministre délégué auprès du ministre des armées et des anciens combattants</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513213">
+            <intitule>Situation dans les outre-mer</intitule>
+          </titreStruct>
+          <para id_syceron="3513215">M. Frantz Gumbs</para>
+          <para id_syceron="3513220">M. François-Noël Buffet, ministre des outre-mer</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513228">
+            <intitule>Fièvre catarrhale ovine</intitule>
+          </titreStruct>
+          <para id_syceron="3513230">Mme Martine Froger</para>
+          <para id_syceron="3513240">Mme Annie Genevard, ministre de l’agriculture, de la souveraineté alimentaire et de la forêt</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513248">
+            <intitule>Santé mentale</intitule>
+          </titreStruct>
+          <para id_syceron="3513250">Mme Anne-Cécile Violland</para>
+          <para id_syceron="3513259">M. Michel Barnier, Premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513345">
+            <intitule>Situation en Nouvelle-Calédonie</intitule>
+          </titreStruct>
+          <para id_syceron="3513347">M. Emmanuel Tjibaou</para>
+          <para id_syceron="3513356">M. Michel Barnier, Premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3513363">
+            <intitule>Meurtre de Philippine</intitule>
+          </titreStruct>
+          <para id_syceron="3513365">Mme Hanane Mansouri</para>
+          <para id_syceron="3513373">M. Bruno Retailleau, ministre de l’intérieur</para>
+          <para id_syceron="3513385">Mme Hanane Mansouri</para>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3513388">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du mercredi 02 octobre 2024</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2538126" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3513146" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Yaël Braun-Pivet</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2538127" ordre_absolu_seance="2" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513147" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="895.95">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2538128" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3513148" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quatorze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538130" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3513150" valeur="">
+      <orateurs/>
+      <texte>Questions au Gouvernement</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538131" ordre_absolu_seance="6" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513151" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="899.61">L’ordre du jour appelle les questions au Gouvernement.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538132" ordre_absolu_seance="7" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513152" valeur="">
+      <orateurs/>
+      <texte>Situation à Mayotte</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538133" ordre_absolu_seance="8" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513153" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="905.48">La parole est à Mme Anchya Bamana.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538134" ordre_absolu_seance="9" id_acteur="PA842279" id_mandat="PM843779" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513154" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anchya Bamana</nom>
+            <id>842279</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="935.15">C’est avec émotion que je prends la parole, au nom du groupe Rassemblement national, pour la première question au Gouvernement de cette session. À la suite de Marine Le Pen qui, ces dernières années, a défendu avec ardeur Mayotte, je souhaite vous alerter sur la situation extrêmement difficile que vit ce morceau de France au-delà des mers.<br/>Mayotte condense en effet à elle seule l’ensemble des problèmes qui touchent notre pays : immigration sans contrôle – la moitié de la population de l’île est clandestine ; insécurité omniprésente, qui touche même les bus scolaires et ceux des soignants, régulièrement caillassés – ce fut encore le cas la semaine dernière ; prison surpeuplée, où le taux d’occupation atteint 260 % ; services publics submergés – l’hôpital est débordé et manque de personnel dans tous les services ; diplomatie atone, qui laisse les Comores imposer leur politique à la France ; pouvoir d’achat en baisse, sans perspective de développement économique.<br/>Monsieur le Premier ministre, Mayotte est aujourd’hui en situation d’urgence vitale. Il apparaît que l’urgence des urgences, c’est de mettre un terme à cette immigration hors de contrôle qui gangrène notre territoire. Êtes-vous prêt à mobiliser la marine nationale pour instaurer un contrôle drastique de nos frontières dès la haute mer, afin de repousser les dizaines de bateaux qui déversent à Mayotte des étrangers que nous n’avons pas les moyens d’accueillir sur notre sol d’autant que beaucoup d’entre eux, hélas, perdent la vie en tentant la traversée ? <italique>(Les députés des groupes RN et UDR se lèvent et applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538137" ordre_absolu_seance="12" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513157" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="966.65">La parole est à M. le ministre de l’intérieur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538138" ordre_absolu_seance="13" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513158" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre de l’intérieur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1065.94">Vous avez raison : Mayotte est en situation d’urgence. Souvenez-vous : j’y étais en mai dernier – j’y ai consacré un voyage pour me rendre compte de la situation sur place. Mayotte est malheureusement le triste exemple de ce qu’une immigration totalement incontrôlée <italique>(Murmures sur les bancs du groupe LFI-NFP) </italique>peut provoquer en matière de désordre,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538139" ordre_absolu_seance="14" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513159" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1084.40">CQFD !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538140" ordre_absolu_seance="15" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513160" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Maillard</nom>
+            <id>717379</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1086.23">Il a raison !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538141" ordre_absolu_seance="16" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513161" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1089.00">…de mal-développement et aussi sur le plan sanitaire. Mayotte concentre trois grandes crises, à commencer par la crise migratoire : la moitié de sa population est d’origine étrangère, la plupart du temps en situation d’irrégularité. Le chômage, ensuite, atteint pratiquement 40 % de la population active. S’y ajoute malheureusement une crise sécuritaire à laquelle vous avez fait allusion : il y a quelques jours, un bus transportant des soignants à l’hôpital – pour secourir, entre autres, des migrants en situation irrégulière – a été caillassé.<br/>Nous ne resterons pas les bras croisés. Il y a des solutions de court et de long terme. À court terme, bien sûr, je veux reprendre l’action menée par mon prédécesseur : nous confirmerons les 1 150 gendarmes et policiers déployés <italique>(Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR)</italique>, auxquels s’ajoutent quatre escadrons de gendarmerie mobile et 300 gendarmes spécialisés dans le maintien de l’ordre. Cela ne suffira pas et nous irons plus loin, notamment en passant des accords de sécurité bilatéraux avec les pays voisins de l’Afrique des Grands Lacs ; je m’y engage, parce que c’est ce qui nous permettra d’arrêter le flux issu de ces pays.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538143" ordre_absolu_seance="18" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513163" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1134.77">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538144" ordre_absolu_seance="19" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513164" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1169.60">Ensuite, dès ce mois d’octobre, le préfet de Mayotte organisera – il en a reçu l’instruction – des vols groupés pour pouvoir reconduire les étrangers en situation irrégulière…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538145" ordre_absolu_seance="20" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513165" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1181.26">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538146" ordre_absolu_seance="21" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513166" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1181.30">…vers la République démocratique du Congo.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538147" ordre_absolu_seance="22" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513167" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1183.68">Merci, monsieur le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538148" ordre_absolu_seance="23" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513168" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1185.33">Enfin, à long terme, nous évaluerons l’efficacité du « rideau de fer » maritime. <italique>(Applaudissements sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538149" ordre_absolu_seance="24" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513169" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1190.62">À l’Assemblée nationale, monsieur le ministre, le temps est scrupuleusement égalitaire : deux minutes par personne, que l’on soit député ou ministre ! <italique>(Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538150" ordre_absolu_seance="25" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513170" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1205.87">Il y a bien un petit bonus quand c’est intéressant ?</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538151" ordre_absolu_seance="26" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513171" valeur="">
+      <orateurs/>
+      <texte>Situation en Nouvelle-Calédonie</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538152" ordre_absolu_seance="27" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513172" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1211.18">La parole est à M. Nicolas Metzdorf.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538153" ordre_absolu_seance="28" id_acteur="PA795176" id_mandat="PM843788" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513173" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Metzdorf</nom>
+            <id>795176</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1217.97">Hier, monsieur le Premier ministre, lors de votre déclaration de politique générale, les Calédoniens se sont sentis humiliés.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538154" ordre_absolu_seance="29" id_acteur="PA793736" id_mandat="PM842693" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513174" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Hadrien Clouet</nom>
+            <id>793736</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1228.84">Pas tous !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538155" ordre_absolu_seance="30" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513175" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1231.61">Ça dépend lesquels !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538156" ordre_absolu_seance="31" id_acteur="PA795176" id_mandat="PM843788" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513176" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Metzdorf</nom>
+            <id>795176</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1232.92">Face aux voitures détruites, aux maisons brûlées, aux emplois perdus et aux entreprises fermées, ils se sont sentis humiliés parce qu’ils ont dû se protéger eux-mêmes pendant des semaines, des jours et des nuits contre les émeutiers.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538157" ordre_absolu_seance="32" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513177" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1248.68">Contre les milices !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538158" ordre_absolu_seance="33" id_acteur="PA795176" id_mandat="PM843788" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513178" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Metzdorf</nom>
+            <id>795176</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1250.29">Ils se sont sentis humiliés parce qu’ils ont été insultés, obligés, pour certains, de quitter leur logement et même parfois la Nouvelle-Calédonie. Ils se sont sentis humiliés parce que vous n’avez pas eu un mot pour eux hier, parce que vous n’avez rien dit sur les aides économiques nécessaires à la relance et au maintien des emplois sur leur territoire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538159" ordre_absolu_seance="34" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513179" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1275.84">Il savait que tu poserais la question !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538160" ordre_absolu_seance="35" id_acteur="PA266793" id_mandat="PM842402" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513180" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Yves Bony</nom>
+            <id>266793</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1275.88">Il en a parlé hier !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538161" ordre_absolu_seance="36" id_acteur="PA795176" id_mandat="PM843788" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513181" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Metzdorf</nom>
+            <id>795176</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1277.18">Ils se sont sentis humiliés, monsieur le Premier ministre, parce que vous les avez abandonnés en renonçant au dégel du corps électoral en Nouvelle-Calédonie. Ils se sentent impuissants, lâchés par la République ; ils ont l’impression qu’ils se sont battus pour rien, qu’ils ont résisté pour rien.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538162" ordre_absolu_seance="37" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513182" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1298.38">Pas un mot pour les Kanaks !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538163" ordre_absolu_seance="38" id_acteur="PA795176" id_mandat="PM843788" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513183" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Metzdorf</nom>
+            <id>795176</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1301.80">Ma question est donc très simple : considérez-vous que le dégel du corps électoral doit bien avoir lieu en Nouvelle-Calédonie afin d’y rétablir la démocratie ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538164" ordre_absolu_seance="39" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513184" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1310.79">Transmettez une copie du discours d’hier à M. Metzdorf !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538165" ordre_absolu_seance="40" id_acteur="PA795176" id_mandat="PM843788" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513185" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Metzdorf</nom>
+            <id>795176</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1312.06">Et envisagez-vous d’activer la solidarité nationale pour sauver les entreprises et les milliers d’emplois qui ont disparu depuis le début des émeutes ? <italique>(Applaudissements sur les bancs du groupe EPR et sur quelques bancs du groupe Dem.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538166" ordre_absolu_seance="41" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513186" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1324.20">La parole est à M. le ministre des outre-mer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538167" ordre_absolu_seance="42" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM847699" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513187" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre des outre-mer</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1337.30">Hier, à l’occasion de sa déclaration de politique générale, le Premier ministre s’est exprimé très clairement sur la Nouvelle-Calédonie et sur l’avenir de tous les Calédoniens <italique>(« Eh oui ! » sur les bancs du groupe DR) – </italique>tous les Calédoniens, sans exception. La situation est gravissime : après les événements terribles du printemps dernier, une crise sociale et économique s’annonce et notre responsabilité, celle du Gouvernement, est de répondre à l’urgence en apportant une aide immédiate à la Nouvelle-Calédonie. Jusqu’à maintenant, le Gouvernement n’y a pas manqué ; il n’y manquera pas non plus, naturellement, dans les heures et dans les jours qui viennent.<br/>Nous nous engagerons aussi dans une démarche beaucoup plus profonde, qui renvoie à l’avenir de la Nouvelle-Calédonie en tant que telle et au projet qu’il faut définir la concernant. Ce n’est pas qu’une question institutionnelle, même si cette dimension, dont il faudra rediscuter, est prise en compte. Nous devrons envisager tous les domaines de ce projet collectif, notamment le volet économique.<br/>Comme le Premier ministre l’a rappelé hier, nous installerons rapidement une mission consacrée à la Nouvelle-Calédonie, composée de membres permanents chargés de suivre l’ensemble des dossiers dans un cadre interministériel. Notre seul objectif est l’efficacité : il faut des réponses simples et concrètes, qui permettent à la Nouvelle-Calédonie d’emprunter enfin un chemin positif pour tous les Calédoniens et pour la France. <italique>(Applaudissements sur quelques bancs du groupe DR. – Exclamations sur quelques bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538170" ordre_absolu_seance="45" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513190" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1346.89">La parole est à M. Nicolas Metzdorf.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538171" ordre_absolu_seance="46" id_acteur="PA795176" id_mandat="PM843788" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513191" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Metzdorf</nom>
+            <id>795176</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1442.40">Votre intervention ne comporte aucune réponse concrète. Vous n’exprimez pas la volonté d’assurer le dégel du corps électoral et vous n’annoncez aucune somme aux Calédoniens pour la survie de leurs entreprises. C’est décevant ! <italique>(Applaudissements sur quelques bancs du groupe EPR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538172" ordre_absolu_seance="47" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513192" valeur="">
+      <orateurs/>
+      <texte>Situation au Liban</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538173" ordre_absolu_seance="48" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513193" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1462.36">La parole est à M. Pierre-Yves Cadalen.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538174" ordre_absolu_seance="49" id_acteur="PA841023" id_mandat="PM842645" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513194" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Yves Cadalen</nom>
+            <id>841023</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1473.55">Le Liban est meurtri. Trop de voix d’innocents se sont définitivement tues sous les bombes et les pleurs d’un peuple ami nous parviennent jusque dans cet hémicycle ! <italique>(Exclamations sur plusieurs bancs du groupe EPR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538175" ordre_absolu_seance="50" id_acteur="PA722046" id_mandat="PM843482" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513195" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Aurore Bergé</nom>
+            <id>722046</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1483.02">On baisse le son !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538176" ordre_absolu_seance="51" id_acteur="PA841023" id_mandat="PM842645" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513196" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Yves Cadalen</nom>
+            <id>841023</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1483.92">La France avait demandé que le feu cessât. La France n’a pas été respectée. <italique>(Applaudissements sur les bancs du groupe LFI-NFP.) </italique>Plus de 1 000 victimes, en grande partie civiles, sont à déplorer depuis une semaine. Un million de Libanais ont été jetés sur les routes. Du Liban tout entier, nous recevons des appels à l’aide.<br/>Il ne s’agit pas d’une guerre au Hezbollah ! Il s’agit d’une guerre à la nation libanaise dans toutes ses composantes. <italique>(Mêmes mouvements.) </italique>L’escalade prévisible avec l’Iran menace d’une guerre généralisée. La France ne doit y participer en aucune façon !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538178" ordre_absolu_seance="53" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513198" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Maillard</nom>
+            <id>717379</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1494.87">Vous êtes les amis du Hezbollah !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538179" ordre_absolu_seance="54" id_acteur="PA841023" id_mandat="PM842645" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513199" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Yves Cadalen</nom>
+            <id>841023</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1515.55">Le secrétaire général de l’ONU, qui a dit craindre pour le Liban le destin funeste de Gaza, est déclaré <italique>persona non grata </italique>sur le sol israélien ; nul ne saurait l’admettre ! Le droit international doit s’imposer et compter sur la voix de la France. <italique>(Applaudissements</italique> <italique>sur les bancs du groupe LFI-NFP. – Mme Elsa Faucillon applaudit également.) </italique>La guerre au Liban est inadmissible, tout comme l’est l’irrespect des mesures requises par la Cour internationale de justice contre le génocide à Gaza.<br/>La terreur et la violence n’appellent jamais qu’elles-mêmes ! Semer la mort ne ramène personne au monde des vivants. La solution à ces conflits est politique ! <italique>(Applaudissements</italique> <italique>sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe GDR. – Mme Marie Pochon applaudit aussi.) </italique>Un cessez-le-feu à Gaza est la clef pour un cessez-le-feu dans toute la région. Le temps des actes est plus que venu.<br/>Quand comptez-vous mettre en œuvre une politique de paix, alors que la France est impliquée au Liban par la présence de 700 soldats casques bleus ? Qui se préoccupe d’intercepter les bombes tombant sur le Liban ? Qu’avez-vous prévu pour la protection et l’évacuation de nos ressortissants ? Quels appuis concrets, plus tangibles qu’une conférence de soutien, entendez-vous apporter au Liban ? Quand allez-vous arrêter les livraisons de munitions à Israël ? Quand allez-vous suspendre l’accord d’association ? Quand allez-vous enfin reconnaître l’État de Palestine ? <italique>(Les députés du groupe LFI-NFP se lèvent et applaudissent. – Mme Elsa Faucillon applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538182" ordre_absolu_seance="57" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513202" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1522.89">La parole est à M. le ministre délégué auprès du ministre des armées et des anciens combattants.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538183" ordre_absolu_seance="58" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513203" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Louis Thiériot</nom>
+            <id>643089</id>
+            <qualite>ministre délégué auprès du ministre des armées et des anciens combattants</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1607.46">« La guerre n’est pas une aventure. La guerre est une maladie. » Les mots que vous avez prononcés font écho à ceux de Saint-Exupéry : c’est bien le même message qui s’y fait entendre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538184" ordre_absolu_seance="59" id_acteur="PA793736" id_mandat="PM842693" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513204" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Hadrien Clouet</nom>
+            <id>793736</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1624.43">Ça change de Maurras !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538185" ordre_absolu_seance="60" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513205" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Louis Thiériot</nom>
+            <id>643089</id>
+            <qualite>ministre délégué</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1624.89">Oui, bien évidemment, c’est avec la plus vive inquiétude que notre pays suit l’engrenage guerrier qui se développe au Proche-Orient, en particulier au Liban :…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538186" ordre_absolu_seance="61" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513206" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1636.97">Il ne faut pas se contenter de suivre : nous devons être acteurs !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2538187" ordre_absolu_seance="62" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513207" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Louis Thiériot</nom>
+            <id>643089</id>
+            <qualite>ministre délégué</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1640.29">…il menace les populations civiles et constitue un risque majeur d’embrasement pour la région. Nous sommes attachés à la sécurité d’Israël, qui n’est pas négociable. <italique>(Applaudissements sur plusieurs bancs du groupe EPR.)</italique> La France a condamné avec la plus grande fermeté les attaques de l’Iran qui ont eu lieu hier. <italique>(Exclamations sur les bancs du groupe LFI-NFP.)</italique><br/>Je veux également réaffirmer qu’aucun civil, qu’il soit libanais ou israélien…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538292" ordre_absolu_seance="64" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513270" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1664.30">Et les Palestiniens ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538293" ordre_absolu_seance="65" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513271" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Louis Thiériot</nom>
+            <id>643089</id>
+            <qualite>ministre délégué</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1669.27">…ne doit jamais être pris pour cible.<br/>Alors que la situation est extrêmement préoccupante, la France appelle solennellement (<italique>M. Arnaud le Gall mime un joueur de violon</italique>) tous les acteurs impliqués à faire preuve de retenue afin de trouver des solutions pacifiques. (<italique>Protestations</italique> <italique>sur quelques bancs du groupe LFI-NFP.</italique>)<br/>Dans ces circonstances, nous sommes aux côtés du Liban et des Libanais. Le ministre des affaires étrangères s’est rendu sur place. Nous travaillerons avec tous les acteurs pour trouver une solution pour le Liban, vieux pays ami qui nous est cher.<br/>La sécurité de nos compatriotes est une de nos principales préoccupations. Le Quai d’Orsay est totalement investi pour suivre leur situation et, le cas échéant, répondre aux besoins. <italique>(Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR. – Les interjections d’une députée LFI-NFP suscitent des protestations sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538297" ordre_absolu_seance="69" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513275" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1712.41">Un peu de silence, s’il vous plaît !</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538298" ordre_absolu_seance="70" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513276" valeur="">
+      <orateurs/>
+      <texte>Situation dans les outre-mer</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538299" ordre_absolu_seance="71" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513277" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1741.70">La parole est à M. Jiovanny William.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538300" ordre_absolu_seance="72" id_acteur="PA720992" id_mandat="PM843710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513278" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jiovanny William</nom>
+            <id>720992</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1757.41">Monsieur le Premier ministre, voilà plus de trente jours que la Martinique et la Guadeloupe sont confrontées à une crise aux racines anciennes à laquelle l’État n’apporte pas de réponse concrète et pérenne. Avec ma collègue Béatrice Bellay et les autres députés du groupe socialiste, nous vous avons interpellé dès votre nomination, sans obtenir de réponse de votre part.<br/>Avec un surcoût de 40 % par rapport à l’Hexagone des prix des produits alimentaires, nos concitoyens consacrent une part significative de leur salaire à se nourrir. Ils aspirent à vivre dignement et non à survivre ! <italique>(Applaudissements sur les bancs du groupe SOC.) </italique>Je ne viens pas ici quémander ou mendier l’amour de la mère patrie. « Liberté, Égalité, Fraternité », dit la Constitution… Et pourtant, la souffrance du peuple est réelle et il gronde légitimement.<br/>Nous demandons en urgence un calendrier législatif en vue de l’adoption en 2025 de mesures concrètes contre la vie chère. Aux côtés des collectivités, nous, parlementaires, formulons des propositions sur la TVA, le tarif d’exportation, l’encadrement des prix et des marges. Nous vous demandons de répondre à nos questions, de prendre vos responsabilités et de vous déplacer urgemment en Martinique et en Guadeloupe (<italique>Applaudissements sur les bancs du groupe SOC ainsi que sur quelques bancs des groupes LFI-NFP et GDR)</italique>, notamment pour annoncer un premier train de mesures à court et moyen terme.<br/>La mobilisation émane du monde citoyen et de l’association Rassemblement pour la protection des peuples et des ressources afro-caribéens (RPPRAC), désormais rejoints par les syndicats. En tant qu’élus, nous ne baisserons jamais les bras, <italique>nou doubout deye sa</italique> ! <italique>(Applaudissements sur quelques bancs des groupes SOC et LFI-NFP.)</italique><br/>Monsieur le Premier ministre, quelles sont vos propositions concrètes ? Quand l’État viendra-t-il assumer ses responsabilités sur place, devant le peuple ? <italique>(Applaudissements sur les bancs du groupe SOC, dont plusieurs députés se lèvent, ainsi que sur plusieurs bancs des groupes LFI-NFP, EcoS et GDR.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. François-Noël Buffet" qualite="ministre des outre-mer" id_acteur="PA303997" id_nomination_oe="PM847699" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538304" ordre_absolu_seance="77" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="-1" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="3513343" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1867.95">La parole est à M. le ministre des outre-mer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538304" ordre_absolu_seance="78" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM847699" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="3513344" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. François-Noël Buffet</nom>
+              <id>303997</id>
+              <qualite>ministre des outre-mer</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1885.93">La question de la vie chère, placée au cœur du discours de politique générale, constituera aussi le cœur des discussions et de l’action du Gouvernement. Le Premier ministre a déjà annoncé une hausse anticipée du Smic de 2 % au 1<exposant>er</exposant><exposant> </exposant>novembre. <italique>(Protestations sur les bancs du groupe LFI-NFP.)</italique><br/>La cherté de la vie concerne au premier chef nos compatriotes ultramarins. Les différences de coûts dues à l’éloignement, à une fiscalité différente et aux spécificités des petits marchés se traduisent directement dans les prix des produits alimentaires et de l’ensemble des produits de première nécessité.<br/>Toutefois, comme l’Autorité de la concurrence l’a mis en évidence en 2019, les raisons des écarts de prix sont multiples et ne se résument pas à ces quelques facteurs. Un travail de fond a été entamé au niveau central pour s’attaquer à l’ensemble des causes de renchérissement des prix : une meilleure régulation du prix des carburants et un renforcement des contrôles de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) ont été annoncés lors de la dernière réunion du comité interministériel des outre-mer.<br/>Sur le terrain, le préfet de la Martinique réalise depuis plusieurs mois un travail complémentaire dont je salue la qualité. Il a débouché sur des propositions concrètes que sont venues compléter des suggestions de la collectivité territoriale de Martinique et de l’ensemble des acteurs locaux, dont les acteurs économiques.<br/>Plusieurs groupes de travail ont aussi été organisés localement à cette fin.<br/>Les pistes de solutions portent sur la baisse de l’octroi sur cinquante-quatre familles de produits et sur une baisse de coûts d’approche répercutées sur les distributeurs sous le contrôle de l’État. Elles devraient donner lieu à un programme de travail opérationnel impliquant l’ensemble des acteurs qui doivent contribuer à cet effort collectif. Nous nous engageons, le travail a commencé !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538312" ordre_absolu_seance="84" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513290" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1902.86">La parole est à M. Jiovanny William.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538313" ordre_absolu_seance="85" id_acteur="PA720992" id_mandat="PM843710" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513291" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jiovanny William</nom>
+            <id>720992</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2010.88">Monsieur le ministre, ne vous moquez pas du peuple : il vous regarde ! <italique>(Applaudissements sur les bancs du groupe SOC, dont plusieurs députés se lèvent, et sur quelques bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538314" ordre_absolu_seance="86" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513292" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2020.13">Il ne s’est pas moqué de vous !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538315" ordre_absolu_seance="87" id_acteur="PA774960" id_mandat="PM840417" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513293" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Isabelle Santiago</nom>
+            <id>774960</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2021.48">Il faut agir d’urgence !</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538316" ordre_absolu_seance="88" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513294" valeur="">
+      <orateurs/>
+      <texte>Négociations salariales</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538317" ordre_absolu_seance="89" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513295" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2022.82">La parole est à Mme Justine Gruet.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538318" ordre_absolu_seance="90" id_acteur="PA794058" id_mandat="PM842861" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513296" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Justine Gruet</nom>
+            <id>794058</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2031.71">Ma question s’adresse à M. le Premier ministre. Le nouveau groupe de la Droite Républicaine rassemblé autour de Laurent Wauquiez a travaillé dès cet été avec nos collègues de la majorité au Sénat pour répondre aux attentes des Français. Certains souhaitent « renverser la table » ; de notre côté, l’unité et le sens de l’intérêt général ont permis très rapidement de « mettre sur la table » un pacte législatif pour restaurer l’autorité, améliorer l’accès aux services publics et revaloriser le travail. L’urgence est là !<br/>Monsieur le Premier ministre, vous avez à juste titre souligné hier, dans votre discours de politique générale, que la situation financière de la France appelle des choix politiques forts et courageux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538320" ordre_absolu_seance="92" id_acteur="PA794778" id_mandat="PM843239" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513298" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sandra Regol</nom>
+            <id>794778</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2066.52">Vous avez fait 6 % des voix !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538321" ordre_absolu_seance="93" id_acteur="PA794058" id_mandat="PM842861" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513299" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Justine Gruet</nom>
+            <id>794058</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2078.96">L’argent public ne sort pas de nulle part ; il est issu de la richesse créée dans nos territoires par nos chefs d’entreprise, nos artisans et commerçants, nos salariés, et nous avons collectivement la responsabilité de l’utiliser à bon escient.<br/>Si la solidarité et la fraternité sont des piliers essentiels de notre société, les efforts ne doivent pas toujours reposer sur les mêmes ; ils ne peuvent plus reposer sur les mêmes.<br/>Monsieur le Premier ministre, les Français attendent de nous tous, parlementaires, que nous soyons capables de travailler ensemble. Accordons-nous sur des mesures permettant au chef d’entreprise qui augmente son employé de voir que cette hausse de salaire est intégralement répercutée sur la feuille de paye. <italique>(Applaudissements sur les bancs du groupe DR.)</italique><br/>En parallèle, serons-nous capables de travailler à plafonner les aides sociales de manière à ce qu’elles ne fassent plus l’objet de subtils calculs qui bloquent un retour à l’emploi au détriment de la valorisation du goût de l’effort et du mérite ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538325" ordre_absolu_seance="97" id_acteur="PA793736" id_mandat="PM842693" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513303" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Hadrien Clouet</nom>
+            <id>793736</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2134.31">Les subtils calculs se font chez vous !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538326" ordre_absolu_seance="98" id_acteur="PA794058" id_mandat="PM842861" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513304" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Justine Gruet</nom>
+            <id>794058</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2142.96">En allant dans cette direction, monsieur le Premier ministre, nous répondrons, à vos côtés, à la France qui travaille. <italique>(Applaudissements sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538327" ordre_absolu_seance="99" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513305" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2151.94">La parole est à Mme la ministre du travail et de l’emploi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538328" ordre_absolu_seance="100" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM847689" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513306" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre du travail et de l’emploi</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2169.10">Comme l’a annoncé M. le Premier ministre hier, nous avons décidé une anticipation de la revalorisation du Smic car nous approchons les 2 % d’inflation. <italique>(Applaudissements ironiques sur quelques bancs du groupe LFI-NFP.)</italique><br/>Ainsi que l’a souligné Mme Gruet, le travail doit mieux payer en France<italique>. </italique>En matière salariale, nous avons trois convictions ; la première : le Smic peut être un salaire d’entrée dans la vie active ; il ne peut être le salaire de toute une vie. Entre les minimums conventionnels inférieurs au Smic et le tassement des grilles salariales de branche, il faut pourtant des années à un travailleur pour quitter cette trappe du bas salaire en dépit des compétences et de l’expérience acquises.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538331" ordre_absolu_seance="102" id_acteur="PA793736" id_mandat="PM842693" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513309" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Hadrien Clouet</nom>
+            <id>793736</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2195.62">Ça, on l’a compris !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538332" ordre_absolu_seance="103" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM847689" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513310" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2207.78">En second lieu, le Smic ne règle pas le problème du temps partiel, comportant de fortes amplitudes horaires, subi par de nombreuses femmes, notamment dans les secteurs du lien et de la propreté.<br/>Enfin, l’expérience montre que, dans les entreprises de plus de dix salariés, la revalorisation des grilles salariales a plus d’impact que la revalorisation du Smic et permet d’augmenter les salaires davantage et plus fréquemment.<br/>Nous devons travailler sur de nombreux sujets. Je commencerai par celui des branches qui ne jouent pas le jeu de la négociation salariale. Actuellement, vingt-cinq branches soit présentent des minimums conventionnels inférieurs au Smic soit n’actualisent ni leurs grilles ni leurs classifications. Conformément au vœu émis par M. le Premier ministre hier, je les convoquerai dans les prochains jours au ministère.<br/>Deuxièmement, il faut lutter contre les trappes à bas salaires.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538336" ordre_absolu_seance="107" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513314" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2265.81">Les trappes à bas salaires, ce sont les actionnaires !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538337" ordre_absolu_seance="108" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM847689" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513315" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2269.64">Les chiffres sont connus : augmenter un travailleur au Smic de 100 euros coûte 500 euros à l’employeur. Cela ne fonctionne pas ! Nous prendrons en compte le rapport commandé à Antoine Bozio et Étienne Wasmer par la Première ministre Elisabeth Borne à l’automne 2023. Enfin, …</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538338" ordre_absolu_seance="109" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513316" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2285.78">Merci, madame la ministre. (<italique>Mme la présidente coupe le micro de la ministre dont le temps de parole est écoulé</italique>. – <italique>Applaudissements sur plusieurs bancs des groupes EPR et DR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538339" ordre_absolu_seance="110" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513317" valeur="">
+      <orateurs/>
+      <texte>Conflit au Proche-Orient</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538340" ordre_absolu_seance="111" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513318" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2290.14">La parole est à Mme Sabrina Sebaihi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538341" ordre_absolu_seance="112" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513319" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2292.94">Monsieur le ministre des affaires étrangères, vous voilà jeté dès votre prise de fonction dans le conflit du Proche-Orient, qui plonge la région et le monde dans une guerre dont personne ne peut sous-estimer l’extrême gravité.<br/>Face à cette situation, nulle polémique. En tant qu’écologistes, nous saluons l’appel de la France à la tenue d’une réunion du conseil de sécurité de l’ONU. En effet, toutes les limites ont été franchies ; aucune loi ne semble plus exister, ni les lois de la guerre, ni les conventions internationales, ni même aucune morale.<br/>Après la bande de Gaza, voilà que Netanyahou ressort son argumentaire ignoble prétendant que tous les Libanais seraient des terroristes, que des roquettes et des bombes du Hezbollah seraient cachées dans chaque foyer.<br/>Deux de nos compatriotes sont toujours retenus en otage aux mains du Hamas. Depuis le 23 septembre, plus de 1 000 personnes ont été tuées au Liban, dont 104 enfants et plus de 1 million de personnes ont été déplacées. Hier, une attaque terroriste a causé la mort de sept Israéliens à Jaffa alors que l’Iran envoyait des missiles sur Israël. Plus de 40 000 personnes ont été tuées à Gaza dans ce qui constitue l’un des plus grands massacres de notre siècle. Ces vies ont des visages, des noms, une histoire, mais elles ne sont ici que des chiffres froids, énumérés au fil de bandeaux d’informations. <italique>(Applaudissements sur les bancs des groupes EcoS, LFI-NFP et SOC.)</italique><br/>Les civils de tous bords payent le prix de notre inaction, de notre impuissance à agir pour faire de la solution à deux États une réalité. Ce ne sont pas les milliers de civils tués – considérés comme de simples « dommages collatéraux » – ou les livraisons d’armes qui garantiront la sécurité d’Israël. <italique>(Applaudissements sur quelques bancs du groupe LFI-NFP.)</italique><br/>La seule manière de garantir la paix en Israël comme en Palestine consiste à mettre en œuvre la solution à deux États, y compris en sanctionnant Israël pour l’y contraindre.<br/>Quand la France prendra-t-elle ses responsabilités face au boucher de Tel Aviv, qui tue, bombarde, assassine sans scrupules et menace de précipiter le monde au bord d’une guerre totale ? Jusqu’à quand allez-vous qualifier d’ami de la France un homme qui sert une extrême droite messianique, enivrée par les chimères mortifères d’un Grand Israël, un homme condamné par l’ensemble des instances internationales ? Quand direz-vous à M. Netanyahou que si rien ne peut justifier les crimes terroristes du 7 octobre, les crimes du 7 octobre ne peuvent justifier l’innommable ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538348" ordre_absolu_seance="119" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513326" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2405.14">Merci, ma chère collègue. (<italique>Mme la présidente coupe le micro de l’oratrice, dont le temps de parole est écoulé. – Applaudissements sur les bancs des groupes EcoS et LFI-NFP, dont de nombreux députés se lèvent, ainsi que sur plusieurs bancs des groupes SOC et GDR.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Jean-Louis Thiériot, quali  ministre délégué auprès du ministre des armées et des anciens combattants" id_acteur="PA643089" id_nomination_oe="PM848115" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538348" ordre_absolu_seance="120" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="-1" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="3513392" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2418.57">La parole est à M. le ministre délégué auprès du ministre des armées et des anciens combattants.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538348" ordre_absolu_seance="121" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="3513393" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Thiériot</nom>
+              <id>643089</id>
+              <qualite>ministre délégué auprès du ministre des armées et des anciens combattants</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="2440.38">Pour rétablir la paix, la première chose est de ne pas jeter d’huile sur le feu et d’essayer de faire en sorte que chacun se parle. <italique>(Applaudissements</italique> <italique>sur les bancs du groupe DR.) </italique>Vous ne verrez pas ici de ma part des effets de manche<italique>.</italique><br/>Vous entendrez simplement quelques rappels des constantes de la diplomatie française.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538351" ordre_absolu_seance="123" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513329" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2456.74">Nous n’entendrons rien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538353" ordre_absolu_seance="124" id_acteur="PA795164" id_mandat="PM840444" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513331" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aurélie Trouvé</nom>
+              <id>795164</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2462.66">Où est le ministre des affaires étrangères ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538354" ordre_absolu_seance="125" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513332" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Thiériot</nom>
+              <id>643089</id>
+              <qualite>ministre délégué</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="2469.51">Notre pays condamne avec la même fermeté les frappes israéliennes au Liban, qui ont provoqué un nombre inacceptable de victimes civiles, dont des dizaines de femmes et d’enfants…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538355" ordre_absolu_seance="126" id_acteur="PA795164" id_mandat="PM840444" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513333" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Aurélie Trouvé</nom>
+              <id>795164</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2485.12">Où est le ministre des affaires étrangères ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538356" ordre_absolu_seance="127" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513334" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Thiériot</nom>
+              <id>643089</id>
+              <qualite>ministre délégué</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="2485.74">…et les attaques du Hezbollah contre le territoire israélien qui ont entraîné le Liban dans une guerre dont les Libanais ne veulent pas et dont ils sont les premières victimes.<br/>La France exprime avec la même fermeté son opposition aux opérations terrestres israéliennes au Liban.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538358" ordre_absolu_seance="129" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513336" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2506.45">Mensonge !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538359" ordre_absolu_seance="130" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513337" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Thiériot</nom>
+              <id>643089</id>
+              <qualite>ministre délégué</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="2508.79">Je rappelle cette constante de notre diplomatie : les populations civiles ne doivent jamais être des cibles.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538360" ordre_absolu_seance="131" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513338" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2517.67">Certains sont plus civils que d’autres !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2538361" ordre_absolu_seance="132" id_acteur="PA643089" id_mandat="-1" id_nomination_oe="PM848115" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513339" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Thiériot</nom>
+              <id>643089</id>
+              <qualite>ministre délégué</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="2518.50">Il est temps que toutes les parties se saisissent des propositions de dialogue faites conjointement avec les États-Unis.<br/>La France se tient concrètement aux côtés du Liban. Le ministre des affaires étrangères – qui vous prie d’excuser son absence – a annoncé à l’occasion de sa dernière visite une aide de 10 millions d’euros et l’envoi de douze tonnes de médicaments, transportés par nos armées qui se préparent à toutes les éventualités. <italique>(Applaudissements sur quelques bancs du groupe DR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538188" ordre_absolu_seance="134" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513213" valeur="">
+      <orateurs/>
+      <texte>Situation dans les outre-mer</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538189" ordre_absolu_seance="135" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513214" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2556.83">La parole est à M. Frantz Gumbs.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538190" ordre_absolu_seance="136" id_acteur="PA795258" id_mandat="PM843794" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513215" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frantz Gumbs</nom>
+            <id>795258</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2565.43">Ma question s’adresse à M. le ministre chargé des outre-mer. Lors de sa déclaration de politique générale, le Premier ministre a souligné le rôle essentiel des outre-mer, éloignés de l’Hexagone et dont la diversité humaine et géographique est exceptionnelle. Situés sur trois océans, ils recouvrent des réalités socioculturelles fortes et variées. M. Barnier a annoncé son intention de présider, au premier trimestre 2025, un comité interministériel des outre-mer.<br/>Les défis sont immenses, monsieur le ministre. Je pense à la Nouvelle-Calédonie, qui traverse une crise d’une extrême gravité, et aux mobilisations et à la colère qui s’exprime en Martinique, en Guadeloupe et à La Réunion contre la vie chère. Je pense aussi à l’ampleur du préjudice que subit la Guyane en raison de la pêche et de l’orpaillage clandestins, ainsi qu’à l’immigration à Mayotte. Je pense enfin aux difficultés d’accès à l’eau ou à la qualité des services publics dans les territoires ultramarins. Les signaux de détresse se multiplient, tout comme les points chauds.<br/>Je l’affirme avec force : la France lointaine n’est pas moins importante que celle qui est proche de la tour Eiffel. Là est aussi le sens du message des Français lors des dernières élections : trop souvent, malgré les intentions et les moyens déployés, les politiques que nous appliquons n’atteignent pas avec la même efficacité les territoires les plus éloignés des centres administratifs régionaux.<br/>La multiplicité et la diversité des difficultés des outre-mer nécessitent une approche adaptée. Quelle sera votre méthode pour tisser à nouveau des liens de confiance et de considération réciproques entre la France hexagonale et ses territoires ultramarins ? <italique>(Applaudissements sur les bancs du groupe Dem.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538194" ordre_absolu_seance="140" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513219" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2691.90">La parole est à M. le ministre des outre-mer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538195" ordre_absolu_seance="141" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM847699" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513220" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre des outre-mer</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2699.15">Votre question est de première importance. Elle me permet de réaffirmer que le Gouvernement, dans sa totalité, est au travail pour traiter la situation des outre-mer. S’ils sont physiquement loin, ils sont très proches de nous du point de vue de nos préoccupations.<br/>Vous m’interrogez sur la méthode. Tout d’abord, le Premier ministre a souhaité que le ministère des outre-mer lui soit directement rattaché, ce qui prouve déjà l’importance accordée à nos territoires ultramarins.<br/>Deuxièmement, nous entendons appliquer des principes simples et donner le temps au dialogue, ce qui ne signifie pas pour autant perdre du temps. Les situations d’urgence, que vous venez d’évoquer, sont au cœur de nos préoccupations quotidiennes. Nous y répondrons bien évidemment.<br/>Je souhaite aussi établir un dialogue nourri, transpartisan, sans aucun doute élargi aux acteurs de terrain, mais qui se fonde exclusivement sur un discours de vérité. Car il est important que nos constats reposent sur la réalité. Peut-être aurons-nous des discussions sur la manière d’aborder les solutions mais le constat doit être partagé le plus largement possible.<br/>En outre, nous devons nous appuyer sur les parlementaires ultramarins. Comment faire autrement ? C’est obligatoire et même essentiel pour le travail que nous devons mener. Nous devons aussi nous appuyer sur les délégations aux outre-mer, qui jouent un rôle important.<br/>Par ailleurs, les politiques seront conduites de façon interministérielle – vous l’avez dit et je l’ai moi-même déjà évoqué car c’est important. Le comité interministériel des outre-mer se réunira au premier trimestre 2025. Il faut donc se mettre au travail dès à présent.<br/>J’ajoute que des déplacements seront bien sûr prévus dans tous les territoires ultramarins.<br/>Enfin, nous attendons le rapport sur l’évolution institutionnelle des outre-mer commandé par le Président de la République à deux spécialistes. Le travail a été lancé et nous aurons très bientôt des contacts à ce sujet.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538203" ordre_absolu_seance="149" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513228" valeur="">
+      <orateurs/>
+      <texte>Fièvre catarrhale ovine</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538204" ordre_absolu_seance="150" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513229" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2826.19">La parole est à Mme Martine Froger.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538205" ordre_absolu_seance="151" id_acteur="PA822617" id_mandat="PM840264" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513230" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Martine Froger</nom>
+            <id>822617</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2834.51">L’arrivée de la fièvre catarrhale ovine (FCO), de sérotype 3, en août dernier, est un nouveau coup dur pour le secteur de l’élevage, d’autant plus que la situation s’est très vite dégradée : vingt-deux territoires, y compris la Corse, sont désormais concernés.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538206" ordre_absolu_seance="152" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513231" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2845.92">Elle a raison !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538207" ordre_absolu_seance="153" id_acteur="PA822617" id_mandat="PM840264" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513232" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Martine Froger</nom>
+            <id>822617</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2846.07">Mon département, l’Ariège, est lui aussi durement touché : plus de 407 foyers sont recensés et la mortalité atteint déjà 30 à 40 % des troupeaux.<br/>La situation est grave et les répercussions pour l’ensemble de la filière ovine seront catastrophiques, avec un risque de chute considérable de la production. Au-delà des pertes du cheptel, les dépenses liées à la gestion de la maladie telles que les frais vétérinaires ou les mesures de confinement ou d’enlèvement représentent une lourde charge pour des exploitations déjà vulnérables.<br/>C’est toute une filière qui est en colère, madame la ministre de l’agriculture. Ses acteurs estiment que la multiplication rapide des foyers en France aurait pu être évitée ou faire l’objet d’une plus grande réactivité des pouvoirs publics. Cela doit nous conduire à nous interroger sur le manque d’anticipation face à ces épidémies. Dans ce contexte, et alors que le moral des éleveurs est au plus bas, les mesures d’urgence sont indispensables si l’on ne veut pas conduire à la faillite de centaines d’éleveurs partout en France.<br/>Aussi, madame la ministre, quelles mesures d’urgence concrètes comptez-vous prendre pour compenser les pertes économiques subies et éviter l’aggravation d’une situation sanitaire déjà dramatique ? Nos éleveurs pourront-ils bénéficier d’une procédure d’indemnisation des pertes directes et indirectes ainsi que d’une campagne de vaccination gratuite pour faire reculer ces vagues épidémiques ?<br/>D’autre part, quelles mesures prendrez-vous pour sécuriser les montants des aides de la politique agricole commune (PAC) pour 2024 et 2025, afin que ceux-ci ne subissent pas l’impact des pertes dues à la FCO ?<br/>Enfin, n’est-il pas temps d’investir massivement dans la recherche afin de réguler et d’anticiper la multiplication de ces épidémies qui mettent en péril notre agriculture et bientôt notre souveraineté alimentaire ? <italique>(Applaudissements sur les bancs du groupe LIOT, sur plusieurs bancs du groupe SOC et sur quelques bancs des groupes EcoS et UDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538213" ordre_absolu_seance="159" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513238" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2952.51">La parole est à Mme la ministre de l’agriculture, de la souveraineté alimentaire et de la forêt.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538214" ordre_absolu_seance="160" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513239" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2968.43">Et de la FNSEA !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538215" ordre_absolu_seance="161" id_acteur="PA605991" id_mandat="-1" id_nomination_oe="PM847687" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513240" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Annie Genevard</nom>
+            <id>605991</id>
+            <qualite>ministre de l’agriculture, de la souveraineté alimentaire et de la forêt</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2971.44">Je vous remercie pour cette question d’une actualité brûlante. Vous avez évoqué votre département, l’Ariège, riche en élevage ovin et très touché par la fièvre catarrhale ovine de sérotype 3.<br/>J’ai à cœur de vous répondre car j’ai consacré à cette crise sanitaire l’essentiel de mon temps depuis mon arrivée au ministère il y a une semaine. Nous avons la volonté d’apporter les solutions urgentes et précises attendues par la profession.<br/>C’est pourquoi je me rendrai cette semaine avec le Premier ministre au sommet de l’élevage, auprès des éleveurs, afin de faire des annonces concernant la stratégie vaccinale mais aussi la réponse à apporter sur le plan indemnitaire car l’état des trésoreries est très dégradé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538218" ordre_absolu_seance="164" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513243" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2986.64">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538219" ordre_absolu_seance="165" id_acteur="PA605991" id_mandat="-1" id_nomination_oe="PM847687" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513244" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Annie Genevard</nom>
+            <id>605991</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3028.16">Pour avoir dialogué avec plusieurs interlocuteurs récemment, je mesure toutes leurs difficultés. Les symptômes sont sévères. Cette maladie entraîne des pertes de fertilité et un surcroît d’avortements et de mortalité. En moyenne, 20 % des animaux meurent – même si ce chiffre est encore plus élevé dans votre département. Cela plonge les éleveurs dans de grandes difficultés en matière de trésorerie mais aussi dans une grande détresse psychologique car il est très dur de voir ses bêtes souffrir et mourir.<br/>Au-delà de la réponse conjoncturelle qu’il faut apporter dans l’urgence – et, avec le Premier ministre, nous l’apporterons –, il faut réfléchir à une stratégie plus large, notamment au niveau européen.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538221" ordre_absolu_seance="167" id_acteur="PA793664" id_mandat="PM842549" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513246" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie Pochon</nom>
+            <id>793664</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3068.90">Ce n’est pas un problème nouveau !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538222" ordre_absolu_seance="168" id_acteur="PA605991" id_mandat="-1" id_nomination_oe="PM847687" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513247" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Annie Genevard</nom>
+            <id>605991</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3073.51">En effet, les deux maladies vectorielles qui frappent nos élevages sont exotiques : la fièvre hémorragique nous vient du sud et la fièvre catarrhale ovine du nord. Nous avons donc besoin de la stratégie d’anticipation que vous appelez de vos vœux. <italique>(Applaudissements sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538223" ordre_absolu_seance="169" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513248" valeur="">
+      <orateurs/>
+      <texte>Santé mentale</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538224" ordre_absolu_seance="170" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513249" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3092.43">La parole est à Mme Anne-Cécile Violland.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538225" ordre_absolu_seance="171" id_acteur="PA795026" id_mandat="PM843368" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513250" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne-Cécile Violland</nom>
+            <id>795026</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3110.49">Hier, lors de votre déclaration de politique générale, monsieur le Premier ministre, vous avez réaffirmé votre volonté de faire de la santé mentale la grande cause nationale de l’année 2025. Au nom de tous les Français : merci !<br/>Comme le rappelle l’Organisation mondiale de la santé (OMS), la santé est « un état de complet bien-être, physique, mental et social et ne consiste pas seulement en une absence de maladie ou d’infirmité ». Autrement dit, pas de santé sans santé mentale.<br/>Les problèmes de santé mentale touchent aujourd’hui dans notre pays une personne sur cinq, particulièrement les jeunes, y compris les enfants puisque selon Santé publique France, 13 % des 6-11 ans seraient atteints d’un trouble probable de santé mentale exigeant des soins, avec une prévalence majeure chez les jeunes filles.<br/>Il est donc plus qu’urgent d’offrir à tous les Français un accès à une véritable prévention et à des soins de proximité, de façon aussi égale et équitable que possible sur l’ensemble du territoire, alors que près d’un Français sur trois déclare ne pas prendre soin de sa santé mentale.<br/>Déjà, en janvier dernier, la santé mentale des jeunes constituait une priorité de l’action gouvernementale. Le ministre alors chargé de la santé et de la prévention, notre collègue Frédéric Valletoux, avait prévu la tenue d’un Conseil national de la refondation sur la santé mentale, malheureusement reporté <italique>sine die</italique> en raison de la dissolution.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538230" ordre_absolu_seance="176" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513255" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3186.53">Quelle mauvaise décision !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538231" ordre_absolu_seance="177" id_acteur="PA795026" id_mandat="PM843368" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513256" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne-Cécile Violland</nom>
+            <id>795026</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3195.39">L’amélioration en juin dernier du dispositif Mon soutien psy, créé pendant la crise du covid, va dans le bon sens. Cependant, il y a encore tant à faire pour que cette cause nationale soit à la hauteur de l’enjeu ! Je sais que nous sommes plusieurs députés, issus de groupes différents, prêts à travailler de concert avec vous sur ce point.<br/>Comment comptez-vous mettre en œuvre concrètement cette grande cause nationale et relancer rapidement les initiatives en cours sur ce sujet si essentiel ? Peut-on envisager une mission consacrée à cette ambition ? <italique>(Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe UDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538233" ordre_absolu_seance="179" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513258" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3230.23">La parole est à M. le Premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538234" ordre_absolu_seance="180" id_acteur="PA368" id_mandat="-1" id_nomination_oe="PM847741" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513259" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Barnier</nom>
+            <id>368</id>
+            <qualite>Premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3240.97">Je vous remercie beaucoup pour votre question. Comme vous venez de le dire, ce sujet est si grave qu’il est bien normal que vous, qui êtes engagée personnellement et professionnellement en la matière, puissiez travailler avec plusieurs de vos collègues – j’en connais certains –, au-delà des différences, voire des divergences politiques. On observe d’ailleurs la même détermination et la même disponibilité au Sénat.<br/>Avec la ministre de la santé et de l’accès aux soins, ainsi qu’avec l’ensemble du Gouvernement, nous aurons besoin de vous pour mener à bien notre action.<br/>La situation de la santé mentale se traduit par des chiffres mais, derrière ces chiffres, il y a des hommes et des femmes atteints de troubles psychiques, notamment un très grand nombre de jeunes. On compte, parmi ces derniers, 9 000 suicides par an – je ne suis même pas sûr que les données soient parfaitement exactes. Un Français sur cinq connaît des problèmes de santé mentale à un moment ou à un autre de sa vie – nous le savons tous.<br/>Je pourrais aussi évoquer les chiffres de l’assurance maladie, dont les crédits consacrés à ce domaine ont été beaucoup augmentés depuis cinq ans, ou encore l’action menée par le précédent gouvernement, avec M. Attal et M. Valletoux – vous l’avez rappelé –, pour faciliter l’accès des jeunes à un psychiatre ou à un psychologue.<br/>Tant de problèmes se posent en matière de santé mentale, qu’il s’agisse de la prévention, de la rupture du parcours de soins ou encore de l’accueil en urgence des jeunes à l’hôpital. Si j’en parle ainsi, c’est parce que j’y ai été confronté dans ma famille. Des familles sont désespérées parce qu’elles ne parviennent pas à trouver un lieu d’accueil d’urgence, y compris pour des malades adultes.<br/>Je sais, comme vous, que des solutions existent. Elles passent par l’éducation, par le sport, par l’insertion par le travail. Sans vouloir en faire une affaire familiale, je tiens à dire que j’ai eu une mère – j’espère que, là où elle est, elle m’écoute – qui a consacré trente-cinq ans de sa vie à l’Unafam, l’Union nationale de familles et amis de personnes malades et/ou handicapées psychiques. Elle a créé des foyers – l’un, à Aix-les-Bains, porte d’ailleurs son nom. Je pourrais aussi citer un établissement et service d’aide par le travail dans La Chartreuse, où j’ai vu des jeunes malades retrouver une fierté et un sentiment d’utilité, se sentir valorisés en fabriquant du fromage.<br/>Cette cause me touche au plus profond de moi. C’est pourquoi j’ai proposé que la santé mentale soit élevée au rang de grande cause nationale, pas seulement pour 2025 mais pour la période à venir.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538241" ordre_absolu_seance="187" id_acteur="PA795076" id_mandat="PM840366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513266" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sandrine Rousseau</nom>
+            <id>795076</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3296.27">Il ne suffira pas d’un morceau de fromage !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2538242" ordre_absolu_seance="188" id_acteur="PA368" id_mandat="-1" id_nomination_oe="PM847741" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513267" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Barnier</nom>
+            <id>368</id>
+            <qualite>Premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3411.66">Nous inviterons tous les acteurs autour de la table : les familles, les associations, l’hôpital, d’autres institutions naturellement, mais aussi des entreprises prêtes à apporter leur aide dans ce domaine – ou qui l’apportent déjà – au titre de l’action humanitaire. J’ajoute que je m’exprimerai de façon très concrète sur cette question la semaine prochaine, à l’occasion de la Journée mondiale de la santé mentale.<br/>Je vous remercie beaucoup de votre engagement et de celui de vos collègues, quel que soit leur groupe. Vous pouvez en tout cas compter sur le Gouvernement et sur moi-même en particulier pour être à vos côtés. <italique>(Applaudissements sur plusieurs bancs du groupe HOR ainsi que sur les bancs du groupe DR et sur plusieurs bancs des groupes EPR, SOC et UDR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538244" ordre_absolu_seance="190" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513345" valeur="">
+      <orateurs/>
+      <texte>Situation en Nouvelle-Calédonie</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538245" ordre_absolu_seance="191" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513346" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3455.02">La parole est à M. Emmanuel Tjibaou.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538246" ordre_absolu_seance="192" id_acteur="PA842299" id_mandat="PM843791" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513347" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Emmanuel Tjibaou</nom>
+            <id>842299</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3467.53">Monsieur le Premier ministre, je vous transmets le salut du mouvement indépendantiste et des progressistes calédoniens, qui m’ont mandaté auprès de la présente instance le 7 juillet dernier. <italique>(Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.)</italique><br/>Merci pour les mots de solidarité que vous avez adressés à nos compatriotes affectés par la crise politique, économique et sociale qui nous touche depuis le 13 mai.<br/>Les annonces d’hier amorcent certainement une démarche constructive : nomination d’un ministre chargé des outre-mer, reprise du dossier calédonien par Matignon, conduite d’une mission de médiation interministérielle et abandon du projet de loi constitutionnelle sur le dégel du corps électoral.<br/>J’espère que ces annonces sonnent également le glas d’une méthode appliquée par vos prédécesseurs et que le groupe GDR auquel j’appartiens a dénoncée – comme d’autres dans cette enceinte. <italique>(Applaudissements</italique> <italique>sur les bancs du groupe GDR.) </italique>Cette méthode suscitait des risques de déstabilisation de la poursuite du processus de décolonisation et de paix que nous menons ensemble depuis trente ans.<br/>Nous vous alertons à ce sujet. Notre pays est meurtri dans sa chair de cet entêtement qui nous met à genoux parce que nous voulons être partenaires de la décolonisation plutôt que sujets soumis à la mère patrie, comme l’ont été nos grands-pères il y a deux générations.<br/>J’ai deux questions. La première concerne la méthode de reprise des discussions institutionnelles sur le fondement du résultat des élections législatives, qui conforte le projet indépendantiste. Comment la France s’inscrit-elle dans la poursuite du processus de décolonisation afin d’accompagner la Nouvelle-Calédonie vers sa pleine émancipation, comme le prévoit l’accord de Nouméa, et suivant quel calendrier ?<br/>Deuxièmement, s’agissant de la relance et de la reconstruction économique, la solidarité affichée hier dans cet hémicycle prendra-t-elle en considération le plan de relance formulé par le Congrès et le gouvernement de la Nouvelle-Calédonie ? Où dans le projet de loi de finances en sera-t-il tenu compte ? <italique>(Les députés des groupes GDR, LFI-NFP, SOC et EcoS se lèvent et applaudissent longuement.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538254" ordre_absolu_seance="199" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513355" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3593.01">La parole est à M. le Premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538255" ordre_absolu_seance="200" id_acteur="PA368" id_mandat="-1" id_nomination_oe="PM847741" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513356" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Barnier</nom>
+            <id>368</id>
+            <qualite>Premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3620.94">Comme il a été indiqué plus tôt à d’autres députés inquiets de la situation en Nouvelle-Calédonie, je souhaite que nous retrouvions le chemin de l’apaisement. C’est dans cet esprit que je me suis exprimé hier, comme vous l’avez relevé.<br/>Mon équipe, le ministre chargé des outre-mer François-Noël Buffet, placé auprès de moi et qui suivra personnellement cette situation, et moi-même avons pris le temps de consulter tous les élus, dont vous-même, ainsi que l’ensemble des responsables des régions et des provinces dans toute leur diversité – ce temps n’a pas été très long, puisque je ne suis Premier ministre que depuis une vingtaine de jours. Nous avons souhaité vous écouter et vous interroger au sujet du report des élections. En accord avec le Président de la République, nous prendrons également le temps de retravailler la question du corps électoral.<br/>Je voudrais que nous fassions ensemble usage de ce temps afin de retrouver le chemin de l’apaisement et d’une solution institutionnelle et politique en Nouvelle-Calédonie.<br/>J’ai également salué l’engagement personnel de la présidente de l’Assemblée nationale et du président du Sénat, qui ont accepté d’aller prochainement à la rencontre de tous les élus néo-calédoniens, quels qu’ils soient, pour vous écouter et tracer la voie d’une réforme institutionnelle et d’un engagement durable en faveur de la paix et de la stabilité.<br/>Il faut traiter un autre enjeu, avec tout le monde : celui de la reconstruction économique et sociale. Les dégâts sont considérables. Il y a non pas tout mais beaucoup à reconstruire afin de redonner travail, visibilité et perspectives à tous les jeunes de Nouvelle-Calédonie. Je veux redire notre engagement à cet égard.<br/>J’attache une importance considérable à la mission que conduiront la présidente de l’Assemblée nationale et le président du Sénat. Le ministre chargé des outre-mer les relaiera ensuite pour poursuivre le travail engagé. Une mission permanente de haut niveau sera créée auprès de moi dans le but d’accompagner ce travail.<br/>Nous ferons les choses sérieusement, dans le respect de toutes les communautés, de toutes les forces politiques. Comme je l’indiquerai au Sénat dans quelques instants, je remercie beaucoup les députés, dans leur diversité, de leur engagement, conforme à l’esprit d’apaisement et de reconstruction que j’évoquais. <italique>(MM. Emmanuel Maurel et Stéphane Peu applaudissent.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538262" ordre_absolu_seance="207" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3513363" valeur="">
+      <orateurs/>
+      <texte>Meurtre de Philippine</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538263" ordre_absolu_seance="208" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513364" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3790.57">La parole est à Mme Hanane Mansouri.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538264" ordre_absolu_seance="209" id_acteur="PA841183" id_mandat="PM842786" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513365" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Hanane Mansouri</nom>
+            <id>841183</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3803.43">Monsieur le Premier ministre, samedi 21 septembre, un drame insoutenable a encore frappé notre pays. Philippine, une jeune fille de 19 ans, a été retrouvée sans vie au bois de Boulogne, assassinée par un barbare, alors qu’elle rentrait de l’université. Elle était de quatre ans ma cadette et sa vie volée aurait pu être la mienne, aurait pu être celle de votre fille.<br/>Dans un pays d’ordre, Philippine serait encore en vie et son assassin hors de nos frontières. Ce clandestin a été libéré de prison alors qu’il avait agressé une autre femme en 2019.<br/>La justice a failli. La France a assassiné Philippine comme elle a assassiné Lola ! Ces drames se succèdent avec une régularité effroyable et nous devons y mettre un terme !<br/>Je vous le dis en tant qu’élue de la République, en tant que femme : l’immigration de masse menace notre sécurité et la gauche, complice, crie à la récupération pour protéger les coupables. <italique>(Exclamations sur les bancs du groupe LFI-NFP. </italique>–<italique> Applaudissements sur les bancs des groupes UDR et RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538268" ordre_absolu_seance="213" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513369" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3842.34">C’est un mensonge !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538269" ordre_absolu_seance="214" id_acteur="PA841183" id_mandat="PM842786" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513370" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Hanane Mansouri</nom>
+            <id>841183</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3854.52">Philippine était un vrai petit ange : étudiante et fiancée, elle avait toute la vie devant elle.<br/>Monsieur le Premier ministre, quand appliquerons-nous une justice ferme et implacable ? Qu’attendons-nous pour enfermer tous ces individus et les expulser ? Pourquoi Philippine est-elle partie avant son meurtrier ? <italique>(« Bravo ! » sur les bancs des groupes UDR et RN, dont les députés se lèvent pour applaudir.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538271" ordre_absolu_seance="216" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513372" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3879.62">La parole est à M. le ministre de l’intérieur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538272" ordre_absolu_seance="217" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513373" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre de l’intérieur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3889.47">Hier, en fin d’après-midi, j’ai rencontré les parents, les frères, les sœurs et le fiancé de Philippine. La dignité de sa famille m’a impressionné. Cette dignité et leur souffrance nous obligent. L’impossibilisme juridique ne doit pas nous servir d’excuse pour ne pas agir.<br/>Or il faut agir ! Quand la règle de droit ne protège pas les Français, il faut bien sûr changer la règle de droit. <italique>(Applaudissements sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538274" ordre_absolu_seance="219" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513375" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Xavier Breton</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3921.89">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538275" ordre_absolu_seance="220" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513376" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3923.80">Il faut d’abord la changer en concluant des accords bilatéraux, notamment avec le Maroc – je me suis entretenu à ce sujet avec mon homologue marocain.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538276" ordre_absolu_seance="221" id_acteur="PA642988" id_mandat="PM840414" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513377" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Hervé de Lépinau</nom>
+            <id>642988</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3930.40">Il faut revenir sur les accords de 68 !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538277" ordre_absolu_seance="222" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513378" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3934.91">Il faut également allonger la durée maximale de rétention dans les centres de rétention administrative. C’est le sens de la proposition de loi que vient de déposer le groupe Droite républicaine.<italique> (Mêmes mouvements.)</italique><br/>Il faut encore – j’y travaillerai avec le ministre de la justice – faire en sorte que la décision du juge se fonde réellement sur la dangerosité de la personne que l’on s’apprête ou non à libérer.<br/>Enfin, s’agissant des expulsions et des éloignements, nous devrons être au rendez-vous, fondamental, de la directive retour. Nous pourrons enfin inverser la charge de la preuve fondant la décision d’éloigner les irréguliers <italique>(Applaudissements sur plusieurs bancs du groupe DR)</italique> et même, dans certains cas, nous dispenser de leur accord pour les éloigner dans des pays tiers qui ne sont pas leurs pays d’origine. Sur ce chantier, je ne me résoudrai jamais à l’inaction.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538280" ordre_absolu_seance="225" id_acteur="PA841215" id_mandat="PM842801" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513381" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie Mesmeur</nom>
+            <id>841215</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3969.76">Et que faites-vous pour lutter contre les viols et les agressions sexuelles ? C’est le vrai sujet !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538281" ordre_absolu_seance="226" id_acteur="PA791824" id_mandat="PM840375" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513382" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sarah Legrain</nom>
+            <id>791824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3977.98">Vous faites quoi ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538282" ordre_absolu_seance="227" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM847747" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513383" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3982.52">Jamais ! Pour reprendre une phrase employée hier par le Premier ministre, la fatalité, c’est quand il y a du fatalisme. Jamais nous ne serons fatalistes dès lors qu’il s’agit de protéger tous les Français, notamment les plus faibles. <italique>(Applaudissements sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538283" ordre_absolu_seance="228" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513384" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4002.87">La parole est à Mme Hanane Mansouri.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538284" ordre_absolu_seance="229" id_acteur="PA841183" id_mandat="PM842786" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3513385" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Hanane Mansouri</nom>
+            <id>841183</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4004.98">Merci, monsieur le ministre. J’en profite, mes chers collègues, pour vous informer que, pour avoir organisé un hommage à Philippine, j’ai été insultée et menacée par des militants d’extrême gauche parmi lesquels figuraient des collaborateurs d’un député LFI ici présent. <italique>(Huées sur plusieurs bancs des groupes UDR et RN à l’adresse des députés du groupe LFI-NFP.) </italique>Comment pouvons-nous tolérer de tels agissements ? <italique>(Applaudissements sur les bancs des groupes UDR et RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2538285" ordre_absolu_seance="230" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="QG_1_50" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513386" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4023.67">Nous avons terminé les questions au Gouvernement.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="4" id_preparation="2538287" ordre_absolu_seance="232" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3513388" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2538288" ordre_absolu_seance="233" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3513389" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4026.20">Prochaine séance, mardi 8 octobre, à quinze heures :<br/> Hommage à Louis Mermaz ;<br/>Questions au Gouvernement.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2538289" ordre_absolu_seance="234" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3513390" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à quatorze heures cinquante-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2538290" ordre_absolu_seance="235" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3513391" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

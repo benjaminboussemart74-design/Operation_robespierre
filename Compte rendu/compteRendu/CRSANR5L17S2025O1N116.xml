@@ -1,0 +1,1079 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N116</uid>
+  <seanceRef>RUANR5L17S2025IDS29099</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250304213000000</dateSeance>
+    <dateSeanceJour>mardi 04 mars 2025</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>116</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250116</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-03-09T10:42:12.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3646523">Présidence de M. Roland Lescure</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3646527">
+          <intitule>Mutations liées à l’intelligence artificielle : quelle stratégie pour la France et l’Europe ?</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3646533">M. Bernard Benhamou, secrétaire général de l’Institut de la souveraineté numérique</para>
+        <para id_syceron="3646543">M. Jean-Marie Cavada, président de l’Institut des droits fondamentaux numériques</para>
+        <para id_syceron="3647481">M. Philippe Latombe (Dem)</para>
+        <para id_syceron="3647486">M. Bernard Benhamou</para>
+        <para id_syceron="3647490">M. Jean-Paul Lecoq (GDR)</para>
+        <para id_syceron="3647495">M. Jean-Marie Cavada</para>
+        <para id_syceron="3647499">Mme Céline Calvez (EPR)</para>
+        <para id_syceron="3647706">M. Jean-Marie Cavada</para>
+        <para id_syceron="3647712">M. Bernard Benhamou</para>
+        <para id_syceron="3647717">M. René Pilato (LFI-NFP)</para>
+        <para id_syceron="3647721">M. Jean-Marie Cavada</para>
+        <para id_syceron="3647726">M. Erwan Balanant (Dem)</para>
+        <para id_syceron="3647729">M. Bernard Benhamou</para>
+        <para id_syceron="3647824">M. Jean-Marie Cavada</para>
+        <para id_syceron="3647836">Mme Géraldine Bannier (Dem)</para>
+        <para id_syceron="3647841">M. Bernard Benhamou</para>
+        <para id_syceron="3647851">M. Laurent Croizier (Dem)</para>
+        <para id_syceron="3647857">M. Bernard Benhamou</para>
+        <para id_syceron="3647536">M. Nicolas Turquois (Dem)</para>
+        <para id_syceron="3647539">M. Bernard Benhamou</para>
+        <para id_syceron="3647546">M. Jean-Marie Cavada</para>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="3647677">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="3647683">M. Marc Ferracci, ministre chargé de l’industrie et de l’énergie</para>
+        <para id_syceron="3647694">Mme Josy Poueyto (Dem)</para>
+        <para id_syceron="3647791">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3647795">M. Nicolas Sansu (GDR)</para>
+        <para id_syceron="3647800">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3647804">M. Arnaud Saint-Martin (LFI-NFP)</para>
+        <para id_syceron="3647808">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3647811">Mme Céline Calvez (EPR)</para>
+        <para id_syceron="3647814">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3647866">M. Philippe Latombe (Dem)</para>
+        <para id_syceron="3647868">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3647870">Mme Élisa Martin (LFI-NFP)</para>
+        <para id_syceron="3647872">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3647877">M. Nicolas Bonnet (EcoS)</para>
+        <para id_syceron="3647880">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3647883">M. Laurent Croizier (Dem)</para>
+        <para id_syceron="3648416">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3648420">M. René Pilato (LFI-NFP)</para>
+        <para id_syceron="3648423">M. Marc Ferracci, ministre</para>
+        <para id_syceron="3648426">Mme Delphine Lingemann (Dem)</para>
+        <para id_syceron="3648429">M. Marc Ferracci, ministre</para>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3648433">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du mardi 04 mars 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2627624" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3646523" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Roland Lescure<br/> vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2627625" ordre_absolu_seance="2" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3646524" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1076.90">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2627626" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3646525" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2627628" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3646527" valeur="">
+      <orateurs/>
+      <texte>Mutations liées à l’intelligence artificielle : quelle stratégie pour la France et l’Europe ?</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2627629" ordre_absolu_seance="6" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3646528" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1079.89">L’ordre du jour appelle le débat sur le thème : « Mutations liées à l’intelligence artificielle : quelle stratégie pour la France et l’Europe ? »<br/>Ce débat a été demandé par le groupe Les Démocrates, dont je salue les représentants. À la demande de ce dernier, il se tient en salle Lamartine afin que des personnalités extérieures puissent être interrogées.<br/>La conférence des présidents a décidé d’organiser le débat en deux parties. Nous commencerons par une table ronde en présence de personnalités invitées, d’une durée d’une heure, qui donnera lieu à une séquence de questions-réponses, puis, après une intervention liminaire du gouvernement, nous procéderons à une nouvelle séquence de questions-réponses, d’une durée d’une heure également. La durée des questions et des réponses sera limitée à deux minutes, sans droit de réplique.<br/>Pour la première phase du débat, je souhaite la bienvenue à M. Bernard Benhamou, secrétaire général de l’Institut de la souveraineté numérique, ainsi qu’à M. Jean-Marie Cavada, que l’on ne présente pas, en tout cas pour ceux qui sont de ma génération – il est présent en tant que président de l’Institut des droits fondamentaux numériques. Je vais maintenant donner la parole à nos invités, pour une durée de cinq minutes chacun.<br/>La parole est à M. Bernard Benhamou, secrétaire général de l’Institut de la souveraineté numérique.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2627634" ordre_absolu_seance="11" id_acteur="PA-125909" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3646533" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bernard Benhamou</nom>
+            <id>-125909</id>
+            <qualite>secrétaire général de l’Institut de la souveraineté numérique</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1088.24">C’est tout d’abord un plaisir et un honneur que de pouvoir évoquer ces questions avec vous. Je précise que M. Jean-Marie Cavada et moi-même avons une actualité conjointe : nos deux instituts, l’Institut des droits fondamentaux numériques – l’IDFRights – et l’Institut de la souveraineté numérique, ont produit un rapport intitulé « Intelligence artificielle (IA) : enjeux et perspectives pour les droits humains en Europe », qui s’est donné pour but d’analyser la situation en formulant des recommandations et en proposant des stratégies à développer.<br/>Le premier des constats, c’est que nous sommes vulnérables dans ces domaines. En effet, la France et l’Europe ont développé des stratégies de régulation et elles comptent des acteurs qui peuvent être, dans leurs domaines de spécialité, parmi les meilleurs au monde, mais les grands acteurs du secteur dont nous parlons sont massivement extra-européens. J’y reviendrai, mais Mario Draghi a dressé le même constat dans son rapport sur l’avenir de la compétitivité européenne, auquel nous faisons référence dans le nôtre : il y présente des perspectives qui sont brûlantes d’actualité au vu des développements géopolitiques récents.<br/>Il rappelle ainsi qu’à 80 %, les technologies que nous utilisons en Europe sont extra-européennes, et que notre plateforme est la plus ouverte au monde, tandis que nos équivalents américain ou chinois le sont beaucoup moins. Comme vous le savez, l’intelligence artificielle, pour être en mesure de fonctionner, se nourrit de données. C’était vrai avant l’apparition des modèles de langage récents et cela a toujours été le cas : il lui faut beaucoup de données pour fonctionner. Or l’Europe possède parmi les données structurées les plus abondantes, les plus riches, les plus diversifiées au monde ; elle est donc une cible à deux niveaux.<br/>Elle est une cible parce que ses données permettent d’entraîner les moteurs d’intelligence artificielle, et elle l’est aussi parce que nos cerveaux sont visés. Nous le décrivons longuement dans le rapport : ces technologies permettent de mieux connaître, analyser et influencer le cerveau humain, donc de développer des actes et des stratégies d’ingérence comme jamais auparavant – aucune des technologies de l’internet, des origines jusqu’à une période récente, ne le permettait.<br/>Les risques que ces technologies font peser sur l’Europe sont d’abord économiques, car elles pourraient entraîner une dépendance voire une vassalisation de notre continent. Ils sont ensuite d’ordre stratégique, militaire et sécuritaire : on le voit de plus en plus sur les théâtres d’opérations où l’intelligence artificielle est massivement utilisée, mais aussi dans les guerres hybrides, dont on parle beaucoup, à savoir les entreprises de déstabilisation venant en particulier de la Chine et de la Russie – et peut-être malheureusement, dans les temps à venir, des États-Unis.<br/>Enfin, ces technologies nous exposent à un risque politique, dans la mesure où elles permettent une forme de maîtrise ou de tentative de maîtrise du débat public. J’évoquerai un exemple dont nous parlons dans le rapport. Vous avez tous en tête l’affaire Cambridge Analytica et les outils qui avaient été développés par la société en question, en lien avec les services russes à l’époque, pour essayer d’influencer l’élection américaine de 2016. Aujourd’hui, des robots peuvent être employés pour influencer le vote de millions d’électeurs potentiels pour une somme quasiment nulle, ou en tout cas dérisoire.<br/>Pour vous donner une idée, un robot à qui vous donnez un ordre – un script ou, dans nos jargons, un prompt – pour essayer d’influencer une élection va développer toute une stratégie sans aucune intervention humaine, en répondant aux questions des personnes qui l’interrogent sur les réseaux sociaux, pour la somme de 400 dollars par mois. Alors qu’il fallait quelques centaines de milliers, voire plusieurs millions pour faire fonctionner une officine comme la fameuse ferme à trolls de Prigojine en Russie, on est désormais capable de faire la même chose de manière quasiment automatique, sans l’intervention d’aucune personne.<br/>Cet exemple illustre bien le risque auquel nous sommes confrontés. Aussi affirmons-nous dans notre rapport que si nous ne déployons pas une stratégie industrielle – une politique industrielle – à même de faire en sorte que l’Europe ne soit pas uniquement consommatrice en la matière, mais soit capable de développer ses propres technologies, voire de les exporter, aucune mesure de régulation ne tiendra. Nos États et nos systèmes, devenus des proies faciles pour les cyberattaquants, d’où qu’ils viennent, seront affaiblis depuis l’extérieur.<br/>Nous devons donc à tout prix en finir avec la « naïveté » – pour reprendre le terme qu’employait Thierry Breton – qui a marqué l’action européenne dans ces domaines, et passer à une autre étape. Le rapport Draghi préconise 800 milliards d’investissements annuels – et non 800 milliards en tout, comme dans le cas du plan de défense européenne annoncé ce matin par Ursula von der Leyen –, donc une remise à niveau massive au moyen d’un investissement inédit à l’échelle européenne, en indiquant que si nous ne le faisons pas, c’est l’agonie qui se profile pour l’ensemble des pays de l’Union.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2627643" ordre_absolu_seance="20" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3646542" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1316.40">La parole est à M. Jean-Marie Cavada, président de l’Institut des droits fondamentaux numériques.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2627644" ordre_absolu_seance="21" id_acteur="PA-125919" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3646543" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Marie Cavada</nom>
+            <id>-125919</id>
+            <qualite>président de l’Institut des droits fondamentaux numériques</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1502.84">Tout d’abord, merci de la curiosité qui vous amène à faire de la place pour vous occuper d’un sujet tout à fait fondamental. C’est le sujet primordial pour qui s’intéresse à notre survie, si l’on considère que les Français sont des Européens, que sans l’Europe la France n’est pas la France, et que nous sommes en voie de vassalisation.<br/>Si le calendrier avait été différent et si j’étais venu il y a quelques semaines, j’aurais évoqué des initiatives européennes que je qualifierais de « molles », c’est-à-dire, en grande partie, des mesures de régulation. J’en ai fabriqué moi-même, en tant que député européen, pendant trois mandats et quinze ans : la régulation était nécessaire et visait au partage de la richesse. Mais ce n’est pas ce dont je suis venu parler ce soir, pour compléter les propos de mon ami Bernard Benhamou ; je suis venu formuler une autre idée. Les Européens vivent sur un continent assez singulier, qui a appris, à la suite de trois guerres en soixante-dix ans, à construire des systèmes de paix qui, jusqu’à présent, n’ont jamais été égalés – quatre-vingts ans de paix durant lesquels l’Union européenne a pu développer un système de valeurs conforme à sa culture et à la diversité des nations qui la composent, mais aussi empreint de l’idée mentionnée par M. Benhamou tout à l’heure, selon laquelle les Européens doivent être souverains chez eux.<br/>Mais en m’adressant à vous, qui avez entre vos mains la responsabilité nationale, il me faut aller bien plus loin. Je lis beaucoup de livres d’histoire et je ne peux m’empêcher de penser que si l’histoire ne se répète jamais exactement, la phrase d’Elie Wiesel s’impose absolument : « [les peuples] qui ne connaissent pas leur histoire s’exposent à ce qu’elle recommence ». Cette phrase est plus importante et plus d’actualité que jamais.<br/>En effet, ce dont nous parlons – l’intelligence artificielle et plus globalement l’ensemble des industries numériques – pose aux Européens plusieurs questions assez simples. Vous êtes chargés de la grandeur, de l’autonomie et de la défense de ce pays, puisque vous avez la tâche d’écrire les lois qui sont nécessaires non seulement pour réguler – nous savons à peu près le faire –, mais aussi pour développer ces outils ; or nous avons évidemment pris beaucoup de retard en la matière.<br/>Ces questions sont les suivantes. Premièrement, l’IA est-elle un outil au service de l’humain, ou bien finira-t-elle, pour la première fois dans l’histoire de l’humanité, par asservir les humains – en l’occurrence, les Européens – à sa technologie ? Deuxièmement, l’IA veillera-t-elle à respecter les libertés qui ont construit nos démocraties continentales en Europe, ou créera-t-elle, notamment sur la base des monopoles aujourd’hui américains, en attendant les Chinois, les Indiens et peut-être d’autres, des puissances financières si considérables que même les États seront obligés de s’y plier ou de négocier avec elles ? La question n’est pas tout à fait absurde ni indifférente, car vous conviendrez que nous sommes déjà un peu engagés sur ce chemin dangereux.<br/>L’IA affecte les individus et les groupes d’individus qu’on appelle communément les sociétés. Elle a un impact très fort sur les institutions, traitant presque d’égal à égal avec certains États, contestant les lois non seulement des États, mais aussi des groupes d’États, c’est-à-dire, en l’espèce, de l’Union européenne. On entend à longueur de journée les déclarations des nouveaux dirigeants américains, qui disent qu’il n’est pas question d’accepter le DSA – Digital Services Act, règlement européen sur les services numériques – ni le DMA – Digital Markets Act, règlement européen sur les marchés numériques. Ces textes ont certainement des défauts : aucune loi n’est parfaite, nous sommes tous bien placés pour le savoir, et c’est un exercice difficile que de viser juste en légiférant, d’autant plus que la loi ne peut que courir après la technologie – elle a du mal à la devancer et ce n’est d’ailleurs pas vraiment son rôle.<br/>Il faut ajouter à ces trois ensembles – individus, sociétés et institutions – la stabilité économique, monétaire et financière, dont le nouveau président américain semble vouloir s’occuper au profit unique des États-Unis, dans une position d’équilibriste qui me fait un peu peur. Ira-t-il jusqu’à remettre en cause, par l’intermédiaire de l’IA, le système de Bretton Woods ?<br/>Pour l’instant, les choses sont assez simples. Le grand coup de balai que l’administration américaine est en train de donner fait un grand vainqueur, M. Musk ; il sera suivi par la cohorte des gens qui sont allés se prosterner à Mar-a-Lago, comme c’est le cas à chaque changement de gouvernement. C’est donc avec une certaine sévérité que je n’hésite pas à parler d’une duplication de la conférence de Wannsee – je le dis à l’intention des gens qui aiment l’histoire.<br/>La puissance américaine va certainement déréguler massivement et va très probablement s’attaquer au système financier mondial – puisque ce dernier est d’abord américain –, mais dans quelle mesure son action va-t-elle nous atteindre ? Comment pourrons-nous réagir ? Quelles seront les conséquences pour nous ?<br/>J’évoquais ce système formé par les individus, par les groupes d’individus qu’on appelle les sociétés, et par les institutions qui, en ce qui nous concerne, ont tout de même apporté quatre-vingts ans de paix à notre continent, ainsi qu’une certaine prospérité jamais atteinte auparavant – même si tout le monde n’en bénéficie pas de façon égale car le monde, qui n’est ni juste ni gentil, est un puissant rapport de force. Dans ce cadre, je veux affirmer haut et fort devant vous, mesdames et messieurs les députés, ce qui est essentiel à mes yeux : nous devons à la fois développer l’industrie du numérique, car nous avons les cerveaux nécessaires mais nous manquons d’un élan financier, et maintenir l’IA à l’état d’outil au service de l’humain, et non l’inverse. Je n’ai pas envie de devenir le smartphone de mon smartphone.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627654" ordre_absolu_seance="31" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647479" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1909.60">Nous en venons aux questions.<br/>La parole est à M. Philippe Latombe.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627656" ordre_absolu_seance="33" id_acteur="PA721984" id_mandat="PM843536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647481" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Latombe (Dem)</nom>
+            <id>721984</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1936.71">Ma première question porte sur le modèle économique de l’IA. La guerre à laquelle se livrent les grands concepteurs de l’IA met en évidence l’affrontement entre deux modèles commerciaux : le modèle propriétaire, par exemple OpenAI, et celui de l’open source dont Meta, qui a conçu le modèle Llama, est une illustration, au même titre que DeepSeek, lancé tout récemment et, dans une moindre mesure, Mistral, qui est à la fois propriétaire et open source.<br/>Au passage, notons au sujet de DeepSeek que les États-Unis commencent à réfléchir à réserver la licence de l’Institut de technologie du Massachusetts (MIT) aux modèles open source américains, ce qui pose la question de la labellisation. Peut-être pourrez-vous y répondre.<br/>Pour permettre de conserver une capacité d’autonomie stratégique forte sur l’IA, pensez-vous que nous devrions, au niveau européen, promouvoir l’open source dans les actes d’implémentation de l’AI Act – le règlement européen sur l’IA –, puisque nous en attendons un bon nombre à la suite de cet accord ?<br/>Ma deuxième question concerne le rôle que peut jouer l’IA dans les ingérences étrangères. Des modèles très spécifiques ont été développés – je pense notamment à Grok, lancé par le propriétaire de X pour permettre à tous les utilisateurs de créer des contenus viraux. Quelles mesures devrions-nous prendre au niveau européen pour éviter les ingérences étrangères, qui ne se manifestent pas seulement au moment des élections, comme cela s’est vu en Moldavie ou en Roumanie, mais de manière permanente, à l’américaine, modifiant considérablement le fonctionnement d’une société ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627660" ordre_absolu_seance="37" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647485" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1965.89">La parole est à M. Bernard Benhamou.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627661" ordre_absolu_seance="38" id_acteur="PA-125909" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647486" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bernard Benhamou</nom>
+            <id>-125909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2040.31">Bien évidemment, l’open source est à la base des plus grands succès des technologies internet. L’open source n’est pas contradictoire avec le développement économique et contrairement à ce que beaucoup pensent, les grands acteurs américains utilisent régulièrement ce modèle. Vous citiez Llama, qui est issu du groupe Meta de Facebook, mais c’est vrai aussi de Google, qui propose de nombreuses stratégies utilisant ou intégrant l’open source.<br/>L’Europe aurait-elle intérêt à utiliser ce levier ? Oui. Cela pourrait-il nous aider à développer de grands acteurs ? En partie, oui. Vous évoquiez les différents modèles économiques et les conflits internes qui pouvaient émerger au sein de sociétés, comme cela s’est vu chez OpenAI, entre les tenants du profit, du non-profit, de l’open source ou du modèle propriétaire. Je pense qu’en l’espèce, il n’y a pas de vérité absolue. Cela ne pourra pas être tout l’un ou tout l’autre. Vous citiez des modèles pour illustrer le fait que nous sommes plutôt dans une logique de fermeture, du fait de la multiplication des licences, ce qui pourrait poser problème. Rappelons cependant que DeepSteek, que vous avez mentionné, est davantage considéré par les analystes comme un succès de communication que comme une percée technologique majeure. Les Chinois ont remarquablement analysé les technologies existantes, comme ils le font souvent, avant de développer la leur par « distillation » – n’y voyez pas d’allusion vinicole, c’est simplement le terme que nous employons dans notre jargon pour décrire ce processus par lequel les Chinois utilisent les autres systèmes pour développer le leur.<br/>L’open source est essentiel d’un point de vue économique, comme d’un point de vue de souveraineté et de pérennité, y compris et en particulier pour le secteur public. Cela fait vingt ans que je le dis : c’est un élément stratégique. Faut-il pour autant privilégier ce seul modèle ? Je ne le pense pas. Comme le dirait mon grand ami et professeur Lawrence Lessig, il nous faut concevoir que l’IA, ce n’est pas seulement du code, mais aussi beaucoup de données. Les IA les plus pointues, qui peuvent aider à créer des armes ou des systèmes qui pourraient se révéler dangereux à l’échelle d’une société, devront être contrôlées autrement que par des licences traditionnelles. Nous devons entrer dans une logique d’analyse pragmatique des systèmes technologiques. Une légende veut que l’open source soit alimenté par des personnes qui veulent bien y travailler gratuitement sur leur temps libre. Ce n’est pas vrai : beaucoup de grands projets open source à envergure mondiale ont été développés dans le cadre de grandes sociétés. Nous devons aussi financer des projets qui développeront des volets dans ces domaines, et qui seront librement accessibles, amendables, modifiables, par une communauté. N’allons pas croire que parce que c’est petit, c’est bien. Notre objectif doit aussi être de créer des géants, des sociétés qui peuvent rivaliser avec leurs adversaires américains et chinois. Nous en sommes très loin. Mario Draghi le rappelait : seules quatre des cinquante premières entreprises technologiques mondiales sont européennes. Ce n’est pas normal.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627664" ordre_absolu_seance="41" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647489" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2260.42">La parole est à M. Jean-Paul Lecoq.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627665" ordre_absolu_seance="42" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647490" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq (GDR)</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2274.28">C’est un sujet compliqué, même s’il est de plus en plus vulgarisé. L’intelligence artificielle est au cœur de tous les débats contemporains, de l’éducation à la santé, en passant par la finance, la création artistique ou la grande distribution. Cette technologie promet une nouvelle époque – certains la disent dramatique, d’autres l’espèrent heureuse –, un temps nouveau marqué par le progrès technique, dont Aristote disait, si je me souviens bien, qu’il ne vaut que s’il est partagé par tous, l’automatisation ou la simplification des tâches et des processus. Si elle nous est présentée comme un instrument d’émancipation – ce que vous avez su nuancer –, l’intelligence artificielle sera plus probablement employée comme une arme des grandes puissances impériales, qu’elles soient étatiques ou financières. Et vous avez raison de dire, monsieur Cavada, que cela a déjà commencé, sur le plan financier. Il est fort possible que les États soient très vite dépassés.<br/>Nous le savons, à travers OpenAI et DeepSeek, ce sont les États-Unis d’Amérique et la République populaire de Chine qui s’affrontent dans une nouvelle course technologique qui devient forcément, dans le contexte de tensions bellicistes croissantes, une course à l’armement.<br/>Des sociétés comme OpenAI ou Google participent en effet au développement de l’intelligence artificielle à des fins militaires. Selon les révélations du<italique> Washington Post </italique>ou du<italique> Guardian,</italique> les outils d’intelligence artificielle de Google ou Microsoft auraient été utilisés par l’armée israélienne lors de ses opérations dans la bande de Gaza depuis 2023.<br/>En France, le ministre des armées a annoncé le 19 janvier dernier un accord entre l’agence ministérielle pour l’intelligence artificielle de défense et la start-up Mistral AI. Dans ce contexte de fuite en avant du complexe militaro-industriel, quels sont, selon vous, les garanties éthiques et les garde-fous déployés aujourd’hui par les principaux acteurs de l’intelligence artificielle et les États afin d’encadrer strictement, si tant est que ce soit possible, l’utilisation de cette technologie dans le domaine militaire et de défense ? Vous avez parlé des questions électorales ; nous restons sensibles, pour ce qui nous concerne, à la maîtrise absolue de l’arme nucléaire. Plus l’intelligence artificielle se rapprochera de cette arme de dissuasion, plus cette dernière pourra être remise en cause et plus il apparaîtra nécessaire de nous en séparer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627669" ordre_absolu_seance="46" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647494" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2447.37">La parole est à M. Jean-Marie Cavada.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627670" ordre_absolu_seance="47" id_acteur="PA-125919" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647495" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Marie Cavada</nom>
+            <id>-125919</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2453.87">Votre question est spectrale. C’est celle qui se pose actuellement au sujet des avancées technologiques appliquées aux instruments de défense. La difficulté de contrôler est une réalité, car ces technologies sont développées dans le secret. Les expérimentations ne sont pas uniquement menées chez les développeurs, mais aussi concrètement, sur le terrain, comme en témoigne l’exemple de Gaza. Il y aurait sans doute un peu à dire également à propos de l’Ukraine. Bref, on voit bien que l’on navigue dans un domaine mystérieux et d’avant-garde.<br/>Les Européens sont très en retard – les Français un peu moins que d’autres, cependant – dans le développement de ces technologies d’avenir et ce qui me frappe, c’est qu’elles se développent hors de tout contrôle réel. Je vais vous dire une chose que vous prendrez soin d’oublier dès que vous aurez franchi la porte de cette salle : il n’y a guère d’autre issue pour tenir un raisonnement de très bon niveau que de proposer, au sein de cette assemblée, la création d’une commission indépendante qui s’occupe du numérique dans tous ses secteurs transversaux, y compris le domaine militaire. Nous en sommes très loin. Les parlements sont très sous-équipés. Le numérique, l’intelligence artificielle, vont si vite qu’à peine avons-nous commencé à ébaucher les contours d’une loi qu’elle est déjà dépassée. D’autre part, le contrôle qui pourrait s’exercer est si lointain, si difficile à mener, que ces technologies échappent largement à la loi. C’est aussi ce qui explique la multiplication des contestations.<br/>Je vous invite instamment à créer une commission de ce type. J’avais déjà soulevé ce sujet au Parlement européen en 2018 et 2019, à la fin de mon troisième et dernier mandat. Cette commission aux compétences transversales aurait de larges pouvoirs. Ce n’est sans doute pas le lieu pour le dire, à moins que vous ne fassiez vôtre cette remarque, mais ce n’est pas médire de qui que ce soit que de considérer qu’un secrétariat d’État au numérique est charmant, mais très insuffisant.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627673" ordre_absolu_seance="50" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647498" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2642.39">La parole est à Mme Céline Calvez.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627674" ordre_absolu_seance="51" id_acteur="PA721750" id_mandat="PM843647" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647499" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Céline Calvez (EPR)</nom>
+            <id>721750</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2665.67">Alors que la France a lancé dès 2018 une stratégie nationale pour l’IA, que nous avons renforcée par un investissement au titre du plan France 2030, le récent rapport Draghi rappelle la nécessité de s’engager davantage dans l’intelligence artificielle afin de combler un retard parfois inexplicable de l’Europe.<br/>Le sommet international pour l’action sur l’intelligence artificielle s’est tenu à Paris les 10 et 11 février. Qu’en avez-vous retenu ? L’IA ne doit pas être seulement perçue comme une menace. Elle est aussi une formidable possibilité pour notre société. Elle est omniprésente, sans même que l’on s’en rende compte ; elle révolutionne de nombreux secteurs, de la santé à l’industrie, en passant par la culture ou la défense. Bref, elle est l’affaire de tous. Comment démocratiser davantage l’IA auprès de tous les Français, de tous les Européens, afin de déconstruire certaines idées et que chacun puisse s’en saisir ? Ce serait aussi une manière de la réguler que d’y rendre attentif chacun d’entre nous.<br/>L’IA offre un potentiel exceptionnel, mais ne soyons pas naïfs : nous avons besoin d’une réglementation. Vous avez mentionné le règlement européen sur l’IA ; on parle d’interdire, de renforcer la transparence. Comment aller encore plus loin, surtout à l’heure où nous devons relever le défi de la gouvernance de l’IA ? Le sommet de Paris l’a souligné et nous avons été témoins, ces derniers jours, de divergences entre les nations à ce sujet. Comment établir une régulation efficace et équilibrée de l’IA au niveau international ?<br/>Il y a quelques jours, au Royaume-Uni, des artistes ont exprimé leur inquiétude à la suite d’un projet de réforme du droit d’auteur : le gouvernement britannique envisage de généraliser un dispositif d’<italique>opt-out</italique>, ce qui revient à mettre les contenus et les œuvres à la disposition de tous les systèmes d’IA. Monsieur Cavada, vous avez travaillé sur les droits d’auteur et la propriété intellectuelle. Comment concilier le juste partage de la valeur et la dynamique d’innovation ? Comment garantir que les données françaises et européennes puissent nourrir ces IA, qu’elles ne soient pas mises de côté, mais reconnues dans leur rôle de socle ?</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Jean-Marie Cavada" id_acteur="PA-125919" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2627677" ordre_absolu_seance="55" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="-1" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="3647732" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2781.66">La parole est à M. Jean-Marie Cavada.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627757" ordre_absolu_seance="56" id_acteur="PA-125919" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647706" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Marie Cavada</nom>
+              <id>-125919</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2811.61">Je répondrai à une partie de la question, puisque vous m’y incitez vous-même. Je suis désolé de dire ces choses, mais elles sont réelles : depuis de longues années, l’Europe vit sous une sorte de propagande émanant d’institutions américaines qui ont dépensé beaucoup d’argent, notamment à Bruxelles, mais aussi à Paris et dans les autres pays de l’Union européenne. Aux yeux des grands monopoles, les pays européens apparaissaient en effet dangereux : d’une part, ils souhaitaient partager les richesses ; d’autre part, leurs lois étaient susceptibles de donner des idées à l’Australie, au Canada et à quelques autres pays. Il a fallu de lourdes batailles, pas toutes menées de manière civilisée, pour essayer d’obtenir une régulation.<br/>La régulation est-elle l’ennemie de l’innovation ? C’est une grave sottise que de le penser. Cette idée relève de la pure propagande ! Si la régulation était l’ennemie de l’innovation, il n’y aurait pas d’industrie automobile, puisqu’il existe un code de la route depuis au moins cent ans ! Si la régulation aérienne empêchait l’innovation et le développement, Airbus et les autres entreprises aériennes n’existeraient pas !<br/>Reste à savoir où placer le curseur entre la régulation – qui dit dans quelle direction les outils doivent être utilisés – et les normes technocratiques, parfois trop abondantes. Vous le savez mieux que moi, l’abondance technocratique n’est due qu’à l’insuffisance politique de l’Europe. Depuis 1995 ou 2000, l’Europe n’a plus le gouvernement politique et le soutien politique dont elle disposait lorsque Jacques Delors était soutenu par le chancelier Kohl et par le président français. Cela donnait une envergure à l’action politique européenne : elle pouvait émettre de bonnes et justes régulations, pas trop nombreuses.<br/>Le partage de la richesse n’existe toujours pas. Si l’on inclut tous les métiers, de la création aux agences et annonceurs, 70 % de la publicité est entre les mains de deux compagnies qui, pour reprendre les mots utilisés il y a cent vingt ans par le sénateur Sherman, ne sont certainement pas des amis de la démocratie, car ce sont des monopoles : Google et Meta.<br/>Il faut dire ces choses, car l’IA va accélérer la dégradation de la situation de la presse, déjà mauvaise. C’est la raison pour laquelle nous avons créé la Société des droits voisins de la presse (DVP), préconisant la gestion collective pour défendre les entreprises de presse, notamment face à l’IA – qui va nous poser de graves problèmes –, en organisant le partage de la richesse. En effet, il n’y a d’information que vérifiée ; c’est un métier ! De même que quand je suis malade, je vais voir un médecin et non un garagiste, pour savoir, je m’adresse à des entreprises qui paient les journalistes de manière à disposer d’informations contrôlées. Je suis à votre disposition pour approfondir le sujet dans une autre enceinte.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627762" ordre_absolu_seance="61" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647711" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3010.76">En journalisme aussi, vous vous y connaissez un peu, n’est-ce pas ? <italique>(Sourires)</italique> Monsieur Benhamou, souhaitez-vous compléter ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627763" ordre_absolu_seance="62" id_acteur="PA-125909" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647712" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bernard Benhamou</nom>
+            <id>-125909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3021.09">Vous avez évoqué les données européennes, dont j’ai parlé dans mon introduction. Elles ne seront pas mises de côté. Ce sont les principes et les valeurs européennes qui risquent de l’être ! Nos données sont déjà hautement convoitées et font l’objet de traitement par les <italique>data brokers</italique> – vous excuserez l’anglicisme – ou courtiers en données, métier peu connu du grand public. Un journal – anciennement du soir et désormais du matin – s’en faisait d’ailleurs l’écho il y a quelques jours. Ce métier est totalement opaque et sa pratique contredit la plupart du temps nos principes de protection des données personnelles.<br/>Le vrai problème est ce qu’on appelle l’alignement, selon le terme utilisé par les spécialistes de l’IA : il s’agit de faire en sorte que l’IA corresponde à nos principes et valeurs, lesquels diffèrent de ceux des Américains et de ceux de nos interlocuteurs chinois.<br/>L’important, ce sont moins les données d’entraînement que la manière dont on choisira de les mettre en musique dans le cadre de ces modèles de langage. Pour ce faire, il nous faut des acteurs de taille suffisante, autonomes dans leur financement. En effet, une entreprise née d’un pacte d’actionnaires massivement financé par des entreprises américaines peut se voir imposer sa délocalisation aux États-Unis à tout moment !<br/>Il ne suffit pas d’avoir des cerveaux capables de développer ces technologies ; il faut aussi des investissements, d’où l’importance des rapports Draghi et Letta, et surtout du premier relatif aux niveaux d’investissement. Si nous n’investissons pas suffisamment, nos entreprises, aussi brillantes qu’elles soient, seront rachetées et délocalisées, ou les deux. Nos deux ressources essentielles sont d’abord nos données, notre histoire, notre patrimoine informationnel, ensuite nos cerveaux, formés dans nos grandes écoles ou dans l’ensemble de notre système éducatif, qui sont hautement valorisables et utilisables dans la Silicon Valley, ou parfois en Chine.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627767" ordre_absolu_seance="66" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647716" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3039.11">La parole est à M. René Pilato.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627768" ordre_absolu_seance="67" id_acteur="PA817211" id_mandat="PM842600" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647717" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. René Pilato (LFI-NFP)</nom>
+            <id>817211</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3152.08">La brochure relative à l’Institut national pour l’évaluation et la sécurité de l’intelligence artificielle (Inesia) explique qu’une de ses missions est d’identifier les risques jugés systémiques, dont la désinformation de masse. En février 2025, le journal <italique>Libération</italique> révèle que, dans le cadre de la croisade idéologique qu’il a entreprise, Donald Trump signe des décrets entraînant la disparition de milliers de pages internet consacrées aux politiques d’égalité. Avec ces décrets, l’Agence nationale de sécurité (NSA) a lancé, sous la supervision d’Elon Musk, une opération massive de destruction de contenus internet, baptisée « big delete », la grande suppression. Cette opération d’effacement informatique concerne les contenus liés à vingt-huit mots-clés tels que antiracisme, féminisme, inclusion, sexualité. Pour la Fondation nationale de la science (NSF), pendant scientifique de la NSA, 120 mots-clés sont concernés : changement climatique, émission de gaz à effet de serre, socio-économique, etc… Des milliers de pages de sites des ministères de l’éducation, de la santé, du travail ou de l’agriculture ont été remplacées par une seule phrase : « Page inexistante. Erreur 404 ».<br/>Des archivistes du numérique sont entrés en résistance pour tenter de préserver les sites de cette purge sans précédent, mais un décret trumpiste prévoit l’utilisation de l’IA pour détecter et supprimer des contenus. Le problème est aigu, car face à la puissance de l’IA, les moyens humains sont dérisoires. Avec l’IA, effacer cinq cents ans d’émancipation en cinq minutes est possible !<br/>Brûler des pages web par dogmatisme, comme jadis des livres, constitue un autodafé numérique initié par Donald Trump et Elon Musk. Cette nouvelle inquisition cybernétique me conduit à vous poser deux questions. La première concerne la gouvernance : selon vous, qui peut décider de la censure ? La seconde question est culturelle, donc existentielle : quels garde-fous sont prévus, ou possibles, pour qu’une grande suppression ne puisse advenir en France ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627771" ordre_absolu_seance="70" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647720" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3167.76">La parole est à M. Jean-Marie Cavada.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627772" ordre_absolu_seance="71" id_acteur="PA-125919" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647721" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Marie Cavada</nom>
+            <id>-125919</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3276.94">Je vous remercie pour votre description des choses. En réalité, vous auriez presque pu remonter davantage dans le passé. Ce qui se produit depuis quelques semaines n’est que l’aboutissement de ce qui a constitué à mes yeux un scandale humain : le vote de la section 230 sous la présidence Clinton. Ce texte dispose que le transporteur de messages, quel qu’il soit, n’est pas responsable des contenus transportés. C’est terrible ! Imaginez ce qu’aurait été la presse après la seconde guerre mondiale sous l’empire d’une loi assurant l’immunité aux propriétaires de journaux ! Cette loi Clinton de 1996 a une valeur militaire du fait de l’extraterritorialité du droit américain : elle couvre donc le monde entier !<br/>La grande différence entre ceux qui invoquent la liberté d’expression, c’est-à-dire qui défendent le droit à dire tout et son contraire, et ceux qui fabriquent de l’information, c’est que les éditeurs d’information sont juridiquement – y compris pénalement – et financièrement responsables s’ils nuisent à autrui. La liberté d’expression ne peut exister que dans le cadre de la responsabilité d’expression. Il n’y a pas de liberté sans responsabilité, vous êtes mieux placés que moi pour le savoir. Il faut qu’un texte dise que l’on ne peut piétiner la liberté du voisin.<br/>Les problèmes que vous soulevez proviennent de la distorsion qui s’est produite aux États-Unis en 1996 lorsqu’il a été décidé que le transporteur de messages pourrait tout diffuser sans encourir de responsabilité. Quel était le but ? Le premier, que j’ose à peine évoquer tant il est dégradant, était de permettre aux démocrates, et notamment à M. Clinton, de rembourser la Silicon Valley qui avait financé sa campagne électorale.<br/>Il s’agissait aussi de construire des monopoles à l’échelle du monde, appliquant les principes décidés par le Congrès américain à Washington. C’est ce que nous vivons ! Ajoutez-y l’accélération due à l’intelligence artificielle, et vous voyez l’ampleur des dégâts, notamment dans les domaines de la propriété intellectuelle, des droits d’auteur et de la propriété industrielle évoqués par Mme Calvez. Nous ignorons ce que tout cela va devenir d’ici un an ou deux et nous devons nous organiser pour avoir du poids et négocier quelque chose de sérieux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627776" ordre_absolu_seance="75" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647725" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3389.06">La parole est à M. Erwan Balanant.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627777" ordre_absolu_seance="76" id_acteur="PA719558" id_mandat="PM842663" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647726" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Erwan Balanant (Dem)</nom>
+            <id>719558</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3476.68">Vos propos fournissent une excellente transition pour ma question. L’IA, ce sont des algorithmes et des données, vous l’avez dit. Depuis la naissance de l’IA générative, nous avons assisté à une sorte de moisson ou de pillage organisé de nos données, dont la plupart relevaient du droit d’auteur. Celui-ci est composé de deux types de droits : le droit moral et les droits patrimoniaux.<br/>Les plateformes ont pillé sans autorisation le droit moral d’à peu près tous les auteurs de la planète ; maintenant, elles vont valoriser ces données et piller ainsi les droits patrimoniaux des auteurs. Ma collègue Céline Calvez a souligné qu’il s’agissait là d’un sujet majeur. Comment organiser une juste répartition de la valeur ainsi générée ? Le débat que nous venons d’avoir démontre que les valeurs et les principes des grands oligopoles ne sont pas ceux en vigueur en Europe. Une illustration en a été fournie il y a quinze jours à Munich lorsque M. Vance a attaqué notre modèle de façon frontale. Cela rebondit avec le basculement géopolitique actuel, qui pose un certain nombre de problèmes. De manière cocasse, l’entreprise OpenAI a brusquement découvert les vertus de la propriété intellectuelle après s’être fait « piller » par DeepSeek.<br/>Comment pouvons-nous placer le droit d’auteur, sujet fondamental pour nous, au même niveau que le droit au secret des sources et le droit du commerce qui nous sont systématiquement opposés ? Il n’y a pas de hiérarchie entre le droit du commerce et le droit d’auteur. Comment réguler cette question, sans doute à l’échelle européenne ?</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Bernard Benhamou" id_acteur="PA-125909" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627779" ordre_absolu_seance="79" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="-1" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="3647818" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3557.07">La parole est à M. Bernard Benhamou.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2627780" ordre_absolu_seance="80" id_acteur="PA-125909" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647729" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bernard Benhamou</nom>
+              <id>-125909</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3638.95">Je commencerai à répondre avant de laisser M. Cavada, qui est un expert beaucoup plus pointu que moi sur les questions de propriété intellectuelle, compléter mes propos.<br/>Je vous rejoins tout à fait : le pillage est l’ADN même de certaines sociétés. À cet égard, je vous invite à écouter l’ancien patron de Google, Éric Schmidt. S’adressant aux étudiants de Stanford, il leur a dit : pillez tout, et si vous avez des problèmes, vos avocats les régleront. Il s’agit d’une logique institutionnalisée de pillage, sachant que la propriété intellectuelle, inventée en Europe, en grande partie par les Français, est étrangère aux Américains sur beaucoup d’aspects – à l’exclusion de la protection du copyright, sur laquelle je reviendrai.<br/>Je laisserai M. Cavada répondre au sujet de la gouvernance. Autre point important : il ne faut pas considérer la censure uniquement au regard du contenu.<br/>Des personnes comme Elon Musk – citons un exemple concret – procèdent à la modification d’algorithmes au niveau des systèmes d’IA des grandes plateformes pour amplifier les contenus. Ce qui est dangereux, plus encore que les contenus préjudiciables, c’est le fait que des plateformes – qu’elles s’appellent TikTok, X ou Instagram – s’arrogent le droit d’amplifier, grâce à des facteurs inconnus, parfois supérieurs à 1 000, certains contenus. Ainsi, le fil d’Elon Musk est quasiment inévitable dès lors que vous vous connectez à son réseau : tout utilisateur de X sera forcément soumis, à un moment, au feu roulant des opinions, parfois les plus échevelées, de son patron. Il faut donc bien comprendre que le danger réside autant dans la maîtrise des algorithmes d’amplification que dans les données qui les alimentent.<br/>Pour revenir à votre question, les données personnelles et celles qui relèvent de la propriété intellectuelle sont des vecteurs sur lesquels nous devons garder un contrôle au travers des différents textes qui existent. Daron Acemoglu, prix Nobel d’économie 2024 et professeur au MIT – donc pas un technophobe –, estime qu’une régulation de l’IA est nécessaire : il préfère que dans cinquante ans, ses petits-enfants lui demandent pourquoi il a fallu prendre un peu de temps pour développer certains systèmes plutôt que d’aller trop vite et de risquer de détruire la démocratie au passage.<br/>Ces systèmes, dont vous êtes les gardiens en tant que protecteurs de la démocratie, devront rester sous l’?il vigilant des citoyens, de leurs représentants et d’experts – on parle de « transparence qualifiée » – pour éviter qu’ils ne dérivent.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627721" ordre_absolu_seance="86" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647823" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3692.06">La parole est à M. Jean-Marie Cavada.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627722" ordre_absolu_seance="87" id_acteur="PA-125919" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647824" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Marie Cavada</nom>
+            <id>-125919</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3821.76">Vous avez déjà très bien rappelé les enjeux dans votre question. Le droit d’auteur a toujours été un peu considéré en Europe comme une manie française. Quand je suis arrivé au Parlement européen et que j’ai commencé à me pencher sur ces questions, on se moquait de ma prétendue obsession pour l’exception culturelle, ce qui m’agaçait beaucoup.<br/>Avec quelques amis, nous avons donc eu l’idée de mesurer ce que représentait économiquement le droit d’auteur en Europe. Afin que nul ne doute de la sincérité des résultats, nous avons fait appel au cabinet Ernst &amp; Young, lequel a publié en 2014 un rapport qui indique que le montant oscille entre 400 et 530 milliards d’euros annuels, toutes disciplines confondues. Le chiffre englobe donc aussi bien, par exemple, les droits que déclare à la Sacem – la Société des auteurs, compositeurs et éditeurs de musique – le joueur d’accordéon dans un bistrot que ceux des pièces de théâtre, des livres ou des productions du secteur audiovisuel – une industrie pour laquelle les Américains, notamment ceux qui travaillent dans les grands studios, ont les yeux de Chimène.<br/>Dès lors, le débat a changé de nature et j’ai pu faire avancer les lois relatives aux droits d’auteur et aux droits voisins auxquelles vous avez fait allusion.<br/>Les nouvelles technologies ont beaucoup volé les auteurs, il faut le dire – on a du mal à nommer les choses, mais si on ne le fait pas, on nie la gravité de l’acte. C’est le seul secteur commercial au monde dans lequel un vol peut être commis sans que rien ne se passe ensuite. Si je vends sur un étal des oranges que je n’ai pas produites, je suis obligé de payer mon fournisseur sous peine d’être convoqué au tribunal et condamné. Car, vous le savez comme moi, le vol n’est pas toléré – eh bien, dans les métiers de l’audiovisuel, il l’est.<br/>Il a fallu plus de dix ans pour aboutir à un premier cadre de régulation qui a déclenché les hourvaris de certains opposants, capables de dépenser 80 à 100 millions d’euros chaque année à Bruxelles pour contrer nos projets d’organisation – je le dis car il faut que ce soit su.<br/>Il faudra probablement passer à un autre système, car le système actuel risque de périr. Mais auparavant, c’est l’accès à l’information qui périra. Il faut savoir qu’au Canada, près de 400 titres locaux ou régionaux ont mis la clé sous la porte parce que la publicité a préféré se tourner vers les deux grands déjà cités, Google et Meta. De même, en Australie, des télévisions locales ont fermé faute de recettes.<br/>Certes, les torts ne sont pas tous du même côté. Il faut reconnaître que nous nous sommes adaptés trop tardivement à ce nouveau contexte. Nous avons aussi laissé penser, notamment en Europe, que l’information numérique pouvait être gratuite, ce qui n’était certainement pas une idée formidable. Comment justifier que si l’on se rend dans un kiosque, on paie le journal, mais que si on allume son ordinateur, on consomme une information gratuite ?<br/>Le problème important que vous soulevez avec votre question, c’est celui du maintien d’un partage de la valeur.<br/>En conclusion, ceux qui se battent pour une doctrine respectueuse des valeurs européennes – en l’occurrence, la qualité de l’information – sont souvent caricaturés, qualifiés de rétrogrades. Or il n’y a pas plus rétrograde que la violence.<br/>En réalité, ces batailles sont des batailles d’avant-garde, des batailles modernes. Nous ne souhaitons pourfendre ni l’IA ni le numérique, nous voulons simplement que les monopoles se plient aux règles des marchés qu’ils exploitent. Les dernières déclarations des autorités américaines prouvent que nous sommes loin du compte. Celles-ci ont en effet affirmé que le DMA, c’est-à-dire la police des marchés, et le DSA, celle des contenus, constituaient des freins et qu’elles ne les accepteraient pas. Nous entrons donc dans une vraie bataille du partage de la richesse.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627732" ordre_absolu_seance="97" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647834" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4116.91">Non seulement nous sommes loin de l’objectif que vous mentionnez, mais nous risquons même de nous en éloigner encore…<br/>La parole est à Mme Géraldine Bannier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627734" ordre_absolu_seance="99" id_acteur="PA720256" id_mandat="PM843041" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647836" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Géraldine Bannier (Dem)</nom>
+            <id>720256</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4131.06">Personne ne conteste le caractère révolutionnaire de l’IA dans certains domaines – je pense par exemple à la santé, puisqu’un collègue médecin est assis à côté de moi. Cependant, dans d’autres domaines, des problèmes se posent. Moi qui suis une littéraire – je fais partie de la commission des affaires culturelles et de l’éducation –, je me pose forcément des questions concernant le droit d’auteur, mais aussi la préservation du talent individuel.<br/>Samedi dernier, j’assistais à l’inauguration d’un moulin. Un homme est arrivé pour lire un poème – « de mon invention » a-t-il précisé. Après avoir lu ce formidable poème, il nous a révélé qu’il avait en réalité été généré par l’intelligence artificielle. Une personne peut donc réciter un poème qu’il n’a pas du tout écrit, mais qui a entièrement été conçu par une machine.<br/>On évoque actuellement la possibilité de recourir à un outil dit de filigrane qui permet de signaler un contenu créé par l’IA. C’est formidable, mais on peut aussi utiliser l’IA sans le dire.<br/>Une telle situation pose de nombreuses questions. Comment évaluer le talent littéraire ? Du point de vue de l’éducation, faut-il noter l’utilisation de l’outil ou continuer de noter uniquement ce qui a été conçu par le cerveau d’un individu ? L’IA est une révolution totale dans le domaine littéraire, mais elle suscite chez moi de nombreuses interrogations.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627738" ordre_absolu_seance="103" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647840" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4150.27">La parole est à M. Bernard Benhamou.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627739" ordre_absolu_seance="104" id_acteur="PA-125909" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647841" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bernard Benhamou</nom>
+            <id>-125909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4202.85">Pour avoir longtemps fréquenté le ministère de l’éducation nationale, puisque j’y ai accompagné plusieurs ministres, je peux dire que votre question est fondamentale. Quel sera l’impact éducatif, culturel et civilisationnel de l’IA ? Vous avez évoqué le cas d’un homme qui a déclamé des vers dont il n’était pas l’auteur, mais qui avaient été conçus par une intelligence artificielle.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627740" ordre_absolu_seance="105" id_acteur="PA720256" id_mandat="PM843041" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647842" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Géraldine Bannier</nom>
+            <id>720256</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4225.52">Je n’ai pas vérifié les alexandrins !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627741" ordre_absolu_seance="106" id_acteur="PA-125909" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647843" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bernard Benhamou</nom>
+            <id>-125909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4229.86">Le problème est que ces vers sont issus d’une création sans âme. On sait par ailleurs que les IA peuvent halluciner, c’est-à-dire inventer de l’information, ce qui pose un autre problème, et de taille. En effet, si les personnes se fient aux IA librement accessibles en pensant que, comme les moteurs de recherche, elles leur donneront accès à une information qu’elles estiment sûre, elles se trompent, car les IA peuvent, à intervalles réguliers, générer des informations fausses – et avec une grande autorité, une grande force. D’ailleurs, des avocats se sont laissés prendre, citant des décisions imaginaires issues de procès qui n’avaient jamais eu lieu – heureusement, ils ont parfois été sanctionnés.<br/>Un livre d’un chercheur américain vient d’être traduit en français sous le titre <italique>Génération anxieuse – </italique>un article lui a récemment été consacré dans la presse.<italique> </italique>L’auteur, Jonathan Haidt, explique que nous sommes en train de déstructurer tout le tissu de la transmission éducative aux enfants et de créer une génération anxieuse – d’où le titre. Lui-même recommande une plus grande sévérité s’agissant de l’accès aux écrans.<br/>Lorsque j’étais délégué aux usages de l’internet au ministère de la recherche et de l’enseignement supérieur, mon objectif était d’accompagner au mieux l’accès à ces nouvelles technologies. Force est cependant de constater que l’on est allé beaucoup trop loin en la matière. Des jeunes gens se retrouvent dans des situations effroyables, sans même parler de ceux qui tombent amoureux d’une IA – cela peut sembler étrange et même drôle, mais il faut savoir que certains se suicident parce qu’ils considèrent qu’ils ne reçoivent pas assez d’affection de la part de cette IA. En déléguant à l’IA la possibilité d’éduquer et de transmettre, nous nous retrouvons confrontés à des phénomènes totalement anormaux. C’est tout à fait inquiétant.<br/>Lorsque la télévision est apparue, on disait qu’elle était devenue la nounou la moins chère du monde. Puis c’est internet qui est devenu la solution de garde d’enfant la moins chère du monde. Bientôt, les IA pourraient devenir les substituts éducationnels voire parentaux les moins chers du monde. Cela doit nous interroger.<br/>Nous sommes, comme disaient certains, un vieux continent, mais nous restons attachés à certaines valeurs et estimons qu’il est temps de les transmettre. Nous devons d’ailleurs le faire aussi en utilisant les nouvelles technologies, et non en agissant contre elles, mais à un moment donné, il faut des contraintes.<br/>TikTok n’existe pas en Chine. Son équivalent, Douyin, est un autre service, essentiellement éducatif, dont l’usage par les jeunes est contrôlé et même corseté, puisqu’il est limité à quarante minutes par jour. Nous sommes donc consommateurs d’applications à un niveau massif que les Chinois ne veulent surtout pas pour eux-mêmes.<br/>Nous devrons donc nous interroger sur notre rapport à des acteurs existants, qui sont évidemment soucieux de se développer, mais aussi faire émerger des acteurs européens animés par les mêmes principes et valeurs que nous.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627748" ordre_absolu_seance="113" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647850" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4426.02">La parole est à M. Laurent Croizier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627749" ordre_absolu_seance="114" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647851" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier (Dem)</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4434.68">Personne n’échappera à l’IA, c’est une évidence. Personne n’échappera non plus à des IA reposant sur des modèles et valeurs différents des nôtres. Un des enjeux, vous l’avez dit, est de créer des modèles alternatifs européens. Ils doivent pouvoir émerger et être en mesure de concurrencer les IA américaines ou chinoises.<br/>Un des dangers, selon moi, réside dans le lien entre d’un côté, les outils proposés par les Gafam à leurs utilisateurs, qui sont déjà quasiment monopolistiques, et de l’autre, l’IA dont ils sont propriétaires. Google lie ainsi ses outils à Gemini. Il en va de même, dans certains pays, pour Apple avec Apple Intelligence. Je pourrais également citer le réseau X avec Grok.<br/>Ces outils deviennent ainsi infiniment plus puissants et encore plus monopolistiques, avec pour conséquence de tuer la concurrence et le pluralisme.<br/>En son temps, l’Europe avait obligé Microsoft à ne plus proposer son propre navigateur par défaut. N’est-il pas urgent de rendre obligatoire une pluralité des IA au sein de ces outils très populaires, de contraindre les Gafam à scinder leurs activités et de laisser la possibilité d’utiliser des IA externes, plus proches de nos valeurs ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627753" ordre_absolu_seance="118" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647855" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4461.62">La parole est à M. Bernard Benhamou.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2627754" ordre_absolu_seance="119" id_acteur="PA-125909" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647856" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bernard Benhamou</nom>
+            <id>-125909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4491.59">Je pourrais répondre très brièvement à votre question : oui. Je serai cependant un peu moins bref. Ce que vous décrivez porte le doux nom technocratique de séparation fonctionnelle – c’est l’expression qu’on employait à Bruxelles en d’autres temps.<br/>On a déjà imposé à Apple, s’agissant des applications, de s’ouvrir à la concurrence afin d’éviter d’aboutir à l’existence d’un seul marché, à une intégration verticale. Par conséquent, il faudra en arriver aux mesures que vous appelez de vos vœux. Certes, elles ne seront pas forcément suffisantes, mais il est en tout cas nécessaire de ne pas créer des marchés liés – c’est-à-dire une plateforme qui impose sa propre technologie. Les plateformes dont nous parlons se battront jusqu’à la mort, avec la dernière des énergies, pour que de telles mesures ne soient pas prises. Nous devrons prendre cette liberté dans leurs doigts mourants !<br/>Plus sérieusement, cet objectif sera nécessaire à l’avenir, mais comme vous l’avez dit, il faudra aussi développer nos propres acteurs. Car la régulation, ça ne suffit pas – je le sais pour avoir moi-même rédigé des textes de ce type, notamment européens et internationaux.<br/>Si nous ne sommes que défensifs et régulateurs, nous serons divisés, affaiblis et détruits. La désintégration européenne, qui paraissait une éventualité horrible et impossible à imaginer, est désormais une perspective politique que les acteurs économiques sont obligés d’inscrire dans leur schéma stratégique. Étant européen et fier de l’être, je crois que nous devons défendre cet objectif, qui n’est atteignable que si nous définissons une politique et une stratégie industrielles – termes longtemps galvaudés, mal utilisés et parfois méprisés – à l’instar des Américains et des Chinois.<br/>Je rappelle que DeepSeek, dont beaucoup d’entre vous ont parlé ce soir, a été massivement et secrètement subventionné par l’accès à de gigantesques ressources de calcul, ce qui ne figurait évidemment pas dans le budget affiché de 6 millions de dollars, en apparence si menu et si sympathique, mais en réalité totalement trompeur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2627698" ordre_absolu_seance="124" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647535" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4603.59">La parole est à M. Nicolas Turquois.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2627699" ordre_absolu_seance="125" id_acteur="PA722162" id_mandat="PM843596" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647536" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Turquois (Dem)</nom>
+            <id>722162</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4665.61">Je ne suis pas du tout un spécialiste de l’IA et je retiens de nos échanges une impression très anxiogène. Vous avez évoqué différentes pistes : davantage de régulation ainsi que la promotion d’acteurs européens. En tant que responsables politiques, quelles mesures et quelles grandes orientations pourrions-nous prendre ?<br/>D’un côté, nous avons besoin de contrôler l’IA, mais de l’autre nous en avons besoin. Votre intervention, monsieur Benhamou, m’a fait penser à un sujet qui m’est cher, celui du Health Data Hub. En effet, avec la quantité de données dont nous disposons, notamment en matière de maladies rares, nous pourrions identifier des profils de guérison et des parcours d’accompagnement médical. Nous possédons une base de données exceptionnelle mais nous n’avons pas les outils techniques suffisants pour les traiter – on nous dit qu’il nous faudrait l’équivalent de Microsoft pour ce faire. Nous avons donc besoin de l’IA mais nous ne disposons pas pour l’instant d’acteurs propres. Comment agir pour à la fois réguler et faire émerger ces acteurs ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2627701" ordre_absolu_seance="127" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647538" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4736.34">La parole est à M. Bernard Benhamou.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2627702" ordre_absolu_seance="128" id_acteur="PA-125909" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647539" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bernard Benhamou</nom>
+            <id>-125909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4740.80">Je vous remercie infiniment pour cette question. Sachez que le Health Data Hub – nous l’évoquons dans notre rapport – est le prototype même de l’erreur stratégique politique : alors qu’il n’y avait pas d’urgence – la décision a été prise bien avant la crise du covid –, on a choisi de confier la base de l’ensemble des données de santé des 67 millions de Français, c’est-à-dire le saint des saints que tous les acteurs mondiaux de l’IA et de la santé rêvent d’avoir, à une plateforme américaine soumise à une loi extraterritoriale, le Foreign Intelligence Surveillance Act (Fisa). L’article 702 de cette loi dispose qu’à tout moment, n’importe quel prestataire américain est obligé de transmettre ses données sur réquisition des services de renseignement américains. Aucune société américaine, quelle qu’elle soit, qu’il s’agisse de Microsoft, Apple ou Google, ne peut s’y soustraire.<br/>Par principe, le fait d’exposer ces données à des lois extraterritoriales américaines était une erreur massive. Existait-il d’autres possibilités ? Oui. Il était possible de réunir des acteurs de très haute qualité au niveau européen, pas uniquement français, ainsi que des technologies européennes pour créer un data hub. L’idée émanait d’ailleurs de l’excellent rapport de Cédric Villani sur l’IA, qui préconisait la création d’une telle structure pour développer l’IA en santé.<br/>L’objectif proprement dit était donc louable, mais confier la base à une société américaine était une aberration absolue, dont les conséquences sont encore plus graves aujourd’hui, sous une administration Trump qui a supprimé toute forme de protection des données européennes. Il nous faut donc en revenir le plus rapidement possible. Le ministère de la santé s’y était engagé il y a longtemps. La migration n’a pas encore eu lieu, alors que certains d’entre vous y sont particulièrement attachés. Nous touchons là au cœur du problème.<br/>De surcroît, même si cela paraît <italique>a priori</italique> peu intuitif, les données de santé permettent d’entraîner les IA dans d’autres domaines que la santé ; c’est pourquoi elles sont extraordinairement valorisables. Lors d’une précédente audition, nous avions évoqué l’exemple de l’attaque par la Chine des serveurs de Microsoft Exchange, c’est-à-dire des serveurs d’entreprise, il y a environ trois ans. Tout le monde a cru qu’il s’agissait d’espionnage industriel, alors que l’objectif des Chinois était d’obtenir des données de toutes les entreprises afin de parfaire et de mieux entraîner leur système d’intelligence artificielle. Ainsi, nos données ne sont pas que sectorielles, elles sont aussi un outil de création et d’innovation.<br/>Précisément dans le domaine de la santé, auquel nous Français et Européens sommes particulièrement attachés, avec notre modèle social à l’évidence très différent du modèle social américain, n’allons pas aider des sociétés américaines à développer leur propre système qu’elles vont ensuite revendre à prix d’or ! C’est de cette manière que le cloud est devenu une sorte d’impôt prélevé auprès de l’ensemble des acteurs industriels européens : les trois premiers acteurs américains du cloud détiennent 77 % des parts de marché européen.<br/>Nous sommes en pleine aberration : la main gauche parle de souveraineté et la main droite, prescriptrice, ne fait appel qu’à des sociétés extra-européennes. Il faudra revenir sur cette forme, non pas de naïveté, mais de naufrage ou de paresse intellectuelle des acteurs publics dans ces domaines.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2627708" ordre_absolu_seance="134" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647545" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4898.14">La parole est à M. Jean-Marie Cavada.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2627709" ordre_absolu_seance="135" id_acteur="PA-125919" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647546" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Marie Cavada</nom>
+            <id>-125919</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4960.65">Nos échanges montrent combien le travail à accomplir est immense, puisque la question de l’IA touche quasiment tous les secteurs vitaux d’un pays, d’une personne et d’une société. C’est pourquoi je m’étonne de voir que les démocraties soient si peu structurées dans ce domaine. Naturellement, je n’irai pas jusqu’à souligner que, comme dans toutes les grandes batailles, des cinquièmes colonnes se promènent un peu partout ; c’est la loi des rapports de force et ce n’est pas moi qui les changerai, mais il faut simplement en être conscient.<br/>Pour conclure en complétant mes réponses précédentes, que faudrait-il faire ? La réponse à cette question est difficile mais certaines urgences sont connues. Nous savons que nous ne pouvons pas rester inertes. Premier point : les parlements et les gouvernements, en France et au niveau européen, sont désormais persuadés que la question du numérique et maintenant de l’intelligence artificielle touche tous les domaines de leur souveraineté et qu’il faut donc équiper les structures politiques en fonction des enjeux que constituent les machines mais surtout les systèmes économiques qui reposent sur elles. J’insiste : ce ne sont pas les machines qui sont dangereuses mais l’utilisation qu’on en fait et le levier de puissance, notamment financière, qui en découle.<br/>Deuxième point : l’Europe a certes du retard mais – vous le savez comme moi – elle possède des atouts formidables, en premier lieu de bonnes écoles de mathématiques et d’ingénieurs qui forment la matière première de presque toutes les grandes compagnies mondiales – en tout cas occidentales, plus rarement chinoises –, lesquelles développent des produits que nous subissons en retour. Je citerai par exemple le talent du Français Yann Le Cun, qui n’est rien de moins que le directeur scientifique de l’IA de Meta, sans parler de mon ami Cédric Villani que vous connaissez tous. Nous disposons donc des capacités intellectuelles nécessaires.<br/>Dans ces conditions, qu’est-ce qui ne va pas ? D’abord, l’Europe a préféré continûment, depuis soixante-dix ans environ, dépenser beaucoup pour sa protection sociale, ce qui est une bonne chose, mais n’a pas achevé le marché unique des capitaux et ne détient pas beaucoup de capitaux. Il s’ensuit un appel d’air pour les capitaux américains, mais aussi, désormais, pour les capitaux en provenance du Golfe, vers nos pays dotés de cerveaux mais pas de l’argent nécessaire au développement.<br/>Pourquoi les capitaux nous manquent-ils ? Depuis une cinquantaine d’années – depuis la chute et l’échec de Bull –, nous avons saupoudré les budgets dans ce domaine. Dans le même temps, les Américains s’affichaient comme les grands chantres de la concurrence et du libéralisme : mon œil ! Disons la vérité et cessons les faux-semblants : la plupart des grandes inventions technologiques numériques et d’IA américaines doivent leur existence au département d’État ou au Pentagone. Rappelons que Boeing, en plein marasme, ne se serait pas sorti d’affaire pour ce qui est des nouveaux carburants et des alliages, qu’il ne savait pas produire, si le Pentagone ne lui avait pas passé des commandes spécifiques et fourni l’argent qui va avec.<br/>Par conséquent – et Thierry Breton le dit d’ailleurs très justement –, nous devons maintenant cesser cette naïveté qui nous fait respecter jusqu’à l’excès des règles inventées par d’autres, alors que nous-mêmes accumulons du retard. Il est donc extrêmement important que l’État se saisisse de deux ou trois sujets, choisisse les meilleurs acteurs, arrête de saupoudrer et s’abstienne si possible de tout copinage – à bon entendeur, salut ! Il n’est pas utile que je le répète, je suppose que tout le monde a compris ? – pour dégager les moyens financiers nécessaires à nos chercheurs et inventeurs et pour développer des entreprises.<br/>J’ajouterai une dernière chose et c’est vous, les législateurs, qui avez vraiment les clés en main. Il est très difficile d’arriver après la bataille. On s’en est rendu compte aux États-Unis, quand l’administration Biden a placé aux manettes deux personnes vraiment très intéressantes : Tim Wu, embauché à la Maison-Blanche et adversaire, non de l’IA ni du numérique, mais des monopoles, n’a pas pu faire grand-chose, pas plus que Lina Khan, qui avait dénoncé dans de nombreux travaux le mal causé par les monopoles. Tous deux ont attaqué les monopoles devant les tribunaux pour tenter d’en démanteler certains aspects, mais sans succès. Les procédures ont été quasiment bloquées. Sans que je m’étende davantage sur les considérations judiciaires, vous comprenez bien de quel pouvoir disposent ces monopoles.<br/>Par conséquent, il importe désormais de faire marcher de concert le financement de quelques entreprises, pas trop nombreuses, et la régulation, qui doit être entre vos mains. Les deux leviers doivent aller de pair car l’un n’est pas l’adversaire de l’autre. Il faut sortir de cette propagande qui nous a conduits à nous prosterner pendant vingt ans, alors que nous aurions dû faire notre propre chemin.<br/>Je vous remercie de nous avoir invités. Nous restons à votre disposition pour la suite de vos travaux. Je souhaite de tout mon cœur que vous les poursuiviez, tant ils sont indispensables, et j’espère que vous ne vous laisserez pas intimider par les fausses idées selon lesquelles c’est de votre faute, à vous les régulateurs, si l’Europe n’est pas industriellement développée comme elle devrait l’être. Non, ce n’est pas de votre faute !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2627717" ordre_absolu_seance="144" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647554" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5344.17">Je remercie les intervenants d’avoir participé à nos travaux.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="6" id_preparation="2627678" ordre_absolu_seance="145" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3647677" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2627679" ordre_absolu_seance="146" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647678" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5367.16">La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2627680" ordre_absolu_seance="147" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3647679" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à vingt-deux heures quarante-cinq, est reprise à vingt-deux heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2627681" ordre_absolu_seance="148" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647680" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5834.11">La séance est reprise.<br/>Nous en venons à la seconde phase du débat : une séquence de questions-réponses, précédée d’une intervention liminaire du gouvernement.<br/>La parole est à M. le ministre chargé de l’industrie et de l’énergie.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2627684" ordre_absolu_seance="150" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647683" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre chargé de l’industrie et de l’énergie</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5865.14">L’intelligence artificielle n’est plus une perspective lointaine : elle est déjà dans nos usines, dans nos bureaux, dans nos services publics. Elle est au cœur de nos vies quotidiennes et nous concerne tous : salariés, chercheurs, entrepreneurs, élus, citoyens. Elle est en train de redessiner le monde du travail, notre tissu économique et notre souveraineté technologique.<br/>Cette révolution est riche d’un formidable potentiel. En tant que ministre chargé de l’industrie et de l’énergie, je suis bien placé pour le voir et pour agir. Notre combat à nous – le ministre de l’économie, des finances et de la souveraineté industrielle et numérique Éric Lombard, la ministre déléguée chargée de l’intelligence artificielle et du numérique Clara Chappaz, et moi-même – consiste à favoriser l’essor de l’intelligence artificielle en France pour en faire une force au service de la compétitivité de nos industries et au service du bien-être de nos concitoyens.<br/>La France a pris le tournant de l’intelligence artificielle et notre pays compte dans ce domaine, à l’échelle mondiale. On l’a vu avec le sommet sur l’intelligence artificielle qui s’est tenu à Paris – une immense réussite. Ce rendez-vous a marqué une étape clé pour l’avenir de l’IA et pour la construction d’une gouvernance mondiale de l’IA alliant innovation, souveraineté et responsabilité. La France et l’Europe ont un rôle majeur à jouer dans cette révolution et il est de la responsabilité du gouvernement de donner un cap clair pour que cette transformation bénéficie à tous. C’est ce cap que je veux vous décrire en quelques mots.<br/>Depuis 2018, le gouvernement a œuvré activement à faire de la France une puissance de l’intelligence artificielle. En effet, depuis le lancement de la stratégie nationale pour l’intelligence artificielle cette année-là, sous l’impulsion du président de la République, la France a pris des décisions structurantes pour se positionner parmi les leaders mondiaux de l’IA. Grâce à une stratégie nationale ambitieuse, nous avons investi 2,5 milliards d’euros dans la recherche, dans l’innovation et dans l’accompagnement des entreprises. Et les résultats sont là : la France est le premier pays en Europe pour les investissements étrangers dans l’intelligence artificielle ; elle compte plus de 1 000 start-up spécialisées, qui ont levé plus de 1,9 milliard d’euros en 2024 ; nous disposons de fleurons technologiques comme Mistral AI ou Hugging Face, qui s’imposent à l’échelle mondiale ; nous avons attiré les centres de recherche des plus grands acteurs internationaux, d’OpenAI à Google DeepMind.<br/>Mais nous devons aller plus loin encore. C’est la raison pour laquelle le gouvernement a ouvert une troisième phase de la stratégie nationale, autour de plusieurs priorités.<br/>La première est de renforcer l’attractivité du territoire pour l’implantation des infrastructures clés pour l’essor de l’IA. La France a plusieurs atouts majeurs, sinon uniques, à commencer par un mix énergétique largement décarboné grâce à notre parc nucléaire et à nos investissements massifs dans les énergies renouvelables – aujourd’hui, plus de 95 % de l’électricité produite en France est décarbonée. Cette énergie abondante et décarbonée est une force pour l’essor de l’IA en France et pour notre attractivité. La France a un autre atout majeur : une connectivité bien supérieure à celle que l’on trouve dans les pays européens voisins, en particulier grâce au développement de la fibre dans le cadre du plan France très haut débit.<br/>Si, à l’occasion du sommet que j’ai évoqué, 109 milliards d’euros d’investissements privés dans les infrastructures stratégiques pour l’IA ont été annoncés, notamment pour soutenir l’installation de nouveaux centres de données en France et le développement de puces plus performantes, c’est la conséquence de ces avantages comparatifs. Ces infrastructures sont essentielles pour améliorer les capacités de calcul et pour accélérer l’essor de l’IA en France et en Europe. En effet, il n’y a pas d’IA sans infrastructures. C’est pourquoi mon ambition, en tant que ministre chargé de l’industrie, est de donner à nos talents et à nos entreprises les meilleures infrastructures possibles pour devenir les champions de l’IA en Europe et dans le monde. Nous y travaillons activement au niveau national, via le plan d’investissement France 2030, et au niveau européen, dans le cadre du règlement européen sur les semi-conducteurs, dit Chips Act.<br/>La deuxième priorité est de cultiver notre écosystème pour attirer et retenir les meilleurs talents. Des entreprises du monde entier s’appuient aujourd’hui sur les compétences scientifiques et d’ingénierie de nombreux talents formés en France, des talents qui disposent d’une renommée internationale. Cet atout est essentiel et nous devons continuer à investir dans la formation, pierre angulaire de la stratégie que mes collègues Élisabeth Borne, Astrid Panosyan-Bouvet et moi-même mettons en œuvre. Ainsi, nous investissons 360 millions d’euros dans nos neuf IA clusters<italique> </italique>pour atteindre le chiffre de 100 000 personnes formées en 2030.<br/>La troisième priorité est de faire de l’IA un outil au service de nos politiques publiques et au service d’une meilleure efficacité administrative. Notre rôle ici est d’accompagner cette transformation et d’y sensibiliser nos concitoyens, car l’intelligence artificielle est un outil qui doit être maîtrisé et encadré – je sais que vous en avez abondamment discuté au cours la table ronde qui a précédé. C’est le sens, par exemple, des cafés IA, qui permettent à tous de se retrouver pour apprendre et pour débattre des enjeux du quotidien liés à l’intelligence artificielle.<br/>Mais parce que l’IA est un enjeu stratégique qui dépasse les frontières, c’est aussi en Européens que nous devons agir – ce qui fera l’objet de mon deuxième point. Avec l’Europe, nous dessinons une troisième voie pour une IA à la fois souveraine, responsable et durable. C’est une question de compétitivité, de leadership et de souveraineté économique. Nous ne pouvons pas nous contenter de réguler des innovations conçues ailleurs : nous devons être à la source des avancées technologiques en la matière.<br/>L’Europe, par la voix de la présidente de la Commission européenne, a ainsi annoncé 200 milliards d’euros d’investissements, notamment 50 milliards d’investissements publics dont 20 milliards dédiés à la construction de gigafactories spécialisées dans l’entraînement de modèles d’IA de grande envergure. L’Europe a aussi manifesté sa volonté d’accélérer la simplification pour faciliter l’innovation en matière d’intelligence artificielle. À cette fin, nous devons réussir une mise en œuvre équilibrée de la réglementation relative à l’IA.<br/>Dans le même temps, nous devons promouvoir une approche éthique et durable de cette technologie, car il faut être lucide, notamment sur l’impact écologique de l’intelligence artificielle. Les modèles de plus en plus puissants qui se développent nécessitent des quantités d’énergie qui doivent rester compatibles avec nos objectifs climatiques. Nous devons donc encourager une IA plus frugale, plus optimisée, qui consomme moins de ressources et réduit d’autant son empreinte environnementale. Ainsi, lors du sommet de Paris, une centaine de partenaires ont rejoint la coalition pour l’IA durable sur le plan environnemental, lancée par la France, le Programme des Nations unies pour l’environnement et l’Union internationale des télécommunications. Le sommet a en outre été l’occasion de lancer la fondation Current AI, soutenue par neuf gouvernements et plusieurs entreprises technologiques, et dotée d’un financement initial de 400 millions d’euros pour développer des projets d’IA d’intérêt général.<br/>En conclusion, je tiens à vous dire qu’il y a aujourd’hui la place pour un modèle français et européen de l’intelligence artificielle. C’est une révolution, je l’ai dit, porteuse d’un formidable potentiel, mais cette révolution nous oblige. Nous avons une responsabilité véritablement historique : il s’agit de façonner une IA qui nous ressemble, une IA qui soit fidèle à nos valeurs, une IA qui renforce notre souveraineté tout en créant des opportunités pour tous. La France a tous les atouts pour être un leader mondial en la matière, mais elle ne peut réussir seule. C’est la raison pour laquelle nous devons agir en Européens, en soutenant une IA européenne qui conjugue excellence scientifique, innovation industrielle et encadrement éthique. Le gouvernement est pleinement mobilisé pour faire de cette révolution une force de progrès, d’émancipation et de justice ; nous nous donnerons tous les moyens pour que l’IA mondiale porte la voix de cette Europe à la fois forte et ambitieuse.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2627694" ordre_absolu_seance="163" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647693" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6112.66">La parole est à Mme Josy Poueyto.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2627695" ordre_absolu_seance="164" id_acteur="PA720720" id_mandat="PM843254" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647694" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Josy Poueyto (Dem)</nom>
+              <id>720720</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6335.60">L’actualité récente a montré une nouvelle fois à quel point la France et l’Europe ont intérêt à se saisir du développement de l’intelligence artificielle. Face aux géants américains, qui ont choisi de foncer sans s’encombrer de questions morales ou éthiques, je pense que nous avons une carte particulière à jouer.<br/>En effet, l’objectif est que l’IA soit utilisée pour rendre les meilleurs services possibles aux populations. Pour asseoir les usages, il est obligatoire, selon moi, que se concrétise un lien de confiance particulièrement fort entre l’usager et la machine. Pour maintenir la confiance, il paraît essentiel de garantir une conception et une utilisation éthiques de l’IA. La régulation, autrement dit le cadre réglementaire applicable à l’IA, doit non seulement assurer une conception et un développement technologique empreints d’un très grand sens des responsabilités, mais aussi assurer une croissance économique durable.<br/>Dans le domaine sanitaire, par exemple, où il serait délicat de faire n’importe quoi, la garantie de résultat va de soi. Siégeant à la commission de la défense, je vois bien, dans les domaines de l’information et de la communication, voire dans ceux de l’influence ou du renseignement, les menaces susceptibles de peser tant sur les individus que sur les sociétés en général et les démocraties en particulier.<br/>Ma question est toute bête mais je ne suis pas la seule à la poser. Alors que les réseaux dits sociaux nous exposent déjà à des abus majeurs que nous ne parvenons pas à prévenir, comment allons-nous faire face à des outils déployés à une échelle planétaire et capables d’aller plus loin encore dans la manipulation du « temps de cerveau disponible », pour reprendre la formule utilisée à propos de la télévision par Patrick Le Lay quand il était à la tête de TF1 ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627829" ordre_absolu_seance="168" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647790" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6395.80">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627830" ordre_absolu_seance="169" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647791" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6460.93">Parce qu’elle porte sur l’appropriation de l’IA par nos concitoyens et par les entreprises, il s’agit d’une question essentielle, à laquelle il y a trois niveaux de réponse. Le premier est celui de la formation et de l’éducation. Dans mon propos liminaire, j’ai évoqué un dispositif parmi d’autres : les cafés IA, qui permettent de s’approprier les outils de l’intelligence artificielle dans un cadre coopératif et convivial. J’y ajoute l’annonce faite par la ministre de l’éducation nationale, Élisabeth Borne, à propos de la formation à l’IA dès le collège. Cela participe à ces nécessaires appropriation et éducation.<br/>Le deuxième niveau de réponse consiste à prévenir et rassurer nos concitoyens au sujet des contenus de l’IA auxquels ils sont confrontés. Un des enjeux est la dissimulation de contenus présentés comme réels alors qu’ils ne le sont pas. Sur ce point, les législations française et européenne ont évolué. La loi visant à sécuriser et à réguler l’espace numérique (Sren) a introduit l’obligation de mentionner les <italique>deepfakes </italique>issus de l’intelligence artificielle, tandis que le règlement européen sur l’intelligence artificielle oblige à signaler les moments où les usagers interagissent avec une IA. Cela participe à la prévention et à la réassurance que nous devons à nos concitoyens.<br/>Le troisième niveau de réflexion et d’action – et donc de protection, dans une certaine mesure – porte sur l’ergonomie des applications. Pour reprendre la formule que vous avez utilisée, on sait que certaines applications prennent du temps de cerveau disponible, favorisent l’addiction et créent une forme de déconnexion d’avec la réalité. Il faut donc favoriser une conception et une ergonomie des applications qui limitent ces phénomènes. Voilà quels peuvent être nos axes de réflexion et d’action.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627833" ordre_absolu_seance="172" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647794" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6588.62">La parole est à M. Nicolas Sansu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627834" ordre_absolu_seance="173" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647795" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Sansu (GDR)</nom>
+              <id>605745</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6594.44">Je ne vais pas m’appesantir sur le surprenant exercice d’autosatisfaction du ministre, très éloigné de la réalité qui ressort des chiffres mondiaux et de ce que les intervenants précédents ont avancé.<br/>La course technologique entre OpenAI et DeepSeek fait de l’IA le nouveau terrain d’affrontement de la guerre commerciale entre les États-Unis et la Chine. Force est de le constater, l’Europe est à la traîne, d’autant plus que, à la suite des menaces exprimées par l’administration Trump, la Commission européenne vient de retirer la directive sur la responsabilité en matière d’IA de son programme de travail final pour 2025.<br/>Ainsi que l’ont indiqué MM. Benhamou et Cavada, c’est aujourd’hui le risque de vassalisation, de technoféodalisme, pour reprendre le concept des économistes Yanis Varoufakis et Cédric Durand, qui nous menace. Nous n’avons donc qu’une interrogation : comment sortir de la tentation technoféodale et faire de l’IA un vecteur d’émancipation sociale ?<br/>Cela m’amène à demander au gouvernement de préciser sa position sur trois points. Premièrement, comme le préconise un récent rapport du Conseil économique, social et environnemental, intitulé « Pour une IA au service de l’intérêt général », nous devons défendre dans la réglementation européenne la plus grande transparence des algorithmes et des jeux de données d’entraînement. Cette réglementation devrait renforcer l’accès direct des citoyens à leurs propres données et améliorer la traçabilité des données pour que puissent être retracées les transformations qu’elles ont subies. Nous pourrions par exemple parler du Health Data Hub, livré aux Américains contre toute logique de souveraineté – cela a été rappelé dans la première phase du débat.<br/>Deuxièmement, comment assurer, face à OpenAI et à DeepSeek, la protection des données personnelles ? Quelles doivent être les modalités d’utilisation, de réutilisation et de rectification des données personnelles publiées sur le web et servant à l’entraînement de l’IA ? Monsieur le ministre, on ne saurait se contenter d’incantations comme celles que vous avez formulées tout à l’heure.<br/>Troisièmement, on sait, documents à l’appui, qu’à Madagascar ou au Kenya, les petites mains de l’IA sont payées moins de 2 dollars par heure pour perfectionner les résultats des recherches. On sait aussi qu’une simple question posée à ChatGPT consomme un demi-litre d’eau et que les besoins en électricité des data centers devraient doubler dans les deux ans. Ma question est donc simple : comment comptez-vous rendre les logiques industrielles de l’IA compatibles avec les objectifs de décarbonation, alors que les États-Unis et la Chine s’en contrefichent ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627838" ordre_absolu_seance="179" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647799" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6613.46">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627839" ordre_absolu_seance="180" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647800" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6728.73">Je ne sais pas très bien quel contenu donner à cette notion de technoféodalisme, mais peut-être aurons-nous l’occasion d’en discuter. Je ne pense pas que la vassalisation que vous évoquez soit une fatalité. Vous avez mentionné DeepSeek. Il s’agit à mes yeux d’un modèle technologique qui valide les choix faits par des acteurs français de l’IA, comme Mistral AI. Le choix de l’open source, par exemple, nous distingue des solutions technologiques adoptées par certains acteurs américains. Il n’y a pas de fatalité dès lors que l’on crée de la souveraineté à travers l’infrastructure. Je l’ai dit dans mon propos liminaire, l’infrastructure est un élément indispensable pour faciliter l’appropriation de l’IA par les entreprises et pour permettre de créer du cloud souverain. Évidemment, il faut articuler cela avec les réglementations française et européenne.<br/>À propos des données, comme vous le savez, le règlement européen sur l’IA distingue plusieurs niveaux de risque auxquels sont attachés plusieurs niveaux d’obligations juridiques et de contraintes. Cela permet d’éviter de traiter tous les problèmes de la même manière et d’éviter de construire des garde-fous juridiques qui, parce que trop puissants et trop contraignants, limiteraient l’innovation. Nous avons besoin d’une régulation européenne qui s’appuie sur les initiatives et les textes existants, comme le DSA et le DMA. Nous travaillons au niveau européen sur une régulation des clouds qui soit le pendant du SecNumCloud français. À cet égard, nos exigences vis-à-vis de la Commission européenne sont fortes.<br/>Je termine avec l’enjeu de la décarbonation – même s’il est difficile de répondre à trois questions en deux minutes. Lorsqu’on va sur le terrain comme je le fais, lorsqu’on visite des data centers installés en France, on constate que beaucoup ont fait le choix de solutions respectueuses de l’environnement, tel le recyclage, dans les collectivités avoisinantes, d’une partie de la chaleur qu’ils produisent. C’est le cas d’un data center qui vient d’ouvrir à Meudon. Là non plus, il n’y a aucune fatalité à ce que l’aspect énergivore des data centers fasse obstacle à la décarbonation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627842" ordre_absolu_seance="183" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647803" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6876.17">La parole est à M. Arnaud Saint-Martin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627843" ordre_absolu_seance="184" id_acteur="PA841845" id_mandat="PM843407" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647804" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Arnaud Saint-Martin (LFI-NFP)</nom>
+              <id>841845</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6888.77">J’ai une série de questions à propos des mutations du numérique au lendemain du Sommet pour l’action sur l’IA, qui s’est achevé par des annonces que vous avez rappelées. Si l’on peut convenir qu’il faut exiger une réévaluation critique de notre prise de conscience collective sur cette technologie qui se déploie presque sans limites, force est de constater que le compte n’y est pas. Plusieurs contradictions inquiètent tout autant sur la nature des solutions proposées que sur les conditions de leur mise en œuvre.<br/>Dans la frénésie de la course à l’IA, les citoyens sont aux abonnés absents, et le scénario qui s’annonce – technologie partout, démocratie nulle part – mériterait un débat plus solide et plus sérieux. J’en veux pour preuve que, sous couvert de simplification dans le cadre de la loi relative à l’industrie verte, les trente-cinq data centers dont la création a été annoncée échapperaient à une enquête publique. On sait pourtant qu’en l’absence de cadre d’arbitrage clair, ils suscitent des conflits d’usage. Et je ne parle pas de leur financement par des fonds étrangers – dont l’émirien MGX, par ailleurs engagé dans le projet américain Stargate –, un choix pour le moins discutable à l’heure où la souveraineté numérique est érigée en priorité.<br/>Dans un autre registre, on s’étonne de voir Google participer à l’initiative Current AI, lancée lors du sommet, alors que cette entreprise abandonne tout engagement éthique en matière d’armement. N’est-il pas plutôt temps de défendre avec vigueur l’IA Act, le DSA et le DMA adoptés par l’Europe mais déjà menacés ?<br/>De même, en France, l’IA met à mal la cohérence des politiques publiques. Sans même s’étendre sur l’improvisation à prétention pédagogique et le pillage des données qu’entraîneraient les cours sur ChatGPT annoncés par le ministère de l’éducation nationale pour la rentrée prochaine, comment ne pas noter qu’au même moment, des milliers de postes de conseillers numériques sont sur la sellette, alors que l’inclusion numérique est en grande souffrance dans notre pays ?<br/>Enfin, se pose avec urgence la question de la cohérence démocratique à donner au développement de l’IA, qui ne saurait se faire dans le dos des citoyens. Plutôt que céder aux sirènes des Gafam-X et de leur technoféodalisme prédateur, n’est-il pas vital d’encourager des technologies conçues en France, comme Scikit-learn, à même de nous assurer autonomie et indépendance sur les créneaux interconnectés du numérique ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627846" ordre_absolu_seance="189" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647807" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7003.30">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627847" ordre_absolu_seance="190" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647808" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7015.19">Comme je l’ai dit dans ma réponse à M. Sansu, il faut évidemment défendre la régulation européenne. C’est pourquoi j’ai parlé du DSA, du DMA et du projet de certification européenne pour les services de cloud (EUCS). Par ailleurs, il est primordial de se prémunir contre l’extraterritorialité de certaines législations, notamment de la législation américaine. C’est un risque auquel s’exposent certains acteurs, même si leurs données sont stockées sur des clouds localisés en Europe ou en France. Il s’agit d’un point des discussions autour de l’EUCS, sur lequel nous exerçons toute notre vigilance.<br/>À propos de l’usage de l’IA à l’éducation nationale, je pense que, à un moment où l’illectronisme et l’illittératie touchent malheureusement un grand nombre de nos concitoyens, il ne faut se priver d’aucune source ni d’aucune piste susceptible d’améliorer l’efficacité des programmes d’enseignement. Je suis enseignant – même si cela fait longtemps que je n’ai pas donné de cours dans un cadre universitaire – et je suis parfois frappé par la réticence, voire le dogmatisme, avec lesquels on repousse des solutions qui apportent des améliorations considérables aux modalités pédagogiques. Il ne faut se priver de rien, il faut tout évaluer, avec les acteurs et avec les enseignants. Je suis persuadé que, pour prendre à bras-le-corps les problèmes d’illittératie, d’illectronisme et d’innumérisme, il faut aussi aller chercher du côté de ces solutions.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627849" ordre_absolu_seance="192" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647810" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7135.18">La parole est à Mme Céline Calvez.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627850" ordre_absolu_seance="193" id_acteur="PA721750" id_mandat="PM843647" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647811" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Céline Calvez (EPR)</nom>
+              <id>721750</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7143.67">Monsieur le ministre, vous avez parlé de la nécessité pour toute la société, que ce soit dans le monde du travail ou dans l’exercice de nos droits démocratiques, de mieux comprendre l’IA, de mieux s’en saisir. Vous avez parlé d’initiatives comme les cafés IA ou, à l’instant, de celles prises par l’éducation nationale. Pour ma part, je veux citer l’exemple d’une nation européenne, la Finlande, où, dès 2017, le gouvernement et les entreprises privées se sont donné comme objectif de créer des modules pour former 1 % de la population aux enjeux de l’IA. Cet objectif a été dépassé et, de plus, ces modules ont été mis à disposition dans toutes les langues européennes. Ils sont assez facilement accessibles. La France pourrait-elle se fixer la même ambition ? Dans la mesure où l’IA touche tous les métiers, pourrions-nous intégrer des modules incontournables de sensibilisation à l’IA dans les formations financées grâce au compte personnel de formation (CPF) ?<br/>Je tiens à souligner le succès de la France dans l’accueil des chercheurs et de l’innovation IA de plusieurs entreprises. Plusieurs facteurs l’expliquent : le talent de nos propres chercheurs, l’accès à l’énergie, peut-être aussi la qualité de vie. Que savons-nous du rôle de dispositifs comme le crédit d’impôt recherche (CIR) ? Que faut-il préserver pour maintenir cette attractivité dont nous pouvons être fiers ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627852" ordre_absolu_seance="195" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647813" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7221.28">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2627853" ordre_absolu_seance="196" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647814" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7257.54">L’appropriation de l’IA par nos concitoyens est un enjeu important. Je ne reviens pas sur les cafés IA, que vous avez évoqués. Un autre enjeu est son appropriation par les entreprises. À cette fin, plusieurs dispositifs ont été lancés dans le cadre de la stratégie nationale pour l’IA et financés notamment par le plan France 2030. Je pense en particulier au programme IA Booster, qui a déjà permis d’accompagner des très petites, petites et moyennes entreprises (TPE et PME). Il faut multiplier ces initiatives, mais aussi les évaluer, car tout n’est pas nécessairement efficace.<br/>Le recours au CPF est effectivement une piste intéressante, qui mérite d’être poursuivie, car il s’agit d’un dispositif souple que se sont approprié nombre de nos concitoyens – c’est un succès de ce point de vue. Identifions les modules les plus efficaces – j’ignorais l’exemple finlandais que vous avez cité – afin de certifier ceux qui ont fait leurs preuves pour qu’ils deviennent éligibles au CPF.<br/>Dans le public comme dans le privé, favoriser l’attractivité d’une IA innovante fondée sur la science et la recherche suppose de conserver certains dispositifs essentiels : nos entreprises, en particulier celles qui développent l’IA générative, s’appuient très fortement sur le CIR, par exemple. Il faut absolument le préserver, ce que nous avons fait en dépit du cadre budgétaire très contraint qui est le nôtre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627785" ordre_absolu_seance="199" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647865" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7323.92">La parole est à M. Philippe Latombe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627786" ordre_absolu_seance="200" id_acteur="PA721984" id_mandat="PM843536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647866" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Latombe (Dem)</nom>
+              <id>721984</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7393.99">Il y a un éléphant dans la pièce, donc je mets les pieds dans le plat : la plateforme des données de santé, encore appelée Health Data Hub, est hébergée par Microsoft. Du fait de l’extraterritorialité du droit américain, on peut s’étonner que ces données sensibles à haute valeur ajoutée soient confiées à cette entreprise. Il y a plus de trois ans et demi, Olivier Véran, ministre des solidarités et de la santé, s’était engagé devant l’Assemblée et le Sénat à organiser la réversibilité de ces données vers un cloud<italique> </italique>souverain. Or celle-ci n’a même pas commencé !<br/>Dès lors, quelle cohérence attribuer au discours gouvernemental prônant la souveraineté numérique ? Comment croire, comme on nous l’a expliqué lors du sommet sur l’IA, que le déploiement de data centers sur le territoire national pourra garantir la souveraineté de l’État à l’égard des données hébergées, alors même que le groupement d’intérêt public (GIP) Health Data Hub semble très rétif à mettre en œuvre la réversibilité annoncée ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627787" ordre_absolu_seance="202" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647867" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7426.95">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627788" ordre_absolu_seance="203" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647868" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7469.62">Le Health Data Hub est une plateforme qui centralise et facilite l’accès aux données de santé pour les chercheurs – j’y insiste – tout en respectant des normes de confidentialité et de sécurité. Son potentiel en tant que support de la recherche en IA est donc très important.<br/>Vous êtes familier des enjeux de souveraineté, puisque vous aviez présenté un amendement au projet de loi Sren visant à contraindre les opérateurs publics à faire migrer leurs données vers des solutions souveraines. Dans ce domaine très sensible des données de santé, nous devons nous assurer que l’on arrive au bout de l’exercice. Nous devons nous assurer que le Health Data Hub favorise l’interopérabilité en utilisant des standards communs.<br/>Il faut aussi, en procédant par tâtonnements, éviter l’apparition de nouveaux usages de données sensibles. J’y suis très attaché car, dans ma vie précédente, par exemple lorsque je travaillais sur le centre d’accès sécurisé aux données (CASD) de l’Insee, j’ai pu constater des angles morts échappant à la régulation, ce qui ouvrait parfois des brèches dans la confidentialité des données. Il faut se montrer très vigilants à cet égard. C’est en travaillant avec les chercheurs et les instances de régulation, dont la représentation nationale fait partie, que nous trouverons des solutions sur ce point.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627789" ordre_absolu_seance="206" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647869" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7518.51">La parole est à Mme Élisa Martin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627790" ordre_absolu_seance="207" id_acteur="PA342384" id_mandat="PM842771" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647870" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Élisa Martin (LFI-NFP)</nom>
+              <id>342384</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7596.05">« Mutations liées à l’intelligence artificielle : quelle stratégie pour la France et l’Europe ? » J’ose une réponse : en s’affranchissant du respect des libertés fondamentales et des droits afin de permettre au privé de réaliser un maximum de profits !<br/>Je vise en particulier la notion de bac à sable réglementaire, censée favoriser l’innovation en la dispensant de respecter l’ensemble du cadre réglementaire. Elle permet en fait une innovation sans entrave, au détriment des droits et des libertés fondamentales. Ce dispositif est évidemment plébiscité par les acteurs privés et prend une telle ampleur qu’il affecte désormais le pilotage de la recherche publique, laquelle devrait viser non pas le profit mais bien l’intérêt général.<br/>Quelle limite entendez-vous fixer à la remise en cause de nos libertés ? Que pensez-vous de cette notion de bac à sable réglementaire ? Imaginez-vous que l’on puisse attenter au droit d’aller et venir ou à la liberté d’opinion ? Petit à petit, le gouvernement promeut et organise la surveillance généralisée – pardonnez-moi de m’exprimer sans ambages mais nous sommes pressés par le temps. Les Jeux olympiques ont été l’occasion de tester la surveillance algorithmique et nous sommes fondés à croire que vous souhaitez instaurer la reconnaissance faciale dans l’espace public. Les promoteurs du bac à sable réglementaire se montrent d’ailleurs très critiques à l’égard des dispositions – pourtant loin d’être les plus protectrices – du règlement européen sur l’IA.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627791" ordre_absolu_seance="210" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647871" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7658.33">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627792" ordre_absolu_seance="211" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647872" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7717.84">Vous brossez un tableau assez sombre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627793" ordre_absolu_seance="212" id_acteur="PA342384" id_mandat="PM842771" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647873" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Élisa Martin</nom>
+              <id>342384</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7720.45">Mais tellement réaliste !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627794" ordre_absolu_seance="213" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647874" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7722.82">Pas tant que cela, si l’on veut bien tenir compte des régulations, des protections et des garde-fous déjà en vigueur. C’est pour moi l’occasion d’évoquer de manière plus détaillée le règlement européen sur l’intelligence artificielle, car il répond selon moi à un grand nombre de vos préoccupations et objections.<br/>Ce règlement est fondé sur une hiérarchie ou pyramide des risques. Ainsi, les applications qui présentent des risques minimaux ne doivent donner lieu à aucune obligation réglementaire – citons, par exemple, les algorithmes qui recommandent des playlists musicales. À l’échelon suivant, on trouve les applications – certaines sont très populaires et bien connues – qui doivent respecter une obligation de transparence à l’égard des citoyens ainsi qu’une obligation de transparence algorithmique. Viennent ensuite les applications plus invasives, présentant des risques plus importants, telles que celles qui sont utilisées dans le cadre de procédures de recrutement, qui peuvent poser des problèmes considérables du point de vue des libertés publiques ; des obligations réglementaires plus strictes s’imposent à elles. Enfin sont définis les risques inacceptables, liés aux usages de l’IA permettant la surveillance de masse au moyen de la reconnaissance faciale ; dans ce cas, les obligations sont plus importantes encore et confinent à l’interdiction.<br/>Ce règlement prévoit donc une gradation. Peut-être y a-t-il des améliorations à y apporter, mais je constate qu’il traite déjà des exemples que vous avez cités.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627795" ordre_absolu_seance="216" id_acteur="PA342384" id_mandat="PM842771" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647875" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Élisa Martin</nom>
+              <id>342384</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7769.47">Vous ne m’avez pas répondu au sujet du bac à sable réglementaire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627796" ordre_absolu_seance="217" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647876" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7792.07">De nombreux collègues souhaitent encore poser des questions, madame Martin. Je propose que nous passions à la question suivante.<br/>La parole est à M. Nicolas Bonnet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627797" ordre_absolu_seance="218" id_acteur="PA841507" id_mandat="PM843086" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647877" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Nicolas Bonnet (EcoS)</nom>
+              <id>841507</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7859.99">On parle beaucoup de l’IA, comme on réciterait un mantra, sans entrer dans les détails. En réalité, l’IA est très diverse et les différentes applications ne sont guère comparables, selon que l’on parle de ChatGPT, outil conversationnel se comportant presque comme un humain, des applications de modification d’images ou de vidéos – posant la question de leur crédibilité – ou des applications de traitement de données à des fins statistiques ou épidémiologiques.<br/>Vous avez parlé d’une approche française et européenne de l’IA. Qu’est-ce qu’une IA qui serait fidèle à nos valeurs ? Quels objectifs assigne-t-on à l’IA que nous souhaitons développer ? On ne pourra pas tout faire à la fois, il faut nécessairement fixer des priorités, ne serait-ce que parce qu’il faut limiter le nombre de data centers qui consomment de l’énergie et des matières premières – quand bien même ils consommeraient le moins de ressources possibles.<br/>D’autre part, qu’entendez-vous par IA souveraine ? Comment pouvez-vous évoquer la souveraineté d’une seule application informatique alors que nous sommes à mille lieues de la souveraineté numérique en général ? Nous sommes en effet très dépendants des ordinateurs, des disques durs et des microprocesseurs produits à l’étranger : rien n’est fabriqué en France ou en Europe. S’agissant des applications, tout ou presque passe par les Gafam – jusqu’au système de messagerie de l’Assemblée nationale, qui appartient à Microsoft, même si les données sont hébergées sur des serveurs propriétaires au sein de l’institution. La plupart des citoyens français utilisent les outils, le matériel et les applications des Gafam, dont nous sommes très dépendants.<br/>Bref, je ne connais pas la stratégie de la France ou de l’Europe afin d’acquérir une autonomie numérique et de se doter d’applications propres, mais je ne conçois pas que l’on puisse évoquer une IA souveraine en l’absence de souveraineté numérique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627799" ordre_absolu_seance="222" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647879" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7934.24">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627800" ordre_absolu_seance="223" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647880" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7940.17">Vous posez plusieurs questions. Quelles infrastructures utiliser en priorité ? Ce n’est pas une question simple et cela doit faire l’objet d’un débat, y compris devant la représentation nationale. On peut néanmoins distinguer, d’une part, les applications développées et commercialisées pour répondre aux besoins des consommateurs – nous avons donné quelques exemples d’applications de l’IA utilisées dans la vie quotidienne – et, d’autre part, les applications développées à des fins d’intérêt général, notamment celles qui permettent d’améliorer l’efficacité des services publics, par exemple en réduisant la pénibilité des tâches effectuées par les agents tout en renforçant l’intérêt de ces tâches – le potentiel en la matière est important, et cela peut d’ailleurs concerner aussi les salariés du privé.<br/>Quant à la souveraineté, dont nous débattons depuis tout à l’heure, elle ne concerne pas que les data centers et les applications, mais aussi les puces électroniques : les processeurs graphiques (GPU) sont tous produits par des acteurs américains et il n’existe aujourd’hui aucune solution alternative européenne ni, <italique>a fortiori</italique>, française. Nous avons donc besoin d’une politique industrielle en la matière, qui permette à terme de disposer de l’ensemble des infrastructures de l’IA sur notre sol. Le Chips Act est une première étape, et la réflexion doit se poursuivre au-delà. En tout cas, cela suppose des investissements dans les data centers et, de manière plus générale, dans les infrastructures industrielles – d’où les 200 milliards d’euros annoncés par la Commission européenne, que j’ai évoqués précédemment.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627802" ordre_absolu_seance="225" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3647882" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8077.47">La parole est à M. Laurent Croizier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2627803" ordre_absolu_seance="226" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3647883" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Croizier (Dem)</nom>
+              <id>793716</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8128.09">L’IA bouleverse déjà le monde du travail, et nous n’en sommes qu’aux balbutiements. Si nous n’anticipons pas les mutations et la disparition de nombreux métiers, notre modèle social court au-devant de très grandes difficultés. Il n’est pas facile d’intervenir au bon moment, ni trop en avance ni avec retard. Comment l’État veille-t-il sur ces mutations ? Comment anticipe-t-il les transformations profondes induites par l’IA dans le monde du travail, notamment en matière d’offre de formation initiale et de formation professionnelle ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627804" ordre_absolu_seance="227" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3648415" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8169.28">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627805" ordre_absolu_seance="228" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3648416" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8170.50">Il s’agit d’une question essentielle qui, sans aucun doute, préoccupe beaucoup nos concitoyens. Je ne me ferai pas passer pour le spécialiste de l’IA que je ne suis pas, mais je vous répondrai en m’appuyant sur l’étude du fonctionnement du marché du travail que j’ai pu mener dans ma vie professionnelle.<br/>Nous avons connu, depuis le XIX<exposant>e</exposant> siècle, plusieurs révolutions technologiques dont on prédisait qu’elles supprimeraient des emplois par millions – qu’on songe aux canuts lyonnais ou au mouvement luddite dans l’Angleterre georgienne. Toutes ces craintes – qu’on pourrait qualifier de millénaristes – de voir la fin du travail et la disparition des emplois se sont révélées infondées. Je pense qu’elles ne se concrétiseront pas davantage s’agissant de l’IA. La plupart des études dont nous disposons prévoient une modification du contenu des emplois sous l’effet de l’IA plutôt que leur disparition.<br/>Dans une étude publiée le 14 janvier 2024, le Fonds monétaire international souligne que 60 % des emplois pourraient être affectés par l’IA – ce qui ne signifie pas qu’ils disparaîtront. Pour le dire plus directement, il est plus probable d’être remplacé, dans son métier, par quelqu’un qui maîtrise un logiciel d’intelligence artificielle que par l’intelligence artificielle elle-même.<br/>Si l’on souhaite aller plus loin et esquisser les conséquences de l’IA sur le marché du travail, il faut mentionner les importants gains de productivité potentiels, qui intéressent beaucoup les entreprises. Toutefois, deux conditions doivent être remplies pour les obtenir.<br/>Premièrement, les entreprises doivent investir, ce qui implique de leur créer un environnement sûr et d’investir dans des solutions souveraines et des data centers sur notre sol. C’est un élément important et souvent évoqué par les clients des data centers, car l’IA permettra d’autant plus de gains de productivité qu’elle s’appuiera sur les données propres à l’entreprise, plutôt que sur des données généralistes.<br/>Deuxièmement, pour qu’une innovation technologique, quelle qu’elle soit, procure des gains de productivité, il est nécessaire non seulement d’investir – s’agissant de l’IA, dans les infrastructures et les logiciels –, mais aussi de réorganiser le travail. Cela requiert de s’interroger sur le dialogue social, sur la négociation collective et sur la manière dont les entreprises investissent dans la formation. Sans cet investissement dans la formation, les entreprises n’obtiendront pas les gains de productivité escomptés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627808" ordre_absolu_seance="234" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3648419" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8276.73">La parole est à M. René Pilato.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627809" ordre_absolu_seance="235" id_acteur="PA817211" id_mandat="PM842600" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3648420" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. René Pilato (LFI-NFP)</nom>
+              <id>817211</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8284.94">Cela fait plaisir, monsieur le ministre, de vous voir si optimiste à propos de l’IA en France. Pourtant, un rapport de l’Office parlementaire d’évaluation des choix scientifiques et technologiques (Opecst) sur les nouveaux développements de l’intelligence artificielle, publié en novembre 2024, souligne que, si Mistral AI figurait parmi les dix modèles de langage les plus puissants en juillet 2024, il n’y figurait plus en novembre. Nous connaissons donc un recul en ce qui concerne la technologie d’intelligence artificielle elle-même.<br/>Je rejoins les deux collègues qui ont posé la question de la souveraineté. Même l’acteur superdominant du secteur, les États-Unis, ne maîtrise pas la chaîne de valeur permettant de produire l’intelligence artificielle : ils dépendent encore largement de la fabrication de puces à l’extérieur de leur territoire. La question est donc simple : alors que nous accusons déjà un retard en matière numérique, sommes-nous réellement capables d’avoir en France la totalité de la chaîne de valeur liée à l’intelligence artificielle, à savoir les matières premières, l’énergie, les semi-conducteurs, les processeurs, le stockage des données, les supercalculateurs, les logiciels d’entraînement, les modèles de fondation, le réglage fin et les applications ? Si l’on considère que la souveraineté ne peut être atteinte qu’au niveau européen, serez-vous en mesure d’organiser un partage de cette chaîne de valeur avec les autres pays européens, tout en garantissant que chaque pays puisse contribuer à cette souveraineté ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627811" ordre_absolu_seance="237" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3648422" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8414.54">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627812" ordre_absolu_seance="238" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3648423" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8420.51">Vous avez conclu votre question en apportant une partie de la réponse. La souveraineté ne revient pas à tout produire sur notre sol, ni <italique>a fortiori</italique> à tout extraire de notre sol. La souveraineté signifie, dans mon esprit, rester maître de son destin et, s’agissant des chaînes de valeur, ne pas dépendre d’un seul fournisseur ou d’un unique gisement de ressources naturelles. Il s’agit de l’enjeu crucial de la diversification des fournisseurs, qui n’est pas acquise aujourd’hui – j’ai évoqué le cas des GPU qui sont, à l’heure actuelle, uniquement produits aux États-Unis. Nous devons donc progressivement nous « dérisquer », pour reprendre un terme employé par les industriels, à l’égard de fournisseurs qui domineraient tel ou tel segment de la chaîne de valeur – cela concerne à la fois le <italique>hardware </italique>et le <italique>software</italique>, c’est-à-dire les matériels informatiques et les logiciels.<br/>Indépendamment de cette diversification, des marges de progression existent. S’agissant de l’extraction minière, nous avons une stratégie qui vise à nous rendre plus autonomes – j’ai ainsi relancé, il y a quelques semaines, l’inventaire minier mené par le Bureau de recherches géologiques et minières (BRGM).<br/>Pourrons-nous avoir demain l’ensemble de la chaîne de valeur de l’IA sur notre territoire ? Je réponds clairement à votre question : ce n’est pas évident. Mais je le répète, de mon point de vue, l’enjeu est de ne pas être dépendants plutôt que de tout produire sur notre sol.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627814" ordre_absolu_seance="241" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3648425" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8431.44">La parole est à Mme Delphine Lingemann.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627815" ordre_absolu_seance="242" id_acteur="PA794702" id_mandat="PM843248" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3648426" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Lingemann (Dem)</nom>
+              <id>794702</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8525.80">La question de l’usage de l’intelligence artificielle dans l’éducation me tient particulièrement à cœur, d’autant que je suis membre de la commission des affaires culturelles et de l’éducation. En tant qu’enseignante, je mesure au quotidien l’ampleur des changements qui s’opèrent à la fois dans les méthodes d’apprentissage mises en œuvre par les enseignants et dans l’utilisation de l’IA par les étudiants et les élèves. L’appropriation de cette technologie par chacun de ces publics est plus ou moins maîtrisée, ce qui limite son efficacité.<br/>Je suis convaincue que le monde de l’éducation doit saisir l’occasion que lui offre l’IA. Mais le risque est que les enseignants comme les élèves s’appuient trop sur ces outils et n’utilisent plus leur propre créativité ni leur imagination. Je constate au quotidien que nombre d’étudiants se trouvent en difficulté quand on leur demande de réfléchir à partir d’une page blanche, sans aide numérique. Or c’est tout le rôle de l’enseignement en présentiel que de stimuler l’étudiant pour l’aider à penser par lui-même.<br/>Comment faire en sorte que l’usage de l’IA soit une source de progrès en matière d’apprentissage, qui ne mette pas en danger la capacité de nos jeunes à faire preuve d’esprit critique et de synthèse ? Comment généraliser l’usage d’un outil de détection du plagiat qui permette aux enseignants de repérer si un texte soumis par un étudiant a été rédigé avec l’aide d’une IA ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627817" ordre_absolu_seance="245" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3648428" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8597.14">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627818" ordre_absolu_seance="246" id_acteur="PA795884" id_mandat="-1" id_nomination_oe="PM855886" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3648429" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Marc Ferracci</nom>
+              <id>795884</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8633.49">Je me remémorais mon expérience d’enseignant confronté à des travaux qui ressemblaient de très près à des plagiats, et les difficultés que l’on a à résoudre ce genre de problème.<br/>Vous posez une question fondamentale, qui a été soulevée dans un ouvrage au titre assez éclairant, <italique>La Fin de l’individu</italique>, publié par le philosophe Gaspard Kœnig. C’est un livre consacré à l’intelligence artificielle qui s’interroge sur la potentielle disparition de la subjectivité, sous l’effet de l’IA, dans les méthodes d’apprentissage et l’appropriation des connaissances ainsi que dans la création artistique et de nombreux autres domaines. En effet, l’IA, à la façon du <italique>nudging</italique> – méthode d’incitation issue de l’économie comportementale –, trace des voies, influence les actions individuelles et façonne la personnalité, de telle sorte que la construction même de l’individu se trouve remise en question. C’est un danger vertigineux dont il faut se prémunir.<br/>Je vais être franc : je n’ai pas de réponse définitive à votre question. Il convient d’organiser sur ces sujets un débat démocratique, scientifique et peut-être philosophique.<br/>De façon pragmatique, s’agissant des méthodes pédagogiques, il est bon de ne pas mettre tous ses œufs dans le même panier. Je suis très attaché à la méthode à l’ancienne, mais on peut la mêler à des approches novatrices et s’appuyer sur l’IA. Il s’agit en particulier de favoriser les interactions sociales, car c’est, vous le savez, l’une des conditions d’un apprentissage réussi. Je pense notamment au travail en groupe ou à l’appropriation de certains codes et conventions, y compris par mimétisme. C’est de cette manière qu’il convient d’associer l’IA à l’éducation ; bien évidemment, il ne faut pas se laisser guider uniquement par des algorithmes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2627820" ordre_absolu_seance="250" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3648431" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8658.04">Le débat est clos.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="9" id_preparation="2627822" ordre_absolu_seance="252" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3648433" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2627823" ordre_absolu_seance="253" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="0" id_nomination_op="PM846637" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3648434" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8766.15">Prochaine séance, demain, à quatorze heures :<br/> Questions au Gouvernement ;<br/>Débat sur le thème : « L’évaluation de la loi du 16 décembre 2022 visant à lutter contre la précarité des accompagnants d’élèves en situation de handicap et des assistants d’éducation » ;<br/>Débat, en salle Lamartine, sur le thème : « L’échec global de la reconquête de la qualité de l’eau potable ».<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2627824" ordre_absolu_seance="254" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3648435" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2627825" ordre_absolu_seance="255" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3648436" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,1064 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N235</uid>
+  <seanceRef>RUANR5L17S2025IDS29542</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250612090000000</dateSeance>
+    <dateSeanceJour>jeudi 12 juin 2025</dateSeanceJour>
+    <numSeanceJour>1</numSeanceJour>
+    <numSeance>235</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250235</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-06-19T17:55:01.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3788472">Présidence de M. Jérémie Iordanoff</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3788476">
+          <intitule>Bilan de la mise en œuvre de la politique nationale relative aux droits des personnes handicapées</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3788482">M. Arnaud de Broca, président du collectif Handicaps</para>
+        <para id_syceron="3788488">Mme Pascale Ribes, présidente d’APF France handicap</para>
+        <para id_syceron="3788543">Mme Violette Viannay, vice-présidente du Conseil national consultatif des personnes handicapées</para>
+        <para id_syceron="3788549">M. Sébastien Saint-Pasteur (SOC)</para>
+        <para id_syceron="3788553">M. Arnaud de Broca</para>
+        <para id_syceron="3788555">Mme Violette Viannay</para>
+        <para id_syceron="3788557">Mme Pascale Ribes</para>
+        <para id_syceron="3788560">Mme Sophie Mette (Dem)</para>
+        <para id_syceron="3788563">M. Arnaud de Broca</para>
+        <para id_syceron="3788709">Mme Pascale Ribes</para>
+        <para id_syceron="3788711">Mme Violette Viannay</para>
+        <para id_syceron="3788715">M. Olivier Serva (LIOT)</para>
+        <para id_syceron="3788720">M. Arnaud de Broca</para>
+        <para id_syceron="3788727">Mme Violette Viannay</para>
+        <para id_syceron="3788730">Mme Pascale Ribes</para>
+        <para id_syceron="3788732">M. Peio Dufau (SOC)</para>
+        <para id_syceron="3788735">M. Arnaud de Broca</para>
+        <para id_syceron="3788570">Mme Violette Viannay</para>
+        <para id_syceron="3788572">Mme Pascale Ribes</para>
+        <para id_syceron="3788575">Mme Violette Viannay</para>
+        <para id_syceron="3788577">M. Sébastien Saint-Pasteur (SOC)</para>
+        <para id_syceron="3788585">M. Arnaud de Broca</para>
+        <para id_syceron="3788590">Mme Pascale Ribes</para>
+        <para id_syceron="3788594">Mme Violette Viannay</para>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="3788634">
+          <intitule>
+            <italique>Suspension et reprise de la séance<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="3788639">Mme Charlotte Parmentier-Lecocq, ministre déléguée chargée de l’autonomie et du handicap</para>
+        <para id_syceron="3788659">M. Sébastien Saint-Pasteur (SOC)</para>
+        <para id_syceron="3788665">Mme Charlotte Parmentier-Lecocq, ministre déléguée</para>
+        <para id_syceron="3788669">Mme Maud Petit (Dem)</para>
+        <para id_syceron="3788677">Mme Charlotte Parmentier-Lecocq, ministre déléguée</para>
+        <para id_syceron="3788680">Mme Béatrice Piron (HOR)</para>
+        <para id_syceron="3788683">Mme Charlotte Parmentier-Lecocq, ministre déléguée</para>
+        <para id_syceron="3788686">M. Olivier Serva (LIOT)</para>
+        <para id_syceron="3788689">Mme Charlotte Parmentier-Lecocq, ministre déléguée</para>
+        <para id_syceron="3788692">Mme Anne Sicard (RN)</para>
+        <para id_syceron="3788697">Mme Charlotte Parmentier-Lecocq, ministre déléguée</para>
+        <para id_syceron="3788701">M. Jean Laussucq (EPR)</para>
+        <para id_syceron="3788757">Mme Charlotte Parmentier-Lecocq, ministre déléguée</para>
+        <para id_syceron="3788761">M. Peio Dufau (SOC)</para>
+        <para id_syceron="3788765">Mme Charlotte Parmentier-Lecocq, ministre déléguée</para>
+        <para id_syceron="3788770">Mme Anaïs Belouassa-Cherifi (LFI-NFP)</para>
+        <para id_syceron="3788775">Mme Charlotte Parmentier-Lecocq, ministre déléguée</para>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3788780">
+          <intitule>Convocation du Parlement en session extraordinaire</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="3788783">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Première séance du jeudi 12 juin 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2724470" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3788472" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Jérémie Iordanoff<br/> vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2724471" ordre_absolu_seance="2" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788473" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="922.29">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2724472" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3788474" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à neuf heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2724474" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3788476" valeur="">
+      <orateurs/>
+      <texte>Bilan de la mise en œuvre de la politique nationale relative aux droits des personnes handicapées</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2724475" ordre_absolu_seance="6" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788477" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="925.06">L’ordre du jour appelle le débat sur le thème : « Bilan de la mise en œuvre de la politique nationale relative aux droits des personnes handicapées ».<br/>La conférence des présidents a décidé d’organiser ce débat, proposé par le groupe Socialistes et apparentés, en deux parties. Nous commencerons par une table ronde en présence des personnalités invitées, d’une durée d’une heure, qui donnera lieu à une séquence de questions-réponses, puis, après une intervention liminaire du gouvernement, nous procéderons à une nouvelle séquence de questions-réponses, d’une durée d’une heure également. La durée des questions et des réponses sera limitée à deux minutes, sans droit de réplique.<br/>Pour la première phase du débat, je souhaite la bienvenue à M. Arnaud de Broca, président du collectif Handicaps, à Mme Pascale Ribes, présidente de l’association APF France handicap, et à Mme Violette Viannay, vice-présidente du Conseil national consultatif des personnes handicapées (CNCPH).<br/>La parole est à M. Arnaud de Broca, président du collectif Handicaps, pour une durée de cinq minutes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2724480" ordre_absolu_seance="10" id_acteur="PA-126099" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788482" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud de Broca</nom>
+            <id>-126099</id>
+            <qualite>président du collectif Handicaps</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="994.63">Le collectif Handicaps représente cinquante-quatre associations nationales de personnes handicapées. Il me paraît très important d’avoir un débat sur la question du handicap à l’Assemblée nationale, quelques semaines après les 20 ans de la loi de 2005 pour l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, et je vous remercie d’en avoir organisé un. Notre collectif a consacré un travail important à l’évaluation de cette loi, que je ne pourrai évidemment pas détailler en cinq minutes, mais que je vous invite à aller consulter. Il nous paraît fondamental de travailler avec l’ensemble des députés à l’amélioration des droits des personnes handicapées.<br/>La loi de 2005 est un texte essentiel, mais elle n’est pas encore pleinement appliquée : c’est là pour nous un enjeu majeur. Nos travaux nous ont d’ailleurs amenés à la conclusion qu’il faut certes des améliorations législatives – et nous soutiendrons toutes les démarches du Parlement visant à améliorer la loi de 2005, puisqu’il est normal qu’un texte vieux de 20 ans soit remis au goût du jour et intègre des sujets nouveaux –, mais que tout ne relève pas de la loi. Notre rôle est donc aussi de mobiliser l’ensemble des acteurs concernés. Je pense notamment aux départements, qui ont un rôle essentiel dans la politique du handicap, mais aussi au gouvernement, avec lequel nous aimerions travailler un peu plus, et un peu plus en concertation, même s’il a déjà pris en charge quelques sujets.<br/>Nous avons pour ambition de travailler sur des questions cruciales pour les personnes handicapées, à commencer par celle de l’accessibilité. Vingt ans après la loi de 2005 et cinquante ans après la loi de 1975, la situation reste déplorable, qu’il s’agisse de l’accessibilité des bâtiments et du logement ou de l’accessibilité numérique. On ne peut pas se satisfaire de l’argument qui consiste à dire que les sites internet existaient avant la loi de 2005 et qu’il est difficile de les moderniser. Les démarches en ligne ont toutes été introduites après 2005, et même après 2020, voire 2022. Il y a là, de notre point de vue, une absence de volonté politique, donc de traduction administrative, et nous pensons qu’il faut, face à cela, renforcer les sanctions. Sur de nombreux sujets, on a longtemps compté sur la bonne volonté des acteurs, mais vingt ans, voire cinquante ans plus tard, on arrive peut-être au bout d’un système et nous pensons qu’un tel renforcement est nécessaire, notamment en matière d’accessibilité.<br/>Le handicap concerne 12 millions de personnes, et même 20 millions si l’on compte les aidants. Il est essentiel de les considérer comme des citoyens à part entière et de faire en sorte qu’elles puissent vivre dignement, comme tout le monde. Nous avons une série de propositions à faire, dont certaines pourraient trouver une traduction législative, relatives notamment au logement, à l’emploi et au fonctionnement des maisons départementales des personnes handicapées (MDPH), et nous espérons que le débat nous permettra de les détailler.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2724485" ordre_absolu_seance="14" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788487" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1290.75">La parole est à Mme Pascale Ribes, présidente d’APF France handicap.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2724486" ordre_absolu_seance="15" id_acteur="PA-126109" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788488" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Pascale Ribes</nom>
+            <id>-126109</id>
+            <qualite>présidente d’APF France handicap</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1299.54">Je tiens à remercier M. le député Sébastien Saint-Pasteur d’avoir demandé l’organisation de ce débat sur la politique du handicap en France. Le fait d’inscrire ce temps partagé de réflexion et d’échanges à la fois dans l’agenda du Parlement et dans celui du gouvernement est essentiel pour faire avancer les droits des personnes en situation de handicap et pour garantir enfin à ces dernières une pleine citoyenneté.<br/>Depuis son origine, notre association, APF France handicap, dénonce les injustices, les discriminations et les inégalités vécues par les personnes en situation de handicap et milite pour le respect et l’effectivité de leurs droits : pas plus, pas moins, mais tous les droits et toutes les libertés fondamentales. Notre mouvement combat pour les droits civiques et a l’ambition de bâtir une société « inclusiverselle », fondée sur une approche par les droits, qui n’oppose pas les humains entre eux, qui n’essentialise pas le handicap et qui nous donne le pouvoir d’agir sur tout ce qui nous concerne. C’est forte de cette ambition que je m’adresse à vous aujourd’hui.<br/>Cinquante ans après la première loi relative au handicap de 1975, vingt après celle de 2005 et quinze ans après la ratification par la France de la Convention internationale relative aux droits des personnes handicapées (CIDPH), le handicap reste le premier motif de discrimination en France, pour la huitième année consécutive, selon le dernier rapport de la Défenseure des droits. Les personnes en situation de handicap sont encore empêchées au quotidien dans tous les domaines et privées de leurs droits fondamentaux : se déplacer librement ; aller à l’école ; travailler ; bénéficier de ressources dignes et d’aides nécessaires à leur autonomie ; se soigner ; avoir un logement, des loisirs, une vie intime, affective et sexuelle. Qui serait prêt à accepter de vivre dans un pays ségrégationniste ? C’est pourtant la réalité que vivent aujourd’hui les 12 millions de Français en situation de handicap, ainsi que leurs familles. Or l’État n’a toujours pas pris la mesure de cette situation. C’est d’ailleurs ce que soulignent clairement les décisions prises successivement par les Nations unies, en 2021, et par le Conseil de l’Europe, en 2022 : ces deux institutions ont en effet condamné l’État français pour violation de ses obligations envers les personnes en situation de handicap.<br/>Permettez-moi de vous présenter certaines des mesures qui nous semblent indispensables pour en finir avec cette ségrégation et l’exclusion qui en découle, en commençant par une actualité brûlante et choquante. Je suis révoltée par le fait que le rapport critique sur la loi Elan, établi par l’Inspection générale de l’environnement et du développement durable (Igedd), ait été délibérément écarté par le ministre du logement et que ses conclusions n’aient pas été transmises à la représentation nationale. Ce rapport montre que la loi Elan n’a pas permis de faire des économies et qu’elle a marqué un recul majeur pour les personnes en situation de handicap. Pour moi, cette loi a introduit un véritable permis de discriminer, sur lequel il convient de revenir en abrogeant son article 64.<br/>Il n’y a pas de République inclusive sans lutte contre les discriminations. Cette lutte doit devenir une priorité nationale. Il faut une politique globale et coordonnée, bénéficiant de moyens humains et financiers suffisants, un renforcement des sanctions et une implication de toutes les parties prenantes.<br/>Il n’y a pas d’effectivité des droits fondamentaux sans accessibilité. Il est donc temps de contrôler et de sanctionner les acteurs qui ne respectent pas les règles relatives à l’agenda d’accessibilité programmée (Adap) et au registre public d’accessibilité (RPA). C’est une obligation, pas une option.<br/>Il n’y a pas d’autonomie, ni de participation sociale, pour les personnes en situation de handicap sans accès aux droits. Cet accès doit donc être simplifié. Par exemple, si l’absence de réponse de la MDPH à une demande d’aide valait accord, et non plus refus, cela ne coûterait pas 1 euro de plus, mais ferait gagner un temps précieux aux personnes en situation de handicap.<br/>Il n’y a pas de libre choix des personnes sans transformation de l’offre de services en matière sociale et médico-sociale. Alors oui, je le dis clairement, notre association est résolument engagée dans la désinstitutionnalisation. L’État et les pouvoirs publics ont le devoir de se mobiliser pour lever tous les freins. Nous sommes prêts à le faire, mais la société, l’État, les conseils départementaux le sont-ils ?<br/>Il n’y a pas de politique publique pertinente sans statistiques publiques concernant le handicap. Il est donc nécessaire de produire régulièrement des données genrées sur le handicap et de systématiser sa prise en compte dans la production de données générales, en l’intégrant comme un déterminant social, au même titre que l’âge ou la catégorie socioprofessionnelle.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2724497" ordre_absolu_seance="24" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788499" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1528.67">Merci de conclure.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2724498" ordre_absolu_seance="25" id_acteur="PA-126109" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788500" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Pascale Ribes</nom>
+            <id>-126109</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1621.13">La Convention relative aux droits des personnes handicapées doit être la boussole du gouvernement et des administrations pour garantir l’accès à tous les droits et à toutes les libertés fondamentales, sans exception. Pas plus, mais pas moins, c’est ce que nous demandons. Il importe d’instaurer une méthode de coconstruction avec les personnes en situation de handicap, qui sont directement concernées, ainsi qu’une évaluation continue des politiques publiques. Aussi ne prônons-nous pas, à APF France handicap, l’adoption d’une nouvelle grande loi. Certes, cela a été dit, la loi de 2005 doit être revue et mise à jour sur certains points, mais nous avons établi une liste de mesures qui pourraient par exemple faire l’objet d’une proposition de loi relative à la vie quotidienne des personnes handicapées ; en comblant les trous dans la raquette, elle aurait un impact direct et immédiat. Notre priorité est de rendre les droits effectifs, sans attendre.<br/>Mesdames et messieurs les parlementaires, ensemble, faisons en sorte que notre pays soit à la hauteur de sa devise,<italique> Liberté, Égalité, Fraternité</italique>, pour toutes et tous ! La République, c’est nous aussi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724597" ordre_absolu_seance="27" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788542" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1694.79">La parole est à Mme Violette Viannay, vice-présidente du CNCPH.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724598" ordre_absolu_seance="28" id_acteur="PA-126119" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788543" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Violette Viannay</nom>
+            <id>-126119</id>
+            <qualite>vice-présidente du Conseil national consultatif des personnes handicapées</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1704.82">Je vous remercie d’associer le CNCPH à ce débat touchant le bilan de la politique publique relative aux personnes handicapées. Notre association à ce type de travaux parlementaires est très importante pour nous, puisque les politiques qui concernent ces personnes doivent être coconstruites. La principale mission du CNCPH consiste précisément à s’assurer de la représentation et de la participation des personnes handicapées, de leurs familles et de ceux qui interviennent dans le cadre de leur autonomie à la coconstruction des politiques publiques les concernant – or, je le précise d’ores et déjà, toutes les politiques concernent les personnes en situation de handicap. Peut-être aurons-nous l’occasion d’en reparler dans un deuxième temps du débat, mais force est de constater que lorsqu’elles ne sont pas associées aux travaux législatifs, aux réflexions en cours, il s’ensuit des décalages, des loupés ; nous serions plus efficaces si les consultations étaient effectives et l’association pratiquée dès le début.<br/>Le CNCPH a également pour mission de s’assurer de la mobilisation des institutions et des acteurs publics, les ministères étant les principaux concernés ; nous travaillons ainsi très régulièrement avec le comité interministériel du handicap (CIH), qui nous permet de suivre les feuilles de route des ministres sur les points relatifs à ce sujet. Je le redis, notre objectif est que le droit commun devienne pour nos ministres le fil rouge de l’élaboration de la politique publique.<br/>S’agissant du bilan, du point de vue de la méthode, comme vous le savez, la loi de 2005 prévoit la remise d’un rapport au Parlement tous les trois ans, à l’issue de la Conférence nationale du handicap (CNH) : pour la période 2020-2023, ce rapport n’a pas été présenté, ce que nous regrettons. Cela étant, le CNCPH a publié en juillet 2024 son dernier avis en date, auquel je vous invite à vous reporter afin de nourrir vos réflexions. Nous sommes d’autant plus attachés au bilan de la loi de 2005 qu’elle a effectivement eu 20 ans cette année, et assez unanimes pour considérer ce bilan comme plutôt mitigé : il faut vraiment aller plus vite, voire rattraper un certain retard dans son application, notamment pour ce qui est du volet qui résume sinon l’essence, du moins l’esprit du texte – celui de l’accessibilité.<br/>Pour conclure ce propos liminaire, je souhaiterais insister sur quelques points ayant structuré nos derniers travaux. À l’occasion de l’anniversaire de la loi, nous avons ainsi organisé une consultation qui nous a amenés à proposer une dizaine de mesures, dont certaines prises en compte, à ce stade, dans le travail législatif. Je me permets toutefois, je le répète, de revenir sur quelques éléments, le premier étant la définition du handicap : nous devons absolument, en France, nous mettre d’équerre avec la Convention internationale relative aux droits des personnes handicapées. Celle-ci prend en compte l’ensemble des discriminations que subissent ces personnes sans les rendre individuellement responsables de leur situation, puisqu’elle définit le handicap comme supposant un environnement qui n’est pas favorable à tous.<br/>Deuxième point, que mes camarades Arnaud de Broca et Pascale Ribes ont également rappelé : la législation doit être pensée avec tout le monde, et servir tous les Français. Nous aimerions que le Parlement intègre systématiquement à sa démarche un volet consacré au handicap ou une analyse des aspects touchant les personnes en situation de handicap, même lorsque l’intitulé de la proposition ou du projet de loi en débat, sur le papier, ne concerne pas directement ces personnes. Nous sommes en 2025 : la loi de 2005 a évolué dans un environnement où personne n’anticipait de nouvelles discriminations, d’où l’importance de ce changement de méthode.<br/>Peut-être aurons-nous l’occasion de revenir sur la question de l’accessibilité, notamment de l’assistance sexuelle.<br/>Face aux importants problèmes actuels de droit commun, il est nécessaire de garder en tête trois notions : la coconstruction, la sanction et surtout le fait que nous devons tous nous mobiliser pour nous assurer d’être crédibles – compte tenu de l’ampleur, en France, des problèmes d’accessibilité, la question de crédibilité, sinon de dignité, est réelle.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724603" ordre_absolu_seance="35" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788548" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2056.58">Nous en venons aux questions : j’invite les députés qui souhaitent intervenir dans le cadre de cette table ronde à s’inscrire auprès de la direction de la séance. Chaque question sera immédiatement suivie de la réponse, afin que le débat soit le plus fluide possible.<br/> La parole est à M. Sébastien Saint-Pasteur, à qui revient l’initiative de ce débat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724604" ordre_absolu_seance="36" id_acteur="PA841243" id_mandat="PM842825" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788549" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Saint-Pasteur (SOC)</nom>
+            <id>841243</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2081.09">Je vous adresse mes sincères remerciements pour avoir accepté cette invitation et, plus largement, des remerciements appuyés au mouvement associatif, dont vous êtes en quelque sorte, aujourd’hui, la quintessence. Ce mouvement se bat depuis tant d’années au niveau local ou national et nous lui devons tant s’agissant des avancées dans le champ du handicap – elles sont innombrables, c’est la première chose qui doit être dite.<br/>En tant que parlementaires, nous pouvons tous, grâce à nos permanences, dresser un bilan en matière de délais de traitement des dossiers, de défaillances dans la mise en œuvre des droits, de temps d’accès aux établissements médico-sociaux. Vous êtes en mesure de le faire encore plus finement ; reste, comme cela a été évoqué, un problème d’évaluation globale. Des données sont produites par les MDPH, par la Caisse nationale de solidarité pour l’autonomie (CNSA), mais s’agissant par exemple de l’effectivité des droits touchant la scolarisation, l’accompagnement humain en milieu scolaire, je suis incapable de savoir quelle est la réalité au sein de ma circonscription ou du département. Il importe donc de commencer par esquisser ce bilan, ce volet évaluatif.<br/>Vous n’avez pas fait l’économie d’une projection, d’une perspective. Nous avons été un certain nombre de parlementaires à demander – il semble que Mme la ministre y ait répondu favorablement – l’inscription à l’ordre du jour de l’Assemblée d’un texte – en l’espèce un projet de loi, il y a pour cela des raisons – au sujet duquel votre avis demeure un peu réservé. Un tel texte nous paraît essentiel : sans lui, il se pourrait que cette année, qui marque les 20 ans de la loi de 2005 et les 50 ans de celle de 1975, soit une année blanche ! En partant de la citoyenneté, en allant vers un renforcement des sanctions, en instaurant au fur et à mesure des améliorations modestes mais concrètes, un texte de progrès et de modernisation constituerait une bonne façon de faire œuvre utile sur ce sujet qui peut rassembler toutes les composantes de l’Assemblée nationale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724607" ordre_absolu_seance="39" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788552" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2139.37">La parole est à M. Arnaud de Broca.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724608" ordre_absolu_seance="40" id_acteur="PA-126099" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788553" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud de Broca</nom>
+            <id>-126099</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2226.39">Année blanche, voire année noire, puisque, depuis quelques mois, il ne se passe pas grand-chose : il y a certes des comités de pilotage ou de lancement, des choses qui s’organisent, mais on observe peu de progrès concrets. Nous saluons et soutiendrons toute initiative parlementaire,<italique> a fortiori</italique> transpartisane, ce qui, étant donné le contexte, serait essentiel ; quant à son contenu, nous voudrons forcément, par définition, aller plus loin. De notre point de vue, d’ailleurs, quand il s’agit d’améliorer les droits des personnes handicapées, tout ne relève pas de la loi : pour prendre le cas des questions d’évaluation citées, on peut prévoir des dispositions législatives, ce n’est pas cela qui changera tout. Citons aussi l’observation des besoins, qui n’est pas sans lien avec l’évaluation ; si l’on ne sait pas quels sont les besoins et dans quels territoires, on aura du mal à mener une politique publique aussi efficiente. Il y aurait beaucoup à dire au sujet de l’évaluation, mais l’observation des besoins est également capitale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724609" ordre_absolu_seance="41" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788554" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2252.93">La parole est à Mme Violette Viannay.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724610" ordre_absolu_seance="42" id_acteur="PA-126119" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788555" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Violette Viannay</nom>
+            <id>-126119</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2295.01">J’aimerais rebondir sur la remarque d’Arnaud, qui évoquait le contenu du texte à venir, pour en revenir à la méthode et saluer de nouveau le fait que les parlementaires se saisissent du sujet, souhaitent être beaucoup plus actifs : il serait super que la ministre impulse une dynamique favorable. Seulement, encore une fois, cette politique publique, qu’il s’agisse d’un projet de loi ou d’une mise à jour de la législation en vigueur, doit être pensée avec les personnes concernées – je suppose que mes collègues partagent cette opinion. S’il vous plaît, pensez à associer dès le début les personnes handicapées à vos travaux, afin que nous tracions ensemble les grandes lignes, et non à la toute fin des consultations, quand il s’agit de recueillir leur avis au sujet de quelques amendements !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724611" ordre_absolu_seance="43" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788556" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2355.83">La parole est à Mme Pascale Ribes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724612" ordre_absolu_seance="44" id_acteur="PA-126109" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788557" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Pascale Ribes</nom>
+            <id>-126109</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2368.39">Je souscris aux propos d’Arnaud et de Violette ; j’ajouterai qu’alors que la loi du 11 février 2005 visait, comme l’indique son intitulé, à « l’égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées », son bilan tel que nous le faisons, domaine par domaine, non seulement ne révèle pas beaucoup d’avancées, mais met au jour des reculs. Il faut donc réellement la réinscrire à l’agenda. Pour ma part, je ne souhaite pas de nouveau texte : cette loi contient tout, il suffit de la rendre effective et, là où elle présente des lacunes, de se référer à la Convention internationale relative aux droits des personnes handicapées – la France l’a ratifiée, ce n’est donc pas une option facultative.<br/>Je crois l’avoir dit, le handicap reste en France, pour la huitième année consécutive, la première cause de discrimination : cela montre que nous avons un problème systémique, un problème de politique publique, et qu’il faut agir sur ce point. Vingt ans après le tournant historique de la loi de 2005, nous devrions célébrer des avancées ; en réalité, les inégalités subsistent, avec quelques petits progrès et, en matière d’accessibilité, des reculs – alors même que l’accessibilité constitue une condition<italique> sine qua non</italique> d’accès aux autres droits, puisque sans elle, il n’est possible de rien faire. Il faudrait à tout le moins avancer très vite dans ce domaine, d’autant que par rapport à d’autres pays, la France, sur ce point, fait figure de très mauvais élève, et que rien ne justifie que l’on nous maintienne à l’écart comme on le fait.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724614" ordre_absolu_seance="46" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788559" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2488.47">La parole est à Mme Sophie Mette.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724615" ordre_absolu_seance="47" id_acteur="PA719640" id_mandat="PM842831" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788560" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sophie Mette (Dem)</nom>
+            <id>719640</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2496.01">Permettez-moi tout d’abord de vous remercier pour votre engagement et votre expertise dans le domaine de l’inclusion et des droits des personnes en situation de handicap. Vingt ans après la loi du 11 février 2005, il est plus que jamais nécessaire de dresser le bilan de la politique nationale relative aux droits des personnes handicapées. Ce bilan est en effet contrasté : si des avancées majeures ont été réalisées, par exemple la création des MDPH, le développement de la prestation de compensation du handicap (PCH) ou l’amélioration de l’accessibilité des infrastructures, des défis subsistent. L’accès aux droits reste parfois un parcours du combattant, encombré par des délais de traitement longs, des inégalités persistantes et une lourdeur administrative.<br/>Dans le cadre de la mission d’évaluation des politiques publiques pour favoriser l’accès à la culture des personnes en situation de handicap, dont j’étais corapporteure, nous avons avancé plusieurs propositions, dont celle d’intégrer un critère d’accessibilité aux appels à projets culturels. Cette mesure vise à promouvoir une culture accessible à tous, conformément aux engagements de notre pays. J’aimerais donc vous interroger sur plusieurs points : comment jugez-vous le bilan de la politique nationale en matière de droits des personnes handicapées, notamment dans le domaine de la culture ? Quels sont, selon vous, les principales avancées et les freins persistants ? S’agissant de notre suggestion d’intégrer l’accessibilité aux appels à projets, quels seraient les principaux obstacles, financiers ou organisationnels, par exemple, à anticiper ? Enfin, quelles autres mesures pourraient être envisagées pour renforcer l’inclusion des personnes en situation de handicap dans la vie culturelle, et comment les différents acteurs pourraient-ils agir ensemble afin d’atteindre cet objectif ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724617" ordre_absolu_seance="49" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788562" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2579.28">La parole est à M. Arnaud de Broca.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2724618" ordre_absolu_seance="50" id_acteur="PA-126099" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788563" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud de Broca</nom>
+            <id>-126099</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2605.51">Merci de ces nombreuses questions – en deux minutes, nous aurons du mal à répondre à toutes ! Nous pourrons cependant poursuivre cet échange, puisque le collectif Handicaps et le CNCPH ont travaillé sur les questions liées à la culture ; nous avons évidemment lu votre rapport avec attention et nous pourrions apporter un certain nombre d’éléments.<br/>Le bilan est mauvais, voire désastreux. La culture fait partie des sujets que la loi de 2005 n’a pas pris en compte, si ce n’est par le biais de l’accessibilité des établissements recevant du public. Le sujet est vaste, puisqu’il englobe notamment les musées, le cinéma, la télévision, le spectacle vivant. Malgré le silence de la loi de 2005, des progrès ont été réalisés, mais on reste très loin de l’accessibilité. Il est par exemple difficile de savoir précisément quelles salles de cinéma sont accessibles. L’accès à la culture dans la vie quotidienne des personnes handicapées reste très compliqué.<br/>Le conditionnement des financements à un critère d’accessibilité me semble indispensable, que ce soit dans le champ de la culture ou dans d’autres domaines. Cela soulèverait très certainement des questions complexes pour les acteurs du secteur, mais on ne tergiverse pas autant sur d’autres sujets ! Pour notre part, nous partons du principe que la culture doit être accessible à toutes les personnes handicapées ; ensuite, c’est aux autres de s’adapter, même si cela coûte un peu plus cher.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724504" ordre_absolu_seance="53" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788708" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2638.57">La parole est à Mme Pascale Ribes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724505" ordre_absolu_seance="54" id_acteur="PA-126109" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788709" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Pascale Ribes</nom>
+            <id>-126109</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2736.20">Il reste beaucoup à faire dans le domaine de la culture, même si c’est difficile. Il faut agir tout autant pour le public en situation de handicap que pour les professionnels du secteur. Je suis moi aussi favorable, dans le cadre des appels d’offres, au conditionnement de certaines subventions à un critère d’accessibilité. C’est une bonne idée de soumettre une partie des aides publiques à l’effectivité de l’accessibilité des établissements publics culturels, que ce soit pour les artistes ou pour le public qui vient assister aux représentations.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724506" ordre_absolu_seance="55" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788710" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2813.31">La parole est à Mme Violette Viannay.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724507" ordre_absolu_seance="56" id_acteur="PA-126119" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788711" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Violette Viannay</nom>
+            <id>-126119</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2817.28">Je rejoins ce qu’ont dit mes collègues. En ce qui concerne l’accessibilité des lieux de culture, je serai cependant un peu plus nuancée. Le bilan ne me semble pas si catastrophique, notamment si l’on considère les initiatives prises par certains établissements en matière d’accessibilité du spectacle vivant.<br/>S’agissant du conditionnement des financements à un critère d’accessibilité, pourquoi pas, mais je rappelle que beaucoup d’établissements dépendent des collectivités territoriales, et non de l’État. Pour procéder à la mise aux normes et rendre l’accessibilité plus effective, sinon universelle, il faut donc aussi réfléchir à l’articulation entre le financement et le millefeuille administratif.<br/>Je remercie Pascale Ribes, qui a souligné que la question de l’accessibilité des lieux de culture ne concerne pas seulement le public, mais aussi les artistes et les employés des établissements.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724510" ordre_absolu_seance="59" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788714" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2892.62">La parole est à M. Olivier Serva.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724511" ordre_absolu_seance="60" id_acteur="PA720960" id_mandat="PM843758" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788715" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Olivier Serva (LIOT)</nom>
+            <id>720960</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2902.82">Je tiens à saluer le travail que vous accomplissez au quotidien auprès des personnes en situation de handicap. Je salue également les associations de bénévoles et de professionnels du service à la personne qui, notamment dans ma circonscription, en Guadeloupe, déplacent des montagnes alors qu’elles ne disposent que de moyens réduits.<br/>Quel regard portez-vous sur l’insertion professionnelle des personnes en situation de handicap ? Je les appelle « autrement capables », sur la suggestion d’un jeune Guadeloupéen. Que pensez-vous de cette nouvelle expression ?<br/>À l’échelle nationale, le taux de chômage des personnes en situation de handicap reste supérieur à celui du reste de la population, bien qu’il soit en forte diminution – il est passé de 15 % à 12 % entre 2021 et 2022. Dans le même temps, celui de la population dans son ensemble est passé de 8 % à 7 %. Je ne dispose malheureusement pas de chiffres récents documentant la situation dans les outre-mer, dont le marché de l’emploi est spécifique. Une étude sur le handicap en Guadeloupe menée par l’Insee en 2011 indiquait cependant que seules 16 % des personnes en situation de handicap occupaient un emploi. Cette même étude pointait que les cadres et les professions libérales étaient dix fois moins représentés parmi les personnes en situation de handicap que dans le reste de la population guadeloupéenne de 15 ans et plus.<br/>Après avoir dressé ce constat, je souhaite vous poser plusieurs questions : quel regard portez-vous sur l’évolution de l’insertion professionnelle des personnes en situation de handicap ces dernières années ? Disposez-vous de données spécifiques portant sur l’outre-mer ? Quelles pistes préconiseriez-vous pour améliorer l’efficacité de l’obligation d’emploi des travailleurs handicapés (OETH), réformée par la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724515" ordre_absolu_seance="64" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788719" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2975.62">La parole est à M. Arnaud de Broca.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724516" ordre_absolu_seance="65" id_acteur="PA-126099" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788720" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud de Broca</nom>
+            <id>-126099</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3030.15">Vous avez cité des chiffres qui témoignent d’une amélioration en matière d’insertion professionnelle. On pourrait s’en satisfaire mais il faut garder en tête que le taux de chômage des personnes handicapées reste deux fois supérieur à celui du reste de la population. Cela doit conduire à nous interroger, même si les statistiques s’améliorent.<br/>Dans les travaux du collectif Handicaps, nous insistons beaucoup sur la question du maintien en emploi, un sujet majeur et insuffisamment traité. Les licenciements pour inaptitude restent trop nombreux. Rappelons que la majeure partie des handicaps ne sont pas des handicaps de naissance ; ils apparaissent au cours de la vie, causés par un accident du travail, une maladie professionnelle ou un autre type d’accident. Quand un tel handicap apparaît, le maintien en emploi est très compliqué. Par ailleurs, il faut aussi se poser la question de la qualité de l’emploi et de l’évolution de carrière.<br/>Nous saluons la baisse du taux de chômage des personnes handicapées, qui est réelle, mais il faut voir au-delà des chiffres ; du reste, ces taux restent très élevés.<br/>Nous ne disposons pas de données précises sur l’outre-mer – l’Association de gestion du fonds pour l’insertion professionnelle des personnes handicapées (Agefiph) en a probablement.<br/>L’exigence du maintien en emploi soulève de nombreuses questions, comme le fonctionnement des services de santé au travail ou les licenciements pour inaptitude.<br/>Enfin, l’insertion professionnelle ne relève pas nécessairement du législatif. Nous disposons déjà de plusieurs outils : la loi de 1987 en faveur de l’emploi des travailleurs handicapés, celle de 2005 sur la fonction publique, et celle, plus récente, sur le plein emploi, qui a été évoquée. Il s’agit davantage de coordonner les acteurs, de les sensibiliser et, peut-être, de les sanctionner que de remettre à plat toutes les dispositions législatives.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724522" ordre_absolu_seance="71" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788726" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3144.69">La parole est à Mme Violette Viannay.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724523" ordre_absolu_seance="72" id_acteur="PA-126119" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788727" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Violette Viannay</nom>
+            <id>-126119</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3146.74">La question de l’insertion professionnelle rejoint une nouvelle fois celle de l’accessibilité. Il est impossible de traiter cette question, notamment celle du maintien en emploi, sans prendre en compte l’accessibilité, en premier lieu celle du lieu de travail, vaste sujet sur lequel il faut que nous avancions plus rapidement.<br/>Par ailleurs, qui dit insertion professionnelle dit formation, des jeunes et des moins jeunes. Pour qu’elles puissent s’insérer, ces personnes doivent en effet développer des compétences.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724525" ordre_absolu_seance="74" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788729" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3237.28">La parole est à Mme Pascale Ribes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724526" ordre_absolu_seance="75" id_acteur="PA-126109" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788730" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Pascale Ribes</nom>
+            <id>-126109</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3242.47">Je ne dispose pas de données sur l’emploi en Guadeloupe. Le manque de données est d’ailleurs l’un des principaux problèmes de la politique du handicap : on ne peut pas avancer, corriger et évaluer les politiques publiques sans données. La situation en Guadeloupe est à ma connaissance pire que celle de l’Hexagone. De manière générale, le taux de chômage des personnes en situation de handicap qui peuvent travailler est deux fois plus élevé que celui de la population générale – on a tout dit ! D’autres obstacles sont liés aux préjugés. Nous formulons des propositions afin de mettre un terme à ces discriminations quotidiennes, qui sont importantes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724527" ordre_absolu_seance="76" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788731" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3312.42">La parole est à M. Peio Dufau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724528" ordre_absolu_seance="77" id_acteur="PA841633" id_mandat="PM843182" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788732" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Peio Dufau (SOC)</nom>
+            <id>841633</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3325.51">Ma question porte sur le numérique, que vous avez évoqué dans vos propos liminaires. Nous savons tous qu’en dépit de la loi, les sites institutionnels restent relativement peu accessibles. La communauté d’agglomération du Pays basque a analysé cette situation : nous avons déterminé que ce manque d’accessibilité n’était pas principalement dû à de la mauvaise volonté, mais à des difficultés pour se faire livrer un site accessible. Quand une commune ou une agglomération publie un appel d’offres pour un nouveau site, elle précise bien que le site doit être 100 % accessible. Or cet objectif est rarement atteint. Le problème, c’est que c’est le donneur d’ordre qui est susceptible d’être sanctionné pour n’avoir pas atteint cet objectif, alors qu’il figurait bien dans le cahier des charges.<br/>Ne pensez-vous pas que sanctionner l’exécutant qui s’est engagé en acceptant un cahier des charges comprenant une exigence d’accessibilité totale, plutôt que le donneur d’ordre, permettrait d’avancer en améliorant l’efficacité des acteurs du numérique, tout en les incitant à se former davantage ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724530" ordre_absolu_seance="79" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788734" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3378.33">La parole est à M. Arnaud de Broca.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724531" ordre_absolu_seance="80" id_acteur="PA-126099" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788735" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud de Broca</nom>
+            <id>-126099</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3417.23">Oui, c’est une solution possible. Il ne faut toutefois pas complètement dédouaner le donneur d’ordre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724532" ordre_absolu_seance="81" id_acteur="PA841633" id_mandat="PM843182" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788736" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Peio Dufau</nom>
+            <id>841633</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3420.74">Non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2724533" ordre_absolu_seance="82" id_acteur="PA-126099" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788737" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud de Broca</nom>
+            <id>-126099</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3422.84">C’est à lui qu’il revient de contrôler le produit livré.<br/>Par principe, nous pensons qu’il faut muscler les sanctions, dans tous les domaines, et, surtout, les appliquer. Cela demande du courage.<br/>J’ai coutume de citer un chiffre hallucinant : en 2025, seules 3 % des 250 démarches essentielles sont accessibles ! À l’avant-dernier comité interministériel du handicap, on nous avait annoncé que 100 % de ces sites seraient accessibles d’ici fin 2025 ; lors de la dernière réunion, le premier ministre, que nous avons dû relancer, nous a dit que le gouvernement se fixait à présent un objectif de 50 % ; il en était tout fier. Je ne sais pas ce qui a été accompli depuis – sûrement pas grand-chose. Au prochain comité interministériel, si l’on nous annonce un objectif de 10 %, nous pourrons donc nous estimer heureux. La politique du handicap recouvre beaucoup de scandales, mais celui-ci est particulièrement saillant.<br/>Certes, cela soulève des questions budgétaires, mais justement : il s’agit de choix. Que ce soit avec l’initiative transpartisane dont il a été question plus tôt, avec les annonces faites dans le cadre de la Conférence nationale du handicap ou du comité interministériel du handicap, ou plus généralement avec la politique du handicap, on oublie toujours le volet financier. On peut nous promettre tout ce qu’on veut ; sans les financements correspondants, la situation ne changera pas.<br/>Enfin, pour répondre à votre question précise, la réponse est oui.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724539" ordre_absolu_seance="87" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788569" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3504.51">La parole est à Mme Violette Viannay.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724540" ordre_absolu_seance="88" id_acteur="PA-126119" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788570" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Violette Viannay</nom>
+            <id>-126119</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3542.31">Je rejoins entièrement le propos d’Arnaud de Broca. Le CNCPH l’a écrit et réaffirmé : la priorité en matière de numérique est d’assurer l’accessibilité des démarches essentielles. On ne peut pas parler d’accès aux droits ou de pleine participation des personnes en situation de handicap si elles ne peuvent pas effectuer leurs démarches et avoir accès à leurs droits en ligne. Cela concerne une multitude de situations : prendre un rendez-vous chez le médecin, aller sur un site pour acheter un billet pour un spectacle ou un titre de transport, mettre à jour des données sur son identité… Il est plus qu’urgent de remettre ce sujet sur la table.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724541" ordre_absolu_seance="89" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788571" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3593.20">La parole est à Mme Pascale Ribes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724542" ordre_absolu_seance="90" id_acteur="PA-126109" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788572" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Pascale Ribes</nom>
+            <id>-126109</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3596.32">J’appuie les propos de Violette Viannay. Le phénomène de fracture numérique concerne un certain nombre de publics et pas seulement les personnes en situation de handicap.<br/>Dans un contexte où la plupart des démarches sont dématérialisées, un fossé se creuse de fait entre ceux qui peuvent se servir du numérique et ceux qui ne le peuvent pas. De surcroît, les personnes en situation de handicap doivent bénéficier d’outils numériques adaptés – aujourd’hui, ce n’est pas le cas. Dès lors, en termes d’accès aux droits, le fossé se creuse de manière très importante.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724544" ordre_absolu_seance="92" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788574" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3632.95">Madame Viannay, vous souhaitez compléter votre réponse.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724545" ordre_absolu_seance="93" id_acteur="PA-126119" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788575" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Violette Viannay</nom>
+            <id>-126119</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3648.03">Arnaud de Broca parlait de financement et d’investissement. Certes, c’est un problème, mais ce n’est pas toujours une raison valable pour justifier l’inaccessibilité. Nous en parlerons peut-être, et certains d’entre vous ont peut-être des questions à ce propos : nous savons que le fonds territorial d’accessibilité n’est pas toujours utilisé et que de nombreuses institutions, commerces ou structures ne se saisissent pas toujours des solutions qui sont pourtant à leur portée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724546" ordre_absolu_seance="94" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788576" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3680.22">La parole est à M. Sébastien Saint-Pasteur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724547" ordre_absolu_seance="95" id_acteur="PA841243" id_mandat="PM842825" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788577" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Saint-Pasteur (SOC)</nom>
+            <id>841243</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3684.94">Je voulais vous remercier de nous avoir éclairés et de rappeler certaines évidences sur les retards de la mise en œuvre de la loi de 2005 et sur ceux qui concernent plus généralement l’inclusion en France.<br/>Je rappelle que nous sommes chacun dans notre rôle. En tant qu’acteurs associatifs, il est tout à fait naturel que vous soyez exigeants ; c’est légitime. Il est tout aussi naturel que vous rappeliez la promesse républicaine et le défaut de certains élus qui ont proposé des textes très verbeux ; je pense aux démarches « zéro sans solution » ou « réponse accompagnée pour tous », qui se heurtent à des murs de réalité parfois vertigineux.<br/>En tant que parlementaires, nous devons désormais adopter une approche nouvelle, guidée par deux boussoles : l’utilité et l’humilité. C’est en tout cas ainsi que je conçois notre rôle.<br/>Je suis député de l’opposition. Nous sommes dans un contexte budgétaire extrêmement contraint. Pourtant, je crois sincèrement que nous pouvons faire émerger des axes de progrès. Je parle par exemple de la citoyenneté comme étant un élément majeur.<br/>Je suis désolé que Sébastien Peytavie ne soit pas là, mais je pense que si le texte de loi sur le remboursement des fauteuils roulants avait été porté par quelqu’un d’autre que lui, il n’aurait peut-être pas eu la même résonance. Il faut le reconnaître.<br/>La question des sanctions est également essentielle. Il n’y a peut-être pas d’incidence budgétaire pour l’État en la matière, mais quand on a des carences en matière d’obligation d’emploi, de scolarisation, d’accès aux droits et d’accessibilité numérique, il me semble qu’il faut renforcer les sanctions. À défaut de convaincre, il faut parfois contraindre.<br/>Tel est le chemin que l’on essaye d’esquisser et que nous devrons construire en lien avec les personnes en situation de handicap – j’ai été très sensible à cet appel. Mes premiers mots étaient des mots de remerciements pour ce que vous avez apporté au débat ; je pense que vous avez encore beaucoup à apporter.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724554" ordre_absolu_seance="102" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788584" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3780.47">La parole est à M. Arnaud de Broca.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724555" ordre_absolu_seance="103" id_acteur="PA-126099" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788585" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud de Broca</nom>
+            <id>-126099</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3805.33">Tout d’abord, évidemment, chacun est dans son rôle. Nous en avons conscience. L’essentiel est que ces deux rôles puissent se rejoindre et échanger, ce qui est le cas dans le cadre de ce débat comme dans d’autres contextes. C’est particulièrement important.<br/>Chacun est dans son rôle, et le vôtre est essentiel, à condition que vous soyez bien informés et éclairés. Cela a été dit en introduction par Pascale Ribes, mais je souhaite insister sur le fait que la version du rapport d’évaluation de la loi Elan transmis au Parlement dit l’inverse de ce que dit la version transmise au gouvernement. Cela peut vous paraître anecdotique, mais pour moi, ça ne l’est pas du tout. Cela soulève des interrogations quant à la manière dont vous remplissez votre rôle, et sur les informations sur lesquelles vous vous fondez. Certes, les rapports ne constituent pas votre seule source d’information, mais on sait que c’en est une.<br/>Ensuite, effectivement, tout ne coûte pas cher ; je suis d’accord. En revanche, si nous visons de réelles évolutions structurelles, nous aurons besoin de financements. L’aspect transpartisan de ce sujet trouve d’ailleurs là ses limites, mais il me paraît sain que les différents partis politiques puissent formuler des propositions distinctes sur le financement de la politique de l’autonomie. Nous appelons de nos vœux la tenue d’un véritable débat sur le sujet. Ce débat pourrait avoir lieu ici même ou encore au moment de l’élection présidentielle puisque, de notre point de vue, il s’agit d’un vrai sujet de société.<br/>La question du financement de la politique de l’autonomie est un sujet majeur. Cela dit, compte tenu du contexte actuel, il est évidemment possible d’avancer sur des sujets qui ne nécessitent pas forcément de financements importants.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724559" ordre_absolu_seance="107" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788589" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3900.02">La parole est à Mme Pascale Ribes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724560" ordre_absolu_seance="108" id_acteur="PA-126109" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788590" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Pascale Ribes</nom>
+            <id>-126109</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3916.05">Il est nécessaire de contrôler et de sanctionner les acteurs en cas de non-accessibilité, de non-dépôt d’Adap ou de non-dépôt du registre d’accessibilité. C’est une obligation ; ce n’est pas une option.<br/>Concrètement, il faut commencer par la loi Elan qui, dans les faits, donne un véritable permis de discriminer. En soi, cela devrait déjà être suffisamment choquant pour justifier son abrogation.<br/>Je crois qu’une obligation qui n’est pas sanctionnée n’est tout simplement pas appliquée. On le voit tous les jours, je ne connais aucune obligation sans sanction qui soit respectée. S’abstenir de sanctionner les établissements qui ne sont pas conformes et qui n’appliquent pas la loi, c’est d’une certaine manière cautionner et laisser perdurer des discriminations ; c’est rendre la loi totalement inefficace. Ce n’est pas possible. Une obligation ne peut pas rester lettre morte. Sinon, à quoi bon faire des textes de loi ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724563" ordre_absolu_seance="111" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788593" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3999.28">La parole est à Mme Violette Viannay.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724564" ordre_absolu_seance="112" id_acteur="PA-126119" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788594" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Violette Viannay</nom>
+            <id>-126119</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4007.64">Je rejoins ce que vient de dire Pascale Ribes quand elle fait mention de l’inefficacité de la loi. Je vous disais en préambule qu’il s’agit également d’une question de crédibilité. Nous sommes tout de même dans un pays où la notion de droit est fondamentale ; pourtant, quand il s’agit d’étudier la situation des personnes handicapées, force est de constater que le sujet reste très épineux.<br/>Je souhaite tout de même faire une dernière remarque de méthode et émettre une suggestion. Je ne sais pas ce qu’il en est de mes collègues, mais j’aurais souhaité savoir comment vous associez les observations de la mission d’évaluation de la loi de 2005 lancée par les députés Sébastien Peytavie et Christine Le Nabour à vos travaux. Lors de cet échange, nous avons dit qu’il était important de se coordonner et d’associer l’ensemble des personnes concernées. Nous y avons contribué, je pense que vous aussi ; il serait peut-être bienvenu de voir quels sont les points de jonction.<br/>De même, Pascale Ribes faisait référence à la fin du dispositif des Adap, intervenue en septembre dernier. On considère désormais que les structures ne répondant pas à leurs obligations légales en matière d’accessibilité sont hors la loi. J’insiste : il est maintenant nécessaire de considérer ces constats d’inaccessibilité comme de véritables manquements à la loi et comme des délits, tel que cela a été explicité.<br/>Dernièrement, la question de la dignité humaine a souvent été abordée au cours des travaux parlementaires, notamment dans le cadre des débats sur la fin de vie. Vous êtes de plus en plus nombreux à vous saisir de cette notion. J’aimerais rappeler que l’inaccessibilité relève aussi du non-respect de la dignité humaine et de la dignité de la personne. Lorsqu’on aborde les problématiques d’accessibilité sous ce prisme, au-delà du caractère pragmatique de notre vécu quotidien, je peux vous assurer que cela en refroidit plus d’un. Il est urgent de rattraper le retard accumulé depuis la loi du 11 février 2005 notamment.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2724568" ordre_absolu_seance="116" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788598" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4155.44">Merci beaucoup à nos invités pour leur participation à nos travaux.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724619" ordre_absolu_seance="117" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3788634" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724620" ordre_absolu_seance="118" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788635" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4161.98">La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724621" ordre_absolu_seance="119" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3788636" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à neuf heures cinquante-cinq, est reprise à dix heures.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724622" ordre_absolu_seance="120" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788637" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4473.57">La séance est reprise.<br/>Pour cette seconde partie de notre débat, nous accueillons Mme la ministre déléguée chargée de l’autonomie et du handicap.<br/>Madame la ministre déléguée, vous avez la parole.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724624" ordre_absolu_seance="122" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788639" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée chargée de l’autonomie et du handicap</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="4490.98">Je commence par remercier le groupe Socialistes et apparentés d’avoir inscrit ce débat à l’ordre du jour de l’Assemblée nationale et de me donner ainsi l’occasion de parler de la politique d’accès aux droits des personnes en situation de handicap.<br/>L’année 2025 est importante, vous le savez, puisqu’elle marque deux anniversaires majeurs dans l’histoire du handicap en France : il y a cinquante ans, en 1975, la République adoptait sa première grande loi d’orientation en faveur des personnes handicapées, affirmant ainsi pour la première fois les principes d’intégration sociale ; trente ans plus tard, en 2005, la loi du 11 février marquait un nouveau tournant décisif.<br/>Dans ce contexte, plusieurs travaux d’évaluation ont été conduits. Certains ont déjà été rendus publics, comme ceux du Conseil économique, social et environnemental (Cese), du CNCPH mais aussi du Sénat, où chacune des commissions permanentes a dressé un bilan de la loi et formulé des propositions. D’autres travaux sont en cours, notamment la mission coprésidée par les députés Christine Le Nabour et Sébastien Peytavie, qui mènent leur propre travail de bilan et d’identification des mesures qui pourraient être prises non seulement pour que la loi de 2005 soit pleinement effective, mais aussi pour aller plus loin. L’ensemble de ces travaux nourriront la feuille de route du gouvernement pour les personnes en situation de handicap.<br/>La loi de 2005 était ambitieuse et réformatrice. Elle a d’abord donné une nouvelle définition du handicap, afin de prendre en compte toutes les familles de handicap et de favoriser la participation pleine et entière des personnes en situation de handicap à la vie en société.<br/>De là découlent les deux principes fondamentaux inscrits dans la loi : l’accessibilité et la compensation, deux faces d’une même pièce au service d’une société qui donne aux personnes en situation de handicap les mêmes chances et les mêmes droits. L’accessibilité doit permettre à chacun de participer pleinement à la société sans restriction ; plus la société sera accessible, moins la compensation devra prendre le relais.<br/>Je ne dresserai pas de bilan exhaustif dans le temps qui m’est imparti, mais j’aimerais revenir sur quelques éléments saillants.<br/>Pour favoriser le maintien à domicile et une meilleure intégration dans l’espace public, l’obligation d’accessibilité s’est imposée aux différentes composantes de la vie collective, dans les établissements recevant du public et les locaux professionnels, dans les logements et les transports, dans les écoles et les services publics, mais aussi dans la communication en ligne.<br/>Aujourd’hui, 900 000 sur les 2 millions d’établissements recevant du public sont engagés dans une mise en accessibilité ; 97 gares nationales et 237 gares régionales sont inscrites dans les différents schémas d’accessibilité.<br/>Pour ce qui concerne l’école inclusive et le droit de tout enfant porteur de handicap à être inscrit en milieu ordinaire, la loi de 2005 a également marqué un changement d’approche considérable. L’école adaptée n’est désormais plus envisagée que lorsque l’éducation en milieu ordinaire n’est pas possible. Nous comptons aujourd’hui plus de 520 000 élèves en situation de handicap scolarisés dans nos écoles, collèges et lycées, contre 150 000 en 2005. Le nombre des accompagnants d’élèves en situation de handicap (AESH) ne cesse d’augmenter : de 55 000 ETP en 2017, nous sommes passés à 85 000, ce qui représente 140 000 professionnels.<br/>En matière d’emploi, la loi de 2005 a étendu à la fonction publique l’obligation d’emploi des travailleurs handicapés et renforcé les sanctions financières en cas de non-respect de cette obligation. Les réformes conduites ces dernières années ont permis de faire reculer à 12 % le taux de chômage des personnes en situation de handicap.<br/>Sur le second pilier de la loi, celui de la compensation, l’ambition était également très forte ; chacun devait pouvoir faire face aux conséquences de son handicap. La prestation de compensation du handicap a été instaurée dès 2006 pour prendre en charge les surcoûts liés au handicap.<br/>Pour faciliter l’accès aux droits et à la compensation, la loi a créé les maisons départementales des personnes handicapées, guichets uniques d’accueil, d’information et de conseil qui rassemblent tous les acteurs de la prise en charge du handicap, qui étaient jusqu’alors dispersés.<br/>S’il faut reconnaître que cette loi a marqué une approche radicalement différente du handicap et permis des avancées significatives, nous savons que nous sommes encore au milieu du gué.<br/>Nous devons profiter de la dynamique créée par le double contexte de l’héritage des Jeux olympiques et paralympiques de l’été dernier et du 20<exposant>e</exposant> anniversaire de la loi pour maintenir un haut niveau d’exigence et poursuivre ensemble notre engagement en faveur d’une société inclusive.<br/>Pour cette raison, le président de la République a pris des engagements forts lors de la dernière Conférence nationale du handicap, avec notamment l’annonce du plan « 50 000 nouvelles solutions » jusqu’en 2027. Chaque jour, nous déployons ainsi de nouvelles places, de nouvelles solutions adaptées aux besoins des personnes en situation de handicap. D’ici à la fin de l’année 2025, 15 000 solutions nouvelles auront déjà été proposées, pour un montant de 270 millions d’euros.<br/>Le premier ministre a lui aussi eu l’occasion de rappeler l’engagement de l’ensemble du gouvernement de faire du handicap une priorité de toutes nos politiques publiques. C’est en ce sens que, le 6 mars, il a présidé le comité interministériel du handicap, qui nous a permis d’assurer un suivi de l’ensemble des travaux déjà engagés mais aussi de prendre de nouvelles mesures fortes, particulièrement en matière d’accessibilité et de simplification.<br/>Enfin, pour répondre à l’initiative des députés Sébastien Saint-Pasteur et Antoine Vermorel-Marques, j’ai lancé il y a quelques semaines un travail législatif transpartisan avec l’ensemble des groupes parlementaires de l’Assemblée nationale comme du Sénat. Il ne s’agit pas de refaire une grande loi, comme en 2005, mais plutôt d’identifier les améliorations possibles pour rendre cette dernière pleinement applicable et d’adapter notre droit aux besoins des personnes en situation de handicap. Dès lors que nous aurons abouti à un accord sur les grandes priorités et sur le contenu de ce texte, dans le cadre d’une concertation aussi large que possible, nous verrons comment mener ce travail législatif à son terme, en lien étroit avec le premier ministre et le ministre des relations avec le parlement.<br/>Cette exigence d’adaptation doit enfin se penser dans un cadre international. J’étais hier encore devant l’Organisation des Nations unies pour réaffirmer les engagements de la France à appliquer la Convention internationale relative aux droits des personnes handicapées.<br/>Je vous remercie et je me tiens à votre disposition pour ce débat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724643" ordre_absolu_seance="141" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788658" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4947.71">Nous en venons aux questions. Leur durée, ainsi que celle des réponses, est limitée à deux minutes, sans droit de réplique.<br/> La parole est à M. Sébastien Saint-Pasteur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724644" ordre_absolu_seance="142" id_acteur="PA841243" id_mandat="PM842825" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788659" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Saint-Pasteur (SOC)</nom>
+              <id>841243</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4965.17">Nous sommes réunis pour évoquer le bilan de la politique nationale relative aux droits des personnes handicapées. Il sera affiné grâce aux travaux en cours : vous avez cité la mission d’évaluation dont Christine Le Nabour et Sébastien Peytavie sont les rapporteurs ; je voudrais citer aussi les groupes d’études – le groupe d’études « handicap et inclusion » de l’Assemblée est coprésidé par Laurent Panifous.<br/>Nombre d’entre nous ont déjà travaillé sur ce sujet, d’autant que nous faisons l’expérience au quotidien, notamment dans nos permanences, des dysfonctionnements, des retards et des délais en ce domaine. Cela fait de nous des experts des meilleures façons d’améliorer les choses.<br/>Ce bilan est imparfait ; il comporte des lacunes. Vous avez ainsi évoqué le demi-million d’enfants en situation de handicap qui sont scolarisés : c’est là une excellente chose, mais je ne sais pas ce qu’il en est de la mise œuvre de ces droits. Quid des absences d’AESH et de leurs éventuels remplacements, par exemple ? L’effectivité des droits est-elle pleine et entière ? Nous sommes, je crois, incapables de le dire.<br/>Il y a aussi des dissonances, dont je ne peux pas ne pas parler ici. Des questions se posent en particulier à propos de l’évaluation de la loi Elan, notamment de son article 64. Ce serait plutôt à Mme Létard, ministre du logement, de répondre, mais vous pourrez peut-être nous apporter quelques éléments.<br/>Je tiens à vous remercier d’avoir répondu favorablement à l’initiative que nous avons prise. Nous cherchons à faire œuvre utile dans ce temps un peu singulier que nous traversons, sur un sujet qui peut tous nous rassembler. Vous avez évoqué, récemment en ouverture d’un colloque de la direction générale de la cohésion sociale (DGCS) et encore ce matin, un projet de loi qui serait déposé d’ici à la fin de l’année pour moderniser les politiques du champ du handicap. L’ensemble des parlementaires y seraient associés, mais aussi les associations, que nous avons reçues – c’était une demande très forte de leur part. Pouvez-vous nous confirmer ces points ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724649" ordre_absolu_seance="147" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788664" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5088.41">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724650" ordre_absolu_seance="148" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788665" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5096.97">Je vous remercie à nouveau pour ce travail transpartisan dont vous avez pris l’initiative avec M. Vermorel-Marques. Nous construisons en ce moment ce que pourrait être un futur texte. Lors d’une récente réunion, nous sommes tombés d’accord pour estimer nécessaires certaines évolutions législatives, évoquées par les associations elles-mêmes et reprises dans les différents rapports d’évaluation de la loi.<br/>Nous avons dégagé trois grands axes : la réactualisation de la définition du handicap, afin notamment de prendre en compte la signature par la France de la Convention internationale relative aux droits des personnes handicapées ; la réaffirmation de notre volonté de lutter contre les discriminations et de faire appliquer les sanctions ; la simplification de certaines procédures. Vous connaissez le travail que j’ai engagé avec les MDPH.<br/>Vous recevrez très prochainement une invitation à un nouveau temps d’échange avec les parlementaires, qui nous permettra aussi d’examiner les propositions des associations et de mieux définir le contenu de nos orientations avant d’arrêter un calendrier de modification de la loi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724653" ordre_absolu_seance="151" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788668" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5214.18">La parole est à Mme Maud Petit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2724654" ordre_absolu_seance="152" id_acteur="PA721234" id_mandat="PM843692" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788669" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Maud Petit (Dem)</nom>
+              <id>721234</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5220.77">Parmi les 12 millions de Français en situation de handicap, 9 millions, soit les trois quarts, souffrent d’un handicap invisible, qui peut prendre des formes très diverses : cancer, diabète, bipolarité, migraines…<br/>Je voudrais appeler votre attention sur ces personnes qui souffrent de maladies invisibles mais handicapantes comme la spondylarthrite ankylosante, la polyarthrite rhumatoïde, la maladie de Verneuil, la drépanocytose, la fibromyalgie ou encore la maladie d’Ehlers-Danlos.<br/>Je suis très fière d’être la présidente d’honneur de l’association SpaVer22, qui aide et accompagne les personnes atteintes de spondylarthrite, de polyarthrite rhumatoïde et de la maladie de Verneuil, ainsi que leurs proches et aidants. En collaboration avec cette association, j’organise d’ailleurs ce jeudi 19 juin à l’Assemblée une conférence sur la mise en visibilité de ces maladies.<br/>Les interrogations et demandes de ces patients sont nombreuses. Parmi celles auxquelles nous attendons des réponses, je voudrais vous en poser deux.<br/>La loi prévoit qu’en cas de renouvellement tardif ou de délais de traitement trop longs en MDPH, l’ancien dossier reste valide jusqu’au traitement des demandes plus récentes. Ce n’est évidemment pas possible pour une première demande : quelles solutions pourraient être apportées aux personnes en attente de reconnaissance du statut de personne handicapée ?<br/>Par ailleurs, les personnes atteintes de maladies invisibles sont souvent stigmatisées, par méconnaissance ou incompréhension de ces pathologies et de leurs symptômes ; l’absence de signes physiques évidents comme un fauteuil roulant ou une canne peut entraîner des doutes sur la réalité de leur handicap.<br/>Pour y remédier et éviter que les gens ne jugent trop vite, que pensez-vous de faire évoluer le logo, présent dans les lieux publics, par exemple dans les supermarchés, ou sur les cartes mobilité inclusion (CMI), qui tire un trait d’égalité entre handicap et fauteuil roulant ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724570" ordre_absolu_seance="159" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788676" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5276.93">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724571" ordre_absolu_seance="160" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788677" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5341.15">Je m’efforcerai d’être rapide et efficace pour répondre en deux minutes à vos deux questions. Concernant la première, tout l’enjeu est de traiter le plus rapidement et le plus efficacement possible les dossiers soumis aux maisons départementales des personnes handicapées, en particulier les premières demandes. C’est tout le sens du travail que nous menons avec les MDPH. Un plan d’action visant à accélérer le traitement des dossiers doit être défini d’ici à début juillet. Certains départements y sont parvenus grâce à une simplification du dossier et des procédures. L’objectif est également d’organiser systématiquement, lors de la première demande, un entretien pour analyser les besoins – la clé, c’est d’arriver à accompagner plus vite et plus efficacement les personnes.<br/>S’agissant du logo, nous devons tenir compte de l’enjeu de lisibilité dans l’espace public – de connaissance et de reconnaissance. Changer ce logo, qui est celui utilisé partout dans le monde, exigerait un travail d’accompagnement et d’acculturation important. Cela dit, le logo international d’accessibilité universelle, qui est valable pour toutes les personnes en situation de handicap, pourrait constituer une piste de travail. Une telle réflexion devrait être menée en lien avec les représentants des personnes en situation de handicap, compte tenu de l’impact potentiel du point de vue de la lisibilité et de la simplification.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724573" ordre_absolu_seance="162" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788679" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5456.88">La parole est à Mme Béatrice Piron.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724574" ordre_absolu_seance="163" id_acteur="PA721844" id_mandat="PM843461" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788680" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Béatrice Piron (HOR)</nom>
+              <id>721844</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5463.99">Vous avez évoqué dans vos propos liminaires les progrès réalisés en matière d’école inclusive depuis 2005. En tant que membre de la commission de l’éducation, j’ai été surprise que ce thème ne soit pas du tout abordé dans la première partie de ce débat, où la CNCPH était représentée. Parmi les dix pistes proposées par celle-ci pour faire évoluer la politique du handicap, la proposition « une seule école pour tous » vise à intégrer les unités du secteur médico-social au sein de l’éducation nationale, sous la responsabilité d’un ministère unique. Travaillez-vous déjà en ce sens avec le ministère de l’éducation nationale ? Où en est le déploiement des pôles d’appui à la scolarité (PAS) ? Leur définition actuelle correspond-elle aux attentes de la CNCPH ?<br/>Actuellement, de nombreux enfants sont scolarisés par défaut dans des écoles, où ils sont accompagnés par des AESH, dans l’attente d’une place en institut médico-éducatif (IME). Ne craignez-vous pas que le regroupement des unités du secteur médico-social au sein du ministère de l’éducation nationale ne s’opère au détriment du développement des places ? Où en est le déploiement des 50 000 nouvelles solutions ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724576" ordre_absolu_seance="165" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788682" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5511.48">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724577" ordre_absolu_seance="166" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788683" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5535.73">Là encore, je m’efforcerai de répondre rapidement à toutes vos questions. Pour le gouvernement, l’école inclusive est un cheval de bataille prioritaire – c’est par l’école inclusive que nous pourrons créer la société inclusive. Il faut que nos enfants puissent vivre ensemble – chaque enfant doit pouvoir être accueilli au sein de l’école, ce qui peut prendre des formes multiples. La ministre de l’éducation nationale Élisabeth Borne et moi-même défendons le principe d’un rapprochement entre le monde du médico-social et celui de l’éducation nationale, grâce à la création d’équipes communes auprès des enfants en situation de handicap et des enseignants, au sein même de l’école – c’est vraiment un facteur de réussite.<br/>Nous avons entendu que, pour certains enseignants, il était difficile, voire culpabilisant, de se retrouver dans l’incapacité de bien accompagner les enfants, par manque de ressources humaines ou par manque de compétences ou de connaissance du handicap. C’est à ce problème que nous voulons remédier en déployant les pôles d’appui à la scolarité. Ils visent à renforcer les effectifs médico-sociaux et à disposer d’effectifs enseignants pleinement dédiés à l’accompagnement et au suivi des enfants en situation de handicap.<br/>Ces pôles d’appui à la scolarité, vous le savez, ont été expérimentés dans quatre départements. Les premières évaluations que nous conduisons – des évaluations commencent également à émerger sur le terrain – montrent que ces ressources supplémentaires sont efficaces pour rapprocher les deux mondes par des formations communes, pour identifier rapidement les besoins de l’enfant et l’accompagner dans sa scolarité, et également pour accompagner les enseignants.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724579" ordre_absolu_seance="169" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788685" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5659.04">La parole est à M. Olivier Serva.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724580" ordre_absolu_seance="170" id_acteur="PA720960" id_mandat="PM843758" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788686" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Serva (LIOT)</nom>
+              <id>720960</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5665.70">Je me fais l’écho dans ce débat des oubliés parmi les oubliés : les personnes à mobilité réduite résidant en outre-mer. Dans nos territoires, le handicap est plus fréquent que dans l’Hexagone. Il concerne 8 % des jeunes de 15 à 25 ans et 12 % des personnes de 25 à 64 ans, contre respectivement 5 % et 10 % en France métropolitaine. Notons toutefois qu’il est difficile de disposer de données consolidées relatives à un public jeune en situation de handicap dans les départements et régions d’outre-mer (Drom), en raison notamment de l’insuffisance de l’offre de repérage et du caractère inadapté de certains outils de diagnostic.<br/>Une fois ce constat posé, vient celui des insuffisances de la prise en charge. Nos territoires souffrent du manque d’offre et de solutions pour accompagner les personnes en situation de handicap, le taux d’équipement étant deux fois inférieur à celui de l’Hexagone. Sont également pointés du doigt les délais de traitement des dossiers par les MDPH, qui, elles aussi, manquent souvent de moyens. À ce propos, j’aurai également une pensée pour les AESH, qui subissent des bas salaires et des contrats précaires. Quelle action le gouvernement mène-t-il afin d’améliorer l’identification et la prise en charge des personnes en situation de handicap en outre-mer ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724582" ordre_absolu_seance="172" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788688" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5735.15">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724583" ordre_absolu_seance="173" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788689" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5749.93">Merci de votre question relative aux outre-mer. C’est un sujet qui m’est cher, c’est pourquoi j’ai entrepris de me rendre dans chacun de nos départements ultramarins. Je me suis rendue à Mayotte, à La Réunion, en Guadeloupe – ce qui vous intéresse particulièrement –, à la Martinique, et je me rendrai prochainement en Guyane. Dans chacun de ces territoires, je me suis rapprochée de la collectivité territoriale pour partager un diagnostic de la situation. Vous avez tout à fait raison, il y a un retard d’offre pour répondre aux besoins des personnes en situation de handicap dans les territoires ultramarins – c’est pourquoi l’État a une attention particulière. Nous avons élaboré ces diagnostics et déterminé ensemble des plans d’action.<br/>Je suis heureuse que dans chacun des territoires que j’ai visités – il nous reste à faire ce travail avec la Guyane –, nous ayons abouti à la signature de conventions – c’est le cas notamment en Guadeloupe, entre l’État et le département – pour déterminer le rôle de chacun des acteurs, État et collectivités territoriales, et définir un plan d’action. En Guadeloupe, par exemple, nous avons même étendu cette démarche aux personnes âgées et à la question des aidants. L’État a abondé des financements supplémentaires pour créer des offres de rattrapage en lien avec les besoins du territoire et les priorités du département – j’y veille de très près.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724585" ordre_absolu_seance="175" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788691" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5859.80">La parole est à Mme Anne Sicard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724586" ordre_absolu_seance="176" id_acteur="PA842255" id_mandat="PM843770" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788692" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Anne Sicard (RN)</nom>
+              <id>842255</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5865.92">Derrière les discours enjolivés sur l’inclusion des personnes handicapées, permettez-moi de dépeindre grâce à deux exemples une réalité bien moins reluisante, qui démontre que le chantier est encore loin d’être achevé et, plus grave encore, que les droits acquis reculent, ce qui menace d’ébranler l’édifice de l’accès à l’autonomie des personnes vulnérables.<br/>Premièrement, dans mon département, le Val-d’Oise, comme dans d’autres, nous constatons que l’embolie de la dépense sociale liée à l’immigration, conjuguée à des revalorisations des rémunérations des auxiliaires de vie non compensées par l’État, rend exsangues les finances des collectivités, au point de menacer le financement d’aides essentielles, comme la prestation de compensation du handicap. Ainsi, pour les personnes tétraplégiques, la baisse de 30 % de la PCH décidée par le département du Val-d’Oise générerait un reste à charge abyssal, de près de 5 000 euros par mois, qui contraindrait les bénéficiaires à réduire le volume d’aides pourtant indispensables à leur autonomie. Allez-vous réagir pour empêcher un tel abandon ?<br/>Le deuxième exemple concerne l’égal accès à l’offre scolaire du pass culture. Si celui-ci permet de financer, pêle-mêle, des concerts de la fête de l’Huma et même un meeting d’extrême gauche anti-Bolloré, il exclut en revanche de son offre collective les élèves handicapés scolarisés dans des établissements spécialisés rattachés au ministère de la santé, comme les IME ou les instituts thérapeutiques, éducatifs et pédagogiques (Itep). Ainsi, un établissement qui veut organiser un projet d’atelier d’écriture, par exemple, ne peut pas bénéficier du pass culture. Cette situation est inacceptable.<br/>Gabriel Attal, alors premier ministre, avait promis de réparer cette injustice le 16 mai 2024, à l’occasion du comité interministériel du handicap. Cette promesse n’a pas été tenue pour l’année scolaire 2024-2025. C’est de nouveau le cas avec l’édition 2025 – il est pourtant écrit noir sur blanc que l’offre scolaire du pass culture sera accessible à tous les élèves, y compris ceux scolarisés dans des établissements spécialisés. Ma question est très simple : vous engagez-vous devant la représentation nationale à rendre accessible l’offre scolaire du pass culture à tous les élèves handicapés scolarisés dans des établissements spécialisés dès la rentrée scolaire de septembre 2025 ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724590" ordre_absolu_seance="180" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788696" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5888.51">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724591" ordre_absolu_seance="181" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788697" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5992.54">D’abord, je n’enjolive pas du tout la situation. J’ai parfaitement conscience des difficultés et de la souffrance de nos concitoyens en situation de handicap, dont certains subissent des situations invivables et insoutenables. C’est ce qui fait ma détermination au quotidien à déployer le dispositif des 50 000 solutions que j’évoquais tout à l’heure, tout comme les autres mesures, et à tenir les engagements qui ont été pris. Il est aussi totalement faux de dire que ce sont les dépenses liées à l’immigration qui viendraient obérer celles liées au handicap. Ce n’est absolument pas le cas. Je rappelle que malgré un contexte financier difficile, les dépenses en matière de handicap ont été augmentées dans le budget de cette année, avec le soutien des parlementaires.<br/>Ensuite, vous m’interpellez sur les décisions qu’ont pris certains départements, notamment le vôtre, de réduire le montant de la PCH. Vous le savez, les politiques du handicap relèvent de la compétence du département, donc c’est lui qui décide. J’ai ouvert un dialogue avec les départements pour faire un état de la situation et rappeler les obligations légales. La réouverture du dialogue doit permettre de déterminer l’évolution des besoins et les cofinancements. Une réunion du comité des financeurs qui s’est tenue récemment avec les départements a permis de débloquer une partie des difficultés concernant le Ségur de la santé.<br/>L’application de l’accès au pass culture pour les enfants en situation de handicap a été décalée dans le temps, je vous le concède. La ministre de la culture et moi-même avons été interpellées à ce sujet. Depuis le 1<exposant>er</exposant><exposant> </exposant>mars 2025, le pass culture est bien accessible aux enfants en situation de handicap scolarisés dans les établissements médico-sociaux.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724594" ordre_absolu_seance="184" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788700" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6130.69">La parole est à M. Jean Laussucq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2724595" ordre_absolu_seance="185" id_acteur="PA841693" id_mandat="PM843266" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788701" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean Laussucq (EPR)</nom>
+              <id>841693</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6138.03">Vous l’avez dit, madame la ministre, la loi du 11 février 2005 a marqué un véritable tournant en faveur de l’école inclusive. Cette loi a été complétée par la loi du 26 juillet 2019 pour une école de la confiance, qui a créé les pôles inclusifs d’accompagnement localisés (Pial), renforcé la formation des enseignants et réformé les conditions d’emploi des accompagnants d’élèves en situation de handicap, que vous avez mentionnés dans votre propos introductif.<br/>Ces textes ont constitué des avancées majeures. Cependant, leur application concrète reste inégale et connaît encore des limites importantes. La loi de 2005, en dépit de ses intentions, n’a pas permis une transformation structurelle suffisante du système scolaire. Les adaptations pédagogiques restent marginales et la culture de l’inclusion peine encore à s’imposer dans les établissements.<br/>Dans ce contexte, l’expérimentation des pôles d’appui à la scolarité dans quatre départements depuis septembre 2024 est une initiative particulièrement encourageante. En réunissant dans un même cadre des enseignants et des professionnels du secteur médico-social, les PAS permettent une coordination plus fluide – en tout cas, c’est leur intention – entre l’éducation nationale et les dispositifs de soins et d’accompagnement. Cependant, ils se heurtent à des difficultés de recrutement, à la fragilité des coopérations interinstitutionnelles et à des délais d’intervention parfois trop longs au vu des attentes des familles et des besoins des élèves.<br/>Tout cela semble compromettre la généralisation de ce dispositif en 2027. Pouvez-vous nous dire où en est le déploiement de ces réformes ? Quels enseignements tirez-vous de la phase d’expérimentation des PAS et quelles mesures concrètes envisagez-vous pour les généraliser et assurer la poursuite du déploiement de l’école inclusive ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724661" ordre_absolu_seance="189" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788756" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6209.75">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724662" ordre_absolu_seance="190" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788757" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6250.76">Je vous remercie de revenir sur la question de l’école inclusive, qui constitue en effet un enjeu majeur. Comme je le disais il y a un instant en réponse à Mme Piron, nous procédons à l’évaluation des PAS, dans l’optique de les déployer et de les généraliser d’ici à 2027.<br/>Dans le cadre de l’expérimentation, 100 premiers PAS ont été lancés dans quatre départements. Dès la prochaine rentrée, nous passerons à un total de 500 PAS dans plusieurs départements, dans lesquels le dispositif sera parfois déployé dans des bassins bien déterminés. Ce plan d’extension est en cours d’élaboration.<br/>Les travaux d’évaluation permettront d’éclairer les sénateurs qui examinent la proposition de loi adoptée par l’Assemblée nationale visant à la généralisation des PAS. Ils apporteront également des pistes d’amélioration de ces pôles d’appui à la scolarité. À cet égard, un des ingrédients essentiels à leur succès est la formation conjointe des professionnels du secteur médico-social et de l’éducation nationale, afin de créer une culture commune, de fournir rapidement des outils aux enseignants et de mieux soutenir les AESH, dont nous allons poursuivre les recrutements – il y en a plus de 2 000 prévus.<br/>Pour répondre aux difficultés de recrutement, il faut rappeler que les PAS, qui facilitent l’organisation de la prise en charge et la coordination des acteurs, contribuent à améliorer les conditions d’exercice du métier. La garantie d’une meilleure formation constitue également un argument déterminant.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724665" ordre_absolu_seance="194" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788760" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6373.81">La parole est à M. Peio Dufau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724666" ordre_absolu_seance="195" id_acteur="PA841633" id_mandat="PM843182" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788761" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Peio Dufau (SOC)</nom>
+              <id>841633</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6378.83">Dans la première partie de notre débat, nous avons évoqué avec les associations l’enjeu de l’accessibilité numérique. Dans la majorité de nos territoires, les communes et les agglomérations ont la volonté que leurs sites internet soient 100 % accessibles. Ainsi, les appels d’offres pour la conception des sites des collectivités locales incluent systématiquement une telle clause.<br/>Le problème n’est donc pas tant la volonté politique que la difficulté des acteurs du numérique à répondre à la demande des institutions. Le résultat n’est pas garanti, d’autant que les donneurs d’ordre – communes, agglomérations, départements – n’ont pas toujours la capacité de vérifier si le site réalisé est 100 % accessible. Or si un audit d’accessibilité conclut que le résultat n’est pas à la hauteur, c’est le commanditaire qui est sanctionné, non l’entreprise qui n’a pas su réaliser la prestation selon les exigences du cahier des charges.<br/>Dès lors, ne pensez-vous pas que pour accélérer la mise en accessibilité numérique, notamment des sites institutionnels, il faille faire reposer la responsabilité aussi sur les acteurs du numérique, et pas uniquement sur les collectivités ? Si le commanditaire a bien inclus dans son appel d’offres l’exigence d’un site 100 % accessible, mais que l’entreprise ne fournit pas le résultat demandé – ce qui est souvent le cas aujourd’hui –, ne faut-il pas faire subir la sanction à l’acteur du numérique ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724669" ordre_absolu_seance="198" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788764" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6436.15">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724670" ordre_absolu_seance="199" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788765" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6497.88">Il est important de rappeler que l’accessibilité n’est pas une option, mais une obligation que nous défendons collectivement et que le premier ministre a réaffirmée lors du dernier comité interministériel du handicap.<br/>L’accessibilité numérique, l’accès à l’information et aux démarches administratives publiques sont aussi des enjeux essentiels. Le premier ministre a d’ailleurs demandé à toutes les administrations de l’État de se hâter pour achever ce chantier et assurer au plus vite cette accessibilité numérique. Le ministre de l’action publique agit également en faveur de l’accessibilité des démarches administratives.<br/>Vous me posez la question de la responsabilité des acteurs en matière d’accessibilité des sites commandés par les collectivités et les donneurs d’ordre publics. Si la collectivité a l’obligation de développer un site 100 % accessible, elle a sans doute la possibilité de se retourner vers son prestataire s’il n’a pas rempli correctement les conditions du cahier des charges. Néanmoins, j’en ignore les modalités concrètes.<br/>La délégation interministérielle à l’accessibilité et les services supports pourraient apporter leur appui à l’analyse de ce problème. De plus, j’insiste toujours sur le rôle majeur des comités d’experts d’usage qui accompagnent toutes les démarches d’accessibilité pour garantir qu’elles répondent bien aux besoins des personnes quel que soit le type de handicap, et que les solutions sont effectivement adaptées – ce fut notamment leur rôle lors des Jeux olympiques et paralympiques.<br/>En tout état de cause, je vous propose, monsieur le député, de travailler ensemble à l’accompagnement et au soutien des collectivités dans ces démarches.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724674" ordre_absolu_seance="204" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788769" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6591.32">La parole est à Mme Anaïs Belouassa-Cherifi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724675" ordre_absolu_seance="205" id_acteur="PA841657" id_mandat="PM843224" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788770" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Anaïs Belouassa-Cherifi (LFI-NFP)</nom>
+              <id>841657</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6646.03">Je souhaite évoquer avec vous l’article 64 de la loi Elan. Vous et moi échangeons régulièrement à ce sujet et vous avez eu la gentillesse de me transmettre le rapport relatif à l’application de cet article et aux logements évolutifs – je vous en remercie.<br/>Je vous avoue avoir été surprise et quelque peu indignée par le contenu de ce rapport de vingt-huit pages auquel il ne reste pas grand-chose une fois enlevés le sommaire et les pages de garde. Il ne présente aucun chiffre ni aucune donnée pour évaluer une politique publique adoptée il y a maintenant sept ans. Tout ce que nous retenons de ce rapport, c’est qu’il n’est pas plus cher de construire des logements accessibles que des logements évolutifs.<br/>De plus, on fait reposer sur la puissance publique, notamment via MaPrimeAdapt’, le fait que les dispositions de la loi du 11 février 2005 sur le handicap n’aient pas été appliquées s’agissant de l’accessibilité des logements.<br/>Nous avons, avec plusieurs collègues, travaillé à l’élaboration d’une proposition de loi visant à abroger l’article 64 de la loi Elan. Plus de cent parlementaires, issus de sept groupes politiques différents, l’ont signée. Ma question est donc simple et claire : allez-vous saisir cette occasion d’abroger enfin l’article 64 de la loi Elan pour faire en sorte que les logements soient accessibles aux personnes en situation de handicap ? Je vous le rappelle : 1 million de nos concitoyens ne peuvent pas sortir de chez eux tout seuls, parce que leur logement est inadapté.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724679" ordre_absolu_seance="209" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788774" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6715.85">La parole est à Mme la ministre déléguée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724680" ordre_absolu_seance="210" id_acteur="PA720480" id_mandat="-1" id_nomination_oe="PM855071" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3788775" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Charlotte Parmentier-Lecocq</nom>
+              <id>720480</id>
+              <qualite>ministre déléguée</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6757.40">Je vous remercie de soulever cette question, dont je sais à quel point elle vous tient à cœur, et qui intéresse aussi l’ensemble des parlementaires. Je comprends votre avis sur le rapport qui a été fourni : en effet, il ne permet pas véritablement d’établir des conclusions sur l’application de la loi ni d’en dégager des pistes d’évolution. Il convient donc d’approfondir l’évaluation, de concert avec la ministre du logement et l’ensemble des associations concernées.<br/>L’enjeu de l’accessibilité de tous les logements neufs, mais aussi de leur adaptabilité et de leur évolution en fonction des différents types de handicap, doit également prendre en compte les impacts potentiels sur l’offre de logements. Je concède qu’il nous manque encore des éléments pour avancer sur ce point. Cette question devrait faire l’objet des réflexions du groupe de travail législatif transpartisan que nous évoquions tout à l’heure et auquel vous participez.<br/>Se pose aussi la question de l’évolution des logements existants. MaPrimeAdapt’ demeure à cet égard un outil indispensable et essentiel. C’est pourquoi le gouvernement, avec le soutien des parlementaires, a voulu renouveler les crédits y afférents à hauteur de 300 millions d’euros pour 2025 et souhaite rendre cette prime plus accessible aux personnes en situation de handicap, même si elle est aussi destinée aux personnes âgées qui font évoluer leur logement. Il faut donc – j’en conviens – avancer sur l’ensemble de ces questions.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2724683" ordre_absolu_seance="213" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788778" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6896.01">Le débat est clos.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="2724685" ordre_absolu_seance="215" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3788780" valeur="">
+      <orateurs/>
+      <texte>Convocation du Parlement en session extraordinaire</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2724686" ordre_absolu_seance="216" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788781" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6899.18">Je vous informe que la présidente de l’Assemblée nationale a reçu du premier ministre communication du décret du président de la République en date du 11 juin 2025 portant convocation du Parlement en session extraordinaire à compter du mardi 1<exposant>er</exposant> juillet 2025.<br/> L’ordre du jour de cette session extraordinaire a été publié au<italique> Journal</italique><italique> officiel</italique> du 12 juin 2025.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="7" id_preparation="2724688" ordre_absolu_seance="218" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3788783" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="2724689" ordre_absolu_seance="219" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3788784" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6912.18">Prochaine séance, cet après-midi, à quinze heures :<br/> Débat sur le thème : « L’avenir de la sidérurgie française » ;<br/> Débat sur le thème : « Les politiques publiques de protection de l’enfance ».<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="2724690" ordre_absolu_seance="220" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3788785" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à dix heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="7" id_preparation="2724691" ordre_absolu_seance="221" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3788786" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

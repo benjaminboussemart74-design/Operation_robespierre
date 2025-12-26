@@ -1,0 +1,1353 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N147</uid>
+  <seanceRef>RUANR5L17S2025IDS29198</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250325213000000</dateSeance>
+    <dateSeanceJour>mardi 25 mars 2025</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>147</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250147</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-04-02T19:31:51.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3683121">Présidence de M. Jérémie Iordanoff</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3683125">
+          <intitule>Remise en cause du pacte vert européen : l’urgence de clarifier la position française</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3683133">M. Christophe Clerc, avocat à la cour et enseignant à Sciences Po</para>
+        <para id_syceron="3683149">Mme Clara Alibert,  chargée de plaidoyer à CCFD-Terre Solidaire</para>
+        <para id_syceron="3683165">Mme Caroline Neyron, directrice générale du mouvement Impact France</para>
+        <para id_syceron="3683570">M. Dominique Potier (SOC)</para>
+        <para id_syceron="3683577">Mme Caroline Neyron</para>
+        <para id_syceron="3683582">M. Christophe Clerc</para>
+        <para id_syceron="3683584">M. Olivier Serva (LIOT)</para>
+        <para id_syceron="3683588">M. Christophe Clerc</para>
+        <para id_syceron="3683593">Mme Sylvie Ferrer (LFI-NFP)</para>
+        <para id_syceron="3683596">Mme Clara Alibert</para>
+        <para id_syceron="3683602">M. Sébastien Saint-Pasteur (SOC)</para>
+        <para id_syceron="3683608">M. Christophe Clerc</para>
+        <para id_syceron="3683615">Mme Caroline Neyron</para>
+        <para id_syceron="3683624">M. Jimmy Pahun (Dem)</para>
+        <para id_syceron="3683631">Mme Clara Alibert</para>
+        <para id_syceron="3683634">Mme Caroline Neyron</para>
+        <para id_syceron="3683638">M. Christophe Clerc</para>
+        <para id_syceron="3683644">M. Christophe Proença (SOC)</para>
+        <para id_syceron="3683647">Mme Caroline Neyron</para>
+        <para id_syceron="3683650">Mme Clara Alibert</para>
+        <para id_syceron="3683653">M. Dominique Potier (SOC)</para>
+        <para id_syceron="3683658">M. Christophe Clerc</para>
+        <para id_syceron="3683664">M. Christian Girard (RN)</para>
+        <para id_syceron="3683666">Mme Caroline Neyron</para>
+        <para id_syceron="3683669">M. Christophe Clerc</para>
+        <para id_syceron="3683670">Mme Clara Alibert</para>
+        <para id_syceron="3683671">Mme Caroline Neyron</para>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="3683171">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="3683176">M. Éric Lombard, ministre de l’économie, des finances et de la souveraineté industrielle et numérique</para>
+        <para id_syceron="3683186">Mme Agnès Pannier-Runacher, ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche</para>
+        <para id_syceron="3683199">M. Dominique Potier (SOC)</para>
+        <para id_syceron="3683205">M. Éric Lombard, ministre</para>
+        <para id_syceron="3683210">M. Jimmy Pahun (Dem)</para>
+        <para id_syceron="3683217">Mme Agnès Pannier-Runacher, ministre</para>
+        <para id_syceron="3683313">M. Laurent Panifous (LIOT)</para>
+        <para id_syceron="3683318">Mme Agnès Pannier-Runacher, ministre</para>
+        <para id_syceron="3683323">Mme Karine Lebon (GDR)</para>
+        <para id_syceron="3683332">M. Éric Lombard, ministre</para>
+        <para id_syceron="3683339">Mme Sylvie Ferrer (LFI-NFP)</para>
+        <para id_syceron="3683344">M. Éric Lombard, ministre</para>
+        <para id_syceron="3683393">Mme Pascale Got (SOC)</para>
+        <para id_syceron="3683395">M. Éric Lombard, ministre</para>
+        <para id_syceron="3683400">M. Benoît Biteau (EcoS)</para>
+        <para id_syceron="3683407">Mme Agnès Pannier-Runacher, ministre</para>
+        <para id_syceron="3683413">M. Jean-Victor Castor (GDR)</para>
+        <para id_syceron="3683418">Mme Agnès Pannier-Runacher, ministre</para>
+        <para id_syceron="3683534">M. Christophe Proença (SOC)</para>
+        <para id_syceron="3683538">Mme Agnès Pannier-Runacher, ministre</para>
+        <para id_syceron="3683542">M. Dominique Potier (SOC)</para>
+        <para id_syceron="3683546">M. Éric Lombard, ministre</para>
+        <para id_syceron="3683551">Mme Agnès Pannier-Runacher, ministre</para>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3683554">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du mardi 25 mars 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2652051" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3683121" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Jérémie Iordanoff<br/> vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2652052" ordre_absolu_seance="2" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683122" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="928.72">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2652053" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3683123" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2652055" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3683125" valeur="">
+      <orateurs/>
+      <texte>Remise en cause du pacte vert européen : l’urgence de clarifier la position française</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2652056" ordre_absolu_seance="6" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683126" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="948.31">L’ordre du jour appelle le débat sur le thème : « La remise en cause du pacte vert européen : l’urgence de clarifier la position française. »<br/>Ce débat a été demandé par le groupe Socialistes et apparentés. À la demande de ce dernier, il se tient en salle Lamartine afin que des personnalités extérieures puissent être interrogées.<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties. Nous commencerons par une table ronde en présence de personnalités invitées, d’une durée d’une heure, qui donnera lieu à une séquence de questions-réponses.<br/>Puis, après une intervention liminaire du gouvernement, nous procéderons à une nouvelle séquence de questions-réponses, d’une durée d’une heure également. La durée des questions et des réponses sera limitée à deux minutes, sans droit de réplique.<br/>Pour la première phase du débat, je souhaite la bienvenue à M. Christophe Clerc, avocat à la cour et enseignant à Sciences Po, à Mme Clara Alibert, chargée de plaidoyer à CCFD-Terre solidaire et à Mme Caroline Neyron, directrice générale du mouvement Impact France.<br/>Chacun de nos invités a la parole pour une intervention de cinq minutes.<br/>La parole est à M. Christophe Clerc.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2652063" ordre_absolu_seance="13" id_acteur="PA-125969" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683133" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Clerc</nom>
+            <id>-125969</id>
+            <qualite>avocat à la cour et enseignant à Sciences Po</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="958.40">Le point de départ de mon propos sera très simple : j’ai une fille de 12 mois. Dans quel monde vit-elle ? Une oasis, tout simplement, perdue dans un environnement hostile. Elon Musk nous promet Mars, mais cette planète est, elle aussi, hostile. D’autres, à force de regarder des films de science-fiction, pensent que nous pourrions nous réfugier dans les étoiles mais, là encore, c’est une illusion. En effet, selon une récente étude scientifique, il nous faudrait 80 000 ans pour les atteindre, et même si nous parvenions un jour à créer un moteur 10 000 fois plus puissant que ceux actuellement en service, la quantité d’énergie nécessaire à l’envoi de trois personnes sur l’étoile la plus proche représenterait 120 000 années de la consommation d’énergie de notre planète. Nous ne bougerons donc pas et il n’est, par conséquent, pas totalement absurde de penser à préserver des ressources pour les générations futures, que représentent à mon échelle ma fille et ses enfants, et de faire en sorte que le monde soit un peu plus équitable.<br/>Ce fut le rôle historique de l’Europe que d’inventer la démocratie et de mener la révolution industrielle. C’est donc tout naturellement qu’en 2021, elle chercha à nouveau à donner un sens à la vie sur Terre en proposant le pacte vert, afin de préserver notre planète.<br/>Ce pacte prévoit différentes obligations, parmi lesquelles figurent la neutralité carbone en 2050, la restauration de la biodiversité, le Fonds social pour le climat ou le mécanisme d’ajustement carbone aux frontières (MACF).<br/>Les directives qui nous intéressent ce soir participent au même effort, celui de rendre vivable notre monde, cette oasis dont nous ne nous échapperons pas. Je dirais presque qu’elles sont la version c<italique>orporate </italique>du pacte vert.<br/>Plusieurs outils ont été constitués au service de ce pacte : la taxonomie, la directive relative à la publication d’informations en matière de durabilité par les entreprises, dite CSRD et la directive sur le devoir de vigilance des entreprises en matière de durabilité, dite CS3D.<br/>La taxonomie verte est la classification des activités dites durables. Pour investir dans les activités vertes, il faut pouvoir les définir précisément afin que les investisseurs sachent s’ils investissent dans une activité respectueuse de l’environnement. Elle permet ainsi de comprendre la différence entre un investissement dans les éoliennes, conforme à la taxonomie, et le <italique>trading</italique> d’électricité dit vert, qui ne l’est pas, faute de bénéfice pour l’environnement.<br/>Ce que prévoit la proposition de directive omnibus en matière de taxonomie s’apparente à un massacre. Il nous est demandé de supprimer 70 % des normes. C’est comme si, pour alléger le fardeau administratif des entreprises, on leur proposait de jeter 70 % de leur comptabilité à la poubelle. C’est la même chose. Et si ce processus aboutit, les vrais investissements verts seront bloqués alors que l’argent est une composante essentielle de la transition.<br/>La directive CSRD reprend le cadre que la France, précurseur en la matière, a développé depuis le début des années 2000, celui du <italique>reporting</italique> ESG – critères environnementaux, sociaux et de gouvernance – en y ajoutant une composante extraterritoriale fondamentale. Cela signifie que les normes que l’on s’impose, on va aussi les imposer à l’étranger. Les grandes entreprises étrangères ont d’ailleurs déjà anticipé l’application de cette directive. Y toucher équivaudrait à se tirer une balle dans le pied en réduisant notre capacité à imposer nos normes à l’étranger, et donc à protéger nos entreprises.<br/>La dernière directive, CS3D, s’inspire du concept français bien connu du devoir de vigilance, qui, dans le respect de l’entreprise, ne leur impose qu’une obligation de moyens. Elle comporte également un volet extraterritorial. S’en prendre à cette directive, c’est s’empêcher de protéger les entreprises européennes contre les entreprises étrangères. C’est grâce à l’extraterritorialité que l’industrie européenne pourra se défendre.<br/>Je prends un exemple très simple : le bœuf brésilien. Si les traités ne l’interdisent pas, il arrivera en France. Qui pourra intervenir ? Grâce au devoir de vigilance, des ONG, des associations de consommateurs ou des gens qui se réuniront dans cet objectif, pourront s’opposer à son importation.<br/>La directive omnibus attaque ce texte de plein fouet – je pourrai vous apporter des précisions dans mes réponses à vos questions.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2652078" ordre_absolu_seance="24" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683148" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1278.22">La parole est à Mme Clara Alibert, chargée de plaidoyer à CCFD-Terre Solidaire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2652079" ordre_absolu_seance="25" id_acteur="PA-125979" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683149" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Clara Alibert</nom>
+            <id>-125979</id>
+            <qualite>chargée de plaidoyer à CCFD-Terre Solidaire</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1283.05">Je représente le CCFD-Terre Solidaire, ONG de solidarité internationale qui travaille avec la société civile dans près de soixante-dix pays dits du Sud global.<br/>Nous sommes au contact de communautés affectées par les abus des multinationales. Des femmes, des hommes, des enfants souffrent, au quotidien, des conséquences de la dérégulation de certains acteurs économiques. Je concentrerai mon intervention sur le devoir de vigilance tandis que Caroline Neyron reviendra sur les risques sous-tendus par la directive omnibus.<br/>Le devoir de vigilance est né de l’onde de choc provoquée par l’effondrement du bâtiment Rana Plaza au Bangladesh, qui abritait une usine de textile, provoquant la mort de 1 136 ouvriers, principalement des femmes. Ce drame a fait réagir, dans un bel élan de prise de conscience collective, et c’est ensemble que des ONG, des syndicats, des députés, ont rédigé la première loi au monde sur le devoir de vigilance. Ce texte, adopté en France en 2017, a inspiré l’Union européenne qui a adopté la directive sur le devoir de vigilance des entreprises en matière de durabilité européenne en juin 2024, ouvrant la voie à sa transposition dans la législation des vingt-sept États membres.<br/>Cette avancée historique est hélas remise en question par le projet de directive omnibus de la Commission européenne, qui cède à une vision court-termiste de la notion de compétitivité et à la rhétorique persistante de certains acteurs économiques pour qui il est, semble-t-il, trop compliqué de respecter les droits humains et l’environnement. Ce n’est pas le cas de tous et Caroline Neyron nous le prouvera tout à l’heure.<br/>Nous avons donc affaire à des multinationales qui ont su profiter de la mondialisation et des chaînes de valeur particulièrement complexes pour exploiter une main-d’œuvre et des matières premières à bas coût, qui savent exactement ce qu’il se passe à chaque niveau de leurs chaînes de valeur, pour des raisons économiques ou de traçabilité, mais qui seraient incapables de savoir si elles font ou non travailler des enfants parce que ce serait une information trop compliquée à obtenir !<br/>Avec sa proposition, présentée en février dernier, la Commission se plie d’emblée à cette rhétorique, sans avoir pris la peine de respecter le principe du contradictoire en consultant au préalable les autres parties prenantes, notamment celles qui ont passé de nombreuses années à élaborer les précédentes directives.<br/>Avant d’adopter ces dernières, la Commission européenne avait d’ailleurs publié une étude d’impact qui confirme que la conformité ne coûte pas cher aux multinationales puisqu’elle ne représente que 0,04 % à 0,1 % d’un chiffre d’affaires souvent très élevé.<br/>La rhétorique de ces entreprises s’appuie donc sur des données qui sont fausses, ce qui n’a pas empêché la Commission d’accéder à la majeure partie des demandes de certains acteurs économiques, notamment d’associations patronales.<br/>Si elle était adoptée en l’état, la directive omnibus viderait le devoir de vigilance européen de sa substance. Par exemple, en l’état du droit, l’article 8 de la directive qui s’y rapporte dispose que les entreprises doivent prendre des mesures appropriées pour recenser et évaluer les incidences négatives réelles et potentielles découlant de leurs propres activités ou de celles de leurs filiales et, lorsqu’elles sont liées à leurs chaînes d’activités, de celles de leurs partenaires commerciaux. Ce sont des dispositions conformes aux principes de l’OCDE et aux principes directeurs des Nations unies. Or le projet de directive omnibus précise que cette vigilance ne s’étendra qu’aux partenaires commerciaux directs.<br/>Cette disposition peut paraître anecdotique mais dans les faits, elle conduira à réduire drastiquement le devoir de vigilance, puisqu’il ne s’appliquera plus qu’à l’acteur le plus proche de la société mère ! Or nous savons tous que, plus on s’éloigne de la société mère dans la chaîne de valeur, plus le risque augmente qu’il soit porté atteinte, et de manière très grave, aux droits humains – travail des enfants ou travail forcé par exemple – et à l’environnement.<br/>Le projet de directive omnibus entre en contradiction, non seulement avec l’esprit du devoir de vigilance dont la France était à l’initiative, mais aussi avec les principes de l’OCDE ou des Nations unies. J’espère que les questions nous permettront de vous expliquer encore plus précisément en quoi il est porté atteinte au devoir de vigilance. En tout état de cause, il faut absolument empêcher ce recul historique.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2652094" ordre_absolu_seance="36" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683164" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1595.56">La parole est à Mme Caroline Neyron, directrice générale du mouvement Impact France.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2652095" ordre_absolu_seance="37" id_acteur="PA-125959" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683165" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Neyron</nom>
+            <id>-125959</id>
+            <qualite>directrice générale du mouvement Impact France</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1600.11">Impact France est une organisation patronale qui représente un peu plus de 30 000 entreprises de toutes tailles et de tous secteurs, présentes partout en France.<br/>Le projet d’une directive est né dans un contexte qui inquiète tous les chefs d’entreprise, celui du ralentissement de l’économie européenne. Bien évidemment, nous devons trouver les moyens de relancer l’activité et pour ce faire, nous devrons tracer un nouveau chemin. Nous ne sous-estimons pas l’ampleur de la tâche à accomplir et des décisions à prendre, qu’il s’agisse d’aménager les prix de l’énergie ou d’investir dans les nouvelles technologies, mais nous devrons faire des choix.<br/>Or le projet de directive omnibus ne nous y aide pas. Faut-il faire celui de déréguler face à l’offensive des États-Unis ou d’autres pays ? Faut-il renforcer la compétitivité de nos entreprises en les aidant à réduire au maximum leurs prix, ce qui pourrait leur permettre, du moins dans certains secteurs, de tirer leur épingle du jeu ? Mais qu’en serait-il alors de nos normes sociales et écologiques, que les Français acceptent pourtant ? Surtout, nos entreprises parviendraient-elles à baisser suffisamment leurs prix pour être compétitives face aux États-Unis et à la Chine ?<br/>Un autre choix s’offre à nous, celui de renforcer la compétitivité européenne, mais en valorisant les normes que nous appliquons, en veillant tout particulièrement à la qualité écologique et sociale de nos productions.<br/>La proposition de directive omnibus nous place au milieu du gué et il n’est rien de plus inconfortable pour les entreprises ! D’un côté, la dérégulation totale n’est ni acceptable pour les citoyens, ni crédible économiquement. De l’autre, les normes sociales et écologiques actuelles ne favorisent pas une réelle compétitivité.<br/>Quoi qu’il en soit, nous voici obligés de nous poser la question de la pertinence des normes. La première réponse qui s’impose est celle de leur simplification et nous y sommes bien entendu favorables. Pour être efficaces et acceptables, les règles doivent être pensées en tenant compte de la réalité de la vie économique et des contraintes matérielles qui pèsent sur les entreprises.<br/>Simplifiées et stabilisées, les normes doivent servir à atteindre des objectifs clairs. Les règles actuelles ne deviendront les facteurs d’une nouvelle compétitivité européenne qu’à la condition de s’appuyer sur d’autres politiques d’investissement. Au départ, la directive dite CSRD a été adoptée pour flécher des investissements privés vers les industries européennes engagées dans des dynamiques écologiques et sociales démocratiquement approuvées.<br/>Le second enjeu est celui de la protection : pour ne pas fausser le jeu de la concurrence, les normes doivent s’appliquer partout. C’est l’extraterritorialité.<br/>Le pacte vert est imparfait. La directive omnibus permettra-t-elle de l’améliorer ? On peut en douter et l’inquiétude des entreprises est légitime. Nous avons fait des propositions de simplification destinées à optimiser son application mais aujourd’hui, omnibus est très déstabilisante, car elle va obliger, des mois durant, à remettre en question tous les objectifs qui avaient été fixés. C’est le pire, pour les entreprises. Nous souhaitons donc qu’une directive soit adoptée le plus rapidement possible et qu’elle fixe des objectifs clairs.<br/>Certes, il convient de simplifier, et les entreprises y sont favorables mais est-ce simplifier que d’exclure 80 % des entreprises françaises de son champ d’application ? Est-ce simplifier que de diviser par dix ou quinze la quantité de normes ? Nous pensons qu’il est possible de maintenir intacte l’ambition initiale tout en simplifiant les normes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652157" ordre_absolu_seance="47" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683568" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1939.67">Nous en venons aux questions. J’invite ceux qui souhaitent intervenir lors de la table ronde à s’inscrire auprès de la direction de la séance. Afin que le débat soit plus fluide, chaque question sera immédiatement suivie de sa réponse.<br/>La première question est posée par M. Dominique Potier, du groupe Socialistes et apparentés, à l’initiative de ce débat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652159" ordre_absolu_seance="49" id_acteur="PA607553" id_mandat="PM843059" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683570" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Dominique Potier (SOC)</nom>
+            <id>607553</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1961.15">Je remercie le bureau de l’Assemblée nationale d’avoir accepté que ce débat, proposé par le groupe Socialistes et apparentés, se tienne dans la salle Lamartine afin que nous puissions entendre des personnalités civiles et des intellectuels : ils nous éclaireront avant notre rencontre avec M. le ministre de l’économie et Mme la ministre de l’environnement.<br/>Je voudrais revenir sur ce que j’ai vécu ce matin. J’étais invité par le Pacte mondial, initiative des Nations unies lancée en 2000 par Kofi Annan et visant à inciter les entreprises du monde entier à participer au sauvetage de la planète, à la sauvegarde des droits humains ainsi qu’à la limitation des violences mondiales. En France, 2 000 entreprises se sont mises en mouvement et elles se comptent par centaines de milliers dans le monde. Ensemble, elles ont produit dix principes directeurs qui ont été déclinés au niveau de l’OCDE.<br/>Ainsi, il y a vingt-cinq ans, pour la première fois, un mouvement d’idées est né, animé par la conviction que les entreprises peuvent contribuer à la recherche du bien commun et qu’il leur incombe non seulement d’appliquer la loi, mais aussi de participer à son élaboration.<br/>Ce matin, le Pacte mondial a présenté un document d’une qualité extraordinaire, fruit de ce travail entamé il y a vingt-cinq ans : le guide pratique « Entreprises-Communautées affectées : adopter une approche fondée sur les droits humains pour un engagement constructif et une gestion effective des impacts ». Ce guide analyse comment une communauté touchée par la pollution d’une rivière, le droit du travail, la concurrence, l’accaparement des terres, peut dialoguer avec les multinationales et entamer une cogestion intelligente.<br/>Il y a huit ans, presque jour pour jour, notre assemblée a voté le devoir de vigilance : ce fut une première mondiale. Il y a un an, ce principe fut intégré dans une directive. Il y a neuf mois, l’extrême droite est arrivée en force au Parlement européen et au sein de notre parlement : depuis, nous subissons le détricotage massif de cette directive avec la complicité du patronat, qui avait pourtant accepté ce texte.<br/>Pouvez-vous nous décrire le processus qui a entraîné le basculement du patronat – lequel, bon an mal an, avait fini par accepter, dans sa grande majorité, de rentrer dans la dynamique de normes humanisantes et écologiques – vers une logique antinormes, anti-institutions, antidémocratie, antidroit ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652165" ordre_absolu_seance="55" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683576" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2104.91">Le temps de réponse est limité à deux minutes : soit il est partagé, soit l’un d’entre vous répond seul.<br/> La parole est à Mme Caroline Neyron.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652166" ordre_absolu_seance="56" id_acteur="PA-125959" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683577" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Neyron</nom>
+            <id>-125959</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2122.92">Je l’ai dit : nous sommes au milieu du gué. La difficulté consiste à prouver que la norme écologique et sociale apporte quelque chose. Une partie du patronat recule et nous subissons une pression des États-Unis en matière d’extraterritorialité : des acteurs étrangers, dont certains peuvent peser sur l’économie française, veulent supprimer ces normes ou les revoir à la baisse.<br/>D’autre part, une suspicion pèse sur l’efficacité de la norme : peut-elle être vecteur de production et d’investissement ? Les entreprises craignent en effet la distorsion de concurrence.<br/>Autre difficulté : les normes n’étant pas posées, on ne peut pas construire dessus. Il faut les poser pour avancer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652170" ordre_absolu_seance="59" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683581" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2162.27">La parole est à M. Christophe Clerc.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652171" ordre_absolu_seance="60" id_acteur="PA-125969" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683582" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Clerc</nom>
+            <id>-125969</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2181.53">Le patronat, qui avait fait un travail important, est en train de reculer. C’est un effet de choc et de sidération. Le monde trumpien semble s’inviter chez nous en force. Ceux qui avaient accepté un processus de civilisation acceptent désormais le processus inverse de décivilisation. C’est une possibilité toujours ouverte dans l’histoire : l’Europe du début du XX<exposant>e</exposant> siècle n’imaginait pas le fascisme ou le nazisme. La décivilisation est une tentation constante pour chacun car elle correspond à une libération : il s’agit de se libérer d’une pression. Quand on se libère, on ouvre les vannes. Nous assistons à ce phénomène auquel il convient de résister. Ce sont des enjeux civilisationnels.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652172" ordre_absolu_seance="61" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683583" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2209.15">La parole est à M. Olivier Serva.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652173" ordre_absolu_seance="62" id_acteur="PA720960" id_mandat="PM843758" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683584" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Olivier Serva (LIOT)</nom>
+            <id>720960</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2249.25">Je remercie le groupe Socialistes et apparentés pour cette très belle initiative et je salue la présence du président du groupe LIOT.<br/>La tournure de certains débats me rend, moi, élu attaché aux territoires, quelque peu perplexe. J’entends parler d’Europe et d’État mais pas du tout de nos régions ultramarines. Pour rappel, dans mon département de Guadeloupe, la taxe sur les produits pétroliers prélevée par le conseil général représente près de 25 % des ressources. À l’aune de ce paramètre, les treize mesures du pacte vert pour l’Europe paraissent difficiles à appliquer sans une véritable implication des collectivités locales dans les discussions, y compris de la collectivité de Corse et des territoires d’outre-mer, premiers touchés par le dérèglement climatique. Selon vous, quelle est la place accordée aux collectivités locales dans ces négociations ?<br/>Je me dois d’aborder la situation géopolitique actuelle qui participe du détricotage du pacte vert que vous avez évoqué : l’Europe doit être le chef de file des luttes contre le dérèglement climatique, quitte à prendre le risque de se protéger davantage sur le plan douanier. Au sein du groupe LIOT, nous avons l’intime conviction que le temps presse pour les territoires les plus vulnérables. Alors qu’ils comptent encore les morts des cyclones Garance, Chido, Irma ou de la tempête Réa, ils ne peuvent être sacrifiés sur l’autel d’une guerre commerciale. Quel est votre avis sur ce second sujet ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652176" ordre_absolu_seance="65" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683587" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2316.52">La parole est à M. Christophe Clerc.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652177" ordre_absolu_seance="66" id_acteur="PA-125969" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683588" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Clerc</nom>
+            <id>-125969</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2350.96">Vous venez d’une région ultramarine : ce sont des régions sensibles au sujet desquelles j’ai beaucoup travaillé.<br/>La question des collectivités locales est essentielle : nous avons besoin de l’Union européenne car la protection assurée par l’État ne suffit plus dans le combat économique mondial. La coordination européenne constitue un supplément de pouvoir pour l’État et donc une garantie supplémentaire pour les collectivités.<br/>Il faut écouter les collectivités locales qui connaissent les entreprises présentes sur leurs territoires et leur donner la parole pour comprendre et ajuster les normes au mieux. En effet, si j’ai évoqué la nécessité de combattre le processus de décivilisation, cela ne signifie pas qu’il ne faille pas simplifier les règles. Il faut le faire mais de manière intelligente, pas en s’y attaquant à la tronçonneuse ! Là, ce sont des paquets de normes qui se trouvent écartées.<br/>S’agissant du combat international, la difficulté est qu’historiquement, l’Union européenne est assez hostile aux droits de douane. Dans le même temps, il est exact qu’ils protègent les industries locales : je pense à l’octroi de mer, système certes imparfait mais important qui remplit cette fonction. À partir du moment où nous ne pouvons explorer pleinement la voie des droits de douane dans le cadre de l’Union européenne, le devoir de vigilance constitue une alternative précieuse pour préserver l’industrie. C’est une façon de protéger l’Europe sans passer par des droits douaniers complexes à appliquer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652181" ordre_absolu_seance="70" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683592" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2357.92">La parole est à Mme Sylvie Ferrer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652182" ordre_absolu_seance="71" id_acteur="PA794870" id_mandat="PM843185" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683593" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sylvie Ferrer (LFI-NFP)</nom>
+            <id>794870</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2485.31">Notre débat de ce soir porte sur la directive omnibus actuellement à l’étude dans les instances européennes. Cette directive ébranle fortement le cadre réglementaire prévu par le pacte vert pour l’Europe qui mettait à la disposition des États plusieurs outils visant à lutter contre les atteintes à la nature et aux personnes. Je pense tout particulièrement à la directive dite CS3D, relative au devoir de vigilance, qui inclut une clause de responsabilité civile offrant la possibilité aux victimes d’abus des entreprises d’obtenir réparation en cas de manquement.<br/>Le 23 janvier dernier, M. le ministre de l’économie, Éric Lombard, a déclaré que la France souhaitait la suspension de la clause de responsabilité civile. Toutefois, lors du Conseil de l’Union européenne du 12 mars, il a défendu le maintien de cette disposition. Madame Alibert, selon vous, la France défendra-t-elle la directive dite CS3D au niveau européen, notamment le maintien de la responsabilité civile des entreprises en cas de non-respect de leur devoir de vigilance ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652184" ordre_absolu_seance="73" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683595" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2549.63">La parole est à Mme Clara Alibert.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2652185" ordre_absolu_seance="74" id_acteur="PA-125979" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683596" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Clara Alibert</nom>
+            <id>-125979</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2566.81">Je vous remercie pour cette question qui souligne toute l’ambiguïté de la position de la France depuis quelques mois, tant en ce qui concerne la directive omnibus que le devoir de vigilance. Nous espérons que M. Lombard et Mme Pannier-Runacher pourront tout à l’heure s’exprimer honnêtement et lisiblement sur ce sujet car durant plusieurs années, chaque pas en avant de la France a été suivi de plusieurs pas en arrière.<br/>En tant qu’acteurs de la société civile, nous nous sommes réjouis d’entendre M. Lombard défendre le régime de responsabilité civile et nous espérons qu’il gardera ce cap car c’est un pilier fondamental du dispositif.<br/>En effet, ce régime permet aux communautés affectées d’engager la responsabilité d’une multinationale en matière d’action préventive ou de réparation. La suppression de cette disposition reviendrait à tuer non seulement l’idée même de devoir de vigilance, mais aussi, réellement, des populations confrontées quotidiennement aux abus des multinationales.<br/>Il est important de s’assurer que notre pays défendra le régime de responsabilité civile, qui constitue un pilier de la loi française – ce qui la distingue par exemple de la loi allemande.<br/>La France doit aussi continuer à faire preuve de la même ambition s’agissant d’autres aspects cruciaux et déterminants du devoir de vigilance. Par exemple, celui-ci ne doit pas seulement concerner les fournisseurs de rang 1. De même – puisque plusieurs d’entre vous ont évoqué l’impact du réchauffement climatique sur les populations –, je rappelle que cette directive vise également à réduire les émissions de gaz à effet de serre grâce au devoir de vigilance des acteurs économiques.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652324" ordre_absolu_seance="79" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683601" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2699.71">La parole est à M. Sébastien Saint-Pasteur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652325" ordre_absolu_seance="80" id_acteur="PA841243" id_mandat="PM842825" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683602" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Saint-Pasteur (SOC)</nom>
+            <id>841243</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2708.16">Je m’interroge sur la capacité des responsables politiques à se projeter sur le long terme pour relever un défi qui dépasse les échéances électorales et à tenir leurs engagements. En effet, face à l’urgence climatique, la réduction de nos émissions de gaz à effet de serre est essentielle.<br/>Si le monde entre, semble-t-il, dans une zone de turbulences majeure, ce qui est assez constant, en revanche, c’est notre difficulté à affronter les défis de la décarbonation.<br/>Or nous devons accepter l’évolution des normes. Nous voyons bien que les enjeux liés au réarmement nous conduisent inévitablement à nous interroger sur certaines de nos ambitions, comme le respect des critères environnementaux, sociaux et de gouvernance, mais nous ne devons pas pour autant dévier de la nécessité d’atteindre les objectifs de notre stratégie bas-carbone.<br/>Ma question, qui s’adresse plus particulièrement à M. Clerc, porte sur notre assujettissement collectif aux stratégies bas-carbone et plus généralement à la comptabilité carbone. Différents modèles existent en la matière, le plus abouti étant selon moi le budget climat, introduit à Oslo il y a quelques années.<br/>Face aux risques d’évolution réglementaire – nous les avons évoqués en constatant par exemple la fragilité de la directive –, ne devrions-nous pas nous astreindre à un objectif de résultats que seule une comptabilité carbone exigeante permettrait d’atteindre ? Plutôt que de nous battre pour le maintien de directives qui peuvent malheureusement être modifiées en fonction des gouvernements au pouvoir dans les États membres, il apparaît en effet souhaitable de prendre un chemin un peu différent.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652330" ordre_absolu_seance="85" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683607" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2758.18">La parole est à M. Christophe Clerc.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652331" ordre_absolu_seance="86" id_acteur="PA-125969" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683608" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Clerc</nom>
+            <id>-125969</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2813.74">Vous suggérez, puisque les directives qui ont été votées sont attaquées, d’emprunter une voie différente en matière de stratégie bas-carbone. Vous proposez ainsi, afin d’atteindre l’objectif de décarbonation, que les entreprises instaurent une comptabilité carbone.<br/>Je serai clair : c’est une très bonne idée. Il faut simplement pouvoir l’appliquer – et, comme vous l’avez rappelé, des initiatives de ce type existent. C’est donc une voie possible.<br/>Cependant, cette méthode est presque plus exigeante que les directives qui font l’objet de demandes de suppression ou de réduction drastique. Si l’on veut réellement appliquer une comptabilité carbone, cela suppose en effet de créer une taxonomie, à l’image de ce qui est déjà prévu par la directive CSRD. Dès lors, il n’est pas certain, dans le contexte politique actuel, que cette solution soit crédible.<br/>Le déploiement de la stratégie bas-carbone, que vous appelez à juste titre de vos vœux, est un combat qu’il faut mener – nombreux sont ceux qui s’y emploient. Dans cette perspective, il me semble donc préférable, tout en se battant pour le maintien des directives, de compléter celles-ci.<br/>Même si nous savons qu’avec M. Trump la tâche n’est pas aisée parce qu’il rejette ce type de règlementation, la bataille des normes n’est pas mal engagée. Je rappelle que de grandes entreprises américaines ont déjà commencé à appliquer la directive CSRD. Par conséquent, ce n’est pas le moment de reculer pour se lancer dans d’autres combats. Maintenons notre position en essayant, dans la mesure du possible, d’améliorer les choses.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652336" ordre_absolu_seance="91" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683613" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2924.24">Puisqu’il reste peu de questions, j’invite les autres intervenantes à s’exprimer également sur ce sujet si elles le souhaitent.<br/>La parole est à Mme Caroline Neyron.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652338" ordre_absolu_seance="93" id_acteur="PA-125959" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683615" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Neyron</nom>
+            <id>-125959</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2943.41">J’aimerais revenir sur votre remarque à propos de la permanence de la position française et de nos attentes vis-à-vis de nos dirigeants – d’autant plus que vous allez échanger dans quelques instants avec des ministres.<br/>La directive omnibus crée une très grande instabilité. Dans ce contexte, la voix de la France doit se faire entendre.<br/>Tout d’abord, les mesures adoptées par la Commission européenne dans le cadre de la directive omnibus sont de simples propositions. Si des États tels que la France n’affirment pas leur ambition sur ces questions et si aucun compromis n’est trouvé entre le PSE – le Parti socialiste européen –, Renew et le PPE – le Parti populaire européen –, il existe un risque que d’autres majorités se dégagent et qu’à l’arrivée les textes soient totalement vidés de leur substance.<br/>La position de la France est importante car elle pourrait nous aider à aboutir à une solution de compromis et donc à sauver l’ambition qu’affirment ces directives.<br/>J’ajoute que cette solution doit intervenir rapidement. Car, encore une fois, la période est instable et incertaine.<br/>Des centaines d’entreprises s’étaient déjà préparées à ces nouvelles règles. Certaines ont déjà répondu aux exigences de la directive CSRD en rendant leur rapport. Elles ont cru à la valeur de la parole publique et ont donc respecté les engagements qui leur étaient demandés. Or elles se retrouvent à présent dans une zone de flou et confrontées à un phénomène de distorsion de concurrence puisque d’autres entreprises n’ont rien fait, ne se sont pas préparées aux nouvelles règles et ne s’y sont pas soumises.<br/>Le France ne doit pas inventer des référentiels et repartir pour trois ans de négociations mais s’appuyer sur les outils existants, forgés par l’Efrag (le groupe consultatif européen sur l’information financière), notamment le standard prévu pour les PME cotées en bourse LSME (<italique>Listed Small and Middle Enterprises</italique>). Cette norme comptable est plus simple et permet aux entreprises de voir leurs engagements valorisés car ceux-ci sont comparables et objectivables.<br/>Notre pays doit exprimer sa volonté avec force et opter pour des réponses pragmatiques afin d’aboutir à un résultat dans les prochains mois et non dans les prochaines années.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652346" ordre_absolu_seance="101" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683623" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3101.12">La parole est à M. Jimmy Pahun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652347" ordre_absolu_seance="102" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683624" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jimmy Pahun (Dem)</nom>
+            <id>720334</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3107.57">Je remercie tout d’abord M. Potier d’avoir organisé ce débat. Pardonnez-moi si mes réflexions sont, comme souvent, un peu désordonnées !<br/>Comme l’a dit M. Clerc, nous vivons dans une oasis appelée Europe. Rappelons qu’il s’agit de la puissance dans laquelle le potentiel de consommation, le pouvoir d’achat et les salaires sont les plus élevés.<br/>Dès lors – et malheureusement –, comment pourrions-nous être concurrentiels face à des pays au sort moins enviable, qui produisent à bas coût et sont moins-disants sur les plans environnemental et social, comme en témoigne le drame du Rana Plaza que vous avez mentionné tout à l’heure ?<br/>Je soumets donc une idée à mes collègues. Ne faudrait-il pas que chaque continent soit très puissant, y compris en fonctionnant de manière presque autarcique ? La crise covid a ainsi bien montré que chaque pays devait être en mesure, pour se reconstruire, de produire ses propres médicaments, ses propres masques ou son propre matériel.<br/>La crise que nous traversons, et qui conduit l’Europe à vouloir se réarmer – au détriment probablement du respect des normes sociales et environnementales, au coût un peu trop élevé –, n’est-elle pas l’occasion de retrouver un élan comme à l’époque de la Communauté européenne du charbon et de l’acier, lorsque les personnes étaient animées par une volonté de construction car elles savaient que la France ne pourrait jamais lutter contre des États-continents tels que la Chine ou l’Allemagne ? Pour préserver nos normes sociales et environnementales, ne faut-il pas demander à ceux qui ne les respectent pas d’en payer le prix s’ils souhaitent entrer sur le continent ?<br/>Finalement, mes réflexions n’étaient pas si désordonnées !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652353" ordre_absolu_seance="108" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683630" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3125.60">La parole est à Mme Clara Alibert.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652354" ordre_absolu_seance="109" id_acteur="PA-125979" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683631" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Clara Alibert</nom>
+            <id>-125979</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3240.54">Il est bien indiqué, dans la directive relative au devoir de vigilance, adoptée en juin 2024, qu’elle s’applique également aux entreprises étrangères, c’est-à-dire hors Union européenne, dès lors que leur chiffre d’affaires sur le marché européen atteint un certain niveau. Les autres critères sont les mêmes que pour les entreprises européennes – je rappelle que la directive concerne les entreprises de plus de 1 000 salariés dont le chiffre d’affaires est supérieur à 450 millions d’euros.<br/>Cette précision, qui n’est pas souvent rappelée lorsqu’on évoque ces questions, est pourtant importante. Car le dispositif permet de protéger à la fois les consommateurs face à l’entrée de produits issus du travail forcé ou du travail d’enfants mais aussi les entreprises face à une concurrence déloyale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652356" ordre_absolu_seance="111" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683633" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3290.58">La parole est à Mme Caroline Neyron.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652357" ordre_absolu_seance="112" id_acteur="PA-125959" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683634" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Neyron</nom>
+            <id>-125959</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3301.21">J’irai dans le même sens. L’extraterritorialité prévue par ces textes est très importante car elle signifie que nous parvenons à imposer nos normes à des acteurs de tous les pays – américains, chinois ou autres. Ils doivent en effet augmenter leurs coûts pour respecter nos normes sociales et environnementales, ce qui nous permet d’améliorer notre compétitivité.<br/>Ce processus était en train d’aboutir mais il a été ralenti par la directive omnibus. Nous devons reprendre ce combat pour protéger nos entreprises.<br/>De la même manière, la directive CSRD prévoit de renforcer la transparence en matière de comptabilité écologique et sociale, ce qui permet de montrer quelle est la valeur liée à ces adaptations et donc de mieux flécher les investissements et les aides. En outre, si une entreprise voit ses engagements valorisés par un acteur extérieur, elle gagne des points de compétitivité, ce qui est déterminant si l’on souhaite sortir de l’injonction contradictoire que vous avez évoquée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652360" ordre_absolu_seance="115" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683637" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3355.99">La parole est à M. Christophe Clerc.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2652361" ordre_absolu_seance="116" id_acteur="PA-125969" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683638" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Clerc</nom>
+            <id>-125969</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3380.72">Pour défendre l’industrie européenne, deux modèles s’offrent à nous. Soit on installe des barrières douanières, comme vous l’avez suggéré, soit on applique une directive sur le devoir de vigilance. La deuxième solution me paraît plus juste.<br/>Si l’on opte pour des barrières douanières, on peut certes compter sur le fait que les produits chinois et vietnamiens, par exemple, n’obéissent pas aux mêmes normes. Cependant, dans ces mêmes pays, certaines entreprises appliquent des normes assez élevées. Avec un tel modèle, on pénalise donc les bons élèves au motif de punir les mauvais.<br/>Si cette solution était la seule à notre disposition, je comprendrais parfaitement qu’on y ait recours. Cependant, nous pouvons aussi choisir d’appliquer la directive sur le devoir de vigilance, qui présente l’avantage de ne viser que les mauvais élèves. Un tel modèle encourage des pays tels que ceux que j’ai cités, qui veulent entrer sur le marché européen, à devenir de bons élèves. Il est donc plus juste, plus sélectif et plus incitatif – ce qui est une vertu non négligeable.<br/>Toutefois, pour qu’il fonctionne, l’Europe doit être en mesure de poursuivre les mauvais élèves. Or la directive omnibus choisit la pire méthode : elle maintient de nombreuses normes – même si elle en supprime certaines – mais leur application devient impossible, faute de régime européen de responsabilité civile incluant la possibilité pour des acteurs de terrain comme les ONG ou les syndicats de mener des poursuites et de faire en sorte que leurs actions soient visibles à l’étranger. Car on ne peut demander à l’administration française, allemande ou luxembourgeoise d’accomplir cette tâche.<br/>Voilà pourquoi la directive omnibus rend inefficace le dispositif de normes prévues pour défendre l’industrie européenne contre les pays étrangers. C’est criminel.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652098" ordre_absolu_seance="121" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683643" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3475.65">La parole est à M. Christophe Proença.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652099" ordre_absolu_seance="122" id_acteur="PA841367" id_mandat="PM842954" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683644" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Proença (SOC)</nom>
+            <id>841367</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3482.00">Je trouve normal que les produits phytosanitaires utilisés en agriculture soient en partie interdits chez nous, lorsqu’ils sont dangereux pour l’homme et la biodiversité : il n’y a pas de débat. En revanche, ce qui me gêne et me perturbe, notamment dans nos territoires ruraux où les agriculteurs se démènent et connaissent des difficultés de production, c’est que le produit interdit chez nous est autorisé en Turquie ou même chez nos voisins et que la production importée de ces pays se retrouve sur nos marchés. Pendant ce temps, notre propre production est réduite à néant ou connaît des pertes qui peuvent s’élever à 70 % – je pense à la filière de la noisette dans certaines parties du Sud-Ouest ou à la noix qui est aussi en grande difficulté, parmi bien d’autres exemples.<br/>Quelle est la solution, à part l’interdiction, qui me semblerait logique, d’importer la production agricole d’un pays voisin cultivée avec des produits phytosanitaires interdits chez nous ? Je comprends l’inquiétude et la crispation des producteurs, auxquels il est difficile d’expliquer la politique européenne en matière agricole. Si nous sommes les seuls dans le monde à interdire une molécule, mais qu’on retrouve celle-ci dans la production importée chez nous, il y a quand même un problème.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652101" ordre_absolu_seance="124" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683646" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3574.73">La parole est à Mme Caroline Neyron.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652102" ordre_absolu_seance="125" id_acteur="PA-125959" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683647" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Neyron</nom>
+            <id>-125959</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3578.25">Un des objectifs des directives européennes, même si elles ne sont pas dédiées aux produits agricoles, est de rendre plus transparente la composition des produits et des services importés dans notre pays et d’accroître progressivement le niveau de qualité et de respect des normes qu’ils doivent atteindre pour entrer sur notre territoire. Cet objectif s’inscrit dans la dynamique que vous appelez de vos vœux. L’interdiction de certains produits ne serait pas acceptable, contrairement à une forte incitation à la transparence et au respect des normes.<br/>La question de la transparence a été beaucoup posée lors de la transposition de la directive CSRD. En effet, celle-ci est très exigeante à l’égard des entreprises en matière de transparence de leurs engagements économiques et sociaux et certaines entreprises françaises se sont interrogées sur l’existence d’une possible distorsion de concurrence, ce qui n’est pas le cas : leurs concurrents internationaux auront justement ce même devoir de transparence, qui permettra de mieux contrôler la nature des produits importés. Ce socle permettra de construire des politiques toujours mieux-disantes qui protégeront notre économie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652104" ordre_absolu_seance="127" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683649" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3653.62">La parole est à Mme Clara Alibert.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652105" ordre_absolu_seance="128" id_acteur="PA-125979" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683650" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Clara Alibert</nom>
+            <id>-125979</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3668.16">Le règlement omnibus proposé par la Commission européenne aidera-t-il le petit producteur ? Non, bien au contraire. Il répond aux intérêts d’une poignée d’agriculteurs, de certaines associations patronales et surtout de lobbys économiques, notamment celui des produits phytosanitaires.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652106" ordre_absolu_seance="129" id_acteur="PA841367" id_mandat="PM842954" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683651" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Proença</nom>
+            <id>841367</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3686.66">Nous sommes d’accord, mais comment fait-on en attendant ? Il y a une transition à passer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652107" ordre_absolu_seance="130" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683652" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3695.30">La parole est à M. Dominique Potier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652108" ordre_absolu_seance="131" id_acteur="PA607553" id_mandat="PM843059" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683653" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Dominique Potier (SOC)</nom>
+            <id>607553</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3704.58">Je profite de la présence de nos intervenants que je remercie pour leur éclairage. J’insiste vraiment sur l’exemple de Taïwan. Ce pays s’était préparé aux futures normes européennes. Il travaillait sur le <italique>sourcing</italique> de ses produits, en l’occurrence des composants électroniques, mais aussi sur la fin du travail forcé des Philippins et des Indonésiens. Sa démarche portait donc à la fois sur la protection des espaces naturels – par l’extraction minière – et des droits humains.<br/>De même, le Costa Rica a développé un programme gouvernemental pour rendre l’école obligatoire et fournir du cacao et du café obéissant aux normes européennes. Au Brésil, la protection des lanceurs d’alerte et des défenseurs de l’environnement a été renforcée pour prévenir les risques d’assassinat de l’un d’eux. Dans la région des Grands Lacs, plusieurs multinationales se sont pliées à la certification des « minerais de sang ».<br/>Alors que toutes ces initiatives étaient engagées, l’Europe, dans un moment de folie, semble renoncer au mouvement de mondialisation moins malheureuse qu’elle avait lancé et qui commençait à donner des résultats économiques favorables. Ce moment que je qualifie de folie a été inspiré essentiellement par des multinationales implantées à la fois aux États-Unis, en Chine, en Afrique, en Turquie et en Amérique du Sud parce qu’elles prétendent qu’en Europe, elles n’en peuvent plus. De fait, elles n’ont aucun patriotisme européen ni aucun sens des valeurs. Elles défendent simplement leur capacité à faire du business partout dans le monde avec un minimum de règles.<br/>Comment les États-nations et les communautés d’États peuvent-ils se mettre aux ordres de compagnies totalement hors-sol, sans valeurs et qui ne cherchent qu’un profit maximum ? C’est vraiment une question de démocratie et de droit. Le terme de décivilisation, utilisé par Christophe Clerc, me paraît tout à fait juste.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652112" ordre_absolu_seance="135" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683657" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3726.81">La parole est à M. Christophe Clerc.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652113" ordre_absolu_seance="136" id_acteur="PA-125969" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683658" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Clerc</nom>
+            <id>-125969</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3844.68">Puisque vous allez aborder ces questions avec les ministres, vous devez avoir en tête un point technique précis : le régime des sanctions est essentiel. Les textes européens que nous avons évoqués, même le règlement omnibus, ne vont pas faire disparaître les normes ; il va en rester. Et avoir les normes sans l’utilité des normes, c’est-à-dire le régime des sanctions, c’est vraiment vivre dans le pire des deux mondes.<br/>Par régime des sanctions, j’entends un régime harmonisé au niveau européen sur les actions en indemnisation au niveau civil, pour éviter que les pays européens s’alignent sur le moins-disant, celui dont les normes seront les plus faibles et qui se privera de toute possibilité de poursuivre les entreprises étrangères au civil pour les attirer et ne pas les fâcher.<br/>Deuxième point : il était prévu que le maximum des sanctions administratives ne puisse pas être en dessous de 5 % du chiffre d’affaires de l’entreprise. Cette mesure de double détente a disparu. Malte, par exemple, en fixant les sanctions à 0,1 % du chiffre d’affaires, pourra inciter les entreprises à s’installer chez elle en tant qu’importateurs. Elles iront toutes à Malte, au détriment de la France.<br/>Troisième point : les multinationales veulent écarter les ONG en prétextant qu’elles sont terribles et qu’on ne peut pas les gérer. Bien sûr, puisque ce sont les ONG qui sortent les affaires ! Sans les ONG, qui va les sortir ? Une administration française, composée de quelques dizaines d’énarques extrêmement formés ? Ce sont eux qui vont se rendre au Brésil, dans les Grands Lacs ou au Vietnam pour y sortir les affaires ? Jamais de la vie. Ils feront de la <italique>compliance</italique>, ce qui n’est pas inutile.<br/>Pour résumer, si vous écartez les ONG, si vous faites disparaître les sanctions administratives et si vous mettez à mal le régime des sanctions civiles, on peut se débarrasser de ces textes européens puisqu’ils ne servent quasiment plus à rien. C’est en réalité le but recherché par les multinationales dont parlait Dominique Potier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652118" ordre_absolu_seance="141" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683663" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3977.97">La parole est à M. Christian Girard, pour la dernière question à nos invités.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652119" ordre_absolu_seance="142" id_acteur="PA793102" id_mandat="PM842330" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683664" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Girard (RN)</nom>
+            <id>793102</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3995.18">Mme Neyron parlait de taxes et de prix fixés. Les entreprises françaises sont parmi les plus taxées au monde. Que faire dans un cadre européen ? Pour rebondir sur les propos de M. Potier, on sait très bien que des multinationales américaines possèdent des milliers d’hectares agricoles en Ukraine. Il n’est même pas question de parler de patriotisme puisque ces acteurs ne sont pas européens, mais américains. Comment les associer à une intégration européenne ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652120" ordre_absolu_seance="143" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683665" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4043.13">La parole est à Mme Caroline Neyron.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652121" ordre_absolu_seance="144" id_acteur="PA-125959" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683666" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Neyron</nom>
+            <id>-125959</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4049.95">C’est justement en matière de fiscalité que nous avons besoin des textes du pacte vert qui permettent une harmonisation européenne absolument nécessaire. On entend souvent dire que ces réglementations compliquent la vie des entreprises. Au contraire, si elles sont bien et simplement appliquées, en prise avec les réalités des entreprises, si elles sont comparables et objectivables, elles simplifieront la vie des entreprises parce qu’elles harmoniseront ce qui est demandé à toutes les entreprises européennes. Le développement d’une fiscalité européenne est vraiment un point clé.<br/>S’agissant de la manière dont la réglementation doit d’appliquer à l’égard des acteurs extra-européens, le principe est celui de l’extraterritorialité. L’Europe constitue le plus gros marché mondial ; nous ne sommes pas des nains économiques, mais au contraire une force majeure dans le monde. Les entreprises mondiales ont besoin du marché européen et ont intérêt à l’intégrer. Même si nous vivons un bras de fer très violent avec les acteurs, notamment américains, qui prônent la dérégulation la plus forte et exercent une pression très intense, la France et l’Europe doivent être conscientes de leur puissance économique et mettre tout leur poids dans ce rapport de force avec leurs concurrents.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652123" ordre_absolu_seance="146" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683668" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4163.98">La parole est à nos invités pour un mot de conclusion.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652124" ordre_absolu_seance="147" id_acteur="PA-125969" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683669" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Clerc</nom>
+            <id>-125969</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4170.19">C’est toujours un honneur de parler devant la représentation nationale. Je vous en remercie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652125" ordre_absolu_seance="148" id_acteur="PA-125979" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683670" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Clara Alibert</nom>
+            <id>-125979</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4178.66">En tant que représentante des ONG, notamment du Forum citoyen pour la justice économique, j’appelle les députés à soutenir les communautés affectées par les abus des multinationales et à ne pas trahir leurs victimes, celles du Rana Plaza comme de tous les autres drames qui ont eu lieu depuis et qui se renouvelleront si l’on ne propose pas des législations qui – je le répète – sont équilibrées et raisonnables pour les acteurs économiques que sont les multinationales.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652126" ordre_absolu_seance="149" id_acteur="PA-125959" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683671" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Neyron</nom>
+            <id>-125959</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4210.59">On peut simplifier la vie des entreprises et les renforcer selon une perspective écologique et sociale. Ce n’est pas une incantation, c’est au contraire une obligation et la seule voie réaliste pour l’avenir de notre tissu économique.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2652127" ordre_absolu_seance="150" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683672" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>794022</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4229.13">Je remercie nos invités pour leur participation à nos travaux. Avant de passer à la seconde phase de notre débat, je suspends brièvement la séance.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="5" id_preparation="2652128" ordre_absolu_seance="151" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3683171" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2652129" ordre_absolu_seance="152" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683172" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4587.73">La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2652130" ordre_absolu_seance="153" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3683173" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à vingt-deux heures vingt-cinq, est reprise à vingt-deux heures trente.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2652131" ordre_absolu_seance="154" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683174" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4593.89">La séance est reprise.<br/>La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle et numérique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2652133" ordre_absolu_seance="156" id_acteur="PA855045" id_mandat="-1" id_nomination_oe="PM855136" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683176" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Lombard</nom>
+              <id>855045</id>
+              <qualite>ministre de l’économie, des finances et de la souveraineté industrielle et numérique</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="4610.00">Je suis très heureux d’intervenir ce soir avec Agnès Pannier-Runacher pour clarifier nos intentions pour la transition écologique en Europe, s’agissant notamment du pacte vert pour l’Europe.<br/>La France a été l’un des principaux soutiens du pacte vert, et le restera. Le pacte vert propose depuis cinq ans une vision cohérente de la transition, mobilisant les entreprises et liant décarbonation, économie circulaire, protection de la nature et de la biodiversité. Soixante-dix textes ont été publiés et la France a joué un rôle moteur, notamment à travers l’adoption du paquet Fit for 55, sous la présidence française de l’Union européenne.<br/>Le pacte vert est plus que jamais d’actualité : notre intention, je l’ai répété lors des questions au gouvernement cet après-midi, est d’avoir une Europe « zéro net » en 2050. Nous le devons aux générations futures, qui sinon risquent d’en payer les conséquences.<br/>La température moyenne a dépassé de 1,2 degré en 2019 et de 1,5 degré en 2024 – l’année la plus chaude jamais enregistrée – la température moyenne de l’ère préindustrielle. Nous avons tous à l’esprit des drames humains, les incendies de Los Angeles, les inondations de Valence et le cyclone Chido, qui a dévasté Mayotte. Météo France a publié la semaine dernière un rapport qui confirme que les phénomènes extrêmes iront croissant, avec des conséquences toujours plus lourdes sur l’ensemble de l’économie. Les dernières estimations du réseau des banques centrales sur le climat montrent qu’un réchauffement mondial atteignant 3 degrés en 2100 diminuera dès 2050 le PIB mondial de 15 points par rapport à un monde sans changement climatique. Ce qui confirme la phrase d’un de nos grands économistes : « Le meilleur investissement que nous puissions faire, c’est l’investissement dans la transformation écologique. »<br/>Il ne s’agit donc pas de remettre en cause le pacte vert pour l’Europe, mais de le mettre en œuvre de façon intelligente pour en faire non seulement notre principal outil écologique, mais un atout de compétitivité et de souveraineté. Dans le contexte international tourmenté que nous connaissons, doublé de tensions commerciales et de la concurrence déloyale d’autres juridictions, c’est même un impératif.<br/>Permettez-moi de relever deux points avant de conclure.<br/>Le premier, c’est l’exigence d’une mise en œuvre pragmatique. La simplification, c’est aussi un facteur évident de compétitivité et une condition de bonne appropriation de la mesure par les entreprises – on le voit dans les débats actuels. C’est pourquoi la simplification a été intégrée dans le pacte vert dès sa conception. Nous allons conserver notre cap parce que la stabilité est une vertu en économie – les derniers indicateurs sont d’ailleurs un peu plus positifs. Les acteurs que je rencontre tous les jours sont engagés sincèrement dans cette transition. Nous allons être pragmatiques parce que nous apprenons en marchant : les entreprises ne nous demandent pas de renoncer, mais réclament de l’intelligence dans l’application des dispositifs du pacte vert, conformément à sa philosophie même.<br/>En ce sens, la Commission européenne, avec notre soutien, a proposé un pacte pour l’industrie propre – le Clean Industrial Deal<italique>, </italique>en moins bon français<italique> </italique>–, qui complète le pacte vert dans le cadre de la Boussole de la compétitivité, dans la logique du mécanisme d’ajustement carbone aux frontières, le MACF. À ce propos, je rappelle que 70 % des entreprises qui auraient dû déclarer leurs importations étaient des PME… Nous soutenons la position de la Commission de fixer dorénavant à 50 tonnes le seuil d’import minimum pour cette obligation déclarative. Avec cette simplification très importante, 92 % des importateurs ne seront plus soumis à l’obligation de déclaration, étant entendu que les 8 % restants représentent 98 % des émissions. On conserve donc bien le même objectif, tout en simplifiant la vie des PME.<br/>C’est dans le même esprit que nous avons maintenu avec fermeté, face à d’autres États membres, le cap de 2035 pour l’automobile décarbonée en adaptant à court terme le règlement Cafe – relatif à la consommation moyenne des voitures neuves. Il s’agissait de ne pas pénaliser injustement les constructeurs engagés dans l’électrification.<br/>J’en viens à mon second point : la sortie des énergies fossiles demeure absolument impérative. La transition écologique devient une force pour l’Europe parce qu’elle réduit ses dépendances aux énergies fossiles. C’est donc un enjeu de durabilité, au sens écologique et économique du terme – il s’agit de maintenir sa compétitivité et sa souveraineté. Les importations de produits fossiles ont coûté à la France 75 milliards d’euros en 2023 et proviennent à plus de 90 % de pays extra-européens. Le pacte vert représente pour nous l’occasion de nous défaire de ces dépendances, d’autant que notre souveraineté énergétique impose de produire davantage sur notre territoire l’énergie que nous consommons et que l’énergie décarbonée qui remplacera les énergies fossiles doit être compétitive et souveraine, issue à la fois du nucléaire et du renouvelable.<br/>À cette fin, la neutralité technologique doit se généraliser en matière énergétique et le soutien au nucléaire doit se renforcer au niveau européen.<br/>Je vous parle ce soir à la fois comme ministre de l’économie et des finances et comme citoyen, engagé de longue date dans ces combats. La défense du pacte vert va continuer à nous mobiliser. Nous souhaitons le faire en avançant, sans trahir son ambition initiale, parce que c’est un pacte avec nos entreprises, mais de façon encore plus importante, avec les générations futures.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2652142" ordre_absolu_seance="168" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683185" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4966.11">La parole est à Mme la ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2652143" ordre_absolu_seance="169" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683186" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre de la transition écologique, de la biodiversité, de la forêt, de la mer et de la pêche</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="4981.21">Je n’ai pas un mot à retirer de l’intervention d’Éric Lombard. Je compte sur lui pour porter cette vision en matière d’investissement dans les discussions à venir… qui pourraient concerner mon budget. <italique>(Sourires.)</italique><br/>Merci pour l’organisation de ce débat sur un sujet essentiel : la position de la France sur le pacte vert européen. Ce débat intervient à un moment charnière, alors que certains voudraient remettre en cause la trajectoire ambitieuse que la France a soutenue et que nous avons collectivement définie.<br/>Ce pacte n’est pas un simple exercice théorique : il représente la contribution concrète de l’Union européenne à la mise en œuvre de l’accord de Paris. Il a contribué à la réduction, en sept ans, des émissions de 20 % en France – soit les deux tiers de la trajectoire – par rapport à l’année de référence, 1990. Il matérialise un engagement clair : faire de l’Europe le premier continent neutre en carbone d’ici 2050 – la neutralité carbone intégrant la compensation carbone, dont les puits carbone –, en atteignant en 2030 un objectif intermédiaire de réduction de 55 % des émissions de gaz à effet de serre par rapport à 1990.<br/>Le pacte vert pour l’Europe se décline au travers d’une stratégie d’ensemble cohérente, qui couvre tous les secteurs. C’est l’un des succès de la présidence française de l’Union européenne de 2022, et l’un des atouts de notre continent pour mener une guerre économique qui se jouera autour de la transition écologique.<br/>Arrêtons-nous un instant sur ce point. La transition écologique, c’est un enjeu de souveraineté, un enjeu d’indépendance, comme l’a dit Éric Lombard. Notre pays est dépendant à 99 % s’agissant des énergies fossiles, et à 99,7 % pour ce qui est des métaux critiques ! Cela nous invite à produire des énergies décarbonées et à recycler les métaux critiques sur notre territoire. Nous pouvons y parvenir. Encore faut-il qu’il y ait des incitations pour les entreprises et des règles du jeu cohérentes.<br/>Au fond, c’est l’objectif du pacte vert. Bien sûr, il n’est pas parfait et on peut en discuter, mais il fallait poser au préalable ce cadre. Je défends cinq priorités pour que le pacte vert soit plus efficace.<br/>La première priorité, c’est de donner de la visibilité sur l’après 2030. Il faut calculer notre empreinte carbone en tenant compte des importations, et ne pas nous limiter à la réduction des émissions de carbone secteur par secteur. Sans objectif commun partagé, aucun plan n’est possible. Les entreprises nous demandent d’avoir de la vision à long terme. Par ailleurs, c’est une obligation que nous nous sommes engagés à respecter en vue de la COP30, qui se tiendra en fin d’année au Brésil. Il est important d’entraîner à notre suite les autres pays du monde.<br/>J’entends çà et là que ce ne serait pas juste que l’Europe soit la seule à faire des efforts. Je tiens à dire ici qu’il ne faut surtout pas sous-estimer les autres pays de la planète. Ainsi, la Chine, souvent pointée du doigt, devrait atteindre cette année son pic d’émissions ; elle est bien en avance par rapport à son plan sur le déploiement des énergies renouvelables parce qu’elle a compris que, derrière la transition écologique, une guerre économique est possible, et qu’elle a fait le choix d’investir systématiquement dans toutes les filières industrielles.<br/>Au-delà de la réduction des émissions, nous plaidons pour l’introduction d’un objectif de réduction de l’empreinte carbone. Prenons un exemple : l’ouverture d’une usine en France, un fait essentiel pour notre réindustrialisation avec, à la clef, de la création de valeurs et d’emplois sur le territoire, ne peut pas être considérée comme un recul environnemental. Il faut savoir que cette usine sera probablement réalisée dans des conditions et avec des produits beaucoup plus exigeants d’un point de vue environnemental, dans le cadre d’une législation sociale beaucoup plus protectrice.<br/>Deuxième priorité : la neutralité technologique. J’ai eu l’occasion d’exprimer ma préoccupation s’agissant d’un nouvel objectif d’énergies renouvelables pour 2040, tel qu’envisagé dans la lettre de mission révisée du commissaire Dan Jørgensen. Ce type d’objectif risque de nuire aux quinze États membres, dont la France, qui produisent ou comptent produire de l’énergie nucléaire. En France, 95 % de l’électricité est déjà décarbonée et, pour ce qui est des renouvelables, nous allons au même rythme – nous sommes même très légèrement en avance – que l’Allemagne : nous atteignons presque 23 %.<br/>Imposer un tel objectif revient à pénaliser ceux qui ont fait le choix du nucléaire, une énergie pourtant favorable au climat. Il est donc essentiel de reconnaître que le nucléaire constitue un bien commun européen – sans oublier que c’est aussi parce qu’il s’agit d’une énergie pilotable. J’espère que l’Alliance européenne du nucléaire, que j’ai lancée en février 2023 et pour laquelle mon collègue Marc Ferracci est très mobilisé, nous y aidera.<br/>Troisième objectif : accompagner le pacte vert d’une politique volontariste en matière industrielle et de recherche et développement. Je ne reviens pas sur le pacte pour l’industrie propre, qui a été évoqué. Je souhaite également que l’on soutienne des secteurs clés comme l’automobile ou l’acier. Je rappelle le travail qui a été fait sur la réglementation Cafe et sur la voiture électrique : il était important que les producteurs européens, engagés dans la transition verte, ne se retrouvent pas à subventionner leurs concurrents, alors même que le marché traverse une passe un peu difficile. Ils ne peuvent pas subir la double peine et je me réjouis que la Commission nous ait entendus.<br/>Quatrième priorité : renforcer nos exigences vis-à-vis d’États tiers souvent moins-disants. Nous devons renforcer la lutte contre la concurrence déloyale que subissent nos entreprises. Il ne s’agit pas là de faire du protectionnisme, soyons clairs, mais simplement de faire payer le coût carbone aux entreprises des pays davantage émetteurs de CO<indice>2</indice><indice> </indice>et d’être vigilants sur les produits chimiques incorporés, qui peuvent affecter la santé de nos concitoyens. Quant au MACF, dont je soutiens le principe, il doit permettre d’introduire un prix du carbone pour les importations venues de pays qui n’en appliquent pas. Un tel mécanisme est tout à fait logique.<br/>Enfin, cinquième et dernière priorité : simplifier, mais sans détricoter. J’ai souvent dit que l’écologie ne devait pas être regardée comme de la bureaucratie. Les deux n’ont rien à voir. Bien simplifier est une manière de mieux atteindre nos objectifs. Cela passe notamment par une instruction plus rapide des dossiers. Si, entre le moment où une entreprise dépose son projet de production d’hydrogène et celui où elle reçoit la notification du soutien européen, il s’écoule deux ans et demi, c’est que l’instruction du projet important d’intérêt européen commun (IPCEI) a été trop lente. Accélérer est une manière de simplifier.<br/>Simplifier, c’est aussi traiter différemment les entreprises selon que leur chiffre d’affaires est de 50 millions d’euros, d’un milliard ou de 90 milliards. Elles n’ont rien à voir les unes avec les autres. En 2020, j’ai exposé la stratégie de la nation pour les entreprises de taille intermédiaire (ETI). Il faut reconnaître les spécificités de ces entreprises, créer un statut européen pour les jeunes entreprises innovantes, faciliter les aides d’État pour la transition énergétique, réduire les indicateurs superflus et privilégier l’action. J’imagine que notre discussion nous permettra de multiplier les exemples.<br/>Le pacte vert offre l’occasion de construire une Europe souveraine, compétitive et décarbonée, mais, pour que nous y parvenions, il doit être réalisé, rééquilibré et juste. Vous pouvez compter sur moi pour défendre cette vision.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652192" ordre_absolu_seance="185" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683198" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5501.96">Nous en venons aux questions. Leur durée, ainsi que celle des réponses, est limitée à deux minutes, sans droit de réplique.<br/>La parole est à M. Dominique Potier.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652193" ordre_absolu_seance="186" id_acteur="PA607553" id_mandat="PM843059" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683199" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Dominique Potier (SOC)</nom>
+              <id>607553</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5517.41">Nous sommes très honorés de recevoir les ministres de l’économie et de l’environnement. Votre présence pour répondre à nos questions est une marque de respect que je salue.<br/>Comme j’aimerais croire l’histoire que vous nous avez racontée, celle d’une France qui, depuis quelques années, s’engage vaillamment, convainc et entraîne l’Europe, une histoire qui fait de nous une nation pionnière dans une Europe pionnière ! Ce n’est pas vraiment la réalité.<br/>Je remonte le fil de l’histoire. Il y a vingt-cinq ans, Kofi Annan lance le Pacte mondial des nations unies : les entreprises se mettent en mouvement – un guide « Entreprises-Communautés affectées »<italique> </italique>a été présenté ce matin –, l’idée progresse dans les esprits. Il y a huit ans, la France devient pionnière en adoptant la première loi sur le devoir de vigilance, qui en fixe les principes. Il y a un an, avec l’adoption des directives CSRD et CS3D, le devoir de vigilance passe à l’échelle européenne. Mais, depuis neuf mois et la nouvelle donne politique, tout s’évapore, tout se détricote.<br/>C’est de cela que nous voulons parler ce soir. Derrière ces textes, il y a des millions de personnes en situation d’esclavage, des millions d’enfants au travail, des victimes des drames industriels ou agricoles – partout dans le monde. Alors que ce nouveau mouvement économique, autour de la comptabilité extra-financière et du devoir de vigilance, se diffusait sur la planète, à Taïwan à propos des semi-conducteurs, en Amérique centrale avec la filière du cacao ou dans la région des Grands Lacs à propos des « minerais de sang », il est en train de s’effondrer, sous l’impulsion de forces que nous avons du mal à identifier mais sur l’origine desquelles vous nous éclairerez.<br/>C’est un moment de folie, car il y a des valeurs qui n’ont pas de prix. Les grands intervenants que nous avons reçus aujourd’hui, Antoine Lyon-Caen, des chercheurs, des philosophes, mais également des députés européens et des représentants des plus grandes ONG françaises, parlent d’un processus européen de « décivilisation ».<br/>Entre le conte de fées, celui de la décarbonation joyeuse, et la décivilisation, il y a peut-être un chemin intermédiaire de vérité à trouver. C’est le but de cette soirée. Où en sommes-nous ? Quelle est la position de la France dans les négociations européennes qui visent, avec la directive omnibus, à détruire le principe du devoir de vigilance et à réduire presque à néant la perspective d’une comptabilité extra-financière ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652198" ordre_absolu_seance="192" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683204" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5653.21">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652199" ordre_absolu_seance="193" id_acteur="PA855045" id_mandat="-1" id_nomination_oe="PM855136" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683205" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Lombard</nom>
+              <id>855045</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5672.38">Beaucoup de choses se détricotent et notre monde connaît une crise d’une extrême gravité – c’est une évidence. Une guerre se déroule sur le continent européen, à 2 000 kilomètres de notre territoire. Nombre de pays s’éloignent des principes démocratiques qui fondent notre République. Les États-Unis sont passés sous une présidence, certes issue des urnes, qui tend à abandonner des principes sur lesquels le pays était un peu en retard mais progressait malgré tout – désormais, ils militent pour les forages pétroliers, les énergies carbonées et prônent un développement qui ne respecte ni les diversités ni l’inclusion.<br/>Dans ce monde, nous avons deux préoccupations. La première est de conserver la singularité européenne d’une trajectoire de transformation écologique, de pousser l’idée d’une communication extra-financière et d’un devoir de vigilance – pour permettre aux valeurs que nous chérissons d’imprégner l’ensemble de la chaîne de production.<br/>Parallèlement, nous devons tenir compte de la compétition encore plus difficile à laquelle les entreprises se livrent. En dialogue avec elles, nous avons procédé à quelques aménagements. Ces aménagements ne remettent pas en cause le fond. La CSRD s’applique en France, pour la phase 1, même si nous voulons réduire le nombre d’indicateurs ; pour la phase 2, nous souhaitons obtenir une simplification et un délai – c’est le but de la directive omnibus.<br/>Nous souhaitons par ailleurs que la CS3D soit simplifiée. Grâce à une loi que vous connaissez mieux que personne, monsieur Potier, le devoir de vigilance s’applique déjà dans notre pays. Il doit s’appliquer à toute l’Europe, moyennant les simplifications souhaitées par la majorité de nos partenaires. Les principes de responsabilité civile des entreprises et de devoir de vigilance sont maintenus. Malgré le basculement que connaît le monde, il me semble que les textes proposés par la France et soutenus par l’Union européenne défendent ces valeurs, importantes pour vous, et que nous partageons. J’espère que nous pourrons le démontrer dans nos prochaines réponses.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652203" ordre_absolu_seance="197" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683209" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5854.67">La parole est à M. Jimmy Pahun.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652204" ordre_absolu_seance="198" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683210" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jimmy Pahun (Dem)</nom>
+              <id>720334</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5862.28">Je remercie M. Potier d’avoir permis ce moment d’échange privilégié avec les ministres de la transition écologique et de l’économie. Ce n’est pas rien !<br/>Madame la ministre, vous avez dit qu’il fallait rendre visible la transformation écologique. Le secrétariat général à la planification écologique (SGPE) a élaboré, pour les trente ans qui viennent, un plan simple qui vise à changer l’état d’esprit et le comportement de 2 % des Français, chaque année. Pourrait-il nous servir de feuille de route ?<br/>Je remercie les ministres d’avoir rappelé la position du président de la République – je le dis d’autant plus facilement qu’il n’y a que des socialistes ici –,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652207" ordre_absolu_seance="201" id_acteur="PA840997" id_mandat="PM842612" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683213" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoît Biteau</nom>
+              <id>840997</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5895.60">Pas que…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652208" ordre_absolu_seance="202" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683214" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jimmy Pahun</nom>
+              <id>720334</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5914.28">…qui a toujours défendu l’idée d’une Europe solide, d’une Europe solidaire, d’une Europe qui va de l’avant. Ce drame qu’est la guerre en Ukraine n’est-il pas l’occasion de retravailler avec une Europe qui a envie de nous suivre, de vous suivre ? Nous avons reçu en début de séance des experts de grande qualité, encore plus utopistes que Dominique Potier – c’est dire. Ils sont convaincus qu’à terme, les pays lointains feront leurs les normes que nous avons adoptées. Même si je pense que ce sera difficile, je le souhaite de tout cœur. Sinon, comment échapper à des cochonneries comme Shein ?<br/>Ma dernière réflexion s’adresse à mes collègues socialistes présents autour de la table. Depuis les élections européennes du mois de juin, il y a entre vous et nous, à propos de l’Europe, l’épaisseur d’une feuille de papier à cigarette – deux feuilles peut-être entre les écologistes et nous. Pourquoi n’arrivons-nous pas à nous faire entendre plus fortement face aux pays qui adoptent des politiques illibérales, comme la Hongrie, et désormais les États-Unis ? On croit rêver en observant ce qui se trame outre-atlantique. Ce pays ne risque-t-il pas d’imploser, du fait du comportement de son leader ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652210" ordre_absolu_seance="204" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683216" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6004.86">La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652211" ordre_absolu_seance="205" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683217" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6019.50">Je veux revenir sur la question posée par M. Potier. Ma réponse fera le lien avec l’intervention de M. Pahun. Parler d’effondrement est très exactement le discours qu’attendent les ennemis du climat. Il ne faut pas être tétanisé par l’action et mesurer qu’on a fait, en sept ans, beaucoup plus qu’au cours des vingt années précédentes, à cause de l’accélération de l’histoire et grâce au pacte vert.<br/>Je vais donner quelques chiffres, certifiés par des tiers de confiance. La France a baissé ses émissions de gaz à effet de serre de 20 % en sept ans. Le taux d’oxydes d’azote (NOx) dans l’air a chuté de moitié dans les deux principales zones à faibles émissions (ZFE). On peut regarder la moitié du verre qu’on veut mais, pour ma part, j’insiste sur les solutions qui ont été apportées et qui ont un effet positif. Dans le bruit ambiant, ne pas le reconnaître…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652213" ordre_absolu_seance="207" id_acteur="PA607553" id_mandat="PM843059" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683219" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Dominique Potier</nom>
+              <id>607553</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6092.34">Ce n’est pas mon cas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2652214" ordre_absolu_seance="208" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683220" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6099.89">…conduit à une paralysie. Or, sur le terrain, beaucoup de maires et de présidents d’agglomération me demandent pourquoi nous envisageons de changer certaines lois, alors qu’ils les ont appliquées et ont ainsi passé le cap le plus difficile. Ils me demandent plutôt de ne rien changer, maintenant que le plus dur est fait.<br/>J’en viens au plan du SGPE. Il s’incarne dans plusieurs textes : la stratégie nationale bas-carbone (SNBC), qui doit faire l’objet de dernières consultations ; la programmation pluriannuelle de l’énergie, pour laquelle la consultation s’achève ; le plan national d’adaptation au changement climatique, que j’ai présenté au début du mois ; la stratégie nationale pour l’alimentation, la nutrition et le climat, qui est en phase de finalisation. Ainsi, le plan du SGPE, qui résulte de la consolidation du travail interministériel mené depuis près de trois ans, continue à s’appliquer, conformément à ses bases de départ.<br/>S’agissant des États-Unis, laissons les Américains s’occuper de leur pays ; je pense que nous n’avons pas à nous en mêler.<br/>En revanche, vous avez raison de souligner qu’il existe au sein du Parlement européen une grande proximité entre les positions du PSE, des Verts et de Renew au sujet du pacte vert. Il y aurait un réel intérêt à peser dans la balance dans ce moment de rééquilibrage politique. Pour ce qui me concerne, je pense qu’il est nécessaire de répondre à la demande de compétitivité de la part des entreprises. Cette question me semble parfaitement conciliable avec l’écologie, nous devons y travailler.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652243" ordre_absolu_seance="212" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683312" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6220.94">Je laisse un peu de souplesse mais j’invite chacun et chacune à respecter son temps de parole parce que les demandes d’intervention sont nombreuses et qu’il serait bon que nous puissions aborder tous les sujets.<br/> La parole est à M. Laurent Panifous.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652244" ordre_absolu_seance="213" id_acteur="PA793210" id_mandat="PM842417" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683313" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Panifous (LIOT)</nom>
+              <id>793210</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6237.90">Tout d’abord, je tiens à remercier Dominique Potier et le groupe socialiste d’avoir placé la question du pacte vert au cœur des débats de l’Assemblée nationale ce soir. Il faudrait être aveugle pour ne pas voir les catastrophes que peuvent subir nos territoires d’outre-mer. Je pense ce soir à eux et, plus généralement, à toutes celles et à tous ceux qui, à travers le monde, souffrent, à commencer par les plus modestes.<br/>Je ferai une observation et poserai une question.<br/>L’observation, d’abord. Quel décalage entre les réalités économiques et commerciales, les déclarations individuelles et les prétendues ambitions collectives, entre la nécessité de fixer des normes pour nous protéger et notre absence totale de protection contre ce qui se fait en dehors de l’Europe ! L’agriculture en est peut-être le meilleur exemple – récent, de surcroît. On oppose ceux qui prônent l’ultralibéralisme et qui souhaitent laisser faire le marché, sans aucune protection, et ceux qui voudraient trop protéger, ce qui revient à empêcher de travailler. Il existe pourtant une autre solution, un autre chemin, qui serait de faire en sorte que le travail respecte l’environnement et les personnes, tout en protégeant nos agriculteurs – parce qu’il faut les protéger. Pour les protéger, il faut des normes, et ces normes ne peuvent s’appliquer à la seule France. La question de l’écologie ne peut se régler, à mon sens, qu’à l’échelle européenne.<br/>J’en viens à la question. Quelle est l’ambition réelle, non pas du gouvernement français actuel – cela ne relève pas simplement de la responsabilité d’un gouvernement et le Parlement peut aussi jouer son rôle –, mais de vos homologues européens ? Ressentez-vous à l’échelon européen l’ambition sincère de fixer au bon niveau l’exigence de protection, de sorte que nous puissions disposer de normes qui prennent en considération l’urgence de la transition écologique ? En effet, je le répète, je pense que la solution ne peut venir que de l’échelon européen.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652248" ordre_absolu_seance="217" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683317" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6446.11">La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652249" ordre_absolu_seance="218" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683318" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6527.51">La Suède a défendu lors de la COP28 l’ambition de <italique>transitioning away from fossil fuels, </italique>c’est-à-dire de s’éloigner des combustibles fossiles. Elle était à la manœuvre avec nous et mon homologue suédoise chargée de la biodiversité s’est très fortement engagée dans ce sens. Pourtant, le gouvernement suédois actuel est un gouvernement bien à droite – si ce n’est plus.<br/>En Allemagne, le futur chancelier, Friedrich Merz, a clairement indiqué qu’il maintiendrait l’objectif de neutralité carbone de l’Allemagne pour 2045, c’est-à-dire avec cinq années d’avance par rapport à l’objectif européen. Il a également dit qu’il ne souhaitait pas stopper la transformation de l’Allemagne et a annoncé un plan d’investissement massif afin de l’accompagner.<br/>L’Espagne est, elle aussi, très engagée – et je pourrais poursuivre l’énumération.<br/>Contrairement à ce qu’on peut entendre, la nécessité de lutter contre le dérèglement climatique n’est plus remise en cause. En revanche, trois questions restent en suspens.<br/>La première est de savoir comment garantir aux plus modestes qu’ils ne paieront pas l’addition – faire en sorte que la transition soit juste. La vérité commande de dire qu’un travail important est réalisé en ce sens, avec le Fonds social pour le climat, le signal-prix carbone, le soutien aux personnes qui ne peuvent pas changer de mode de chauffage ou de transport. La deuxième est de préserver la compétitivité des entreprises face à une concurrence déloyale. La troisième est de remédier à la très grande complexité de notre réglementation, qui, il faut le reconnaître, pose aux entreprises des problèmes d’application concrète. Sur ces trois points, les attentes des gouvernements européens sont particulièrement fortes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652253" ordre_absolu_seance="223" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683322" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6531.02">La parole est à Mme Karine Lebon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652254" ordre_absolu_seance="224" id_acteur="PA774962" id_mandat="PM843731" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683323" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Karine Lebon (GDR)</nom>
+              <id>774962</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6541.10">Dans la liste des catastrophes récentes dues au changement climatique, je me permets d’ajouter le cyclone Garance, qui a durement frappé La Réunion le 28 février et a fait cinq morts. Après Chido, la France de l’océan Indien a été touchée pour la deuxième fois en moins de trois mois. Le ministre d’État le faisait remarquer : peut-être l’ampleur de cette catastrophe a-t-elle été sous-estimée à l’échelon national.<br/>Venons-en au pacte vert, qui a été adopté au lendemain des élections européennes de 2019 et qui doit permettre à l’Europe d’atteindre la neutralité carbone à l’horizon 2050. Il est attaqué aujourd’hui sur tous les fronts.<br/>Avant même les élections européennes, ce pacte, qui prévoit la remise en état de 20 % des terres et des mers de l’Union européenne d’ici à 2030, a fait l’objet d’une véritable offensive au Parlement européen. De son côté, la Commission a retiré le texte visant à réduire de 50 % l’usage des pesticides.<br/>Depuis le scrutin de juin, on assiste à une nouvelle offensive en règle contre les ambitions communautaires en matière de lutte contre le réchauffement climatique et de protection de l’environnement.<br/>Plus grave encore, la Commission européenne a rendu publique il y a quelques semaines un projet de directive, omnibus, qui orchestre un affaiblissement historique des normes environnementales et sociales en Europe. Capitulant devant les lobbys, la Commission européenne semble décidée à faire machine arrière et à « détricoter » – un terme qui a été beaucoup employé ce soir – le pacte vert, pour entrer dans une logique de guerre économique qui s’apparente à une fuite en avant.<br/>Vous avez dit tout à l’heure, monsieur le ministre, que la France était un soutien du pacte vert et qu’elle le resterait. Madame la ministre, vous semblez être sur la même ligne. Quelle est donc votre position par rapport à ce projet de directive ?<br/>La France, alors même qu’elle a toujours prétendu jouer un rôle moteur en faveur d’une mondialisation juste et régulée, semble malheureusement vouloir prendre une part active à la volonté actuelle de dérégulation, quitte à porter un coup fatal aux instruments tels que ceux relatifs au devoir de vigilance des entreprises. Madame la ministre, monsieur le ministre, êtes-vous disposés à réviser vos orientations ? Quelles garanties pouvez-vous nous donner ?<br/>S’agissant des États-Unis, non, la situation actuelle ne concerne pas que les Américains, madame la ministre. Quand ils se désengagent de l’accord de Paris, quand les subventions aux ONG sont coupées dès lors que les projets contiennent les mots « genre », « climat », « stéréotype », etc., on ne peut pas regarder les choses d’un œil distrait en disant : « Laissons-les faire, c’est leur affaire ».</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652262" ordre_absolu_seance="232" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683331" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6614.11">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652263" ordre_absolu_seance="233" id_acteur="PA855045" id_mandat="-1" id_nomination_oe="PM855136" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683332" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Lombard</nom>
+              <id>855045</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6681.84">Pour ce qui est du dernier point, la tradition veut qu’on ne s’exprime pas sur la politique intérieure d’un État, en particulier devant le Parlement. J’éviterai donc de dire ce que je pense sur le sujet – néanmoins, comme on dit outre-Atlantique, le langage du corps peut se comprendre aussi bien que les mots qu’on prononce… <italique>(Sourires.)</italique><br/>S’agissant du projet de directive omnibus, je voudrais rappeler notre ambition. Elle est d’avoir en 2050 une économie décarbonée, inclusive, démocratique, ouverte. Cette ambition reste au cœur de notre projet.<br/>Que s’est-il passé ? À la suite des chocs que nous avons subis récemment, la concurrence est devenue de plus en plus rude et il y a eu effectivement une pression renforcée de la part des entreprises. Je signale que la directive CSRD, déjà appliquée en France pour ce qui est de la phase 1, n’a pas été transposée par dix-sept États membres. Je le regrette – nous le regrettons –, et cela place nos entreprises dans une situation de distorsion de concurrence. De ce fait, quand la demande des entreprises s’est traduite à l’échelon du Conseil affaires économiques et financières, auquel je participe depuis trois mois, l’avis majoritaire a été de se donner du temps. D’où le projet de directive omnibus.<br/>Néanmoins, je le répète, nous n’abandonnons pas notre ambition. La directive omnibus simplifie la phase 1 et reporte un peu la phase 2 de la directive CSRD, mais tout en en conservant les principes. Nous allons adapter le droit français au moyen du projet de loi Ddadue, portant diverses dispositions d’adaptation au droit de l’Union européenne.<br/>Quant à la directive CS3D, des règles s’appliquent déjà et nous avons obtenu qu’elles s’appliquent aussi à l’ensemble de l’Union européenne. La responsabilité civile des dirigeants, qui est un élément essentiel, a fait l’objet de débats ; l’attitude de la France a permis que cette exigence soit maintenue. La taxonomie verte demeure, de même que le MACF et toute une palette de mesures qui participent de la même ambition.<br/>Pour conclure, il est vrai que nous avons dû nous adapter aux divergences dans la mise en œuvre des textes au sein des différents États membres et à une concurrence internationale renforcée, mais l’ambition reste la même et nous y sommes très attachés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652269" ordre_absolu_seance="239" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683338" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6856.99">La parole est à Mme Sylvie Ferrer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652270" ordre_absolu_seance="240" id_acteur="PA794870" id_mandat="PM843185" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683339" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sylvie Ferrer (LFI-NFP)</nom>
+              <id>794870</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6871.41">Nous avons ce soir un débat sur la directive omnibus et je remercie les collègues socialistes de l’avoir organisé. Cette directive va fortement affecter le cadre réglementaire prévu par le pacte vert, qui mettait à la disposition des États membres un certain nombre d’outils visant à lutter contre les atteintes à la nature et aux personnes.<br/>Je souhaite centrer mon propos sur la directive CS3D, qui porte sur le devoir de vigilance et qui instaure notamment un régime de responsabilité civile en cas de manquement, offrant aux victimes des abus des entreprises la possibilité d’obtenir réparation.<br/>Le 23 janvier, vous avez déclaré, monsieur le ministre, vouloir, au nom de la France, suspendre cette disposition. Toutefois, lors du Conseil affaires économiques et financières du 12 mars, vous avez, à l’inverse, défendu le maintien de la clause de responsabilité civile.<br/>Ma question est claire : la France défendra-t-elle, oui ou non, la directive CS3D au niveau européen, notamment le maintien de la responsabilité civile des entreprises en cas de non-respect de leur devoir de vigilance ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652274" ordre_absolu_seance="244" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683343" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6933.62">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2652275" ordre_absolu_seance="245" id_acteur="PA855045" id_mandat="-1" id_nomination_oe="PM855136" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683344" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Lombard</nom>
+              <id>855045</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6961.40">Merci de me permettre de clarifier ce point.<br/>Nous avons plaidé pour le maintien de cette directive, question qui a fait l’objet de dialogues vigoureux au sein du Conseil des ministres. Heureusement, la position de la France a prévalu et la directive est maintenue. Dans le projet de directive omnibus, qui est, en l’état, une proposition de la Commission, la responsabilité civile ne figure plus. Or – il y a autour de la table d’excellents spécialistes du sujet, qui ne me contrediront pas –, si l’on supprime la responsabilité civile des dirigeants, l’impact de la directive en sera très affaibli. Il nous paraît essentiel qu’au devoir que nous souhaitons assigner aux entreprises soit associée une responsabilité civile qui permette aux parties prenantes d’en exercer le contrôle et de tirer les conséquences d’un éventuel non-respect des textes.<br/>Le projet de directive de la Commission va poursuivre son chemin, dans le dialogue avec les États membres et le Parlement européen. Je vous certifie que, dans le cadre de ce dialogue, nous pousserons pour que la responsabilité civile soit rétablie dans le texte final.<br/>Dans le droit français, la responsabilité civile existe. Il est donc d’autant plus important que nous ayons gain de cause. Dans le cas contraire, non seulement nous serions l’un des seuls États membres de l’Union à défendre ce texte dans toutes ses dimensions, mais nous subirions une distorsion de concurrence.<br/>Tout cela va évoluer dans les semaines et mois à venir ; vous pouvez compter sur notre engagement en faveur de la réintégration de ces dispositions.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652280" ordre_absolu_seance="250" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683392" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7086.55">La parole est à Mme Pascale Got.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652281" ordre_absolu_seance="251" id_acteur="PA331973" id_mandat="PM842624" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683393" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Pascale Got (SOC)</nom>
+              <id>331973</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7100.56">Comme vous avez déjà exposé votre position sur le pacte vert, j’aimerais connaître votre avis sur l’exportation de CO<indice>2</indice> par la France vers des pays riverains, afin d’y procéder au stockage offshore. N’est-ce pas renvoyer chez les autres, notamment d’autres pays européens, nos déchets ? Le fait que la France n’ait développé aucun projet de stockage de ce genre, malgré son domaine maritime, ne contredit-il pas ce que vous avez indiqué en introduction ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652282" ordre_absolu_seance="252" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683394" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7112.52">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652283" ordre_absolu_seance="253" id_acteur="PA855045" id_mandat="-1" id_nomination_oe="PM855136" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683395" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Lombard</nom>
+              <id>855045</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7150.79">Une remarque générale d’abord : le meilleur CO<indice>2 </indice>est celui qui n’est pas émis. Notre projet, c’est de recourir à des énergies décarbonées et de privilégier des processus industriels qui n’émettent pas de carbone.<br/>Concernant les émissions, que nous voulons aussi résiduelles que possible, il est vrai que différents opérateurs expérimentent plusieurs techniques de stockage. Une grande entreprise française spécialisée dans l’exploitation du gaz développe la technique que vous avez évoquée : elle consiste à liquéfier le carbone pour le réinjecter dans les couches profondes d’anciens champs pétroliers, de façon à atteindre des cavités depuis lesquelles ce CO<indice>2</indice> ne risque pas de se diffuser dans l’atmosphère. Au large de la Norvège, il existe des sols de ce type, où l’on peut réinjecter du CO<indice>2</indice> dans d’anciennes poches vidées de leur pétrole. La France n’ayant jamais été une grande puissance pétrolière, nous ne disposons pas d’anciens champs pétroliers. Ces circonstances seules expliquent que nous menions cette expérimentation en Norvège, dans le respect de la réglementation.<br/>Toutefois, nous ne souhaitons pas que cela devienne l’option prédominante. Continuer à polluer et traiter ensuite la pollution ne me paraît pas la bonne solution en matière d’écologie. En revanche, dans une phase de transition où les émissions de carbone sont encore excessives, il s’agit sans doute d’une technique intéressante, à condition de disposer de sols <italique>ad hoc</italique> et de respecter les règles en vigueur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652287" ordre_absolu_seance="256" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683399" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7155.84">La parole est à M. Benoît Biteau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652288" ordre_absolu_seance="257" id_acteur="PA840997" id_mandat="PM842612" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683400" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoît Biteau (EcoS)</nom>
+              <id>840997</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7288.20">J’ai eu la chance, l’honneur, le privilège même, de vivre la naissance du pacte vert dans une autre assemblée ; je l’ai vu se bâtir et, en fin de mandat, j’ai observé les prémices de son détricotage.<br/>Un important volet du pacte concerne l’agriculture, mon sujet de prédilection. C’est l’une des raisons qui ont fait de moi l’un de ses fervents soutiens, car le réchauffement climatique et l’effondrement de la biodiversité menacent notre souveraineté alimentaire, le revenu des agriculteurs et, plus généralement, notre faculté de produire en Europe. Par conséquent, nous devons tout faire pour préserver ce pacte vert – j’ai bien perçu le volontarisme des deux ministres sur ce point –, notamment ses dispositions relatives à la souveraineté alimentaire. Parmi les agriculteurs comme dans les autres secteurs, les premières victimes seront en effet les plus faibles.<br/>Alors qu’une future PAC fait l’objet de nouvelles discussions, les échos qui me parviennent ne laissent en rien penser que cette politique agricole commune sera en adéquation avec les grandes orientations définies dans le pacte vert. Quant à la France, je suis désolé de constater que la loi de programmation agricole n’est pas à la hauteur des enjeux de réchauffement climatique et d’effondrement de la biodiversité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652291" ordre_absolu_seance="260" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683403" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jimmy Pahun</nom>
+              <id>720334</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7389.73">Elle a été détricotée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652292" ordre_absolu_seance="261" id_acteur="PA840997" id_mandat="PM842612" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683404" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoît Biteau</nom>
+              <id>840997</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7390.84">Heureusement !<br/>D’ici peu, nous examinerons une proposition de loi, défendue par le sénateur Laurent Duplomb, qui nous éloigne encore des objectifs fixés en la matière. Je vous alerte : si vous voulez tenir les engagements que vous avez rappelés dans vos propos liminaires, il faut nous aider – j’ai l’humilité de vous le dire – à faire en sorte que cette PAC prenne la bonne tournure, que la proposition de loi Duplomb n’aboutisse jamais et que nous soyons au rendez-vous de l’histoire sur ces grands enjeux. Faute de quoi, nous ne montrerons pas l’exemple. Or, comme le disait Gandhi d’une formule que j’aime beaucoup : « Montrer l’exemple n’est pas la meilleure manière de convaincre, c’est la seule. » Eh bien, montrons l’exemple en France et en Europe !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652294" ordre_absolu_seance="263" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683406" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7430.51">La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652295" ordre_absolu_seance="264" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683407" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7443.96">Je partage votre diagnostic : la première menace pour le revenu des agriculteurs aujourd’hui, c’est le réchauffement climatique et l’effondrement de la biodiversité. Pour s’en convaincre, il suffit de se décentrer et d’en observer l’impact sur les revenus des agriculteurs hors d’Europe : l’Organisation des Nations unies pour l’alimentation et l’agriculture (FAO) a publié des études tendant à montrer que les rendements baissent structurellement dans certaines aires géographiques du fait du réchauffement climatique et de l’effondrement de la biodiversité.<br/>En France, le coût des interventions d’urgence dans le budget de l’État depuis les années 2010 a été multiplié par un facteur situé entre 20 et 50 : de quelques dizaines de millions d’euros, nous sommes arrivés au-delà du milliard, atteignant même 2 milliards. L’ampleur des aléas a complètement changé de proportion, comme en attestent les épisodes de sécheresse, de gel tardif, de grêles, etc. Parfois très localisés, ces événements peuvent faire disparaître les fruits du travail d’une année.<br/>Sur la PAC, à ce stade, la question est celle du budget, puisque la discussion porte sur le cadre de financement pluriannuel. La France défend une conception très ambitieuse de cette politique, d’autres pays mettent en question l’opportunité d’y consacrer un budget propre, discussion typique d’un début de négociation.<br/>Notre vision pour l’agriculture est bien illustrée par le plan Agriculture climat Méditerranée. Travaillant avec les agriculteurs, nous demandons : partant d’un scénario de dérèglement climatique entraînant telle et telle conséquence sur votre territoire – raréfaction des ressources en eau, élévation des températures et accroissement de la pression, au sens propre et imagé du terme –, quelles productions alimentaires faut-il privilégier pour tenir compte des nouvelles conditions pédoclimatiques tout en tenant compte des enjeux de souveraineté alimentaire ? Sachant qu’il ne s’agira probablement pas des mêmes cultures que celles qui sont pratiquées aujourd’hui, comment parvenir à une équation intrants-revenus qui fonctionne ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652299" ordre_absolu_seance="268" id_acteur="PA840997" id_mandat="PM842612" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683411" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benoît Biteau</nom>
+              <id>840997</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7593.62">Et la proposition de loi de M. Duplomb ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652300" ordre_absolu_seance="269" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683412" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7614.30">La parole est à M. Jean-Victor Castor.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652301" ordre_absolu_seance="270" id_acteur="PA795868" id_mandat="PM843722" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683413" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Victor Castor (GDR)</nom>
+              <id>795868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7642.46">Je vous propose de considérer la question sous un autre angle : amazonien, guyanais. La Guyane étant un territoire très pauvre, je suis un homme du Sud. Depuis le sommet de Rio, on a fait beaucoup de promesses aux pays du Sud : en Occident, nous continuons à consommer et à développer notre industrie ; au Sud, vous protégez la planète.<br/>Un territoire comme la Guyane ou un État brésilien comme l’Amapá sont exactement dans cette situation. Or le plateau des Guyanes recèle des ressources en énergies fossiles, que beaucoup – au Guyana, au Suriname, dans le Nordeste du Brésil – veulent exploiter ; l’exploitation a d’ailleurs commencé à un rythme vertigineux. Cependant, la loi Hulot, décidée à Paris de manière totalement unilatérale, interdit aux Guyanais l’exploitation du pétrole. L’impact social se fait déjà sentir : nos jeunes commencent à émigrer vers les pays où cette exploitation a lieu. Au même moment, la forêt guyanaise est détruite par des activités illégales – vous le savez, madame Pannier-Runacher – et rien n’est fait. Sept de nos vingt-deux communes sont enclavées, sans routes ni voies ferrées. À cela s’ajoute une démographie hors normes. La situation est la même dans l’Amapá, au Brésil.<br/>La COP30, à laquelle vous vous rendrez bientôt, se réunira à Belém. Le président Lula a annoncé qu’il permettrait quant à lui l’exploitation du pétrole dans le Nordeste du Brésil, parce qu’il n’accepte pas que les 30 millions de Brésiliens qui y vivent continuent d’assister en spectateurs à ce qui passe de l’autre côté de la frontière.<br/>Sans entrer dans la question de la directive omnibus, je veux parler des objectifs : on ne peut les décider en Europe, en Occident, sans entendre les pays du Sud. Un territoire comme la Guyane est confronté à des politiques contradictoires, voire hypocrites, parfaitement incompréhensibles pour ses habitants : alors que l’exploitation du pétrole nous est interdite, une multinationale française, TotalEnergies, signe des accords d’exploitation avec le Guyana, et la France propose d’y installer une base militaire pour sécuriser cette exploitation ! Je vous le dis au nom des Guyanais : une telle situation n’est ni tenable ni acceptable ! Les élus de ce territoire s’opposent tous à cette doctrine, à ces choix qui sont édictés sans eux et contre eux.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652305" ordre_absolu_seance="274" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683417" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7770.41">La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652306" ordre_absolu_seance="275" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683418" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7818.93">Votre question nous fait toucher du doigt les ambivalences que nous pouvons tous avoir vis-à-vis de la mise en œuvre du pacte vert. Je me contenterai de rappeler ce que le Giec – les scientifiques qui analysent toutes les études scientifiques…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652307" ordre_absolu_seance="276" id_acteur="PA795868" id_mandat="PM843722" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683419" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Victor Castor</nom>
+              <id>795868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7839.32">On le sait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652308" ordre_absolu_seance="277" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683420" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7845.27">…sur les données climatiques : toute exploitation supplémentaire d’énergie fossile pose un grave problème en termes de trajectoire de dérèglement climatique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652309" ordre_absolu_seance="278" id_acteur="PA795868" id_mandat="PM843722" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683421" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Victor Castor</nom>
+              <id>795868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7858.83">C’est faux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652310" ordre_absolu_seance="279" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683422" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7859.46">Je répète ce que dit le Giec – il se trouve que j’ai un peu étudié le sujet. C’est un premier point.<br/>Le deuxième, c’est que les investissements dont vous parlez n’aboutiront probablement pas. Je vous renvoie sur ce point aux publications de l’Agence internationale de l’énergie, dont les travaux, d’envergure planétaire, prennent en compte le Sud global, que vous avez évoqué. Dans ces travaux, il est notamment question d’actifs échoués, c’est-à-dire d’investissements réalisés en vue d’une exploitation qui doit finalement s’arrêter, car elle contrevient aux engagements nationaux et internationaux, comme l’accord de Paris – n’en déplaise à ceux qui essaient d’en sortir, c’est une règle internationale qui s’applique à tous les pays.<br/>Troisièmement, s’agissant plus spécifiquement de la Guyane, je suis la ministre qui a voulu la révision du code minier afin de faciliter les activités minières, notamment dans ce territoire, pour les raisons que vous avez indiquées.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652313" ordre_absolu_seance="282" id_acteur="PA795868" id_mandat="PM843722" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683425" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Victor Castor</nom>
+              <id>795868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7872.56">Ce n’est pas le cas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652314" ordre_absolu_seance="283" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683426" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7929.52">Il se trouve que cette révision, cette simplification sont de mon fait. Que le code minier soit appliqué aujourd’hui est une autre histoire. Nous y travaillons, mais cela supposait une remise à plat préalable. J’ai également lancé l’investigation du sous-sol guyanais, que poursuivent les agents du Bureau de recherches géologiques et minières (BRGM). Je crois d’autant plus en une activité minière dont les retombées profiteraient directement aux Guyanais qu’il ne s’agirait pas d’un actif échoué. L’extraction d’or et d’autres éléments contribuerait au contraire à la transition.<br/>Concernant TotalEnergies, je le dis clairement : cette entreprise a obtenu des licences d’exploration, mais elle n’a pas trouvé de pétrole là où elle a cherché. Arrêtons de fantasmer !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652316" ordre_absolu_seance="285" id_acteur="PA795868" id_mandat="PM843722" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683428" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Victor Castor</nom>
+              <id>795868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7973.14">C’est faux, madame.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652317" ordre_absolu_seance="286" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683429" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7979.94">Vous interrogerez Total, comme nous les avons interrogés à plusieurs reprises sur ce sujet. Quant à moi, étant pleinement engagée, je suis prête à en rediscuter avec vous le temps qu’il faudra.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652318" ordre_absolu_seance="287" id_acteur="PA795868" id_mandat="PM843722" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683430" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Victor Castor</nom>
+              <id>795868</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7988.85">Ils n’ont jamais publié les résultats.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2652319" ordre_absolu_seance="288" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683431" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7992.09">Ils pourront vous les donner. Si Total n’avait pas sa liberté d’action dans ce pays, cela se saurait !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652216" ordre_absolu_seance="289" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683533" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8002.11">La parole est à M. Christophe Proença.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652217" ordre_absolu_seance="290" id_acteur="PA841367" id_mandat="PM842954" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683534" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Christophe Proença (SOC)</nom>
+              <id>841367</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8013.35">J’aimerais aborder un axe, peut-être annexe mais à mon sens essentiel, dont nous n’avons pas parlé : la formation et la recherche sur le changement climatique. J’ai presque 60 ans et au début de ma carrière, dans une autre vie, j’étais enseignant ; la France était alors en pointe sur de nombreux sujets, comme en témoignent le TGV ou le four solaire thermique de Font-Romeu, qui ont servi de modèle dans le monde entier. Dans de multiples domaines, que ce soit le nucléaire ou la production d’énergie, nous étions vraiment en pointe.<br/>Or il semble – les chiffres le disent – que tout ce qui relève de la formation scientifique et technique est en perte de vitesse dans notre pays : les écoles d’ingénieurs attirent de moins en moins de gens. Je crois que, pour passer le cap de la transition énergétique, deux éléments fondamentaux doivent être mis en avant : la formation et l’industrie. La dernière usine française de production de panneaux solaires a fermé – elle se situait à Bourgoin-Jallieu, non loin de Lyon : nous ne produisons plus aucun onduleur, par exemple, et pratiquement rien de ce qui pourrait nous servir à nous adapter au changement climatique.<br/>J’aimerais donc avoir votre avis sur la formation, la recherche et l’industrie, qui sont les éléments dont nous avons besoin pour passer le cap. Peut-être manquerez-vous de temps pour me fournir une réponse complète, mais j’aimerais que nous abordions le sujet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652220" ordre_absolu_seance="293" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683537" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8085.88">La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652221" ordre_absolu_seance="294" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683538" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8092.64">Les travaux interministériels que nous avons menés sur la planification écologique comportent un volet consacré à la planification des compétences ; ils visent à déterminer quels sont nos besoins en compétences, filière par filière. Nous l’avons fait de manière particulièrement précise en ce qui concerne l’industrie du nucléaire, mais nous avons également lancé des travaux sur l’économie circulaire, sur la transition énergétique et les énergies renouvelables, ainsi que sur la rénovation thermique. Nous cherchons ainsi à adapter notre appareil de formation professionnelle, en lien avec la réforme des lycées professionnels ; l’objectif est de développer ces nouveaux métiers, qu’il nous faudra promouvoir dans les années qui viennent.<br/>S’agissant de la recherche, je partage là aussi votre avis, il nous faut renforcer notre effort en la matière. C’est d’ailleurs l’un des enjeux de la loi de programmation de la recherche pour les années 2021 à 2030. Une articulation est par ailleurs nécessaire avec le niveau européen. Sur certains sujets directement liés à la transition énergétique, nous avons financé des dispositifs européens de soutien qui lient recherche, développement et industrialisation, les IPCEI : c’est le cas sur l’hydrogène, sur les batteries électriques, et sur d’autres sujets plus éloignés de la transition, qui ont trait par exemple à la santé. Un tel outil peut être très utile, à condition d’être activé rapidement – je le mentionnais dans mon intervention liminaire, en disant que nous ne pouvons pas nous contenter d’un système dans lequel il faut deux ans et demi pour donner une réponse à une entreprise.<br/>Nous avons articulé ces IPCEI européens avec le plan France 2030, afin de compléter notre engagement dans des domaines tels que la décarbonation, la transition énergétique, le stockage de carbone ou l’hydrogène, c’est-à-dire sur toute une série de sujets en lien avec la transformation de notre économie, ce qui nous permettra de créer les filières vertes susceptibles de soutenir le pacte vert.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652224" ordre_absolu_seance="297" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683541" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8228.28">La parole est à M. Dominique Potier, pour une dernière question.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652225" ordre_absolu_seance="298" id_acteur="PA607553" id_mandat="PM843059" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683542" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Dominique Potier (SOC)</nom>
+              <id>607553</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8234.52">Après la question un peu philosophique que j’ai posée au début du débat, je voulais poser deux questions plus pratiques. Ma première question faisait référence à l’état du monde ; c’est parce qu’il est particulièrement inquiétant qu’il faut renforcer ce qui apparaît comme un fer de lance éthique en même temps qu’un bouclier économique pour l’Europe. Cela nous paraît tellement évident ! Si nous nous engageons dans la course au low cost, elle est perdue d’avance ; c’est à l’inverse en affirmant l’importance de nos normes que nous nous imposerons comme une puissance productive !<br/>Par ailleurs, si nous sortons des grands principes pour entrer dans le détail concret de la CSRD, une solution de repli ne se trouverait-elle pas dans le projet de norme LSME, qui serait utilisée pour les PME cotées ? Ce serait une taxonomie simplifiée mais robuste et multicritères, qui permettrait de nous en sortir par le haut et serait préférable à tous les bricolages que l’on peut imaginer. Ce pourrait être une solution pour la vague 1, mais aussi pour les suivantes. Ne faut-il pas amorcer un dialogue sur ce sujet ?<br/>Enfin, merci pour votre combat, monsieur le ministre, pour défendre le principe de responsabilité civile des entreprises ; c’est un sujet capital. Si ce principe ne s’applique plus au-delà des fournisseurs de rang 1, ce sera – passez-moi l’expression – un peu bidon ! Les drames tels que celui du Rana Plaza surviennent chez des sous-traitants de rang 3, 4, 5, 6 ou 7 ! Or il est tout à fait possible de les identifier, car les entreprises de rang 1 savent parfaitement dans quelles conditions elles se fournissent en matières premières et en ressources humaines, dont elles recherchent principalement le faible coût, en des lieux où les conditions de travail sont trop souvent inhumaines. Elles le savent, puisqu’elles vont y chercher de moindres prix ! Elles pourraient aussi aller à la recherche de certaines valeurs, celles que défend l’Europe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652228" ordre_absolu_seance="301" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683545" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8317.57">La parole est à M. le ministre, pour une dernière réponse en forme de conclusion.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652229" ordre_absolu_seance="302" id_acteur="PA855045" id_mandat="-1" id_nomination_oe="PM855136" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683546" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Lombard</nom>
+              <id>855045</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8325.90">S’agissant du drame du Rana Plaza, ayant eu le privilège, si je puis dire, de me rendre à Dacca, je peux dire que, dans certains pays, vérifier l’attitude des sous-traitants industriels pose de réelles difficultés opérationnelles. J’ajoute que si l’on fixe une responsabilité aux sociétés de rang 1, la responsabilité de leurs sous-traitants restera à déterminer – peut-être est-ce une question de jurisprudence, qui ne se réglera qu’<italique>a posteriori</italique>. Je suis certain qu’avec le temps, il sera possible de considérer qu’il revient à chaque sous-traitant de respecter lui-même le devoir de vigilance. Cependant, il me semble un peu hasardeux de faire porter une responsabilité juridique sur un chef d’entreprise qui pourrait être celui d’une PME. Certains sous-traitants exercent dans des pays comme le Bangladesh – c’est l’exemple que vous citez ; il est possible d’y accéder, mais au prix d’un peu de temps et de moyens ! À ce stade de développement des pratiques dont nous parlons, cela me paraît très ambitieux.<br/>Quant au projet LSME, nous pouvons en débattre ; je veux cependant signaler qu’un processus législatif européen est en cours. Des améliorations seront possibles dans le cadre du trilogue – techniquement, c’est cette forme que prend la négociation – et introduire de nouveaux référentiels est envisageable, mais il ne faut pas jeter le bébé avec l’eau du bain ! Cela dit, je prends note de votre remarque et je rappelle que par ailleurs, la transposition en droit français se fait dans le cadre de la loi Ddadue.<br/>Enfin, puisque M. le président m’invite à conclure et si Mme la ministre me le permet, je veux insister sur ce que nous disions tous les deux en introduction : en ces temps difficiles, où nous faisons face aux défis que posent l’agressivité de la Russie, la transformation des États-Unis et l’émergence de puissances globales, nous sommes convaincus que le modèle européen doit garder sa spécificité ; il doit conserver ses valeurs et ses règles, notamment en ce qui concerne la transformation écologique.<br/>Je dirais même qu’à un moment où les États-Unis s’emploient à exclure de leur modèle des entreprises qui respecteraient trop la diversité, l’inclusion ou le respect des normes écologiques, l’Europe se grandit en imposant ces valeurs ou en les maintenant. Cela nous donne même un avantage comparatif ! Je terminerai en mentionnant l’exemple d’une société américaine qui a été écartée d’un appel d’offres, dans un grand pays européen n’appartenant pas à l’Union, parce qu’elle avait abandonné toutes les règles éthiques qui fondent l’Europe. À la place, ce grand pays européen a sélectionné une société de notre continent, ce qui montre que nous pouvons aussi développer l’activité économique en maintenant et en renforçant nos valeurs. C’est ce que nous allons faire ! Je veux affirmer ici – c’est ma responsabilité et je sais que Mme la ministre la partage aussi – cette conviction profonde, qui nécessite encore plus d’exigence qu’auparavant mais que nous allons continuer à défendre. Merci de votre attention et de votre invitation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652233" ordre_absolu_seance="306" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683550" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8357.49">La parole est à Mme la ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652234" ordre_absolu_seance="307" id_acteur="PA759832" id_mandat="-1" id_nomination_oe="PM855147" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3683551" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Agnès Pannier-Runacher</nom>
+              <id>759832</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="8521.62">Je n’ai rien à ajouter aux propos tout à fait enthousiasmants de mon collègue, que je rejoins totalement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2652235" ordre_absolu_seance="308" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683552" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8529.38">Le débat est clos.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="9" id_preparation="2652237" ordre_absolu_seance="310" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3683554" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2652238" ordre_absolu_seance="311" id_acteur="PA794022" id_mandat="PM842777" id_nomination_oe="0" id_nomination_op="PM849318" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3683555" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>794022</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8530.57">Prochaine séance, demain, à quatorze heures :<br/> Questions au gouvernement ;<br/> Présentation du rapport annuel de la Cour des comptes ;<br/> Débat sur le thème : « Haine anti-musulmans, islamophobie : qualification juridique et politiques publiques de lutte contre les discriminations » ;<br/> Débat sur le thème : « Conséquences de la dissolution sur notre démocratie, du non-respect des résultats des élections législatives par le président de la République et nécessité de convoquer une Assemblée constituante pour rédiger la Constitution de la VI<exposant>e</exposant> République ».<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2652239" ordre_absolu_seance="312" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3683556" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures quarante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2652240" ordre_absolu_seance="313" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3683557" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2024D1N001</uid>
+  <seanceRef>RUANR5L17S2024IDS28537</seanceRef>
+  <sessionRef>SCR5A2024D1</sessionRef>
+  <metadonnees>
+    <dateSeance>20240718150000000</dateSeance>
+    <dateSeanceJour>jeudi 18 juillet 2024</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>1</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session de droit juillet 2024</session>
+    <nomFichierJo>20245001</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2024-07-23T12:12:48.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3508735">Présidence de M. José Gonzalez, doyen d’âge</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3508739">
+          <intitule>Ouverture de la XVII<exposant>e </exposant>législature</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3508742">
+          <intitule>Incendie survenu à Nice</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="3508745">
+          <intitule>Constitution du bureau d’âge</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="4">
+        <titreStruct id_syceron="3508748">
+          <intitule>Communication de la liste des députés</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="5">
+        <titreStruct id_syceron="3508751">
+          <intitule>Allocution du doyen d’âge</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="6">
+        <titreStruct id_syceron="3508515">
+          <intitule>Élection du président de l’Assemblée nationale</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="3508855">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3509259">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3509275">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="7">
+        <titreStruct id_syceron="3509288">
+          <intitule>Allocution de Mme la présidente</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3509289">Mme la présidente</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="8">
+        <titreStruct id_syceron="3509305">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du jeudi 18 juillet 2024</journee>
+      <session>Session de droit juillet 2024</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2536865" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3508735" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. José Gonzalez, doyen d’âge</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2536866" ordre_absolu_seance="2" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508736" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>793362</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1099.79">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2536867" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3508737" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2536869" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3508739" valeur="">
+      <orateurs/>
+      <texte>Ouverture de la XVII<exposant>e </exposant>législature</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2536870" ordre_absolu_seance="6" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508740" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>793362</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1114.09">Je déclare ouverte la XVII<exposant>e</exposant> législature de l’Assemblée nationale et la session de droit prévue par l’article 12 de la Constitution.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="2536872" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3508742" valeur="">
+      <orateurs/>
+      <texte>Incendie survenu à Nice</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="2536873" ordre_absolu_seance="9" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508743" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>793362</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1116.42">Je tiens à exprimer la vive émotion de l’Assemblée nationale après l’incendie meurtrier survenu à Nice la nuit dernière, qui a fait sept morts et plusieurs blessés. J’adresse toutes nos condoléances aux familles des victimes, à leurs proches et à toutes les personnes touchées par ce drame.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="1" id_preparation="2536875" ordre_absolu_seance="11" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3508745" valeur="">
+      <orateurs/>
+      <texte>Constitution du bureau d’âge</texte>
+      <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="2536876" ordre_absolu_seance="12" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508746" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>793362</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1159.97">Aux termes de l’article 1<exposant>er </exposant>du règlement, les six plus jeunes députés présents sont appelés à remplir les fonctions de secrétaires jusqu’à l’élection du bureau.<br/> Ce sont M. Flavien Termet, Mme Hanane Mansouri, M. Louis Boyard, M. Théo Bernhardt, M. Auguste Evrard et M. Hugo Prevost.<br/> Le bureau d’âge de l’Assemblée nationale est ainsi constitué.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="4" ordinal_prise="1" id_preparation="2536878" ordre_absolu_seance="14" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3508748" valeur="">
+      <orateurs/>
+      <texte>Communication de la liste des députés</texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2536879" ordre_absolu_seance="15" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508749" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>793362</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1164.29">En application de l’article L.O. 179 du code électoral, j’ai reçu de M. le ministre de l’intérieur la liste des députés élus.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="5" ordinal_prise="1" id_preparation="2536881" ordre_absolu_seance="17" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3508751" valeur="">
+      <orateurs/>
+      <texte>Allocution du doyen d’âge</texte>
+      <paragraphe valeur_ptsodj="5" ordinal_prise="1" id_preparation="2536882" ordre_absolu_seance="18" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508752" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>793362</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1207.25">Mesdames et messieurs, mes chers collègues, je ne sais si l’âge est un privilège mais ouvrir cette séance solennelle l’est incontestablement. Pour moi, enfant du peuple, élu d’une circonscription populaire de notre beau Midi en Provence, Français né sous le soleil d’un autre continent, qui a appris par son déchirant déracinement le sens du mot patrie <italique>(Murmures – Approbations)</italique>, c’est pour la seconde fois de ma vie un immense honneur. C’est avec émotion que je m’exprime devant vous, qui êtes les représentants d’une entité chère à mes yeux, la plus chère qui soit : la nation française, une nation aujourd’hui endeuillée par la mort de plusieurs personnes, dont trois enfants, dans un incendie dont tout porte à croire qu’il est criminel et lié au trafic de drogue – je l’évoquais il y a un instant.<br/>Qu’il me soit permis de féliciter les collègues de la précédente législature pour leur réélection : qu’ils voient dans cette reconduction la reconnaissance de leur engagement au service des citoyens de leur circonscription, ainsi que de leur travail parlementaire. À ces félicitations, je joins celles que j’adresse aux nouveaux élus qui nous rejoignent au sein de cette vénérable assemblée, avec des souhaits de bienvenue et des vœux sincères de réussite dans leur nouveau mandat.<br/>J’en profite pour remercier, en notre nom à tous, le personnel de l’Assemblée qui, demain comme hier, nous permettra d’exercer notre mandat dans les meilleures conditions possibles. <italique>(Applaudissements.)</italique><br/>C’est un homme d’engagement et de convictions affirmées qui s’adresse humblement à vous cet après-midi ; c’est aussi un Français patriote qui souhaite le meilleur pour son pays et tout particulièrement pour son peuple : la paix, la concorde civile et la fraternité. À ceux qui, comme moi, ont vécu pour leurs idées, la vie a enseigné, au soir de leur existence, le respect pour ceux qui s’engagent, la tolérance pour ceux qui s’expriment et l’indulgence pour ceux qui se trompent.<br/>J’invite mes collègues de tous bords, notamment les plus jeunes d’entre nous, bouillants d’une ardeur militante mais aussi peut-être de l’impatience et parfois de l’intransigeance de la jeunesse, à entraîner cette assemblée par le dynamisme positif de leurs idées. Il me semble que personne ne souhaite revivre les débordements malheureux qu’on a pu connaître dans la précédente législature et qui, je le crois, ne renvoient pas une image exemplaire de notre institution.<br/>C’est tout à notre honneur d’entrer ici avec nos convictions et parfois nos passions : elles sont saines et légitimes, ne serait-ce que parce qu’elles sont adoubées par le suffrage universel. Sur tous les bancs, nous les défendons avec sincérité, ferveur, et avec le souci que chacun de nous se fait du bien commun. Plus que partout ailleurs, l’esprit démocratique comme le respect de l’opinion de l’autre ne doivent jamais se dissiper et nous enjoignent d’exprimer nos convictions avec tempérance et civilité, avec raison et esprit de responsabilité. Politesse et politique sont intimement liées. Les joutes verbales – les plus belles, c’est-à-dire les plus élevées – sont généralement les plus courtoises, les plus subtiles et les plus spirituelles. Elles disqualifient les absurdes vociférations et les puériles invectives.<br/>Dans cet hémicycle, les esprits supérieurs s’expriment davantage par l’intelligence que par l’intempérance, davantage par le lyrisme que par le bellicisme. La confrontation des idées est féconde, celle des hommes est destructrice. Notre responsabilité est d’autant plus grande que la France nous regarde, nous qui, par notre attitude et nos propos, inspirons le débat politique dans tout le territoire, lui donnons sa tonalité et façonnons l’image que nous renvoyons. L’écho de nos débats, que l’on peut croire étouffé dans cette enceinte sans fenêtre – ici sur les bords de la Seine –, loin du pays profond et parfois dans les interminables séances de nuit, résonne en réalité dans tout le pays.<br/>Dans l’intérêt de tous et de la France, nous devons prendre garde de ne pas ajouter à la division des Français, de ne pas accroître les tensions de la société ou d’entretenir par notre comportement et de quelque manière que ce soit, même indirectement, l’agressivité et le climat dangereux qui tend à s’installer partout et dont il nous appartient instamment de prémunir le pays. Si tout peut nous séparer, que le rejet de la violence politique puisse au moins nous rassembler.<br/>Au seuil de cette législature, je forme donc le vœu que cette enceinte, la maison du peuple et de la démocratie, soit un lieu où les convictions – toutes les convictions – s’expriment dans un climat apaisé et respectueux. Cette exigence s’impose d’autant plus que la législature qui s’ouvre n’est incontestablement pas comme les autres. D’abord parce que les alliances d’entre les deux tours, pour le moins baroques <italique>(Exclamations)</italique>, ont pu forger des logiques de rejet plus que de projet. Au moment où le pays est en proie à de graves crises et à des urgences, notamment sociales, nos concitoyens ont davantage besoin de solutions que de confrontations.<br/>Mais surtout, à rebours de la logique présidentialiste de notre V<exposant>e</exposant><exposant> </exposant>République, nous entrons dans une période qui place l’Assemblée nationale au cœur du jeu politique, au moins pour un an, jusqu’au moment où le chef de l’État retrouvera constitutionnellement le droit de dissolution. Nous, parlementaires, devons être conscients de cette nouvelle responsabilité et, comme dépositaires pour un temps de ce pouvoir renforcé, nous en montrer dignes.<br/>Sortir de cette situation paradoxale dans laquelle le Président a imprudemment embourbé le pays exige aussi de la part de l’exécutif – faut-il le rappeler ? – de rompre avec certaines pratiques. Dans le passé, récemment encore, elles ont été ressenties par nombre de parlementaires comme peu respectueuses de la représentation nationale et même, par la méconnaissance de l’esprit des lois, comme peu en phase avec une démocratie moderne. Nul ne sait comment se déroulera cette séquence sans précédent en soixante années d’histoire parlementaire, mais personne ne peut souhaiter voir le pays livré au blocage, au chantage ou au marchandage. Il n’y a pas pour un pays de pire politique que la politique du pire.<br/>Pour autant, ce retour accidentel à la funeste IV<exposant>e</exposant><exposant> </exposant>République n’est en aucune manière souhaitable pour le pays. Les défis sont immenses et la situation nationale ou internationale appelle, non un gouvernement technique ou qui expédiera les affaires courantes, mais un retour résolu du politique, c’est-à-dire d’une vision et d’une volonté politiques. C’est sans nul doute ce qui nous attend dans un an : le retour au fonctionnement normal de nos institutions se fera à l’évidence pour le bien du pays. <italique>(Applaudissements.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="6" ordinal_prise="2" id_preparation="2536847" ordre_absolu_seance="31" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3508515" valeur="">
+      <orateurs/>
+      <texte>Élection du président de l’Assemblée nationale</texte>
+      <paragraphe valeur_ptsodj="6" ordinal_prise="2" id_preparation="2536848" ordre_absolu_seance="32" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508516" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>793362</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1230.39">L’ordre du jour appelle, conformément à l’article 9 du règlement, l’élection du président ou de la présidente de l’Assemblée nationale.<br/>Cette élection a lieu au scrutin secret à la tribune.<br/>J’ai été saisi des candidatures de Mme Yaël Braun-Pivet <italique>(Applaudissements)</italique>, de M. André Chassaigne <italique>(Vifs applaudissements)</italique>, de M. Sébastien Chenu <italique>(Vifs applaudissements)</italique>, de M. Charles de Courson <italique>(Quelques applaudissements – Sourires)</italique>, de M. Philippe Juvin <italique>(Applaudissements)</italique> et de Mme Naïma Moutchou <italique>(Applaudissements).</italique><br/>Aux deux premiers tours de scrutin, la majorité absolue des suffrages exprimés est requise.<br/>Je vous informe que les bulletins manuscrits sont valables mais que des bulletins imprimés sont à votre disposition. Ces bulletins, mis sous enveloppe, seront placés dans l’urne sous le contrôle des secrétaires d’âge.<br/>Le scrutin sera dépouillé par quatre scrutateurs titulaires et deux scrutateurs suppléants dont je vais tirer le nom au sort. <italique>(Il est procédé au tirage au sort.)</italique><br/>Sont désignés scrutateurs titulaires : Mme Lisa Belluco, Mme Françoise Buffet, M. Jérôme Buisson, Mme Karine Lebon.<br/>Sont désignés scrutateurs suppléants : M. Andy Kerbrat, M. Loïc Kervran.<br/>Je vais tirer au sort la lettre par laquelle commencera l’appel nominal. <italique>(Il est procédé au tirage au sort.)</italique><br/>Le sort désigne la lettre F.<br/>Pour faciliter le déroulement ordonné du scrutin, je vous prie de bien vouloir attendre l’appel de votre nom pour monter à la tribune.<br/>J’ouvre le scrutin, qui est annoncé dans l’enceinte de l’Assemblée nationale.<br/>Il sera clos à seize heures quinze.<br/>J’invite tout d’abord les secrétaires d’âge à voter. <italique>(Les secrétaires d’âge votent.)</italique><br/>J’invite les huissiers à commencer l’appel nominal. <italique>(Il est procédé au scrutin.)</italique><br/>………………..........................................................................................................................…<br/>Personne ne demande plus à voter ?…<br/> Le scrutin est clos.<br/> J’invite nos collègues qui ont été désignés comme scrutateurs au début de la séance à se rendre au cinquième bureau pour procéder au dépouillement.<br/> Le résultat du scrutin sera proclamé vers dix-sept heures.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="6" ordinal_prise="4" id_preparation="2536898" ordre_absolu_seance="49" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3508855" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="6" ordinal_prise="4" id_preparation="2536899" ordre_absolu_seance="50" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508856" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>793362</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5115.22">La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="6" ordinal_prise="4" id_preparation="2536900" ordre_absolu_seance="51" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3508857" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à seize heures dix, est reprise à dix-sept heures dix.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="6" ordinal_prise="4" id_preparation="2536901" ordre_absolu_seance="52" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3508858" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>793362</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8665.69">La séance est reprise.<br/>Voici le résultat du scrutin pour l’élection du président ou de la présidente de l’Assemblée nationale.<br/> Nombre de votants : 574<br/> Bulletins blancs ou nuls : 4<br/> Suffrages exprimés : 570<br/> Majorité absolue : 286<br/>Ont obtenu :<br/> Mme Yaël Braun-Pivet : 124 voix <italique>(Applaudissements)</italique> ;<br/> M. André Chassaigne : 200 voix <italique>(Applaudissements)</italique> ;<br/> M. Sébastien Chenu : 142 voix <italique>(Applaudissements)</italique> ;<br/> M. Charles de Courson : 18 voix <italique>(Applaudissements)</italique> ;<br/> M. Philippe Juvin : 48 voix <italique>(Applaudissements)</italique> ;<br/> Mme Naïma Moutchou : 38 voix. <italique>(Applaudissements</italique>.<italique>)</italique><br/>Aucun candidat n’ayant obtenu la majorité absolue des suffrages exprimés, il y a lieu de procéder à un deuxième tour de scrutin.<br/>Je m’adresse maintenant aux candidats pour leur demander s’ils maintiennent leur candidature.<italique> (Mme Yaël Braun-Pivet et MM. André Chassaigne, Sébastien Chenu et Charles de Courson maintiennent leur candidature. – M. Philippe Juvin et Mme Naïma Moutchou retirent la leur.)</italique><br/>Nous allons donc procéder au deuxième tour du scrutin pour l’élection du président ou de la présidente de l’Assemblée nationale. Sont candidats pour ce deuxième tour : Mme Yaël Braun-Pivet, MM. André Chassaigne, Sébastien Chenu et Charles de Courson.<br/>Je rappelle que la majorité absolue des suffrages exprimés est encore requise. Comme au premier tour, l’appel nominal commencera par la lettre F.<br/>J’ouvre le scrutin, qui est annoncé dans l’enceinte de l’Assemblée nationale.<br/> Il sera clos à dix-huit heures quinze.<br/>J’invite les secrétaires d’âge à voter. <italique>(Les secrétaires d’âge votent.)</italique><br/> J’invite les huissiers à commencer l’appel nominal. <italique>(Il est procédé au scrutin.)</italique><br/>………………..........................................................................................................................…<br/>Personne ne demande plus à voter ?…<br/>Le scrutin est clos.<br/>J’invite nos collègues qui ont été désignés comme scrutateurs au début de la séance à se rendre au cinquième bureau pour procéder au dépouillement.<br/>Le résultat du deuxième tour de scrutin sera proclamé à dix-neuf heures.</texte>
+        </paragraphe>
+        <point nivpoint="99" valeur_ptsodj="6" ordinal_prise="6" id_preparation="2536914" ordre_absolu_seance="66" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3509259" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Suspension et reprise de la séance</italique>
+          </texte>
+          <paragraphe valeur_ptsodj="6" ordinal_prise="6" id_preparation="2536915" ordre_absolu_seance="67" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509260" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>793362</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="11829.58">La séance est suspendue.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="6" ordinal_prise="6" id_preparation="2536916" ordre_absolu_seance="68" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3509261" valeur="">
+            <orateurs/>
+            <texte>
+              <italique>(La séance, suspendue à dix-huit heures cinq, est reprise à dix-neuf heures cinq.)</italique>
+            </texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="6" ordinal_prise="6" id_preparation="2536917" ordre_absolu_seance="69" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509262" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>M. le président</nom>
+                <id>793362</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="15613.47">La séance est reprise.<br/>Voici le résultat du scrutin pour l’élection du président ou de la présidente de l’Assemblée nationale.<br/>Nombre de votants : 574<br/>Bulletins blancs ou nuls : 5<br/>Suffrages exprimés : 569<br/>Majorité absolue : 285<br/>Ont obtenu :<br/>Mme Yaël Braun-Pivet : 210 voix <italique>(Applaudissements)</italique> ;<br/>M. André Chassaigne : 202 voix <italique>(Applaudissements)</italique> ;<br/>M. Sébastien Chenu : 143 voix <italique>(Applaudissements)</italique> ;<br/>M. Charles de Courson : 12 voix <italique>(Applaudissements)</italique> ;<br/>Autres : 2 voix.<br/>Aucun candidat n’ayant obtenu la majorité absolue des suffrages exprimés, il y a lieu de procéder à un troisième tour de scrutin.<br/>Je m’adresse maintenant aux candidats pour leur demander s’ils maintiennent leur candidature. <italique>(Mme Yaël Braun-Pivet, MM. André Chassaigne et Sébastien Chenu maintiennent leur candidature. – M. Charles de Courson retire la sienne.)</italique><br/>Nous allons donc procéder au troisième tour du scrutin pour l’élection du président ou de la présidente de l’Assemblée nationale. Sont candidats pour ce troisième tour : Mme Yaël Braun-Pivet, MM. André Chassaigne et Sébastien Chenu.<br/>Je rappelle que la majorité relative suffit désormais ; en cas d’égalité de suffrages, l’article 9, alinéa 2, du règlement prévoit que le plus âgé est élu. Comme aux deux premiers tours, l’appel nominal commencera par la lettre F.<br/>J’ouvre le scrutin, qui est annoncé dans l’enceinte de l’Assemblée nationale. Il sera clos à dix-neuf heures cinquante.<br/>J’invite les secrétaires d’âge à voter. <italique>(Les secrétaires d’âge votent.)<br/> </italique>J’invite les huissiers à commencer l’appel nominal. <italique>(Il est procédé au scrutin.)</italique><br/>……………………….................................................................................................................…<br/>Personne ne demande plus à voter ?…<br/>Le scrutin est clos.<br/>J’invite nos collègues qui ont été désignés comme scrutateurs au début de la séance à se rendre au cinquième bureau pour procéder au dépouillement.<br/>Le résultat du troisième tour de scrutin sera proclamé à vingt heures quarante.</texte>
+          </paragraphe>
+          <point nivpoint="99" valeur_ptsodj="6" ordinal_prise="8" id_preparation="2536919" ordre_absolu_seance="82" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3509275" valeur="">
+            <orateurs/>
+            <texte>
+              <italique>Suspension et reprise de la séance</italique>
+            </texte>
+            <paragraphe valeur_ptsodj="6" ordinal_prise="8" id_preparation="2536920" ordre_absolu_seance="83" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509276" valeur="" roledebat="president">
+              <orateurs>
+                <orateur>
+                  <nom>M. le président</nom>
+                  <id>793362</id>
+                  <qualite/>
+                </orateur>
+              </orateurs>
+              <texte stime="18544.52">La séance est suspendue.</texte>
+            </paragraphe>
+            <paragraphe valeur_ptsodj="6" ordinal_prise="8" id_preparation="2536921" ordre_absolu_seance="84" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3509277" valeur="">
+              <orateurs/>
+              <texte>
+                <italique>(La séance, suspendue à dix-neuf heures cinquante-cinq, est reprise à vingt heures quarante.)</italique>
+              </texte>
+            </paragraphe>
+            <paragraphe valeur_ptsodj="6" ordinal_prise="8" id_preparation="2536922" ordre_absolu_seance="85" id_acteur="PA793362" id_mandat="PM842465" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509278" valeur="" roledebat="president">
+              <orateurs>
+                <orateur>
+                  <nom>M. le président</nom>
+                  <id>793362</id>
+                  <qualite/>
+                </orateur>
+              </orateurs>
+              <texte stime="21346.72">La séance est reprise.<br/>Voici le résultat du troisième tour du scrutin pour l’élection du président ou de la présidente de l’Assemblée nationale.<br/>Nombre de votants : 572<br/> Bulletins blancs ou nuls : 3<br/> Suffrages exprimés : 569<br/>Ont obtenu :<br/>Mme Yaël Braun-Pivet : 220 voix <italique>(De nombreux députés se lèvent et applaudissent) ;</italique><br/>M. André Chassaigne : 207 voix <italique>(M. André Chassaigne se lève et forme avec les doigts le V de la victoire. – De nombreux députés se lèvent et applaudissent longuement) ;</italique><br/>M. Sébastien Chenu : 141 voix <italique>(Plusieurs députés se lèvent et applaudissent) ;</italique><br/>Autre : 1 voix.<br/>Mme Yaël Braun-Pivet ayant obtenu le plus grand nombre de suffrages, je la proclame présidente de l’Assemblée nationale et je l’invite à prendre place au fauteuil présidentiel. <italique>(De nombreux députés se lèvent et applaudissent longuement.)<br/> (Mme Yaël Braun-Pivet prend place au fauteuil de la présidence.)</italique></texte>
+            </paragraphe>
+          </point>
+        </point>
+      </point>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536932" ordre_absolu_seance="95" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3509288" valeur="">
+      <orateurs/>
+      <texte>Allocution de Mme la présidente</texte>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536933" ordre_absolu_seance="96" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3509289" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21535.51">Mes chers collègues, c’est avec une immense émotion que je prends la parole devant vous. Les dernières semaines ont été particulièrement tendues. Notre pays est inquiet et fracturé. Nous avons une immense responsabilité. Pour la première fois depuis plusieurs dizaines d’années, les Français se sont rendus massivement aux urnes. Près de 70 % d’entre eux ont voté aux dernières élections législatives.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536934" ordre_absolu_seance="97" id_acteur="PA791812" id_mandat="PM840384" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509290" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sophia Chikirou</nom>
+            <id>791812</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21578.64">Ils n’ont pas voté pour vous ! <italique>(Protestations.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536935" ordre_absolu_seance="98" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509291" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21583.13">Ces voix, ces suffrages, cette mobilisation exceptionnelle et inédite nous confèrent une immense responsabilité. Si nos compatriotes ont été aussi nombreux à se rendre aux urnes, c’est qu’ils ont compris que la démocratie était un bien précieux, que certains enjeux étaient majeurs, que les hommes et les femmes politiques que nous sommes pouvaient avoir un effet direct sur leurs vies – nos décisions et nos actions peuvent changer leurs vies. Ils nous ont dit : « Occupez-vous de nous ; occupez-vous de notre pouvoir d’achat,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536936" ordre_absolu_seance="99" id_acteur="PA721410" id_mandat="PM843350" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509292" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Émilie Bonnivard</nom>
+            <id>721410</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21638.35">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536937" ordre_absolu_seance="100" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509293" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21645.41">…des déserts médicaux, de nos écoles, de nos services publics <italique>(Applaudissements), </italique>de l’emploi, de nos enfants, de notre planète et de l’environnement, de notre sécurité,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536938" ordre_absolu_seance="101" id_acteur="PA719118" id_mandat="PM842501" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509294" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Cormier-Bouligeon</nom>
+            <id>719118</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21658.46">Oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536939" ordre_absolu_seance="102" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509295" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21673.99">…de notre défense ». Quels que soient nos bords politiques et nos territoires d’élection, nous devons entendre ce message et apporter de nouvelles solutions, avec de nouvelles méthodes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536940" ordre_absolu_seance="103" id_acteur="PA795010" id_mandat="PM840354" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509296" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie-Charlotte Garin</nom>
+            <id>795010</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21689.81">Mais oui, bien sûr !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536941" ordre_absolu_seance="104" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509297" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21693.42">Cette Assemblée nationale, sans doute plus représentative que jamais, est aussi plus divisée que jamais. Mais parce que notre responsabilité est immense, nous n’avons pas le choix : nous devons nous entendre, coopérer, être capables de rechercher des compromis, de dialoguer, de nous écouter et d’avancer. <italique>(Applaudissements.) </italique>Vous me trouverez toujours à vos côtés pour dialoguer, innover, tracer le nouveau chemin que l’Assemblée nationale doit emprunter.<br/>Je ne m’étendrai pas davantage, car la journée a été longue et l’Assemblée nationale poursuivra ses travaux demain et samedi. Je veux cependant remercier chacun d’entre vous du fond du cœur, et plus particulièrement nos collègues candidats à la présidence de l’Assemblée, que je félicite : tout d’abord, M. le président Chassaigne <italique>(De nombreux députés, dont certains se lèvent, applaudissent longuement)</italique>, qui sait à quel point je le respecte et je l’apprécie ; ensuite, M. Sébastien Chenu <italique>(Mêmes mouvements)</italique>, Mme Naïma Moutchou <italique>(Mêmes mouvements),</italique> M. Philippe Juvin <italique>(Mêmes mouvements)</italique> et M. Charles de Courson<italique>.</italique> <italique>(Mêmes mouvements.)</italique> Chacun d’entre vous a porté une voix singulière, la voix de son groupe parlementaire, au-delà des députés présents dans l’hémicycle. Sachez que je m’engage à travailler avec chacun d’entre vous, tout au long de ce mandat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536944" ordre_absolu_seance="106" id_acteur="PA795010" id_mandat="PM840354" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509300" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie-Charlotte Garin</nom>
+            <id>795010</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21763.06">Cela a bien marché jusqu’ici…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536945" ordre_absolu_seance="107" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509301" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21883.09">Cette élection m’oblige plus que jamais, davantage que celle de 2022. Je mettrai toute mon énergie à œuvrer pour vous et, à travers vous, pour les Français. <italique>(De nombreux députés se lèvent et applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="7" ordinal_prise="9" id_preparation="2536946" ordre_absolu_seance="108" id_acteur="PA736201" id_mandat="PM840423" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509302" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sophie Taillé-Polian</nom>
+            <id>736201</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21900.61">Nous avons déjà entendu ce discours !</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="8" ordinal_prise="9" id_preparation="2536949" ordre_absolu_seance="110" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3509305" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="8" ordinal_prise="9" id_preparation="2536950" ordre_absolu_seance="111" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509306" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="21924.45">Prochaine séance, demain, à quinze heures :<br/> Nomination, éventuellement par scrutin, des six vice-présidents, des trois questeurs et des douze secrétaires ;<br/> Installation du bureau.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="8" ordinal_prise="9" id_preparation="2536952" ordre_absolu_seance="113" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3509308" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="8" ordinal_prise="9" id_preparation="2536953" ordre_absolu_seance="114" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3509309" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

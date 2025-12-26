@@ -1,0 +1,929 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2024D1N002</uid>
+  <seanceRef>RUANR5L17S2024IDS28538</seanceRef>
+  <sessionRef>SCR5A2024D1</sessionRef>
+  <metadonnees>
+    <dateSeance>20240719150000000</dateSeance>
+    <dateSeanceJour>vendredi 19 juillet 2024</dateSeanceJour>
+    <numSeanceJour>1</numSeanceJour>
+    <numSeance>2</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session de droit juillet 2024</session>
+    <nomFichierJo>20245002</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2024-07-23T12:50:33.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3509502">Présidence de Mme Yaël Braun-Pivet</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3509506">
+          <intitule>Nomination des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="3509657">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3510370">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3510378">
+          <intitule>
+            <italique>Rappel au règlement</italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="3510380">M. Ian Boucard</para>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3511197">
+          <intitule>
+            <italique>Reprise de la discussion</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3510384">
+          <intitule>
+            <italique>Rappels au règlement</italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="3510386">M. Gérald Darmanin</para>
+        <para id_syceron="3510389">Mme Mathilde Panot</para>
+        <para id_syceron="3510204">M. Marc Fesneau</para>
+        <para id_syceron="3510211">Mme Cyrielle Chatelain</para>
+        <para id_syceron="3510219">M. Jérôme Guedj</para>
+        <para id_syceron="3510227">Mme la présidente</para>
+        <para id_syceron="3510231">M. David Guiraud</para>
+        <para id_syceron="3510233">Mme la présidente</para>
+        <para id_syceron="3510242">M. Pierre Cazeneuve</para>
+        <para id_syceron="3510251">Mme Élisabeth Borne</para>
+        <para id_syceron="3510254">Mme la présidente</para>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3511198">
+          <intitule>
+            <italique>Reprise de la discussion</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3510138">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3510145">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Première séance du vendredi 19 juillet 2024</journee>
+      <session>Session de droit juillet 2024</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2536954" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3509502" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Yaël Braun-Pivet</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2536955" ordre_absolu_seance="2" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509503" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="989.56">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2536956" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3509504" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2536958" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3509506" valeur="">
+      <orateurs/>
+      <texte>Nomination des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2536959" ordre_absolu_seance="6" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509507" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="994.34">L’ordre du jour appelle la nomination des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale.<br/>Pour les fonctions de vice-président, j’ai reçu huit candidatures : celles de Mme Nadège Abomangoli, de M. Xavier Breton, de M. Sébastien Chenu, de Mme Annie Genevard, de Mme Clémence Guetté, de Mme Hélène Laporte, de M. Roland Lescure et de Mme Naïma Moutchou.<br/>Le nombre des candidats étant supérieur au nombre de sièges à pourvoir, il y a lieu de procéder à un scrutin.<br/>Je rappelle que le scrutin est secret ; il n’y a donc pas de délégation de vote.<br/>Au premier tour et au deuxième tour, sont élus dans l’ordre des suffrages les candidats ayant obtenu la majorité absolue des suffrages exprimés ; au troisième tour, la majorité relative suffit ; en cas d’égalité des suffrages, le plus âgé est élu.<br/>Le scrutin sera dépouillé par six scrutateurs titulaires et deux scrutateurs suppléants dont je vais tirer au sort les noms.<br/> <italique>(Il est procédé au tirage au sort.)</italique><br/>Sont désignés scrutateurs titulaires : M. Didier Le Gac, M. Philippe Schreck, M. Mikaele Seo, Mme Alexandra Masson, M. Michel Lauzzana et Mme Alexandra Martin.<br/>Sont désignés scrutateurs suppléants : M. Jiovanny William et M. Antoine Vermorel-Marques.<br/>Le scrutin sera dépouillé par les six scrutateurs titulaires dont je viens de donner le nom. Le vote va se dérouler dans les salles voisines de l’hémicycle. Des bulletins imprimés sont à votre disposition. Toutefois, les bulletins manuscrits sont également valables. Ces bulletins devront être mis dans l’urne sous enveloppe. Je rappelle que seuls sont valables les suffrages exprimés dans les enveloppes ne contenant pas plus de six noms au total.<br/>J’ouvre le scrutin qui est annoncé dans l’enceinte de l’Assemblée nationale. Il sera clôturé dans quarante-cinq minutes par quatre sonneries. À l’issue du scrutin, les scrutateurs se rendront au cinquième bureau pour procéder au dépouillement.<br/> <italique>(Le scrutin est ouvert à quinze heures cinq.)</italique></texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2536969" ordre_absolu_seance="16" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3509657" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2536970" ordre_absolu_seance="17" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509658" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1173.14">La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2536971" ordre_absolu_seance="18" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3509659" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à quinze heures cinq, est reprise à dix-sept heures vingt-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2536972" ordre_absolu_seance="19" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3509660" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="9646.81">La séance est reprise.<br/>Les scrutateurs ont procédé au dépouillement du premier tour de scrutin pour l’élection des vice-présidents. À l’issue du dépouillement, il est apparu que dix enveloppes en trop avaient été déposées dans les urnes. <italique>(Exclamations.)</italique><br/>Conformément à la position unanime des scrutateurs, que j’ai consultés, nous allons devoir refaire le scrutin dans la mesure où les résultats aboutissaient à de trop faibles écarts. Je vous rappelle que, pour ce scrutin, les délégations de vote sont interdites et que vous ne pouvez en aucun cas voter pour un collègue absent.<br/>Pour les fonctions de vice-président, je reste saisie de huit candidatures : celles de Mme Nadège Abomangoli, de M. Xavier Breton, de M. Sébastien Chenu, de Mme Annie Genevard, de Mme Clémence Guetté, de Mme Hélène Laporte, de M. Roland Lescure et de Mme Naïma Moutchou.<br/>Au premier tour, sont élus dans l’ordre des suffrages les candidats ayant obtenu la majorité absolue des suffrages exprimés. Le vote se déroule dans les salons voisins et le scrutin est ouvert pour une durée de trente minutes.<br/>Des bulletins imprimés sont à votre disposition mais les bulletins manuscrits sont également valables. Je le rappelle à nouveau : vous ne devez déposer dans l’urne qu’une seule enveloppe, même si elle peut contenir plusieurs bulletins, sachant que les suffrages exprimés ne peuvent pas contenir plus de six noms au total.<br/>Le scrutin est à présent ouvert jusqu’à dix-sept heures cinquante-cinq.<br/> <italique>(Le scrutin est ouvert à dix-sept heures vingt-cinq.)</italique></texte>
+        </paragraphe>
+        <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537044" ordre_absolu_seance="26" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3510370" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Suspension et reprise de la séance</italique>
+          </texte>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537045" ordre_absolu_seance="27" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510371" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>721908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9729.03">La séance est suspendue.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537046" ordre_absolu_seance="28" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3510372" valeur="">
+            <orateurs/>
+            <texte>
+              <italique>(La séance, suspendue à dix-sept heures trente, est reprise à dix-neuf heures dix.)</italique>
+            </texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537047" ordre_absolu_seance="29" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510373" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>721908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="15830.78">La séance est reprise.<br/>Voici les résultats du scrutin pour l’élection des vice-présidents de l’Assemblée nationale :<br/> Nombre de votants : 558<br/> Bulletins blancs ou nuls : 11<br/> Suffrages exprimés : 547<br/> Majorité absolue : 274<br/> Ont obtenu :<br/> Mme Nadège Abomangoli : 327 voix <italique>(Vifs applaudissements)</italique> ;<br/> M. Xavier Breton : 325 voix <italique>(Applaudissements)</italique> ;<br/> M. Sébastien Chenu : 171 voix ;<br/> Mme Annie Genevard : 204 voix ;<br/> Mme Clémence Guetté : 337 voix <italique>(Vifs applaudissements)</italique> ;<br/> Mme Hélène Laporte : 157 voix ;<br/> M. Roland Lescure : 204 voix ;<br/> Mme. Naïma Moutchou : 338 voix <italique>(Applaudissements)</italique> ;<br/>Il y a eu également trois autres suffrages.<br/> Mme Clémence Guetté, Mme Naïma Moutchou, Mme Nadège Abomangoli et M. Xavier Breton ayant obtenu la majorité absolue des suffrages exprimés, je les proclame vice-présidents de l’Assemblée nationale. <italique>(Applaudissements.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537050" ordre_absolu_seance="31" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510376" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pierre Cordier</nom>
+                <id>718850</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="15841.34">Quel scandale !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537051" ordre_absolu_seance="32" id_acteur="PA719118" id_mandat="PM842501" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510377" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. François Cormier-Bouligeon</nom>
+                <id>719118</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="15907.46">Élus avec les voix du Rassemblement national, quel déshonneur !</texte>
+          </paragraphe>
+        </point>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537052" ordre_absolu_seance="33" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3510378" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Rappel au règlement</italique>
+      </texte>
+      <interExtraction nom_orateur="M. Ian Boucard" id_acteur="PA721816" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM843551">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537053" ordre_absolu_seance="34" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="RAP_REGLEMENT_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510379" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="15917.20">La parole est à M. Ian Boucard, pour un rappel au règlement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537054" ordre_absolu_seance="35" id_acteur="PA721816" id_mandat="PM843551" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510380" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ian Boucard</nom>
+              <id>721816</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="15922.90">Il est fondé sur les articles 10 et 11 relatifs à la constitution du bureau et à l’élection de nos vice-présidents. Le premier tour de cette élection nous dévoile le véritable visage du Rassemblement national de Mme Marine Le Pen. <italique>(Mme Marine Le Pen sourit.)</italique> En décidant de faire élire deux vice-présidentes de La France insoumise, vous avez fait le choix du chaos. <italique>(Applaudissements.)</italique><br/>Après avoir fait campagne en expliquant vouloir empêcher l’accession au pouvoir de l’extrême gauche, vous vous rangez aujourd’hui dans le camp du communautarisme. Vous faites élire ceux qui veulent désarmer la police <italique>(Vives protestations. – Applaudissements)</italique>, ceux qui soutiennent les black blocs à Sainte-Soline. <italique>(Mêmes mouvements.)</italique> Maintenant les choses sont claires : voter Rassemblement national, c’est voter La France insoumise ! <italique>(Mêmes mouvements.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537055" ordre_absolu_seance="37" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510449" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emeric Salmon</nom>
+              <id>794954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="15945.76">Ce n’est pas un rappel au règlement !</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537055" ordre_absolu_seance="38" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3511197" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Reprise de la discussion</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537056" ordre_absolu_seance="39" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510382" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="15967.93">Un peu de silence !<br/>Il y a lieu de procéder à un deuxième tour de scrutin pour les deux sièges de vice-président restant à pourvoir. Je demeure saisie de quatre candidatures, celles de Mme Annie Genevard, de Mme Hélène Laporte, de M. Roland Lescure et de M. Sébastien Chenu. Sont-elles maintenues ? <italique>(Les candidats ou leurs collègues font savoir qu’elles le sont.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537058" ordre_absolu_seance="40" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3510384" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Rappels au règlement</italique>
+      </texte>
+      <interExtraction nom_orateur="M. Gérald Darmanin" id_acteur="PA607846" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM843113">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537059" ordre_absolu_seance="41" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="RAP_REGLEMENT_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510385" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="16014.46">La parole est à M. Gérald Darmanin, pour un rappel au règlement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537060" ordre_absolu_seance="42" id_acteur="PA607846" id_mandat="PM843113" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510386" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gérald Darmanin</nom>
+              <id>607846</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="16026.04">Pour le bon déroulement de nos séances, je propose qu’à l’avenir les députés de La France insoumise serrent la main des députés du Rassemblement national puisqu’ils ont été élus avec leurs voix ! <italique>(Applaudissements</italique>.<italique>)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537061" ordre_absolu_seance="43" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510387" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benjamin Lucas-Lundy</nom>
+              <id>795636</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="16037.87">L’homme de la loi « immigration » prétend donner des leçons !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537061" ordre_absolu_seance="44" id_acteur="PA794166" id_mandat="PM842924" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510450" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Matthias Tavel</nom>
+              <id>794166</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="16043.26">Ce n’est pas un rappel au règlement !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537062" ordre_absolu_seance="45" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510388" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16046.38">La parole est à Mme Mathilde Panot pour un rappel au règlement. <italique>(Brouhaha</italique>.<italique>)</italique> Silence, s’il vous plaît !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537063" ordre_absolu_seance="46" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510389" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16063.62">Il est fondé sur les articles 10 et 11 du règlement. Vous, les macronistes, n’avez aucune leçon à donner à La France insoumise et au Nouveau Front populaire. <italique>(Applaudissements</italique>.<italique>) </italique>C’est vous qui avez élu en 2022 des vice-présidents issus du Rassemblement national et qui avez voté la loi « immigration » avec les voix et les idées du Rassemblement national. Au troisième tour, nous gagnerons sans les voix du Rassemblement national, même si ses membres sont, comme vous, en train de magouiller. <italique>(Protestations</italique>.<italique>)</italique><br/>Si vous aviez accepté le cordon républicain, rien de tout cela ne se serait produit. <italique>(Applaudissements.)</italique> Gardez vos leçons de morale pour vous ! Le problème vient de votre proximité idéologique avec le Rassemblement national, des mots que vous utilisez, de la réhabilitation de Pétain ou de Maurras. <italique>(Plusieurs députés se lèvent et applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537065" ordre_absolu_seance="48" id_acteur="PA719118" id_mandat="PM842501" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510391" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Cormier-Bouligeon</nom>
+            <id>719118</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16095.88">Vous ne les connaissez même pas ! Vous n’avez aucun sens de l’honneur !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537066" ordre_absolu_seance="49" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510392" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16104.14">Tandis que vous n’avez pas hésité à voter des lois avec le Rassemblement national, nous n’avons jamais utilisé un bulletin de vote en faveur de l’extrême droite et nous ne le ferons jamais. Regardez-vous dans une glace ! <italique>(Applaudissements</italique>.<italique>)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537067" ordre_absolu_seance="50" id_acteur="PA719118" id_mandat="PM842501" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510393" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Cormier-Bouligeon</nom>
+            <id>719118</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16117.48">Voilà le visage du déshonneur !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536990" ordre_absolu_seance="51" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510203" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16120.71">La parole est à M. le président Marc Fesneau, pour un rappel au règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536991" ordre_absolu_seance="52" id_acteur="PA719938" id_mandat="PM842873" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510204" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Marc Fesneau</nom>
+            <id>719938</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16124.67">Il se fonde sur les articles 10 et 11 du règlement. Premièrement, il est assez savoureux de vous entendre donner des leçons alors que vous acceptez les voix du Rassemblement national <italique>(Applaudissements)</italique> et sachant que, hier, vous nous auriez fait le même procès si la présidente Yaël Braun-Pivet avait été élue avec trois voix de plus. <italique>(Mêmes mouvements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536992" ordre_absolu_seance="53" id_acteur="PA793708" id_mandat="PM842525" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510205" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Peytavie</nom>
+            <id>793708</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16133.21">Nous ne sommes pas aux questions au Gouvernement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536993" ordre_absolu_seance="54" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510206" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Benjamin Lucas-Lundy</nom>
+            <id>795636</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16135.32">Ce n’est pas un rappel au règlement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536994" ordre_absolu_seance="55" id_acteur="PA719938" id_mandat="PM842873" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510207" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Marc Fesneau</nom>
+            <id>719938</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16141.46">Deuxièmement, c’est vous qui avez demandé que soit dressé un cordon sanitaire. Or vous êtes en train de le franchir allègrement et je le regrette. <italique>(Vives exclamations.)</italique><br/>Je vous fais donc une proposition simple : puisque vous êtes capables d’être élus sans les voix du Rassemblement national, démissionnez et allons jusqu’au troisième tour. Nous verrons alors si ce que vous dites est vrai.<italique> (Applaudissements. – Vives exclamations.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536995" ordre_absolu_seance="57" id_acteur="PA794166" id_mandat="PM842924" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510293" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Matthias Tavel</nom>
+            <id>794166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16150.50">Ce n’est pas un rappel au règlement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536996" ordre_absolu_seance="58" id_acteur="PA719938" id_mandat="PM842873" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510209" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Marc Fesneau</nom>
+            <id>719938</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16159.04">Vous refusez les mains mais, manifestement, vous ne refusez pas les bulletins. <italique>(Applaudissements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536996" ordre_absolu_seance="59" id_acteur="PA794166" id_mandat="PM842924" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510294" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Matthias Tavel</nom>
+            <id>794166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16167.30">Est-ce que les ministres pourraient sortir de l’hémicycle ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536997" ordre_absolu_seance="60" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510210" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16178.47">La parole est à Mme la présidente Cyrielle Chatelain, pour un rappel au règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536998" ordre_absolu_seance="61" id_acteur="PA794008" id_mandat="PM842768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510211" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Cyrielle Chatelain</nom>
+            <id>794008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16185.27">La clarté de notre positionnement, bien avant ce tour de scrutin, ne laisse planer aucune ambiguïté s’agissant de notre engagement total à vaincre le Rassemblement national.<italique> (Applaudissements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2536999" ordre_absolu_seance="62" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510212" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Benjamin Lucas-Lundy</nom>
+            <id>795636</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16196.85">Elle a raison !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537000" ordre_absolu_seance="63" id_acteur="PA794008" id_mandat="PM842768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510213" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Cyrielle Chatelain</nom>
+            <id>794008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16197.28">Le retrait de nos candidats lors des élections législatives démontre notre volonté absolue de faire battre le Rassemblement national. <italique>(Applaudissements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537001" ordre_absolu_seance="64" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510214" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16207.44">Démission !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537002" ordre_absolu_seance="65" id_acteur="PA794008" id_mandat="PM842768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510215" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Cyrielle Chatelain</nom>
+            <id>794008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16207.64">Je pose une question aux membres de la majorité : retirez-vous les quarante-neuf textes de loi votés avec le Rassemblement national ? Non.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537003" ordre_absolu_seance="66" id_acteur="PA794582" id_mandat="PM840300" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510216" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Kévin Pfeffer</nom>
+            <id>794582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16217.03">Madame la présidente, nous ne sommes pas là pour poser des questions !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537004" ordre_absolu_seance="67" id_acteur="PA794008" id_mandat="PM842768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510217" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Cyrielle Chatelain</nom>
+            <id>794008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16219.98">C’est bien la preuve que nous ne choisissons pas qui vote pour nous. Sinon je vous engage à retirer, un par un, l’ensemble des textes et l’ensemble des amendements adoptés avec le concours du Rassemblement national. <italique>(Applaudissements.) </italique>Telle est la vérité des voix. <italique>(De nombreux députés se lèvent et applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537005" ordre_absolu_seance="68" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510218" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16235.32">La parole est à M. Jérôme Guedj pour un rappel au règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537006" ordre_absolu_seance="69" id_acteur="PA1567" id_mandat="PM843572" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510219" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jérôme Guedj</nom>
+            <id>1567</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16249.26">Je m’inscris dans la continuité des propos de la présidente Chatelain.<br/>Je souhaite cependant aborder un autre sujet, avec toute la solennité et toute la gravité qu’il requiert. Notre hémicycle – et, à travers lui, la démocratie française – a été entaché tout à l’heure par un événement d’une brutalité démocratique impensable. Une fraude a en effet été commise lors de l’organisation du scrutin dans notre assemblée. <italique>(Applaudissements.)</italique><br/>Nous devons mesurer collectivement l’effet dévastateur d’une telle pratique sur nos principes républicains, auxquels nous sommes tous attachés. Pratique délétère qui a pour conséquence la démonétisation et la décrédibilisation du fonctionnement de cette institution et, partant, de l’ensemble de la démocratie française.<br/>Je le dis avec beaucoup de colère et même de rage : honte à ceux qui ont pratiqué cette fraude. Honte à eux ! <italique>(La plupart des députés se lèvent et applaudissent longuement.)</italique> L’amour de la République ne peut tolérer que celle-ci soit ainsi abîmée.<br/>Madame la présidente, je vous en conjure, il faut que soit menée, dans la plus grande transparence, une enquête approfondie afin de comprendre ce qui s’est passé.<br/>Par ailleurs, pour qu’une telle fraude ait pu avoir lieu, il a fallu, certes, l’intention maligne de ceux qui l’ont commise,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537012" ordre_absolu_seance="75" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510225" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16263.15">Exact !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537013" ordre_absolu_seance="76" id_acteur="PA1567" id_mandat="PM843572" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510226" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jérôme Guedj</nom>
+            <id>1567</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16347.65">…mais nous devons aussi étudier les modalités de ces élections afin de les améliorer considérablement et d’abandonner une forme d’à peu près – je ne veux pas parler d’amateurisme – qui n’est pas à la hauteur de la démocratie française. <italique>(Vifs applaudissements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537014" ordre_absolu_seance="77" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510227" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16369.91">Je vous rappelle que nos procédures de vote sont fixées par le règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537015" ordre_absolu_seance="78" id_acteur="PA795136" id_mandat="PM843353" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510228" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-François Coulomme</nom>
+            <id>795136</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16373.99">Ça aussi, il va falloir le changer ! C’est comme la Constitution !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537016" ordre_absolu_seance="79" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510229" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16375.66">Si vous le souhaitez, nous pouvons les modifier. Cependant, aujourd’hui, je vous invite, tous, à les respecter.<br/>La parole est à M. David Guiraud, pour un rappel au règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537018" ordre_absolu_seance="81" id_acteur="PA794478" id_mandat="PM843107" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510231" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. David Guiraud</nom>
+            <id>794478</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16390.37">Je le dis en toute solennité : aux termes de l’article 23 de la Constitution, qui dispose que « les fonctions de membre du Gouvernement sont incompatibles avec l’exercice de tout mandat parlementaire », la prise de parole de M. Darmanin, ministre de l’intérieur et en même temps député, est indigne de l’Assemblée nationale. <italique>(Applaudissements.)</italique><br/>Déjà, grâce à son vote, vous avez été élue présidente. Tous les membres du Gouvernement doivent se faire tout petits aujourd’hui et tant qu’ils occuperont ces fonctions. <italique>(Mêmes mouvements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537020" ordre_absolu_seance="83" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510233" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16432.21">Monsieur Guiraud, je rappelle une nouvelle fois que nous appliquons strictement les règles votées par cette assemblée. <italique>(Exclamations.)</italique> Comme vous le savez très bien, l’article L.O. 153 du code électoral précise que l’incompatibilité…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537021" ordre_absolu_seance="84" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510234" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Benjamin Lucas-Lundy</nom>
+            <id>795636</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16440.44">C’est parce qu’ils ont voté au mépris de la séparation des pouvoirs que vous présidez !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537022" ordre_absolu_seance="85" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510235" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16447.05">Est-il possible, dans cet hémicycle, de laisser chacun s’exprimer et de l’écouter ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537023" ordre_absolu_seance="86" id_acteur="PA791812" id_mandat="PM840384" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510236" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sophia Chikirou</nom>
+            <id>791812</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16452.80">Ah non, vous n’allez pas recommencer !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537024" ordre_absolu_seance="87" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510237" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16454.20">Madame Chikirou, pouvons-nous nous écouter, nous respecter et dialoguer ? Vous rendez-vous compte de l’image que vous donnez dès la deuxième séance de l’Assemblée nationale nouvellement constituée ? <italique>(Applaudissements. – Exclamations.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537024" ordre_absolu_seance="88" id_acteur="PA794166" id_mandat="PM842924" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510349" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Matthias Tavel</nom>
+            <id>794166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16463.63">Et vous-même, quelle image donnez-vous ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537025" ordre_absolu_seance="89" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510238" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16470.49">L’article L.O. 153 du code électoral précise, disais-je, que l’incompatibilité entre le mandat de député et les fonctions de membre du Gouvernement « ne prend pas effet si le Gouvernement est démissionnaire », ce qui est le cas ici. Nous appliquons donc strictement la loi. <italique>(Applaudissements.)</italique><br/>Il n’y a pas, ici, de demi-députés qui devraient se faire tout petits. Je vois devant moi 577 députés élus par le peuple français. Je vous invite à respecter chacun d’entre eux. <italique>(Mêmes mouvements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537027" ordre_absolu_seance="91" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510240" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Benjamin Lucas-Lundy</nom>
+            <id>795636</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16483.50">Elle est devenue porte-parole du Gouvernement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537028" ordre_absolu_seance="92" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510241" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16494.83">La parole est à M. Pierre Cazeneuve, pour un rappel au règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537029" ordre_absolu_seance="93" id_acteur="PA795864" id_mandat="PM840429" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510242" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cazeneuve</nom>
+            <id>795864</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16503.38">Il se fonde sur l’article 70 relatif à la bonne tenue des débats…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537030" ordre_absolu_seance="94" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510243" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16506.71">C’est l’article 100 ! Il confond tout !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537031" ordre_absolu_seance="95" id_acteur="PA795864" id_mandat="PM840429" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510244" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cazeneuve</nom>
+            <id>795864</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16507.02">…et sur l’article 100, à la suite de l’accusation parfaitement indigne proférée par M. Guiraud à l’encontre de M. Darmanin. Comme cela a été indiqué, la loi organique, très claire, ne laisse planer aucune ambiguïté s’agissant du droit, pour les ministres élus députés, de voter comme ils l’ont fait lors du scrutin d’hier.<br/>Monsieur Guiraud, vous employez des méthodes de trumpiste. Vous refusez le résultat des urnes, vous alimentez la défiance envers notre démocratie. C’est scandaleux. <italique>(Applaudissements. – Exclamations.)</italique> Au lieu de réaliser des vidéos visant à alimenter l’antisémitisme en France <italique>(Vives exclamations)</italique>, lisez la Constitution.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537032" ordre_absolu_seance="97" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510350" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16537.42">Ça ne va pas ? Ça suffit !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537033" ordre_absolu_seance="98" id_acteur="PA795864" id_mandat="PM840429" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510246" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cazeneuve</nom>
+            <id>795864</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16553.36">La France insoumise devrait, elle, se faire vraiment toute petite sachant que ses deux vice-présidentes ont été élues grâce aux voix du Front national. C’est une honte !<italique> (Applaudissements. – Exclamations.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537034" ordre_absolu_seance="99" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510247" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16564.37">On ne peut pas se laisser insulter ainsi !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537035" ordre_absolu_seance="100" id_acteur="PA795864" id_mandat="PM840429" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510248" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cazeneuve</nom>
+            <id>795864</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16564.50">Vous devriez avoir honte. Vous ne devriez même pas prendre la parole mais sortir de l’hémicycle – pour une fois, pour une bonne raison. Une nouvelle fois, après la réforme des retraites et les motions de censure, l’extrême gauche et l’extrême droite se sont retrouvées main dans la main. <italique>(Applaudissements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537036" ordre_absolu_seance="101" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510249" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Clémence Guetté</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16577.88">Vous êtes un provocateur !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537037" ordre_absolu_seance="102" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510250" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16578.79">La parole est à Mme Élisabeth Borne, pour un dernier rappel au règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537038" ordre_absolu_seance="103" id_acteur="PA717161" id_mandat="PM842396" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510251" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Élisabeth Borne</nom>
+            <id>717161</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16583.24">Madame la présidente Chatelain, votre comparaison est mensongère.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537039" ordre_absolu_seance="104" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510252" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Benjamin Lucas-Lundy</nom>
+            <id>795636</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16587.65">On n’a pas le droit d’interpeller directement d’autres députés !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537039" ordre_absolu_seance="105" id_acteur="PA794166" id_mandat="PM842924" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510351" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Matthias Tavel</nom>
+            <id>794166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16588.52">Sur quel article se fonde votre rappel au règlement ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537040" ordre_absolu_seance="106" id_acteur="PA717161" id_mandat="PM842396" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510253" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Élisabeth Borne</nom>
+            <id>717161</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16588.87">Vos vice-présidentes ont été élues grâce aux voix du Rassemblement national. En revanche, aucun texte n’a été adopté grâce aux voix du Rassemblement national. Si le Rassemblement national a pu voter certains textes, ceux-ci auraient été adoptés sans leurs voix. <italique>(Brouhaha.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537041" ordre_absolu_seance="107" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3510254" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16607.22">Nous n’allons pas entendre 577 rappels au règlement. <italique>(Protestations.) </italique>J’ai entendu le point de vue de chaque président de groupe. <italique>(Les exclamations couvrent la voix de Mme la présidente.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537042" ordre_absolu_seance="108" id_acteur="PA795318" id_mandat="PM843689" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510255" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Louis Boyard</nom>
+            <id>795318</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16617.65">Ce n’est pas normal !</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537042" ordre_absolu_seance="109" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3511198" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Reprise de la discussion</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537043" ordre_absolu_seance="110" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510256" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="16622.40">Nous allons donc passer au deuxième tour de scrutin. <italique>(M. Louis Boyard continue de protester en brandissant un exemplaire du règlement.) </italique>Je vous indique que la majorité absolue des suffrages exprimés reste requise et que le scrutin se déroulera dans les salles voisines de la salle des séances.<br/>Le scrutin, annoncé dans l’enceinte de l’Assemblée nationale, est ouvert pour une durée de vingt minutes.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="5" id_preparation="2536979" ordre_absolu_seance="111" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3510138" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2536980" ordre_absolu_seance="112" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510139" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="16633.47">La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2536981" ordre_absolu_seance="113" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3510140" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à dix-neuf heures vingt-cinq, est reprise à vingt heures trente.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2536982" ordre_absolu_seance="114" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510141" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="20491.45">La séance est reprise.<br/>Mes chers collègues, voici le résultat du deuxième tour du scrutin pour l’élection des vice-présidents de l’Assemblée nationale.<br/> Nombre de votants : 467<br/> Bulletins blancs ou nuls : 37<br/> Suffrages exprimés : 430<br/> Majorité absolue : 216<br/> Ont obtenu :<br/> M. Sébastien Chenu : 162 voix ;<br/> Mme Annie Genevard : 257 voix <italique>(Applaudissements)</italique> ;<br/> Mme Hélène Laporte : 148 voix ;<br/> M. Roland Lescure : 273 voix <italique>(Applaudissements)</italique> ;<br/> Il y a eu également deux autres suffrages.<br/> M. Roland Lescure et Mme Annie Genevard ayant obtenu la majorité absolue des suffrages exprimés, je les proclame élus vice-présidents de l’Assemblée nationale. Toutes mes félicitations. <italique>(Applaudissements et « Bravo ! ».)</italique><br/>À la suite des scrutins qui viennent d’avoir lieu, ont été élus vice-présidents de l’Assemblée nationale Mme Clémence Guetté, Mme Naïma Moutchou, Mme Nadège Abomangoli, M. Xavier Breton, M. Roland Lescure et Mme Annie Genevard.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="2536986" ordre_absolu_seance="118" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3510145" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2536987" ordre_absolu_seance="119" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3510146" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="20560.22">Prochaine séance, ce soir, à vingt et une heures trente :<br/>Élection des trois questeurs et des douze secrétaires de l’Assemblée nationale.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2536988" ordre_absolu_seance="120" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3510147" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt heures trente-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2536989" ordre_absolu_seance="121" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3510148" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

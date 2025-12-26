@@ -1,0 +1,1959 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N065</uid>
+  <seanceRef>RUANR5L17S2025IDS28897</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20241217150000000</dateSeance>
+    <dateSeanceJour>mardi 17 décembre 2024</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>65</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20240065</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2024-12-23T18:31:51.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3590288">Présidence de Mme Yaël Braun-Pivet</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3590292">
+          <intitule>Questions au premier ministre</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3590293">Mme la présidente</para>
+        <sommaire2>
+          <titreStruct id_syceron="3590296">
+            <intitule>Politique du prochain gouvernement</intitule>
+          </titreStruct>
+          <para id_syceron="3590298">Mme Laure Lavalette</para>
+          <para id_syceron="3590308">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590319">
+            <intitule>Situation à Mayotte</intitule>
+          </titreStruct>
+          <para id_syceron="3590321">M. Gérald Darmanin</para>
+          <para id_syceron="3590327">François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590363">
+            <intitule>Situation à Mayotte</intitule>
+          </titreStruct>
+          <para id_syceron="3590365">Mme Mathilde Panot</para>
+          <para id_syceron="3590377">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590393">
+            <intitule>Politique du prochain gouvernement</intitule>
+          </titreStruct>
+          <para id_syceron="3590395">M. Boris Vallaud</para>
+          <para id_syceron="3590402">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590425">
+            <intitule>Finances publiques</intitule>
+          </titreStruct>
+          <para id_syceron="3590427">M. Vincent Jeanbrun</para>
+          <para id_syceron="3590447">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590469">
+            <intitule>Situation à Mayotte</intitule>
+          </titreStruct>
+          <para id_syceron="3590471">M. Steevy Gustave</para>
+          <para id_syceron="3590486">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590501">
+            <intitule>Reconstruction de Mayotte</intitule>
+          </titreStruct>
+          <para id_syceron="3590503">M. Philippe Vigier</para>
+          <para id_syceron="3590519">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590524">
+            <intitule>Situation à Mayotte</intitule>
+          </titreStruct>
+          <para id_syceron="3590526">M. Stéphane Lenormand</para>
+          <para id_syceron="3590534">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590538">
+            <intitule>Finances publiques</intitule>
+          </titreStruct>
+          <para id_syceron="3590540">Mme Félicie Gérard</para>
+          <para id_syceron="3590552">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590561">
+            <intitule>Situation à Mayotte</intitule>
+          </titreStruct>
+          <para id_syceron="3590563">Mme Mereana Reid Arbelot</para>
+          <para id_syceron="3590570">M. François Bayrou, premier ministre</para>
+          <para id_syceron="3590574">Mme Mereana Reid Arbelot</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3590332">
+            <intitule>Politique du prochain gouvernement</intitule>
+          </titreStruct>
+          <para id_syceron="3590334">Mme Hanane Mansouri</para>
+          <para id_syceron="3590345">M. François Bayrou, premier ministre</para>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3590584">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du mardi 17 décembre 2024</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2590785" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3590288" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Yaël Braun-Pivet</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2590786" ordre_absolu_seance="2" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590289" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="954.06">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2590787" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3590290" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590789" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3590292" valeur="">
+      <orateurs/>
+      <texte>Questions au premier ministre</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590790" ordre_absolu_seance="6" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590293" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="967.90">L’ordre du jour appelle les questions au premier ministre. Dans l’attente de la nomination d’un nouveau gouvernement, il a été convenu en conférence des présidents que chaque groupe politique poserait une question.<br/>Monsieur le premier ministre, merci d’avoir accepté de vous prêter au jeu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590792" ordre_absolu_seance="8" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590295" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="983.83">Il n’a pas vraiment le choix !</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590793" ordre_absolu_seance="9" code_grammaire="QPM_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590296" valeur="">
+      <orateurs/>
+      <texte>Politique du prochain gouvernement</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590794" ordre_absolu_seance="10" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590297" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="995.67">La parole est à Mme Laure Lavalette.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590795" ordre_absolu_seance="11" id_acteur="PA795912" id_mandat="PM840402" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590298" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Lavalette</nom>
+            <id>795912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1009.22">Le groupe Rassemblement national et sa présidente Marine Le Pen s’associe au deuil national décrété par le président Macron à la suite du drame épouvantable que vit le département de Mayotte. Compatriotes mahorais, Français au milieu des malheurs du monde, recevez notre sollicitude et toute notre affection.<br/>Le 7 juillet, par un jeu de désistement indigne d’une démocratie mature, le président de la République a empêché une alternance pourtant largement réclamée par les Français. Alors qu’il prétendait redonner au pays le choix de son avenir, Emmanuel Macron l’a privé d’une majorité claire, au prix de l’instabilité et du chaos. Lui et son premier ministre d’alors resteront seuls responsables devant l’histoire. Aussi espérons-nous sincèrement que votre action soit salutaire face aux urgences qui s’amoncellent – c’est fondamentalement dans l’intérêt d’un peuple qui ne vous a pas choisi.<br/>L’urgence est d’abord agricole : les agriculteurs ont été abandonnés par un gouvernement Attal qui n’a pas fait la moitié de ce qu’il avait promis.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590798" ordre_absolu_seance="14" id_acteur="PA719118" id_mandat="PM842501" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590301" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Cormier-Bouligeon</nom>
+            <id>719118</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1028.52">Excusez-vous auprès des agriculteurs pour la censure !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590799" ordre_absolu_seance="15" id_acteur="PA795912" id_mandat="PM840402" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590302" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Lavalette</nom>
+            <id>795912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1066.38">Nous vous proposons d’organiser d’ici au 31 décembre l’examen et le vote d’une loi d’urgence agricole, et d’arrêter cette folie qu’est le traité avec le Mercosur en gelant notre contribution financière à l’Union européenne.<br/>S’agissant de l’urgence démocratique, nous savons que vous partagez notre engagement en faveur d’un mode de scrutin proportionnel, alliant juste représentativité et stabilité institutionnelle. Il faut aussi évoquer l’urgence, toujours prégnante, du pouvoir d’achat et d’une fiscalité plus juste, l’urgence hospitalière et en matière d’accès aux soins partout sur notre territoire, et, enfin, l’urgence sécuritaire et migratoire qui s’aggrave de jour en jour, malgré les postures et les grands mots.<br/>Face à cet « Himalaya » de défis, pouvez-vous décliner vos priorités devant la représentation nationale ? Vous connaissez nos positions et nos lignes rouges. Vous nous trouverez ouverts au compromis, hermétiques au chantage, vigies inépuisables de l’intérêt général.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590802" ordre_absolu_seance="18" id_acteur="PA793664" id_mandat="PM842549" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590305" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie Pochon</nom>
+            <id>793664</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1119.34">La blague !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590803" ordre_absolu_seance="19" id_acteur="PA795912" id_mandat="PM840402" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590306" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Lavalette</nom>
+            <id>795912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1121.06">Le 7 juillet, un pouvoir déclinant a suscité une profonde désespérance. Tâchons au moins de rendre les prochains mois utiles à la France. <italique>(Applaudissements sur les bancs des groupes RN et UDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590804" ordre_absolu_seance="20" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590307" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1135.64">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590805" ordre_absolu_seance="21" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590308" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1144.02">Merci, madame la présidente.<br/>Je veux d’abord exprimer mon émotion, car il y a longtemps que je n’ai pas pris la parole dans cette assemblée, que j’ai beaucoup aimée. Je veux dire une chose simple : le gouvernement…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590806" ordre_absolu_seance="22" id_acteur="PA793664" id_mandat="PM842549" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590309" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie Pochon</nom>
+            <id>793664</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1154.15">Mais il n’y a pas de gouvernement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590807" ordre_absolu_seance="23" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590310" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1178.62">…respecte chacune et chacun de ceux qui siègent sur ces bancs, d’un bout à l’autre de l’échiquier politique, ainsi que chaque groupe. Je suis un partisan acharné du pluralisme politique. Ce n’est pas parce que nous avons des positions différentes, parfois opposées, que nous ne pouvons pas débattre et dialoguer ensemble.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590808" ordre_absolu_seance="24" id_acteur="PA795076" id_mandat="PM840366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590311" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sandrine Rousseau</nom>
+            <id>795076</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1213.70">Et à propos de Mayotte ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590809" ordre_absolu_seance="25" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590312" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1215.14">Vous avez fait la liste des très nombreux défis que nous devons relever. Vous avez utilisé une expression que j’ai moi-même employée : il s’agit d’un Himalaya, qui paraît, comme vous le savez tous, impossible à gravir. Pourtant, il nous faut le surmonter, tout spécialement au moment où la catastrophe de Mayotte nous rappelle au respect de ce que nous avons de plus sacré, notre concitoyenneté, notre compatriotisme à l’égard de tous ceux atteints par les accidents de la vie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590810" ordre_absolu_seance="26" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590313" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Benjamin Lucas-Lundy</nom>
+            <id>795636</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1263.18">Et à propos de Mayotte ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590811" ordre_absolu_seance="27" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590314" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1265.87">Nous reparlerons du drame de Mayotte au cours de cette séance. <italique>(Exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS.) </italique>Hier, Mme la présidente a fait respecter une minute de silence, à laquelle je m’associe rétrospectivement par la pensée.<br/>Madame la députée, vous avez décrit les très nombreux obstacles qui sont devant nous et vous me demandez de décliner mes réponses. Je ne suis pas sûr de le faire, mais je vous répondrai une chose simple : je ne dissimulerai rien, je ne laisserai rien sans traitement et sans réponse. J’essaierai de résoudre tous les problèmes que vous avez évoqués, qu’ils tiennent à la dépense publique ou aux fractures de la société française. Je tâcherai de le faire en tenant compte de chaque groupe qui siège sur ces bancs, car je ne fais pas de différence entre les députés. Tout élu qui a franchi le seuil de cette assemblée et siège sur ces bancs a droit au respect et à un traitement équitable. C’est ma vision ; elle ne date pas d’aujourd’hui. Je l’ai longtemps défendue ici, puis à l’extérieur de l’hémicycle. Cela m’importe beaucoup. Quand je dis que je ne laisserai rien de côté, je pense notamment aux problèmes de finances publiques que vous avez mentionnés. Je crois avoir montré tout au long de ma vie politique que je tenais ces problèmes pour essentiels.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590813" ordre_absolu_seance="29" id_acteur="PA795076" id_mandat="PM840366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590316" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sandrine Rousseau</nom>
+            <id>795076</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1292.00">La question ne portait pas sur votre CV. Parlez-nous de Mayotte !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590814" ordre_absolu_seance="30" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590317" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1376.60">La question ne portait pas sur Mayotte, mais j’imagine que ce sera le cas de questions ultérieures. J’y répondrai avec la précision que ce drame mérite.<br/>J’ai bien compris l’impératif qui est le nôtre. Je vous promets d’essayer de relever ces défis avec l’ensemble de la représentation nationale. <italique>(Applaudissements sur les bancs des groupes Dem, EPR et HOR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590816" ordre_absolu_seance="32" code_grammaire="QPM_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590319" valeur="">
+      <orateurs/>
+      <texte>Situation à Mayotte</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590817" ordre_absolu_seance="33" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590320" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1409.13">La parole est à M. Gérald Darmanin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590818" ordre_absolu_seance="34" id_acteur="PA607846" id_mandat="PM843113" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590321" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Gérald Darmanin</nom>
+            <id>607846</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1425.55">Le magnifique archipel qu’est Mayotte pleure ses morts et souffre de la détresse de ses habitants, de la pauvreté, et, sans doute, de la désolation. Nous qui aimons Mayotte, magnifique bout de France du bout du monde, où les Français sont de volonté, nous nous interrogeons sur la capacité de notre pays à aider une population manifestement percluse de souffrances et de difficultés. Nous saluons votre engagement, dès votre nomination, ainsi que celui du président de la République, pour répondre le plus rapidement possible aux urgences.<br/>Comment éviter les pillages ? Comment lutter contre les maladies alors que les bangas sont détruits,<italique> </italique>que les hôpitaux…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590820" ordre_absolu_seance="36" id_acteur="PA2940" id_mandat="PM842531" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590323" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Dominique Voynet</nom>
+            <id>2940</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1479.41">L’hôpital : il n’y en a qu’un !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590821" ordre_absolu_seance="37" id_acteur="PA607846" id_mandat="PM843113" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590324" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Gérald Darmanin</nom>
+            <id>607846</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1488.05">…fonctionnent difficilement et que le personnel soignant et les pompiers n’arrivent pas à atteindre les blessés ? Comment garantir l’accès à l’eau et à l’électricité, et la sécurité de chacun ? À plus long terme, comment reconstruire Mayotte, son aéroport, ses écoles ? Comment assurer le fonctionnement normal de ses infrastructures, qui fait que la République est partout chez elle ?<br/>Il y a très longtemps, les Mahorais ont choisi d’être français. Ils l’ont réaffirmé par deux référendums, voilà plus de quarante ans. Je sais que le gouvernement et vous-même leur démontrerez qu’ils avaient raison, car Mayotte, c’est non seulement la France, mais aujourd’hui, c’est le plus beau coin du pays. <italique>(Applaudissements sur les bancs des groupes EPR, Dem, HOR et LIOT ainsi que sur quelques bancs des groupes SOC et DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590823" ordre_absolu_seance="39" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590326" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1539.46">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590824" ordre_absolu_seance="40" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590327" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1547.60">Vous avez raison, monsieur le ministre, le drame de Mayotte a frappé une population qui s’est, plus que d’autres, engagée pour la France. Je garde en mémoire le visage de ceux qui se sont battus pour que Mayotte soit française et devienne un département. Plusieurs d’entre eux étaient mes amis et mes aînés – Marcel Henry, Henry Jean-Baptiste, pour ne parler que des personnalités de la fin du siècle précédent. Ces hommes considéraient que la vocation de Mayotte était d’être le visage de la France dans la région. Ils ont fait confiance à la France et nous devons prouver qu’ils ont eu raison, à présent que Mayotte est confrontée à l’une des pires tragédies possibles.<br/>Vous m’interrogez d’abord sur le bilan, qui demeure incertain. Tous les jours, je me suis entretenu à plusieurs reprises avec le préfet de Mayotte, M. Bieuville, à qui je rends hommage, et avec les autres représentants de l’État, qu’ils soient sur place ou à La Réunion. Le bilan n’est pas encore établi, mais pour l’instant, nous constatons une vingtaine de morts, 200 blessés graves et 1 500 blessés en urgence relative. Ce bilan risque de s’alourdir, nous en sommes tous conscients. Nous pensons avec anxiété à ceux qui ont été pris dans la tourmente sans protection.<br/>Au-delà de ce bilan se pose la question de la remise en route de la vie dans l’archipel. Vous avez évoqué l’hôpital : il fonctionne maintenant à environ 50 % de sa capacité. Vous avez aussi posé la question essentielle de l’eau,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590827" ordre_absolu_seance="43" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590330" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1631.11">Il fallait apparemment la faire bouillir !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2590828" ordre_absolu_seance="44" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590331" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1702.02">…que plusieurs ministres de l’outre-mer ont eu à traiter – notamment M. Philippe Vigier. Deux des six usines de dessalement ont été remises en route, le problème principal n’étant pas le traitement de l’eau salée, mais l’alimentation de ces infrastructures en électricité, sans laquelle elles ne peuvent fonctionner.<br/>Près de 50 % du réseau électrique a été remis en route : le réseau à haute tension n’a pas été touché et fonctionne ; ce sont les lignes à basse tension qui, dans certains secteurs, ont été très endommagées. Les services de l’État considèrent cependant que, d’ici la fin de la semaine, 75 % du courant devrait être rétabli.<br/>Le réseau routier, quant à lui, a surtout souffert de chutes d’arbre, et on estime – de façon peut-être trop optimiste – que 80 % des voies de circulation sont de nouveau accessibles.<br/>Vous posez la question, à plus long terme, de la reconstruction. Pour moi, elle est essentielle parce qu’elle porte tout l’espoir des populations. Le gouvernement va lancer un appel à projets pour des habitations préfabriquées de conception simple et de montage et rapide, à un prix modique. Je suis persuadé qu’un grand nombre d’entreprises françaises, voire d’écoles d’architecture, sauront se passionner pour un tel défi, à charge pour nous de choisir rapidement le meilleur projet.<br/>S’agissant du financement, nous pouvons compter sur le soutien régional d’urgence européen Restore et sur la solidarité nationale. L’État et les pouvoirs publics sont là pour ça, sachant que seulement 10 % des foyers mahorais sont assurés, ce qui montre l’effort à fournir. L’idée est de procéder comme pour les ravages causés par Irma, en dédiant spécialement une équipe, sous une autorité choisie par l’État. Cela devrait se faire dans les prochaines heures, pour nous permettre de faire face à ce drame. Les Mahorais, eux, sont déjà au travail, en train de reconstruire leur île, envers et contre toutes les difficultés économiques et sociales qu’ils connaissent. <italique>(Applaudissements sur les bancs des groupes Dem et EPR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590833" ordre_absolu_seance="49" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590363" valeur="">
+      <orateurs/>
+      <texte>Situation à Mayotte</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590834" ordre_absolu_seance="50" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590364" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1929.92">La parole est à Mme Mathilde Panot.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590835" ordre_absolu_seance="51" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590365" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1939.37">Le cyclone Chido laisse Mayotte dévastée. La France pleure ses bien trop nombreuses vies arrachées au monde. Nos pensées se tournent vers les familles des disparus et vers ceux qui attendent des nouvelles de leurs proches. Nous saluons le courage des secouristes. La situation des survivants est dramatique : des bidonvilles transformés en cimetières, plus de 100 000 personnes sans toit ni eau, trois jours dans le noir, un système de santé réduit à néant, la faim et les épidémies qui menacent.<br/>Monsieur le premier ministre, cette catastrophe n’est pas naturelle, elle est politique ! <italique>(Applaudissements sur les bancs du groupe LFI-NFP. – Mme Dominique Voynet applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590837" ordre_absolu_seance="53" id_acteur="PA719118" id_mandat="PM842501" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590367" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Cormier-Bouligeon</nom>
+            <id>719118</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1968.33">Ce n’est pas possible !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590838" ordre_absolu_seance="54" id_acteur="PA330909" id_mandat="PM842399" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590368" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Descoeur</nom>
+            <id>330909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1970.67">Scandaleux !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590839" ordre_absolu_seance="55" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590369" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1971.76">Politique dans son déroulement, d’abord, depuis les nombreuses personnes qui ne se sont pas rendues dans les abris de la préfecture, par peur d’être prises au piège et expulsées, jusqu’au sous-investissement chronique, depuis des années, dans le département le plus pauvre de France – une personne sur trois n’avait déjà pas accès à l’eau potable et 40 % des logements étaient des habitats précaires.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590840" ordre_absolu_seance="56" id_acteur="PA721816" id_mandat="PM843551" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590370" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Ian Boucard</nom>
+            <id>721816</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1992.14">Pourquoi ne pas avoir soutenu Wuambushu, alors ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590841" ordre_absolu_seance="57" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590371" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1992.49">Politique dans ses causes, ensuite : le changement climatique ne vient pas de nulle part. Nous ne sommes pas devant le cyclone du siècle, nous sommes entrés dans le siècle des cyclones, des ouragans et de la montée des eaux. <italique>(Nouveaux applaudissements sur les bancs du groupe LFI-NFP. – Mme Dominique Voynet et M. Stéphane Peu applaudissent également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590842" ordre_absolu_seance="58" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590372" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2004.23">On ne peut pas raconter n’importe quoi ! Un cyclone n’est pas une catastrophe politique !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590843" ordre_absolu_seance="59" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590373" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2005.08">Des questions surgissent déjà : pourquoi la grande loi de prévention des catastrophes naturelles en outre-mer, promise en 2018 par Emmanuel Macron, n’a-t-elle jamais vu le jour ? Pourquoi la délégation interministérielle aux risques majeurs outre-mer, créée en 2019, a-t-elle été dissoute ? Pourquoi la commission d’enquête sur les risques naturels majeurs en outre-mer, que nous avions obtenue à l’initiative de Jean-Philippe Nilor, a-t-elle été sabotée ? <italique>(Applaudissements sur les bancs du groupe LFI-NFP.)</italique><br/>À cet instant et avant tout, la République doit porter secours par tous les moyens à Mayotte et à ses habitants. Dans ce contexte, monsieur le premier ministre, vous n’auriez pas dû vous rendre à Pau pour conserver un mandat mais à la réunion de crise de l’Élysée pour assumer votre nouveau rôle. <italique>(Mêmes mouvements</italique>.) Le mépris est éprouvé d’autant plus rudement quand la souffrance est là.<br/>« Ce n’est pas par la tête que les civilisations pourrissent. C’est d’abord par le cœur » écrivait le grand poète Aimé Césaire. Notre cœur est tout entier avec Mayotte. Nous apportons notre solidarité à tous ses habitants et demandons que tout soit mis en œuvre pour sortir de ce cataclysme et prévenir les suivants. <italique>(Les députés du groupe LFI-NFP ainsi que Mmes Sabrina Sebaihi et Dominique Voynet se lèvent et applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590846" ordre_absolu_seance="62" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590376" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2035.51">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590847" ordre_absolu_seance="63" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590377" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2076.22">Madame Panot, madame la présidente, vos mots sont justes sur la situation des Mahorais. Mayotte est en effet le département le plus pauvre de France, et non sans raison. Dernier département à avoir rejoint la France, il a entamé son développement plus tard que les autres, dans conditions socio-économiques assez peu favorables, en partie liées à sa situation géographique. Je me joins donc à vos regrets sur le fait que, ces trente ou quarante dernières années, l’île n’a bénéficié d’aucun véritable modèle de développement.<br/>Ensuite, vous avez eu une petite phrase polémique, à laquelle je voudrais répondre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590849" ordre_absolu_seance="65" id_acteur="PA791824" id_mandat="PM840375" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590379" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sarah Legrain</nom>
+            <id>791824</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2135.60">Ce n’était pas polémique !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590850" ordre_absolu_seance="66" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590380" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2142.46">C’est extrêmement simple : j’étais à la réunion de crise avec le président de la République ; j’y ai participé de la première à la dernière minute, mais en visio, comme le ministre de l’intérieur, lui aussi en visio depuis l’île de La Réunion.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590851" ordre_absolu_seance="67" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590381" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2160.55">Le ministre de l’intérieur a été à Mayotte, lui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590852" ordre_absolu_seance="68" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590382" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2163.20">Je suis contraint de vous rappeler que Pau est en France <italique>(Exclamations sur plusieurs bancs des groupes LFI-NFP et EcoS)</italique>…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590853" ordre_absolu_seance="69" id_acteur="PA793780" id_mandat="PM842714" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590383" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Christine Arrighi</nom>
+            <id>793780</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2168.87">Mayotte, c’est où ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590854" ordre_absolu_seance="70" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590384" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2174.48">…et que s’y tenait, hier soir, comme dans la plupart des communes de France, un conseil municipal pour voter le budget.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590855" ordre_absolu_seance="71" id_acteur="PA2940" id_mandat="PM842531" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590385" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Dominique Voynet</nom>
+            <id>2940</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2205.19">Vous n’avez pas de premier adjoint ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590856" ordre_absolu_seance="72" id_acteur="PA721210" id_mandat="PM843677" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590386" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Alexis Corbière</nom>
+            <id>721210</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2221.68">Vous n’êtes pas irremplaçable !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590857" ordre_absolu_seance="73" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590387" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2228.52">Si je m’étais rendu à la mairie du 7<exposant>e</exposant> arrondissement ou à celle de Neuilly-sur-Seine, vous n’auriez rien trouvé à redire <italique>(« Si ! » sur les bancs du groupe LFI-NFP.)</italique><br/>Permettez-moi de vous dire qu’existe entre les provinciaux et les cercles du pouvoir parisiens une rupture que sans doute vous ne percevez pas… <italique>(Exclamations</italique> <italique>sur les bancs du groupe LFI-NFP.)</italique> Inutile de crier, même si nous avons des opinions différentes. Je suis de ceux qui pensent que l’on ne doit pas séparer la province et le cercle des pouvoirs, à Paris. <italique>(Les exclamations redoublent et gagnent plusieurs bancs des groupes SOC et EcoS.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590857" ordre_absolu_seance="75" id_acteur="PA793664" id_mandat="PM842549" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590516" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie Pochon</nom>
+            <id>793664</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2235.47">Ce n’est pas le sujet !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590859" ordre_absolu_seance="76" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590389" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2237.97">Mais vous êtes premier ministre !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590860" ordre_absolu_seance="77" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590390" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2246.41">Il s’enfonce…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590861" ordre_absolu_seance="78" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590391" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2247.03">Et les morts de Mayotte ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590862" ordre_absolu_seance="79" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590392" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2263.78">Vous pouvez vous égosiller, mais le ministre de l’intérieur était à Mayotte, le président de la République dirigeait la réunion de crise et j’y participais.<br/>Si j’ai présidé le conseil municipal de ma ville, de dix-neuf à vingt-trois heures, c’est que, ce faisant, j’étais à ma place de citoyen. J’ai bien l’intention de défendre cette idée que la citoyenneté ne se divise pas entre ce que l’on fait à Paris et nos responsabilités de citoyen sur le terrain. C’est un enjeu crucial pour notre avenir. <italique>(Applaudissements sur plusieurs bancs du groupe Dem et sur quelques bancs du groupe EPR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590863" ordre_absolu_seance="81" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590393" valeur="">
+      <orateurs/>
+      <texte>Politique du prochain gouvernement</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590864" ordre_absolu_seance="82" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590394" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2309.03">La parole est à M. Boris Vallaud.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590865" ordre_absolu_seance="83" id_acteur="PA719930" id_mandat="PM842870" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590395" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Boris Vallaud</nom>
+            <id>719930</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2318.10">Nos premières pensées vont à nos compatriotes de Mayotte, aux victimes et à leurs familles ainsi qu’aux services de secours. Nous leur disons notre solidarité.<br/>Je le dis sans esprit polémique mais avec gravité, monsieur le premier ministre : votre place n’était pas à Pau. L’urgence n’est pas au retour du cumul des mandats mais aux inquiétudes des Françaises et des Français, au premier rang desquels les Mahorais. <italique>(Applaudissements</italique> <italique>sur les bancs du groupe SOC.) </italique>Votre devoir, votre seul devoir, est d’y répondre sans attendre car le temps presse. Notre seul devoir de force d’opposition est d’y veiller et de nous battre pour répondre aux attentes des Français et leur être utile, dans la fidélité à ce que nous avons défendu devant eux. Notre devoir est de chercher, dans l’intérêt du pays, un chemin de stabilité et de progrès, d’être des parlementaires adultes à la recherche de majorités texte par texte, fidèles à l’élan de front républicain.<br/>Je vous adresse en cet instant une forme d’avertissement républicain et solennel : nous voulons un bon budget pour le pays, et vous ? Nous voulons parler des retraites, et vous ? Nous voulons avancer sur la question de la vie chère outre-mer, de l’hôpital public, de l’agriculture, de l’école, du narcotrafic, des salaires <italique>(Mêmes mouvements)</italique>, et vous ? Nous avions revendiqué un premier ministre de gauche, ouvert au compromis : vous n’êtes pas de gauche, mais serez-vous ouvert au compromis, disposé à autre chose qu’à la défense, « quoi qu’il en coûte », du bilan d’Emmanuel Macron ?<br/>Nous avions revendiqué le respect strict du front républicain : serez-vous un premier ministre affranchi du Rassemblement national et de ses idées nauséabondes ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590869" ordre_absolu_seance="87" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590399" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2380.73">Tu as voté la censure avec eux, la semaine dernière !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590870" ordre_absolu_seance="88" id_acteur="PA719930" id_mandat="PM842870" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590400" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Boris Vallaud</nom>
+            <id>719930</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2414.22">Monsieur le premier ministre, comment entendez-vous obtenir la stabilité dans la justice, avancer dans le sens des Français, sortir de la crise et échapper peut-être à une nouvelle censure ? Quelle est votre méthode, quel est votre calendrier ? Quand allons-nous, vous et nous, nous mettre enfin au travail ? Nous y sommes prêts dès aujourd’hui ; et vous ? <italique>(Les députés du groupe SOC se lèvent et applaudissent – Plusieurs députés des groupes EcoS et GDR ainsi que Mme Gabrielle Cathala applaudissent également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590871" ordre_absolu_seance="89" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590401" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2441.83">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590872" ordre_absolu_seance="90" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590402" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2451.94">Monsieur le président Vallaud, je me joins aux mots qui ont été les vôtres, que je sais sincères, à destination des Mahorais et de ceux qui leur portent secours, en soulignant à quel point votre unanimité est importante pour eux.<br/>Vous demandez ensuite où je me situe dans la crise que le pays traverse. Je l’ai dit et je le répète : aucun des sujets que vous avez énumérés ne sera mis de côté, aucun ne sera exclu de l’action du gouvernement. J’espère, comme vous, que nous participerons tous à la mise au point des réponses. Ma méthode c’est celle-là.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590874" ordre_absolu_seance="92" id_acteur="PA719930" id_mandat="PM842870" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590404" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Boris Vallaud</nom>
+            <id>719930</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2512.15">Ce n’est pas très clair !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590875" ordre_absolu_seance="93" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590405" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2513.16">Il me semble pourtant que c’est assez clair, mais je ne suis pas ici, aujourd’hui, pour faire un discours de politique générale ! J’ai d’abord l’intention de proposer au président de la République la formation d’un gouvernement, ce que nous ferons, je l’espère, dans les jours qui viennent…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590876" ordre_absolu_seance="94" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590406" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2537.70">Il espère…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590877" ordre_absolu_seance="95" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590407" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2539.14">Je sais que ce sera dans les jours qui viennent, et je prononcerai alors à l’Assemblée mon discours de politique générale…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590878" ordre_absolu_seance="96" id_acteur="PA720846" id_mandat="PM840441" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590408" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud</nom>
+            <id>720846</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2552.83">Avec un vote de confiance ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590879" ordre_absolu_seance="97" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590409" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2559.61">Vous aurez les réponses à toutes les questions que vous avez posées. En matière de dépenses publiques, c’est ensemble que nous trouverons les solutions, mais je ne laisserai pas la situation budgétaire sans réponse. Permettez-moi cependant de rappeler que si nous n’avons pas de réponse aujourd’hui, c’est parce qu’il y a eu censure… <italique>(Exclamations sur les bancs du groupe SOC.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590880" ordre_absolu_seance="98" id_acteur="PA719930" id_mandat="PM842870" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590410" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Boris Vallaud</nom>
+            <id>719930</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2579.92">Non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590881" ordre_absolu_seance="99" id_acteur="PA842211" id_mandat="PM843716" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590411" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Béatrice Bellay</nom>
+            <id>842211</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2581.19">Ce n’est pas vrai !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590882" ordre_absolu_seance="100" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590412" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2582.63">…et ce n’est pas nous qui avons censuré. <italique>(Applaudissements sur plusieurs bancs des groupes Dem et EPR.) </italique>La censure n’a été acquise que parce que les votes des uns se sont additionnés avec les votes des autres.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590883" ordre_absolu_seance="101" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590413" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2597.16">Assumez !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590884" ordre_absolu_seance="102" id_acteur="PA1630" id_mandat="PM843638" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590414" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Herbillon</nom>
+            <id>1630</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2599.66">Les socialistes ont du mal à assumer !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2590885" ordre_absolu_seance="103" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590415" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2611.29">La situation dans laquelle nous nous trouvons est donc, objectivement, la conséquence du vote de censure qui a eu lieu, quelle qu’ait été sa légitimité. Mais nous allons remédier à cette situation.<br/>J’espère que nous le ferons en trouvant un chemin d’entente entre le gouvernement, compte tenu des différentes sensibilités qui le composeront, et les députés responsables qui siègent sur vos bancs. J’en suis certain, je vous le garantis !<br/>Serons-nous d’accord sur tout ? Non, sûrement pas. D’ailleurs, je ne vois pas quelle décision de l’Assemblée nationale pourrait recueillir un avis unanime de l’ensemble des bancs.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590945" ordre_absolu_seance="106" id_acteur="PA719930" id_mandat="PM842870" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590418" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Boris Vallaud</nom>
+            <id>719930</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2658.26">On parle seulement du bloc républicain !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590946" ordre_absolu_seance="107" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590419" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2661.65">Peut-être suis-je exagérément optimiste, mais je suis certain qu’il existe un chemin…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590947" ordre_absolu_seance="108" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590420" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2668.11">Sans le RN ? Sans l’extrême droite ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590948" ordre_absolu_seance="109" id_acteur="PA719558" id_mandat="PM842663" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590421" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Erwan Balanant</nom>
+            <id>719558</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2674.34">Arrêtez avec ça !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590949" ordre_absolu_seance="110" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590422" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2675.30">…qui nous permettra, pour peu que chacun fasse un pas vers l’autre, de nous rapprocher du consensus nécessaire. <italique>(Murmures.)</italique><br/>Ne vous mettez pas en colère les uns contre les autres ; de toutes les manières, les Français ne peuvent pas vous entendre : les micros sont coupés.<br/>Soyez assuré, monsieur Vallaud, que je serai au rendez-vous. <italique>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590952" ordre_absolu_seance="113" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590425" valeur="">
+      <orateurs/>
+      <texte>Finances publiques</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590953" ordre_absolu_seance="114" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590426" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2712.32">La parole est à M. Vincent Jeanbrun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590954" ordre_absolu_seance="115" id_acteur="PA842117" id_mandat="PM843635" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590427" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Jeanbrun</nom>
+            <id>842117</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2724.74">Au nom du groupe Droite républicaine et de son président Laurent Wauquiez, je veux d’abord exprimer notre solidarité avec Mayotte et ses habitants. Nous sommes de tout cœur avec nos compatriotes. <italique>(Applaudissements sur les bancs du groupe DR et sur quelques bancs des groupes EPR et Dem.)</italique><br/>Ma question s’adresse au premier ministre. <italique>(Rires et applaudissements sur de nombreux bancs.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590956" ordre_absolu_seance="117" id_acteur="PA841919" id_mandat="PM843479" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590429" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Dieynaba Diop</nom>
+            <id>841919</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2736.04">On a frôlé l’incident diplomatique !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590957" ordre_absolu_seance="118" id_acteur="PA842117" id_mandat="PM843635" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590430" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Jeanbrun</nom>
+            <id>842117</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2751.85">Je me souviens de ces mots : « Nous ne pouvons pas continuer à creuser le déficit de la France et à augmenter la dette de notre pays comme nous le faisons. » Ce sont les vôtres : vous les avez prononcés il y a dix-sept ans, lors de la campagne présidentielle de 2007.<br/>Vous dénonciez alors déjà, à juste titre, le dérapage de nos comptes publics. La dette s’élevait à 1 200 milliards d’euros ; aujourd’hui, c’est deux fois plus. Elle représentait 66 % du PIB ; aujourd’hui, c’est deux fois plus.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590959" ordre_absolu_seance="120" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590432" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2770.85">À cause de François Hollande et d’Emmanuel Macron !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590960" ordre_absolu_seance="121" id_acteur="PA842117" id_mandat="PM843635" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590433" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Jeanbrun</nom>
+            <id>842117</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2784.92">Pendant que La France insoumise et le Rassemblement national fêtent, main dans la main, la chute du gouvernement, ce sont les Français qui paient la note, et elle est lourde ! <italique>(Applaudissements sur les bancs du groupe DR et sur plusieurs bancs des groupes EPR et Dem.)</italique><br/>Car non, la censure du gouvernement n’a pas fait disparaître nos déficits. Elle n’a pas effacé notre dette, dont les intérêts, déjà supérieurs au budget de la défense, dépasseront bientôt celui de l’éducation.<br/>La facture de la censure est bien réelle – nos agriculteurs en savent quelque chose. <italique>(Applaudissements sur quelques bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590963" ordre_absolu_seance="124" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590436" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2798.10">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590964" ordre_absolu_seance="125" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590437" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2799.79">Il a raison !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590965" ordre_absolu_seance="126" id_acteur="PA842117" id_mandat="PM843635" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590438" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Jeanbrun</nom>
+            <id>842117</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2812.31">Quand la note de la France est dégradée, ce sont les impôts des Français qui augmentent.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590966" ordre_absolu_seance="127" id_acteur="PA721410" id_mandat="PM843350" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590439" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Émilie Bonnivard</nom>
+            <id>721410</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2818.07">Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590967" ordre_absolu_seance="128" id_acteur="PA842117" id_mandat="PM843635" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590440" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Jeanbrun</nom>
+            <id>842117</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2819.84">Monsieur le premier ministre, la première tâche de votre gouvernement sera de faire voter un budget. Cela ne sera pas simple, mais c’est vital.<br/>Le groupe Droite républicaine, autour de Laurent Wauquiez, est convaincu que dans un pays qui détient le record des prélèvements obligatoires et des dépenses publiques, la priorité doit être de faire des économies.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590969" ordre_absolu_seance="130" id_acteur="PA796018" id_mandat="PM843425" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590442" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Danielle Simonnet</nom>
+            <id>796018</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2831.04">Wauquiez, rends l’argent !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590970" ordre_absolu_seance="131" id_acteur="PA842117" id_mandat="PM843635" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590443" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Jeanbrun</nom>
+            <id>842117</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2835.50">Tous les gouvernements des quinze dernières années en ont parlé, mais aucun n’a eu le courage de le faire. Il est temps ! Ayons l’audace d’assumer que l’on peut faire mieux avec moins. Notre groupe a fait des propositions en ce sens.<br/>Entendez-nous ! Réduisons le train de vie de l’État, débureaucratisons l’administration, revalorisons le travail… <italique>(Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur. – Les députés du groupe DR applaudissent ce dernier.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590972" ordre_absolu_seance="133" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590445" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2848.85">C’était une question de fond !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590973" ordre_absolu_seance="134" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590446" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2857.57">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590974" ordre_absolu_seance="135" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590447" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2865.38">Madame la présidente, il semble que j’ai oublié de vous saluer dans une réponse précédente et je réitère donc ce salut initial.<br/>Monsieur le député Jeanbrun, vous avez dit quelque chose de très important à mes yeux et qui explique les combats que j’ai menés au sujet des finances publiques. À l’époque, tous les bancs de l’Assemblée nationale ne m’avaient pas entendu.<br/>La question des finances publiques n’est pas seulement financière ou économique,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590976" ordre_absolu_seance="138" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590449" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2880.01">C’est une question morale !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590977" ordre_absolu_seance="139" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590450" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2884.10">…c’est une question morale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590978" ordre_absolu_seance="140" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590451" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2888.47">Vis-à-vis des générations futures !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590979" ordre_absolu_seance="141" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590452" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2897.83">Nous avons la lâcheté d’assumer nos dépenses courantes en empruntant sur le dos des générations futures. Nous ne pouvons passer ce fait sous silence, comme nous le faisons d’année en année, de décennie en décennie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590980" ordre_absolu_seance="142" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590453" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2934.19">Et de siècle en siècle !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590981" ordre_absolu_seance="143" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590454" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2942.59">C’est indigne de citoyens, de parents ou de pères de famille.<br/>La réponse est-elle facile à trouver ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590983" ordre_absolu_seance="145" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590456" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2946.15">Il faut geler les prestations sociales !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590984" ordre_absolu_seance="146" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590457" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2948.57">Si elle l’était, on l’aurait trouvée depuis longtemps.<br/>L’endettement que j’ai dénoncé dès 2007, comme vous le rappeliez, s’est aggravé avec la crise de 2008. Pourtant, c’était votre courant politique qui était aux responsabilités. Depuis, nous avons connu une succession de crises : les gilets jaunes, la pandémie de covid-19, la guerre en Ukraine et l’inflation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590986" ordre_absolu_seance="148" id_acteur="PA718838" id_mandat="PM842405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590459" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabrice Brun</nom>
+            <id>718838</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2963.22">Et la dissolution !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590987" ordre_absolu_seance="149" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590460" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2974.60">Et le train de vie de l’Élysée !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590988" ordre_absolu_seance="150" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590461" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2976.55">Et les mauvaises décisions !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590989" ordre_absolu_seance="151" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590462" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2989.88">Convenez que cette cascade de crises n’est pas tout à fait anodine.<br/>Vous avez conclu par l’idée qu’il faut faire des économies. Vous avez raison, celles-ci sont le préalable au redressement. C’est une responsabilité qui incombe à tous vos bancs.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590991" ordre_absolu_seance="153" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590464" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3002.87">À certains plus que d’autres !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590992" ordre_absolu_seance="154" id_acteur="PA721410" id_mandat="PM843350" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590465" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Émilie Bonnivard</nom>
+            <id>721410</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3010.16">Et à l’exécutif ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590993" ordre_absolu_seance="155" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590466" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3015.42">À l’exécutif aussi, mais également à ceux qui le supplient de dépenser plus – ce qui arrive souvent.<br/>Je plaide pour que nous comprenions que nous sommes en situation de coresponsabilité. Si nous convenons qu’il est possible d’agir mieux en dépensant moins, alors je vous suivrai dans ce sens, je vous l’assure. <italique>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs des groupes EPR et DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590995" ordre_absolu_seance="157" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590468" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3032.94">On peut aussi travailler plus pour gagner plus !</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590996" ordre_absolu_seance="158" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590469" valeur="">
+      <orateurs/>
+      <texte>Situation à Mayotte</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590997" ordre_absolu_seance="159" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590470" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3046.31">La parole est à M. Steevy Gustave.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2590998" ordre_absolu_seance="160" id_acteur="PA842013" id_mandat="PM843563" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590471" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Steevy Gustave</nom>
+            <id>842013</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3055.50">La situation à Mayotte est tragique et insoutenable. Le cyclone Chido a laissé ce territoire de la République en ruines.<br/>La crise humanitaire est sans précédent et bouleverse la nation. Des habitations éventrées, des corps retrouvés sous les décombres, des vies brisées.<br/>Le bilan humain partiel est d’ores et déjà dramatique, le bilan définitif s’annonce encore pire.<br/>Ce sont potentiellement des milliers de vies, sans papiers ou non, qui s’éteignent. Que ces corps restent enterrés sous la boue ou qu’ils deviennent des fantômes administratifs à jamais, ils continueront de hanter notre histoire nationale.<br/>Je tiens à saluer le courage et le dévouement des secours mobilisés sur place. Pompiers, soignants, forces de l’ordre et tous les bénévoles incarnent la solidarité et l’engagement de la République dans cette épreuve. <italique>(Applaudissements sur les bancs des groupes EcoS, EPR, LFI-NFP, SOC, DR, Dem, HOR, LIOT et GDR.)</italique><br/>Ce drame frappe le département le plus pauvre de la République. À Mayotte, il manquait déjà tout avant le cyclone : pas d’eau potable, un seul hôpital, saturé, des conditions de vie et d’habitation souvent indignes.<br/>Le risque d’épidémie est bien réel. Sans eau, sans soins et sans abris, comment assurer la survie des sinistrés ?<br/>Ce cyclone n’est pas une exception, il est l’incarnation de la crise climatique. Les catastrophes se reproduiront encore et encore, et comme toujours, ce sont les plus vulnérables qui paieront le plus lourd tribut.<br/>Pendant que Mayotte pleure ses morts, cherche ses disparus, et que tant de citoyens se mobilisent, il nous apparaît incompréhensible que vous privilégiiez un conseil municipal au lieu de vous rendre sur place.<br/>Ce choix vous engage. Que doit penser le peuple mahorais d’un gouvernement qui regarde ailleurs pendant qu’il souffre ?<br/>Quant à Bruno Retailleau, ses propos sont choquants.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591009" ordre_absolu_seance="171" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590482" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3117.23">C’est votre aveuglement qui est choquant ! Depuis quand dure-t-il ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591010" ordre_absolu_seance="172" id_acteur="PA842013" id_mandat="PM843563" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590483" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Steevy Gustave</nom>
+            <id>842013</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3163.48">Instrumentaliser une tragédie pour faire de la politique est indigne de nos valeurs républicaines. <italique>(Applaudissements sur plusieurs bancs des groupes EcoS, LFI-NFP et GDR, ainsi que sur quelques bancs du groupe SOC.)</italique><br/>Monsieur le premier ministre, les Mahoraises et les Mahorais, ainsi que tout le peuple français, attendent que vous vous hissiez à la hauteur de ce drame. Quand comptez-vous vous rendre à Mayotte ? Quelles mesures allez-vous prendre pour prévenir les épidémies ? Quelles actions concrètes… <italique>(Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur. – Les députés des groupes EcoS et SOC se lèvent et applaudissent ce dernier. – Mmes Farida Amrani et Élisa Martin se lèvent également pour applaudir.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591012" ordre_absolu_seance="174" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590485" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3194.60">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591013" ordre_absolu_seance="175" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590486" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3211.05">Je soutiens et partage vos propos, sensibles et justes, sur les Mahorais, comme je l’ai fait pour les orateurs des autres groupes.<br/>Vous affirmez que le gouvernement n’était pas présent à Mayotte. Ce n’est pas exact. Le ministre de l’intérieur et le ministre chargé des outre-mer…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591015" ordre_absolu_seance="177" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590488" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3227.50">Ministres démissionnaires !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591016" ordre_absolu_seance="178" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590489" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3228.28">…étaient hier sur place,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591017" ordre_absolu_seance="179" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590490" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3231.63">D’excellents ministres, issus de nos rangs !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591018" ordre_absolu_seance="180" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590491" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3234.16">…et le président de la République a annoncé qu’il irait à Mayotte. Or il n’est pas d’usage que le premier ministre et le président de la République quittent en même temps le territoire national,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591019" ordre_absolu_seance="181" id_acteur="PA840171" id_mandat="PM840360" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590492" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Emmanuel Grégoire</nom>
+            <id>840171</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3246.86">Mayotte, c’est la France !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591020" ordre_absolu_seance="182" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590493" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3249.24">…d’autant plus que j’ai la responsabilité de proposer un nouveau gouvernement au président de la République. Nous sommes convenus que je le ferai dans les plus brefs délais.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591021" ordre_absolu_seance="183" id_acteur="PA842211" id_mandat="PM843716" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590494" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Béatrice Bellay</nom>
+            <id>842211</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3269.17">Quel scoop !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591022" ordre_absolu_seance="184" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590495" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3272.62">Nous ne pouvons pas éluder le fait que Mayotte, avant d’être frappée par ce drame, souffrait depuis des années d’une déstabilisation. Malgré la proximité d’origine, de langue ou de religion, les afflux de populations sont très mal vécus par les Mahorais.<br/>Avons-nous su les réguler ? Non. Cette situation sociale critique peut être rappelée sans passer par la polémique et sans que nous nous entr’accusions.<br/>Nous devons y être attentifs et y apporter des réponses, car les Mahorais, pour une grande partie d’entre eux, sont profondément déstabilisés par ce qu’ils ressentent comme une injustice dans leur propre espace de vie. Je n’ai pas l’intention de l’oublier, sans pour autant tomber dans les accusations réciproques.<br/>Certes, une vie vaut une vie, mais…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591026" ordre_absolu_seance="188" id_acteur="PA795010" id_mandat="PM840354" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590499" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie-Charlotte Garin</nom>
+            <id>795010</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3335.33">Évidemment, il y a un « mais » !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591027" ordre_absolu_seance="189" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590500" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3353.72">…les sentiments de nos compatriotes doivent être pris en considération. La capacité de régulation nous a manqué. Nous traiterons encore de ce sujet, si important pour notre avenir. <italique>(Applaudissements sur quelques bancs du groupe Dem.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591028" ordre_absolu_seance="190" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590501" valeur="">
+      <orateurs/>
+      <texte>Reconstruction de Mayotte</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591029" ordre_absolu_seance="191" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590502" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3375.64">La parole est à M. Philippe Vigier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591030" ordre_absolu_seance="192" id_acteur="PA331582" id_mandat="PM842639" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590503" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Vigier</nom>
+            <id>331582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3384.99">L’archipel de Mayotte a été dévasté ; la France est en deuil. Nous devons nous montrer à la hauteur de la situation et éviter les polémiques.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591031" ordre_absolu_seance="193" id_acteur="PA794778" id_mandat="PM843239" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590504" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sandra Regol</nom>
+            <id>794778</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3396.31">Nous sommes bien d’accord !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591032" ordre_absolu_seance="194" id_acteur="PA331582" id_mandat="PM842639" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590505" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Vigier</nom>
+            <id>331582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3399.40">L’urgence s’impose d’abord à nous. Pouvez-vous nous confirmer que tous les moyens de l’État, des collectivités, des départements et des communes de Mayotte, que les sauveteurs, la réserve sanitaire et tous ceux qui sont en mesure d’accueillir et soigner les blessés, de rétablir l’eau et l’électricité, bref, que tous ceux qui sont mobilisés depuis vendredi soir continueront de l’être, afin que la vie reprenne son cours à Mayotte ?<br/>L’heure est aussi à l’espoir et à l’exigence. Vous avez rappelé que sous l’autorité d’Élisabeth Borne et de Gérald Darmanin, nous avions commencé à régler la crise hydrique.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591034" ordre_absolu_seance="196" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590507" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3432.47">En invitant à faire bouillir l’eau !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2591035" ordre_absolu_seance="197" id_acteur="PA331582" id_mandat="PM842639" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590508" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Vigier</nom>
+            <id>331582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3435.49">Nous devons nous montrer à la hauteur des enjeux. Nous avons besoin de logements, et j’espère qu’il n’y aura pas de recours déposé contre la destruction de bidonvilles, comme cela avait été le cas.<br/>Les enfants ont besoin d’écoles à Mayotte : 20 000 enfants n’y sont pas scolarisés !<br/>Pour la crise de l’eau, il faut poursuivre ce que nous avons commencé.<br/>Pour l’hôpital, il faut enfin donner les moyens à Mayotte, pour éviter les évacuations sanitaires vers La Réunion.<br/>Pour le secteur économique, il faut trouver les moyens de développer les filières.<br/>Nous devons également œuvrer à la convergence en matière de droits sociaux. À Mayotte, le RMI et le smic ne sont pas les mêmes que dans l’Hexagone.<br/>Monsieur le premier ministre, êtes-vous prêt à nommer un délégué interministériel à la reconstruction, à l’image de ce qui avait été fait lorsque l’ouragan Irma s’est abattu sur Saint-Martin et Saint-Barthélemy ?<br/>Êtes-vous prêt à faire voter une loi de programmation pluriannuelle pour qu’à l’émotion succède l’espoir, celui de dire à Mayotte : « Vous êtes français, on vous aime, voici les moyens » ? <italique>(Applaudissements sur les bancs du groupe Dem ainsi que sur quelques bancs des groupes EPR et DR. – Mme Ayda Hadizadeh applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590886" ordre_absolu_seance="205" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590518" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3508.08">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590887" ordre_absolu_seance="206" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590519" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3522.42">Vous avez souligné l’action du gouvernement auquel vous avez appartenu, celui d’Élisabeth Borne, dans lequel Gérald Darmanin était ministre de l’intérieur. Ce gouvernement a eu à résoudre la première crise hydrique de Mayotte et votre action a permis de la surmonter.<br/>Le gouvernement s’en est inspiré : il a organisé un pont aérien depuis La Réunion, bientôt renforcé par des avions gros-porteurs. Des porte-conteneurs livreront d’importants stocks d’eau et de nourriture. Ainsi, votre action passée a aidé.<br/>Vous avez rappelé que vous aviez créé un comité interministériel et hier soir, le président de la République a pris la décision d’aller dans ce sens et de nommer un délégué interministériel à la reconstruction de Mayotte.<br/>Je veux vous rassurer sur un point. Vous me demandez où en sont les renforts humains attendus à Mayotte : sachez que 450 personnels ont déjà gagné l’île et que plus de 800 autres sont sur le point d’être mobilisés et de s’y rendre.<br/>Le sujet de la reconstruction est très important. L’appel à projets que j’estime nécessaire va être lancé ; soyez assuré que l’État est bien mobilisé, que la remise en état des réseaux électriques et de télécommunications est en cours et que les moyens que vous avez évoqués seront bien affectés à la reconstruction de Mayotte. J’ai toujours pensé qu’il était possible de traiter des investissements et du développement des services publics par des lois de programmation pluriannuelles. Cette ligne, il est maintenant nécessaire de la suivre, pour que personne ne doute de la volonté unanime, sur ces bancs, de soutenir Mayotte. <italique>(Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590892" ordre_absolu_seance="211" code_grammaire="QPM_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590524" valeur="">
+      <orateurs/>
+      <texte>Situation à Mayotte</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590893" ordre_absolu_seance="212" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590525" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3668.99">La parole est à M. Stéphane Lenormand.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590894" ordre_absolu_seance="213" id_acteur="PA795244" id_mandat="PM843749" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590526" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Stéphane Lenormand</nom>
+            <id>795244</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3679.04">Je poserai, au nom du groupe LIOT, la question de la députée de la 1<exposant>re</exposant> circonscription de Mayotte, notre collègue Estelle Youssouffa, qui est sur place. Je relaie ici son cri du cœur. <italique>(Applaudissements sur les bancs du groupe LIOT et sur quelques bancs des groupes EPR, SOC et Dem.)</italique><br/>Trois jours après le passage du cyclone, Mayotte est méconnaissable. Il ne reste plus rien de l’île, elle est détruite à 90 %, y compris les habitations en dur. Ses habitants, déjà durement éprouvés, se retrouvent sans eau et sans électricité, sans médicaments, sans nourriture et, bien souvent, sans aucune solution de communication. Des familles entières demeurent sans nouvelles de leurs proches.<br/>La peur et le chaos vont s’installer, les pillages ont déjà débuté. Nous craignons un exode des fonctionnaires vers l’Hexagone si les conditions de vie minimales ne sont pas rapidement rétablies. Mayotte est aujourd’hui défigurée, dévastée, anéantie. Mayotte crie au secours, Mayotte est en détresse. Les rares structures publiques y sont détruites, les bidonvilles rasés et les défunts enterrés à la hâte.<br/>Pourtant, hier, alors que se tenait une réunion de crise cruciale pour Mayotte, vous avez préféré présider le conseil municipal de Pau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590898" ordre_absolu_seance="217" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590530" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3683.56">C’était une erreur !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590899" ordre_absolu_seance="218" id_acteur="PA795244" id_mandat="PM843749" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590531" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Stéphane Lenormand</nom>
+            <id>795244</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3748.28">Ce choix peut signer l’indifférence et le mépris pour une population en danger. Comment le justifier, alors qu’elle exprime un sentiment d’abandon et d’urgence absolue ? Quand prendrez-vous enfin la pleine mesure de cette catastrophe humanitaire ? Quand déclarerez-vous l’état d’urgence et débloquerez-vous des fonds exceptionnels pour aider au plus vite la population ? Quand répondrez-vous enfin à l’appel de Mayotte ?<br/>Nous avons été capables de reconstruire Notre-Dame de Paris en moins de cinq ans. Notre défi moral et humain est de reconstruire Mayotte mieux, autrement et plus rapidement. <italique>(Applaudissements sur les bancs du groupe LIOT et sur quelques bancs du groupe SOC. – MM. Karl Olive et Pierre Cazeneuve applaudissent également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590901" ordre_absolu_seance="220" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590533" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3786.94">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590902" ordre_absolu_seance="221" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590534" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3791.18">Pour l’avoir pratiquée assez longtemps et assez souvent, je sais bien que la pédagogie est l’art de la répétition. Je vous répète donc que j’ai participé à la réunion de crise tenue autour du président de la République. Comme cela arrive à nombre d’entre vous, j’ai eu recours à la visioconférence ; la réunion a été fructueuse et a permis de prendre des décisions précises.<br/>Je souscris à vos propos : nous nous sommes révélés capables de reconstruire magnifiquement Notre-Dame en cinq ans. Nous aurons moins de cinq ans pour reconstruire Mayotte et rendre à ses habitants des conditions décentes de vie et de logement. <italique>(Applaudissements sur les bancs du groupe LIOT. – M. Jimmy Pahun applaudit aussi.) </italique>Nous n’y parviendrons qu’au prix d’un effort national, que nous avons d’ailleurs commencé à déployer aujourd’hui.<br/>Je veux rappeler qu’un hôpital de campagne militaire est en cours d’installation, afin de faire face aux difficultés des hôpitaux mahorais et d’apporter une réponse sanitaire aux habitants. Comme l’a rappelé hier la ministre de la santé, Mme Darrieussecq, nous avons pu évacuer les malades en situation critique – dialysés par exemple – vers La Réunion, afin que leur traitement ne soit pas interrompu.<br/>Un effort de réflexion, de programmation et de financement sera nécessaire. Il devra impliquer les députés de tous les bancs de cette assemblée. Nous ne relèverons pas ce défi si nous nous laissons entraîner dans une lutte des uns contre les autres : face à une telle catastrophe, l’unité nationale est une des conditions du redressement. <italique>(Applaudissements sur quelques bancs des groupes EPR, Dem et LIOT.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590906" ordre_absolu_seance="225" code_grammaire="QPM_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590538" valeur="">
+      <orateurs/>
+      <texte>Finances publiques</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590907" ordre_absolu_seance="226" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590539" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3920.71">La parole est à Mme Félicie Gérard.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590908" ordre_absolu_seance="227" id_acteur="PA794470" id_mandat="PM843104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590540" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Félicie Gérard</nom>
+            <id>794470</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3928.69">Le groupe Horizons &amp; indépendants s’associe évidemment aux pensées et hommages à nos compatriotes de Mayotte.<br/>Il y a deux semaines, la censure du gouvernement de Michel Barnier a plongé notre pays dans l’inconnu. De lois spéciales en décrets inédits, l’appareil d’État se met en marche pour permettre à notre pays de continuer à tourner, mais aucune des urgences budgétaires n’est aujourd’hui réglée.<br/>Nos entreprises sont dans l’incertitude la plus totale ; leurs commandes s’effondrent, elles ne peuvent pas prévoir l’année à venir. Sans annonces concrètes immédiates, les plans de licenciement ne feront que redoubler dès janvier. Des pans entiers de notre économie s’effondrent, dans une crise historique : les secteurs du bâtiment, de l’automobile et de l’agriculture, entre autres, attendent des réponses d’urgence ! N’oublions pas les collectivités locales, qui se demandent si elles pourront continuer à agir dans de bonnes conditions en 2025.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590911" ordre_absolu_seance="230" id_acteur="PA793872" id_mandat="PM840285" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590543" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Nathalie Oziol</nom>
+            <id>793872</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3961.51">C’est le résultat de votre politique !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590912" ordre_absolu_seance="231" id_acteur="PA794470" id_mandat="PM843104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590544" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Félicie Gérard</nom>
+            <id>794470</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3984.97">Ces difficultés ne datent pas de la censure, mais celle-ci ne fait qu’aggraver la situation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590913" ordre_absolu_seance="232" id_acteur="PA841023" id_mandat="PM842645" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590545" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre-Yves Cadalen</nom>
+            <id>841023</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3990.28">C’est votre politique qui en est responsable !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590914" ordre_absolu_seance="233" id_acteur="PA794470" id_mandat="PM843104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590546" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Félicie Gérard</nom>
+            <id>794470</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3992.16">Les cris d’alerte des chefs d’entreprise, des élus locaux et des Français qui se lèvent tous les matins pour faire tourner le pays se multiplient. Tous nous demandent de fixer un cap à la France.<br/>La baisse du déficit et de la dette doit être la priorité absolue des prochains mois. Nous devons doter notre pays d’un budget de redressement. Plus de 60 milliards d’euros sont à trouver pour 2025 : aucun sujet ne doit être évité, aucune ligne rouge ne doit être édictée.<br/>Alors que certains pensent qu’il s’agit de taxer toujours plus, les députés du groupe Horizons &amp; indépendants considèrent qu’il est prioritaire de baisser les dépenses publiques. <italique>(Applaudissements</italique> <italique>sur les bancs du groupe HOR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590917" ordre_absolu_seance="236" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590549" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4009.19">Parfois, deux minutes, c’est très court. Et parfois, c’est très long !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590918" ordre_absolu_seance="237" id_acteur="PA794470" id_mandat="PM843104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590550" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Félicie Gérard</nom>
+            <id>794470</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4033.54">Comment comptez-vous mener ce redressement budgétaire ? Quelles dépenses ciblerez-vous pour faire baisser le déficit et la dette ? Quelle sera votre méthode et quel sera votre calendrier ? <italique>(Applaudissements sur les bancs du groupe HOR et sur quelques bancs du groupe Dem.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590919" ordre_absolu_seance="238" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590551" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4046.74">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590920" ordre_absolu_seance="239" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590552" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4056.64">Je partage votre préoccupation et je n’ai jamais cru que c’était dans la fiscalité que se trouvait la réponse à tous les problèmes du pays. <italique>(Applaudissements sur plusieurs bancs des groupes EPR, DR et Dem.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590921" ordre_absolu_seance="240" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590553" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4068.95">Il va falloir le dire aux socialistes !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590922" ordre_absolu_seance="241" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590554" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4071.68">Si c’était le cas, si la prospérité, la croissance et, pour tout dire, le bonheur d’un pays étaient indexés sur la fiscalité, la France serait aujourd’hui le pays le plus heureux du monde ! <italique>(Applaudissements sur les bancs des groupes EPR, DR, Dem et HOR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590923" ordre_absolu_seance="242" id_acteur="PA795920" id_mandat="PM843653" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590555" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Prisca Thevenot</nom>
+            <id>795920</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4087.74">Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590924" ordre_absolu_seance="243" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590556" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4091.92">Je crois à la nécessité de l’assainissement, mais celui-ci ne peut être que progressif. Étape par étape, nous reviendrons à un équilibre plus sain. J’ai souvent dénoncé, notamment au sujet des retraites, l’ignorance dans laquelle nos compatriotes étaient tenus : on leur annonçait que le système de retraite était équilibré et même – j’ai particulièrement goûté le « et même » – légèrement excédentaire. <italique>(Applaudissements sur quelques bancs des groupes EPR, Dem et HOR.)</italique><br/>Je n’y ai jamais cru.<br/>Le souci de la justice doit aussi être pris en compte, car la fiscalité ne s’accommode pas d’un sentiment d’injustice.<br/>Notre réussite ne peut passer uniquement par des impôts supplémentaires : nous devons envisager des économies. Cet équilibre est nécessaire à la société française. <italique>(Applaudissements sur plusieurs bancs des groupes EPR, DR et Dem.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590929" ordre_absolu_seance="247" code_grammaire="QPM_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590561" valeur="">
+      <orateurs/>
+      <texte>Situation à Mayotte</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590930" ordre_absolu_seance="248" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590562" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4162.14">La parole est à Mme Mereana Reid Arbelot.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590931" ordre_absolu_seance="249" id_acteur="PA795240" id_mandat="PM843785" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590563" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mereana Reid Arbelot</nom>
+            <id>795240</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4172.31">Une dévastation totale, un silence assourdissant. À Mayotte, une catastrophe naturelle se transforme en tragédie humanitaire. La violence du cyclone Chido, la grande pauvreté de la population et l’extrême précarité de l’habitat font craindre la perte de très nombreuses vies humaines.<br/>Mayotte est meurtrie, la France est en deuil. Une course contre la montre a commencé. Contre la soif, contre la faim, contre le choléra et toutes les menaces épidémiques, contre les traumatismes et tous les dangers post-cycloniques. Porter secours à l’ensemble de la population sinistrée est une priorité nationale. Elle devrait être, monsieur le premier ministre, votre priorité prioritaire.<br/>Dans l’un des plus grands déserts médicaux français, l’hôpital de Mayotte et son personnel dévoué ne peuvent faire face. Le CHU de La Réunion accueille les évacués sanitaires et des équipes médicales sont arrivées à Mayotte, mais en quelques heures, tout – absolument tout – est devenu critique dans cette île et particulièrement l’accès à des lieux d’accueil, à l’eau potable, aux soins et aux réseaux de télécommunication.<br/>C’est pourquoi il faut mobiliser tous les secours à l’échelle internationale. La France a-t-elle sollicité l’Organisation mondiale de la santé ou les principales ONG ? A-t-elle prévu d’augmenter les moyens de la plateforme d’intervention régionale de l’océan Indien de la Croix-Rouge ? A-t-on fait appel aux navires de secours des pays voisins ?<br/>Toutes les solidarités, à l’œuvre et à venir, doivent dès à présent se conjuguer avec le plein engagement de l’État pour que soit enfin lancée une véritable politique de développement, en lien avec les Comores et tout leur environnement régional.<br/>La tragédie de Mayotte est un appel à la responsabilité de l’État, qui doit venir au secours de tous, avec la plus grande détermination et sans aucune distinction. Chaque vie compte ! <italique>(Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590937" ordre_absolu_seance="255" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590569" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4287.09">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590938" ordre_absolu_seance="256" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590570" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4293.90">Vous avez évoqué l’enjeu sanitaire et il se trouve en effet que la situation actuelle fait craindre des épidémies. Vous avez bien rappelé ses caractéristiques : des victimes et des systèmes d’assainissement de l’eau affectés sont autant de facteurs d’aggravation des risques. Nous avons donc demandé la constitution de stocks de vaccins. Elle est en cours à La Réunion, où leur conservation peut être optimale et d’où ils peuvent être immédiatement expédiés vers Mayotte.<br/>Je veux saluer le sentiment de gravité et de responsabilité que vous avez exprimé. C’est aussi le nôtre et je suis sûr que les Mahorais le partagent. <italique>(Applaudissements sur plusieurs bancs du groupe Dem et sur quelques bancs du groupe EPR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590940" ordre_absolu_seance="258" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590572" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4345.99">Pas un mot de la solidarité internationale ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590941" ordre_absolu_seance="259" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590573" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4351.12">La parole est à Mme Mereana Reid Arbelot.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2590942" ordre_absolu_seance="260" id_acteur="PA795240" id_mandat="PM843785" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590574" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mereana Reid Arbelot</nom>
+            <id>795240</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4361.83">La solidarité nationale, c’est bien ; mais dans ce contexte, la coopération internationale, c’est mieux ! <italique>(Applaudissements sur les bancs du groupe GDR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590762" ordre_absolu_seance="261" code_grammaire="QPM_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3590332" valeur="">
+      <orateurs/>
+      <texte>Politique du prochain gouvernement</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590763" ordre_absolu_seance="262" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590333" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4368.95">La parole est à Mme Hanane Mansouri.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590764" ordre_absolu_seance="263" id_acteur="PA841183" id_mandat="PM842786" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590334" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Hanane Mansouri</nom>
+            <id>841183</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4371.76">Le groupe UDR s’associe au deuil national et adresse son soutien fraternel aux habitants de Mayotte et aux secours présents sur l’île.<br/>Monsieur le premier ministre, notre groupe vous souhaite la bienvenue dans vos nouvelles fonctions, ici, à l’Assemblée nationale. Fidèles à notre esprit de responsabilité, nous refusons toute censure <italique>a priori</italique>, contrairement à la gauche.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590766" ordre_absolu_seance="265" id_acteur="PA1630" id_mandat="PM843638" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590336" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Herbillon</nom>
+            <id>1630</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4387.82">Ce n’est pas vous qui avez voté la censure du gouvernement Barnier ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590767" ordre_absolu_seance="266" id_acteur="PA841183" id_mandat="PM842786" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590337" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Hanane Mansouri</nom>
+            <id>841183</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4394.42">Notre Constitution, héritée du général de Gaulle, nous donne toutefois des moyens d’action pour défendre les intérêts du peuple et c’est ce que nous ferons.<br/>Nous avons trois questions majeures à vous poser, qui sont aussi nos lignes rouges. Tout d’abord, allez-vous rompre avec la logique budgétaire socialiste du précédent gouvernement, qui prévoyait de racketter les Français, avec 40 milliards d’impôts supplémentaires ? <italique>(Applaudissements sur les bancs du groupe UDR et sur plusieurs bancs du groupe RN.)</italique> Nous sommes convaincus que les économies doivent se faire dans les dépenses de l’État et non dans les poches des Français. Ensuite, monsieur le premier ministre, il y a plus de vingt ans, avant même que je naisse, vous parliez déjà du fardeau de la dette. Le visionnaire que vous êtes osera-t-il desserrer l’étau qui étouffe notre économie et hypothèque l’avenir des générations futures, dont la mienne ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590768" ordre_absolu_seance="268" id_acteur="PA795912" id_mandat="PM840402" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590355" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Lavalette</nom>
+            <id>795912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4432.27">On l’espère !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590769" ordre_absolu_seance="269" id_acteur="PA841183" id_mandat="PM842786" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590339" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Hanane Mansouri</nom>
+            <id>841183</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4436.44">Enfin, la question de l’immigration de masse ne peut plus être mise sous le tapis, comme le voudrait la gauche. Pensons à Claire Geronimi, victime d’une agression par un homme placé sous OQTF, qui a su trouver la force de témoigner de l’horreur qu’elle a endurée. Mais aussi à Lola, Thomas, Philippine, Nicolas et à tous ceux de nos compatriotes que la France n’a pas su protéger et qui ont été tués par notre laxisme d’État. <italique>(Mêmes mouvements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590770" ordre_absolu_seance="270" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590340" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4455.30">C’est vraiment une indignation à géométrie variable !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590771" ordre_absolu_seance="271" id_acteur="PA841183" id_mandat="PM842786" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590341" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Hanane Mansouri</nom>
+            <id>841183</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4456.44">Monsieur le premier ministre, allez-vous répondre à cet appel des Français, qui veulent que vous les protégiez ? Allez-vous, oui ou non, céder au chantage de la gauche en renonçant à la loi sur l’immigration ? En attendant, sachez que les Français sont lassés des demi-mesures et qu’ils attendent des réponses claires et des actions décisives pour l’avenir de notre pays. <italique>(Applaudissements sur les bancs du groupe UDR et sur plusieurs bancs du groupe RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590771" ordre_absolu_seance="272" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590356" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Un député du groupe LFI-NFP</nom>
+            <id>0</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4473.57">Si jeune et déjà raciste !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590773" ordre_absolu_seance="273" id_acteur="PA794670" id_mandat="PM843176" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590343" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Parmentier</nom>
+            <id>794670</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4474.61">Qui a dit ça ? C’est une insulte !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590774" ordre_absolu_seance="274" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590344" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4476.97">La parole est à M. le premier ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590775" ordre_absolu_seance="275" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3590345" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4490.04">Je vous remercie de votre mot de bienvenue, sympathique et chaleureux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590776" ordre_absolu_seance="276" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590346" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4495.03">Le premier ministre n’est pas très exigeant !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590777" ordre_absolu_seance="277" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590347" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4499.22">En revanche, je ne sais pas si j’aurais, comme vous, accusé le gouvernement qui m’a précédé d’être socialiste. <italique>(Sourires et applaudissements sur les bancs des groupes Dem, EPR et DR.) </italique>Cela me donne l’occasion de saluer Michel Barnier, qui a eu le courage d’occuper les mêmes responsabilités que moi<italique> (Mêmes mouvements)</italique>,<italique> </italique>et je vous promets que je ne le taxerai pas de socialisme, pour ne faire de peine ni sur les uns, ni sur les autres de ces bancs.<br/>La question de l’immigration préoccupe-t-elle nos concitoyens ? La réponse est oui. Pouvons-nous la traiter en nous fondant sur des données objectives, en essayant de trouver une ligne de conduite ? Je crois que oui et je serai heureux, dans quelques jours, lorsque le gouvernement sera formé, de défendre à cette tribune un point de vue à ce sujet. Fera-t-il l’unanimité absolue ? Je n’en suis pas sûr, mais il sera de bonne foi et pourra être analysé comme tel. Nous avons besoin de cette bonne foi, en même temps que de la mobilisation de tous,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590778" ordre_absolu_seance="279" id_acteur="PA642988" id_mandat="PM840414" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590358" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Hervé de Lépinau</nom>
+            <id>642988</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4544.21">Houlà ! C’est mal parti !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590778" ordre_absolu_seance="280" id_acteur="PA-125869" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590357" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François Bayrou</nom>
+            <id>-125869</id>
+            <qualite>premier ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4574.96">…comme c’est le cas pour Mayotte, dont il a beaucoup été question aujourd’hui. Je tiens d’ailleurs à saluer Thani Mohamed Soilihi, membre du gouvernement et élu de Mayotte, que nous n’avons pas nommé et qui mérite nos encouragements et nos applaudissements. <italique>(Applaudissements sur les bancs des groupes Dem, EPR et DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2590779" ordre_absolu_seance="281" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="QPM_1_50" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590349" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4595.11">Nous avons terminé les questions au premier ministre.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="2590779" ordre_absolu_seance="283" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3590584" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2590779" ordre_absolu_seance="284" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="-1" id_nomination_op="PM845400" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3590585" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4600.99">Prochaine séance, le mardi 14 janvier 2025, à neuf heures :<br/>Questions orales sans débat.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2590779" ordre_absolu_seance="285" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3590586" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à seize heures.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2590779" ordre_absolu_seance="286" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3590587" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

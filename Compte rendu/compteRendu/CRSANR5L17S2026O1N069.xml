@@ -1,0 +1,928 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2026O1N069</uid>
+  <seanceRef>RUANR5L17S2026IDS29982</seanceRef>
+  <sessionRef>SCR5A2026O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20251125214500000</dateSeance>
+    <dateSeanceJour>mardi 25 novembre 2025</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>69</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2025 -2026</session>
+    <nomFichierJo>20250069</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-12-02T17:51:15.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3940477">Présidence de Mme Hélène Laporte</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3940481">
+          <intitule>Application du principe de continuité territoriale</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3940485">M. Stéphane Lenormand (LIOT)</para>
+        <para id_syceron="3940494">Mme Naïma Moutchou, ministre des outre-mer</para>
+        <para id_syceron="3940500">M. Paul-André Colombani (LIOT)</para>
+        <para id_syceron="3940506">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940512">M. Paul-André Colombani (LIOT)</para>
+        <para id_syceron="3940517">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940520">Mme Mereana Reid Arbelot (GDR)</para>
+        <para id_syceron="3940529">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940535">Mme Anchya Bamana (RN)</para>
+        <para id_syceron="3940895">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940900">M. Joseph Rivière (RN)</para>
+        <para id_syceron="3940904">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940908">M. Yoann Gillet (RN)</para>
+        <para id_syceron="3940912">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940916">Mme Florence Goulet (RN)</para>
+        <para id_syceron="3940920">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3941411">M. Jean-Hugues Ratenon (LFI-NFP)</para>
+        <para id_syceron="3941417">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3941422">M. Christophe Bex (LFI-NFP)</para>
+        <para id_syceron="3941428">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3941431">Mme Béatrice Bellay (SOC)</para>
+        <para id_syceron="3941437">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3941442">M. Elie Califer (SOC)</para>
+        <para id_syceron="3940615">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940617">M. Elie Califer (SOC)</para>
+        <para id_syceron="3940622">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940633">Mme Maud Petit (Dem)</para>
+        <para id_syceron="3940642">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940647">M. Philippe Vigier (Dem)</para>
+        <para id_syceron="3940380">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940385">M. Laurent Marcangeli (HOR)</para>
+        <para id_syceron="3940392">Mme Naïma Moutchou, ministre</para>
+        <para id_syceron="3940397">M. Laurent Marcangeli (HOR)</para>
+        <para id_syceron="3940402">Mme Naïma Moutchou, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3940407">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du mardi 25 novembre 2025</journee>
+      <session>Session ordinaire 2025 -2026</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2814886" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3940477" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Hélène Laporte<br/> vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2814887" ordre_absolu_seance="2" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940478" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="867.23">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2814888" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3940479" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à 21h45.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814890" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3940481" valeur="">
+      <orateurs/>
+      <texte>Application du principe de continuité territoriale</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814891" ordre_absolu_seance="6" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940482" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="870.55">L’ordre du jour appelle les questions sur le thème : « l’application du principe de continuité territoriale. »<br/>Ce thème a été choisi par le groupe Libertés, indépendants, outre-mer et territoires (LIOT). La conférence des présidents a fixé à deux minutes la durée maximale de chaque question et de chaque réponse, avec droit de réplique et de contre-réplique.<br/>La parole est à M. Stéphane Lenormand.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814894" ordre_absolu_seance="9" id_acteur="PA795244" id_mandat="PM843749" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940485" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Stéphane Lenormand (LIOT)</nom>
+            <id>795244</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="914.86">Les territoires ultramarins possèdent un potentiel considérable, car ils se trouvent à des carrefours culturels, économiques et géographiques, répartis sur tout le globe. Néanmoins, leurs forces vives demeurent confrontées à un obstacle majeur : l’éloignement de l’Hexagone.<br/>Le 5 décembre 2024, le comité d’évaluation et de contrôle des politiques publiques de l’Assemblée (CEC) a inscrit à son programme de travail, à l’initiative de notre groupe Libertés, indépendants, outre-mer et territoires, une évaluation de l’application du principe de continuité territoriale.<br/>Les députés corapporteurs de notre groupe – Michel Castellani puis Olivier Serva – ont pu démontrer les conséquences de l’éloignement de l’Hexagone et les contraintes plus ou moins fortes que les territoires ultramarins subissent quotidiennement du fait de leur situation géographique.<br/>Elles se manifestent en matière de mobilités ou d’accès aux services publics. Elles sont de nature sociale, économique ou sanitaire.<br/>Le rapport d’information issu des travaux d’évaluation du CEC permet de distinguer deux axes avec deux ensembles de recommandations. Le premier vise à affermir comme un impératif républicain le droit des résidents ultramarins et insulaires à la mobilité ; le second tend à amplifier les capacités de connexion des territoires insulaires et ultramarins, que ce soit en matière de transport, de formation ou de communication.<br/>Je me permets de souligner la nécessité de revoir les coûts et les conditions des transports vers et au départ de l’Hexagone, notamment les taxes aériennes, qui s’appliquent aux habitants de nos territoires. L’avion n’est pas un luxe chez nous : c’est par exemple le seul mode de transport qui nous permet, à nous, députés, de nous rendre dans l’hémicycle.<br/>Madame la ministre des outre-mer, l’exonération de la taxe de solidarité sur les billets d’avion (TSBA) pour les territoires d’outre-mer devait être examinée par la Commission européenne : ce dossier a-t-il avancé ?<br/>Je pose une seconde question pour ma collègue Nicole Sanquer. Elle s’intéresse à une expérimentation ambitieuse, ouverte à l’ensemble des territoires ultramarins, visant à créer de véritables aires régionales de mobilité. Ce dispositif permettrait à nos étudiants et aux personnes en formation de réaliser une partie de leur parcours d’étude dans les pays voisins de leur territoire d’habitation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814902" ordre_absolu_seance="17" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940493" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1040.76">La parole est à Mme la ministre des outre-mer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814903" ordre_absolu_seance="18" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940494" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre des outre-mer</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1049.44">Je comprends bien la question de Mme Sanquer qui prend en considération l’environnement régional d’un territoire, mais le dispositif de continuité territoriale vise à maintenir les liens avec l’Hexagone et ne s’applique donc pas à des déplacements vers des pays étrangers.<br/>Il faudrait peut-être chercher à nouer des partenariats avec les pays les plus proches ou avec un certain nombre d’établissements. Je peux faire part de cette idée à Philippe Baptiste, mon collègue chargé de l’enseignement supérieur, et je suis disposée à travailler avec Mme Sanquer si elle dispose d’un projet déjà prêt – ou même d’une idée. À ce stade, le dispositif de continuité territoriale, tel qu’il est conçu, ne permet cependant pas de lui donner satisfaction.<br/>S’agissant de la TSBA, nous reconnaissons que la hausse qui figure dans la loi de finances pour 2025 présente certains effets de bord en particulier pour les territoires d’outre-mer et la Corse, mais aussi pour certaines liaisons concernées par une obligation de service public – on nous a par exemple signalé le cas de la ligne Brest-Ouessant.<br/>La loi de finances pour 2025 prévoit un taux différencié pour trois catégories de liaisons : les lignes concernées par une obligation de service public, les liaisons vers les outre-mer et celles vers la Corse. L’application de ce taux différencié suppose une notification préalable à la Commission européenne, sa conformité au droit européen devant être démontrée.<br/>Dans l’attente de l’aboutissement du processus de notification, cette mesure n’est pas entrée en vigueur. La procédure, relativement complexe, suit son cours. Le dossier de prénotification est entre les mains de la Commission, qui doit revenir vers les autorités françaises en vue de la notification. Tant que celle-ci n’aura pas été faite, les compagnies ne pourront pas appliquer le taux différencié.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814908" ordre_absolu_seance="23" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940499" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1170.23">La parole est à M. Paul-André Colombani.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814909" ordre_absolu_seance="24" id_acteur="PA719286" id_mandat="PM842669" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940500" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Paul-André Colombani (LIOT)</nom>
+            <id>719286</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1184.46">La Corse est souvent citée en exemple de l’application de la continuité territoriale et les habitants des territoires ultramarins souhaitent légitimement bénéficier d’un dispositif comparable.<br/>Pourtant, nous exprimons plusieurs inquiétudes relatives à la pérennité de ce modèle. La première est d’ordre financier et tient à l’insuffisance chronique de la dotation de continuité territoriale (DCT). Depuis plusieurs années, les coûts explosent : carburants, sûreté, inflation logistique… Mais la dotation, elle, est gelée depuis 2009 ! Pour le dire simplement, le financement n’est plus à la hauteur des besoins.<br/>Chaque année, au moment des débats budgétaires, nous devons négocier une rallonge de la DCT, sous peine de remettre en cause la soutenabilité de la continuité territoriale elle-même, ce qui ne serait souhaitable pour personne.<br/>Alors que nous examinions la première partie du projet de loi de finances (PLF) pour 2026, Mme la ministre de l’action et des comptes publics, Amélie de Montchalin, s’est engagée à débloquer une enveloppe de 50 millions d’euros pour la Corse, en deuxième partie du texte, en particulier pour financer la continuité territoriale. Des questions se posent à ce sujet. Nous avons besoin de savoir si ces crédits couvriront bien les besoins identifiés et si l’État entend stabiliser durablement le montant de la dotation, ou si nous resterons dans un cycle d’ajustements annuels de dernière minute. Le gouvernement est-il en mesure de préciser son engagement et de nous assurer que l’enveloppe allouée à la DCT permettra de préserver la continuité territoriale ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814914" ordre_absolu_seance="28" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940505" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1271.24">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814915" ordre_absolu_seance="29" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940506" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1284.17">C’est un débat récurrent. La continuité territoriale de la Corse et celle des outre-mer sont de natures très différentes. En Corse s’exerce la compétence de la collectivité, par délégation de service public, pour fixer les prix, notamment. Dans les territoires d’outre-mer s’applique une subvention à la personne, qui doit couvrir une partie des frais liés à la continuité territoriale. Le système corse n’est pas transposable en tant que tel aux outre-mer, j’y insiste.<br/>La DCT annuelle de la Corse atteint 187 millions d’euros et vous avez raison de souligner que son montant n’a plus changé depuis 2009. La collectivité de Corse a pu thésauriser la part non consommée de cette dotation ; elle a obtenu que le reliquat de l’enveloppe soit déspécialisé pour être affecté à d’autres politiques d’aménagement que celles initialement prévues.<br/>Il est vrai que l’accroissement structurel des coûts depuis 2021 a provoqué une hausse des dépenses, à tel point que cette réserve prudentielle ne suffit plus.<br/>Si des marges de gestion peuvent sans doute encore être dégagées localement, l’écart entre le montant de la dotation et le coût du service public du transport ne doit pas mettre en péril la continuité territoriale et les opérateurs qui assurent la desserte de l’île. Dans ce contexte, le gouvernement aura à se prononcer, à l’occasion de l’examen du PLF pour 2026, sur une dotation budgétaire exceptionnelle, sous forme de rallonge, au profit de la collectivité de Corse.<br/>Le sujet a été abordé par le président de la collectivité de Corse et les parlementaires lors de leurs entretiens avec le premier ministre et Mme de Montchalin. Il fera l’objet d’un examen et d’un arbitrage dans les tout prochains jours, dans le cadre de la détermination des équilibres du PLF.<br/>L’État n’acceptera pas une fragilisation de la continuité territoriale, que ce soit clair.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814920" ordre_absolu_seance="35" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940511" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1323.56">La parole est à M. Paul-André Colombani.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814921" ordre_absolu_seance="36" id_acteur="PA719286" id_mandat="PM842669" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940512" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Paul-André Colombani (LIOT)</nom>
+            <id>719286</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1415.01">Prendre l’avion, pour un étudiant ou des patients devant se soigner, est, du fait de l’insularité, une nécessité en Corse ou dans les territoires d’outre-mer. Lors de l’examen de la proposition de loi visant à la création d’un centre hospitalier universitaire (CHU) en Corse, nous l’avons rappelé : l’avion est malheureusement souvent la condition de l’accès aux soins.<br/>La surtaxe de solidarité sur les billets d’avion, instaurée par la loi de finances pour 2025, pèse lourdement sur les usagers. Chaque année, 30 000 malades qui vivent en Corse prennent l’avion pour se soigner sur le continent et la surtaxe renchérit de 10 % le coût de leur trajet vers Marseille.<br/>À cette obligation s’ajoute une injustice. Le produit de cette taxe est fléché vers l’entretien du réseau ferroviaire continental, qui ne s’étend pas jusque dans les territoires ultramarins et la Corse. Autrement dit, leurs habitants paient un service auquel ils n’ont pas accès.<br/>J’ai entendu parler du travail mené auprès de la Commission européenne, mais nous avons l’impression que, depuis un an, ça n’avance pas. Je sais que vous n’étiez pas en poste, mais il semble que l’on n’a pas mesuré sur le terrain une forte activité des différents gouvernements qui se sont succédé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814925" ordre_absolu_seance="40" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940516" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1475.99">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814926" ordre_absolu_seance="41" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940517" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1495.51">Je l’ai dit à votre collègue, je prends le point. Les discussions avec la Commission européenne sont longues et complexes, c’est tout un mécanisme qu’il faut appréhender.<br/>Si elles prennent du temps, ces discussions existent et elles sont en cours.<italique> (M. Paul-André</italique><italique> Colombani</italique><italique> murmure.)</italique> Je suis d’accord avec vous : tout cela est un peu long. Nous sommes très vigilants. Je relancerai si besoin, mais je l’ai fait récemment et je sais que la même réponse me sera faite.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814928" ordre_absolu_seance="43" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940519" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1535.23">La parole est à Mme Mereana Reid Arbelot.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814929" ordre_absolu_seance="44" id_acteur="PA795240" id_mandat="PM843785" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940520" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mereana Reid Arbelot (GDR)</nom>
+            <id>795240</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1543.68">Je tiens à remercier mes collègues du groupe LIOT pour ce débat important pour nos territoires que l’histoire a décidé de lier à la France : celle-ci est devenue la métropole et ils sont devenus les outre-mer.<br/>Aujourd’hui, la République française fait le tour de la Terre. À chaque instant, il y fait simultanément jour et nuit.<br/>Aucun territoire ne doit défavoriser ses habitants dans l’exercice de leurs droits fondamentaux – se déplacer, se soigner, étudier, accéder au service public ou à l’emploi. C’est bien à l’État de veiller à gommer les handicaps liés à l’éloignement et à l’isolement géographique ; à assurer une égalité réelle dans l’accès aux services, à la connectivité et aux mobilités au sein d’un même territoire et entre les différents territoires de la République. Il y va du respect du deuxième principe de notre devise, que nous partageons tous, l’égalité.<br/>J’ai choisi de vous parler de la connectivité intérieure de nos territoires. En Guyane – on en a parlé tout à l’heure –, les villages sont séparés par des milliers de kilomètres carrés de forêts et le niveau des fleuves, qui peut empêcher toute traversée pendant de longues périodes, conditionne les déplacements.<br/>En Polynésie française, ce qu’il y a entre les îles, c’est l’immensité de l’océan. Pas d’autoroutes, de routes nationales, de voies ferrées. Notre dépendance à l’avion est quasi totale.<br/>Madame la ministre, derrière ces données, il y a des gens, il y a des vies, des étudiants qui doivent se rendre à l’université, des patients qui attendent d’être soignés, des familles qui veulent se retrouver, et qui, aujourd’hui, en sont empêchés.<br/>Pourtant, un cadre légal existe. L’article L. 1804-4 du code des transports prévoit clairement la possibilité d’une aide à la continuité territoriale intérieure et le financement d’une partie des déplacements internes à une même zone géographique ou à une même collectivité lorsqu’ils sont difficiles.<br/>Depuis 2020, l’arrêté qui doit permettre son application se fait attendre. Quand comptez-vous le prendre ? Il est essentiel pour nos territoires et leurs populations !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814937" ordre_absolu_seance="52" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940528" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1619.18">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814938" ordre_absolu_seance="53" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940529" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1669.52">La continuité territoriale relève de la compétence des collectivités territoriales. Pour intervenir, elles ont à leur disposition des outils réglementaires et un certain nombre d’entre elles, comme la Guadeloupe ou la Guyane, ont conçu des aides.<br/>L’État peut soutenir ces efforts, même financièrement, mais à titre très exceptionnel, notamment quand il n’y a pas de mode de transport alternatif à l’avion. Il le fait par exemple en Guyane ou entre les différentes îles de Wallis-et-Futuna.<br/>Si l’État n’a pas vocation à se substituer à la compétence des collectivités locales, il peut verser des aides individualisées, notamment aux personnes en formation. Elles peuvent prendre la forme du passeport pour la mobilité des études (PME), qui couvre le pré-acheminement et le post-acheminement, c’est-à-dire le trajet entre domicile et aéroport international, ou, le plus souvent, les déplacements accomplis par des personnes en formation entre différents territoires d’outre-mer.<br/>L’État prend donc sa part, même dans des domaines qui sont de la compétence des collectivités.<br/>Enfin, en Polynésie, le pays entretient 47 aérodromes et 266 ports et embarcadères, nécessaires à la desserte interinsulaire, grâce au soutien de l’État qui passe par le troisième instrument financier (3IF) doté chaque année de 51 millions d’euros par le ministère des outre-mer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814943" ordre_absolu_seance="58" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940534" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1765.41">La parole est à Mme Anchya Bamana.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2814944" ordre_absolu_seance="59" id_acteur="PA842279" id_mandat="PM843779" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940535" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anchya Bamana (RN)</nom>
+            <id>842279</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1776.16">Le principe de continuité territoriale a vocation à garantir un fonctionnement régulier du service public. À Mayotte, ce principe n’est pas abstrait ; c’est une question de dignité et de survie quotidienne.<br/>Quelques exemples démontreront combien l’égalité républicaine est encore loin d’être garantie.<br/>En matière d’accès à l’eau, à Mayotte, des milliers d’habitants vivent avec des coupures quotidiennes, quand elles ne durent pas trois ou quatre jours d’affilée. Or l’accès à l’eau potable constitue la première marche, la base de tout : lorsqu’il n’existe pas, tout le reste vacille.<br/>En matière d’accès à la santé, à Mayotte, plus grand désert médical de la nation, les évacuations sanitaires vers La Réunion ou l’Hexagone restent la norme, avec leur lot de désagréments pour les familles séparées. Or la santé n’est pas un plus, mais un droit fondamental.<br/>En matière d’accès à l’éducation, à Mayotte, le manque de salles de classe a entraîné la scolarisation dite par rotation des élèves du premier degré : une exception au sein de la nation. Ce système donne aux enfants à peine quatre heures de cours par jour ; dans ces conditions, comment parler d’égalité des chances ?<br/>Enfin, en matière de desserte aérienne, seules deux compagnies se posent à Mayotte, créant une situation de quasi-monopole ; les prix augmentent, la disponibilité des places est aléatoire, l’accès au territoire devient difficile. L’ouverture du ciel mahorais à d’autres compagnies est freinée par des obstacles administratifs. Résultat : Mayotte reste un territoire enclavé.<br/>Madame la ministre, ces exemples sont clairs : à Mayotte, la continuité territoriale ne constitue pas un acquis, mais une promesse non tenue.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815021" ordre_absolu_seance="66" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940894" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1872.09">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815022" ordre_absolu_seance="67" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940895" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1893.14">Nous devons aux Mahoraises et aux Mahorais bien plus que la reconstruction – d’où l’idée d’une refondation. Avant le passage du cyclone Chido, qui n’a fait qu’exacerber la situation, les structures étaient déjà particulièrement fragiles dans des domaines essentiels et que je considère comme régaliens : l’éducation, la santé, tout ce qui fait le pacte social. Il y avait déjà une promesse à tenir ; les ravages l’ont rendue plus importante encore.<br/>Concernant l’eau, je continue de dire que la clé du problème réside dans les grands projets structurants ; l’usine de dessalement d’Ironi Bé fournira ainsi en 2027 10 000 mètres cubes d’eau supplémentaires par jour. La loi de programmation pour la refondation de Mayotte prévoit, entre 2025 et 2031, 730 millions d’euros d’investissements consacrés à l’eau : les crédits sont alloués, il faut désormais leur faire correspondre, je le répète, des projets structurants en cohérence avec le territoire et ses difficultés.<br/>Nous essayons d’avancer dans l’application de cette loi. Concernant la santé, Mayotte, désert médical, là encore, avant même Chido, l’est devenue davantage : la loi de programmation prévoit un deuxième hôpital, à Combani, dont la construction reste à venir. Il y aura là, nous le savons, un problème d’attractivité, notamment pour les soignants ; nous y travaillerons ensemble. Les services de l’État seront mobilisés afin d’essayer de savoir comment attirer des personnels dans ce territoire.<br/>La même loi vise à mettre en avant – les crédits sont également alloués – la construction d’écoles, et d’écoles mieux adaptées ; je suis bien consciente du fait que nos enfants ne vont pas suffisamment en classe, faute de moyens et d’établissements. Je me rendrai bientôt sur place, où nous pourrons nous en parler plus longuement, madame la députée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815026" ordre_absolu_seance="71" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940899" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2020.37">La parole est à M. Joseph Rivière.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815027" ordre_absolu_seance="72" id_acteur="PA842227" id_mandat="PM843734" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940900" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Joseph Rivière (RN)</nom>
+            <id>842227</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2028.23">Je voudrais aborder un sujet qui nous met tous à égalité devant la vie : celui de la mort – je veux parler des transferts outre-mer de personnes décédées dans l’Hexagone.<br/>Quand un ultramarin meurt sur le continent, la famille souhaite que sa dépouille repose auprès des siens ; c’est légitime. À l’inévitable souffrance du deuil s’ajoute alors la solitude de celui qui vient chercher son père, sa mère, son conjoint, son enfant, voire un bébé, là où ce patient était venu recevoir des soins.<br/>Dès l’annonce du décès, la principale préoccupation de la famille tient au fait de devoir acheter sur-le-champ un billet d’avion dont le prix avoisine 2 000 euros en classe économique. Qui a une telle somme sous la main ? Combien de fois avons-nous entendu l’agent d’une compagnie aérienne exiger des papiers « de l’ambassade de votre pays », traduisant ainsi une méconnaissance terrible de la diversité de la France ? Combien de fois avons-nous pleuré pour faire baisser le prix trop élevé d’un billet d’avion – négociation vaine, qui n’aboutira qu’à de la colère et de la frustration, puisque l’agent de voyage n’a aucun pouvoir sur ce prix ? Tout cela simplement parce que la mort ne prévient pas !<br/>Plutôt que de laisser l’indignité régner dans notre pays, je vous demande, madame la ministre, de créer immédiatement un fonds d’urgence destiné aux rapatriements de dépouilles dans les territoires ultramarins. À défaut d’égalité devant la vie, permettez-nous l’égalité devant la mort. Je me tiens à votre disposition pour travailler aux modalités – et je profite de cette occasion pour saluer la bienveillance naturelle des soignants, qui dans ces moments pénibles savent accueillir, orienter les proches du défunt.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815030" ordre_absolu_seance="76" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940903" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2097.54">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815031" ordre_absolu_seance="77" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940904" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2148.34">Vous évoquez un sujet touchant à l’équité, à la solidarité ; on peut d’autant moins y rester insensible qu’il s’agit là de moments difficiles pour les accompagnants, les familles, les proches, et d’une vraie question de dignité. Je regarde tout cela de près. Le dispositif de continuité funéraire, qui depuis sa création en 2018 accompagne les familles en vue à la fois du transport du corps et des obsèques, a été renforcé en 2021 afin d’inclure les frères et sœurs des défunts, de permettre une dernière visite à un proche, avec des montants que nous avons tenté d’adapter aux distances – selon le territoire de départ, 340 euros en Guadeloupe, 1 235 euros à Wallis-et-Futuna.<br/>En 2024, les plafonds de ressources associés à ce dispositif ont également été revalorisés : 18 000 euros de quotient familial pour l’aide aux obsèques, 11 991 euros pour l’aide au transport de corps. Reste que j’ai entendu vos griefs, monsieur le député, et que je les comprends ; j’ai donc demandé au directeur général de L’Agence de l’outre-mer pour la mobilité (Ladom) de travailler à un guichet unique qui permettra de simplifier, de clarifier, de concentrer ces aides, probablement aussi de se poser ensuite la question des niveaux de ressources et montants alloués. Ce travail, qui vient d’être lancé, suit son cours ; nous pourrions d’ailleurs imaginer que le résultat soit expérimenté à La Réunion avant sa généralisation. En tout cas, je le répète, des instructions ont été transmises au directeur général de Ladom.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815033" ordre_absolu_seance="79" id_acteur="PA842227" id_mandat="PM843734" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940906" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Joseph Rivière</nom>
+            <id>842227</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2231.31">Merci, madame la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815034" ordre_absolu_seance="80" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940907" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2253.01">La parole est à M. Yoann Gillet.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815035" ordre_absolu_seance="81" id_acteur="PA793832" id_mandat="PM842678" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940908" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Yoann Gillet (RN)</nom>
+            <id>793832</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2258.45">La continuité territoriale ne doit pas être un slogan, mais une politique nationale permettant à nos compatriotes ultramarins d’accéder aux mêmes services qu’en métropole – transports, santé, formation, emploi –, d’atténuer les effets de l’éloignement et de l’insularité. Or cette continuité reste loin d’être à la hauteur. Les dispositifs en vigueur échouent à assurer une égalité réelle : l’accès aux services publics demeure profondément insuffisant, rien ne compense le coût de la vie ni l’isolement des territoires d’outre-mer. D’ailleurs, le projet de loi de finances pour 2026 présenté par le gouvernement ne répond pas aux besoins de ces derniers : moins de moyens, moins d’ambitions, toujours cette gestion au jour le jour qui les laisse au bord du décrochage.<br/>Transports, mobilités, accès aux services publics, les effets se voient partout ; les infrastructures essentielles demeurent insuffisantes pour assurer une véritable continuité territoriale. La principale raison des défaillances de celle-ci réside dans le manque de moyens alloués, dans des aides financières qui ne couvrent pas le coût élevé des transports, dans l’iniquité des dispositifs par rapport aux autres territoires et dans le caractère restrictif et complexe de l’éligibilité aux aides. Pour une grande partie des habitants, les billets de transport, notamment les billets d’avion, restent inabordables : les aides, bien maigres, se révèlent inefficaces face à la flambée des prix et à la forte saisonnalité des tarifs. La continuité territoriale ne concernant pas seulement les passagers, le manque de moyens est tout aussi largement perceptible dans l’impact du fret maritime sur le coût de la vie – la vie chère.<br/>Outre-mer, nos compatriotes formulent des reproches légitimes : ils comparent la continuité territoriale telle qu’ils la connaissent à celle dont bénéficie la Corse. C’est là un point de critique majeur. En matière de continuité territoriale, l’effort budgétaire par habitant au profit de la Corse est seize fois plus élevé qu’au profit des territoires ultramarins. Cette situation alimente le sentiment d’être pénalisé, ou du moins d’un traitement inégal. Madame la ministre, comment prétendre garantir la continuité territoriale quand les budgets successifs sont en recul ? Combien de temps encore les ultramarins devront-ils attendre une véritable continuité territoriale ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815038" ordre_absolu_seance="84" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940911" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2396.10">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815039" ordre_absolu_seance="85" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940912" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2402.10">Ce sujet fait partie des débats budgétaires désormais en cours au Sénat, avant qu’ils ne se tiennent de nouveau, je l’espère, à l’Assemblée nationale.<br/>En ce qui me concerne, j’ai fait de la continuité territoriale une priorité ; je souhaite que soient maintenus cette année les moyens consacrés à l’aide à la continuité territoriale outre-mer. En prenant un peu de recul, on constate d’ailleurs que cette aide n’a pas été restreinte mais élargie : dans plus des trois quarts des foyers des départements et régions d’outre-mer (Drom), elle permet désormais de prendre en charge certains frais – jusqu’à 100 %, par exemple, pour des billets de transport sur de longues distances destinés aux étudiants.<br/>Un décret daté du 6 septembre 2025 concrétise de nouvelles aides à la mobilité des ultramarins. Nous poursuivons le déploiement des aides à la continuité territoriale, notamment le dispositif de passeport pour le retour ; toutes ces nouvelles aides ont pour objectif de soutenir et favoriser la création de valeur au sein des territoires ultramarins. Amélie de Montchalin et moi mettons la dernière main à l’arrêté qui sera pris avant la fin de l’année en vue de fixer le montant des aides, dans la continuité des mesures déjà effectives en faveur des étudiants ultramarins qui résultent du comité interministériel des outre-mer (Ciom) de 2023. Pour les étudiants éligibles, le taux d’aide passera à 100 % ; nous avons ajouté un aller-retour supplémentaire au cours de la première année d’études ou encore porté l’âge limite de 26 à 28 ans. Pour les jeunes concernés, tout cela est très concret.<br/>Grâce à ces dispositions et à l’élargissement des publics susceptibles d’en bénéficier, le nombre des personnes aidées augmente d’année en année, ce qui est tant mieux : de 38 879 bénéficiaires en 2018, nous sommes passés en 2024 à 82 602, soit plus du double et une augmentation de 13 % par an. Je peux entendre que tout n’est pas parfait, mais il y a des choses qui évoluent dans le bon sens et s’agissant de la méthode, je le répète, je suis une ministre qui veut mener ces combats. Nous pouvons donc nous retrouver, monsieur le député, à promouvoir ensemble les mêmes causes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815042" ordre_absolu_seance="89" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940915" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2528.92">La parole est à Mme Florence Goulet.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815043" ordre_absolu_seance="90" id_acteur="PA794418" id_mandat="PM840309" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940916" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Florence Goulet (RN)</nom>
+            <id>794418</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2535.12">Le récent rapport d’information consacré par nos collègues Olivier Serva et Annie Vidal à l’évaluation de l’application du principe de continuité territoriale est particulièrement préoccupant, mais il ne dépeint, hélas, que ce que vivent tous les jours nos compatriotes ultramarins.<br/>Garantie supposée d’égalité entre l’Hexagone et les territoires d’outre-mer, la continuité territoriale n’est pas réalisée dans les faits. Les discontinuités s’accumulent, contribuent à la vie chère, en lien direct avec le coût du fret et l’éloignement ; elles compliquent l’accès aux services publics essentiels, rendent plus aléatoire l’accès des jeunes ultramarins à la formation et à l’enseignement supérieur, et affectent particulièrement les familles à faibles revenus.<br/>Ces discontinuités s’enkystent à l’intérieur même des territoires ultramarins : dans l’ouest de la Guyane, par exemple, le long du Maroni, dans la région totalement enclavée de Maripasoula, plusieurs milliers de nos compatriotes vivent sans avoir accès à une seule route – cas unique, je pense, dans notre pays, voire au sein de l’Union européenne.<br/>En matière d’attractivité et de développement, cet empilement de retards, de surcoûts, de limitations en tout genre handicape lourdement les régions ultramarines. Dès lors, il ne faudra pas s’étonner si, demain, certains de ces territoires choisissent de vivre leur vie, lassés qu’ils sont par l’évocation pompeuse de principes sans contenu et la multiplication de promesses jamais tenues.<br/>Afin de remédier à cette situation très préoccupante pour nos compatriotes ultramarins, et malgré les difficultés budgétaires créées par la gestion macroniste – dont relève l’inconsistance de l’actuel premier ministre lors de son passage rue Oudinot –, envisagez-vous, madame la ministre, d’en finir enfin avec ce bricolage de mesurettes pour prendre à bras-le-corps le dossier de la continuité territoriale et lui donner enfin la cohérence qu’il mérite ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815046" ordre_absolu_seance="95" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940919" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2610.54">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815047" ordre_absolu_seance="96" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940920" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2648.40">Certains des sujets que vous évoquez ont été abordés lors du débat précédent, notamment celui des infrastructures en Guyane – territoire où il est difficile de se déplacer, où les études demandent beaucoup de temps, en raison d’une géographie particulière. Je l’ai dit tout à l’heure, je suis lucide, je sais que les choses ne sont pas parfaites, mais l’État accompagne les collectivités, par des crédits ou par l’ingénierie qu’il met, si nécessaire, à leur disposition.<br/>Je me permets donc de rappeler succinctement mes propos de tout à l’heure concernant notre capacité à avancer, notamment en lien avec les collectivités locales, qui sont les plus à même d’identifier les problèmes.<br/>Pour ce qui est du réseau routier, même s’il ne s’agit pas du réseau routier national, le gouvernement est encore une fois au rendez-vous.<br/>Pour le reste, j’ai évoqué plusieurs aides qui ont parfois été renforcées. Si des dispositifs existent, cela n’empêche pas de réfléchir à la manière de renforcer leur efficacité, ce qui ne se résume pas forcément à une simple augmentation de leur enveloppe. Peut-être faut-il mieux cibler les publics, simplifier les procédures. Nous pourrons en discuter, ma porte est ouverte, d’autant plus que certains projets nous ont peut-être échappé. Je suis prête à travailler différemment, en particulier un peu moins depuis Paris et davantage avec les territoires. C’est ce que j’ai commencé à faire avec quelques parlementaires. Des projets se dessinent et vous me donnez l’occasion de le rappeler ici.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815088" ordre_absolu_seance="100" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3941410" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2769.44">La parole est à M. Jean-Hugues Ratenon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815089" ordre_absolu_seance="101" id_acteur="PA721062" id_mandat="PM843740" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3941411" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Hugues Ratenon (LFI-NFP)</nom>
+            <id>721062</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2780.50">La continuité territoriale n’est pas un simple poste budgétaire, elle ne doit pas être considérée comme une faveur. Il s’agit en effet d’un principe fondamental de service public qui, en compensant l’éloignement, l’insularité et l’enclavement structurel des territoires, garantit à chaque citoyen les mêmes droits.<br/>Or les prix des billets d’avion pour gagner nos territoires restent scandaleusement élevés. Selon l’indice de la DGAC – direction générale de l’aviation civile –, ils demeurent bien supérieurs à leur niveau de 2022 et ils ont encore augmenté de 2 % en moyenne au cours des trois premiers trimestres de l’année 2025. L’Agence de l’outre-mer pour la mobilité, bras armé de l’État, gère les aides et les passeports mobilité mais le Sénat reconnaît que Ladom reste contrainte par une enveloppe budgétaire insuffisante, qui lui impose de s’en tenir à une simple stratégie d’ajustement à la pénurie.<br/>Il est temps que l’État assume pleinement le fait que la continuité territoriale relève d’une politique nationale fondée sur l’égalité des droits et la solidarité. Comprenez que ce n’est pas aux collectivités ultramarines, comme cela se fait à La Réunion, de combler un manquement, surtout en cette période d’austérité.<br/>La région de La Réunion consacre ainsi chaque année un budget important à ces dispositifs afin d’aider les familles, ce qui représente autant en moins pour financer d’autres volets essentiels à sa politique. Pourtant ces mesures, qui relèvent de la solidarité nationale, ne sont pas de son ressort.<br/>Madame la ministre, en tenant compte des besoins réels, quels dispositifs comptez-vous instaurer pour améliorer la continuité territoriale ? N’est-il pas temps d’agir et d’augmenter la dotation qui reste très insuffisante, de prendre des mesures de blocage des prix et de mener une véritable politique concurrentielle ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815094" ordre_absolu_seance="106" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3941416" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2875.41">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815095" ordre_absolu_seance="107" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3941417" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2899.80">Pour ce qui me concerne, je n’ai jamais parlé de « faveur » pour la simple et bonne raison que la continuité territoriale n’en est pas une. Au contraire, j’ai plutôt insisté sur les principes d’équité et de solidarité car, à mon sens, les territoires ultramarins sont toujours dans une forme de dynamique de rattrapage de ce qui est dû pour les mettre à niveau. Le propos que vous citez n’est donc pas le mien car j’essaie de faire perdre l’usage de ce type d’expression afin qu’elle ne s’ancre pas dans la conscience commune.<br/>Concernant le coût des billets d’avion, j’ai rappelé la liste des aides existantes délivrées par Ladom. Elles sont nombreuses et en partie plébiscitées même s’il est toujours possible de revoir le mécanisme de certaines d’entre elles pour les améliorer.<br/>Quant aux moyens de Ladom, ils seront maintenus et je veillerai même à ce qu’ils soient augmentés car nous avons besoin d’un organisme efficace. Je mène ce combat et je souhaite engager une réflexion autour des pistes que vous avez évoquées. Ce travail a été amorcé lors de l’élaboration du projet de loi de lutte contre la vie chère dans les outre-mer, d’abord examiné au Sénat et qui devrait être inscrit à l’ordre du jour de l’Assemblée nationale au début de 2026. C’est un début de réflexion, mais je veux que l’on prenne le temps nécessaire pour la poursuivre. D’ailleurs, si ce texte n’a pas encore été mis à l’ordre du jour de votre assemblée, c’est précisément pour que l’on puisse bâtir un bon nombre de dispositifs ensemble car, en l’état, il me semble qu’il peut être encore largement amélioré et prendre une bien plus grande ampleur – si l’on parvient à l’y raccrocher, le sujet que vous avez évoqué pourrait notamment y trouver sa place. J’ai en tout cas rappelé que le gouvernement se tenait à la disposition des députés pour que l’on travaille ensemble.<br/>Enfin, l’État a déjà engagé d’autres actions propres aux outre-mer. Il n’y a pas que les aides à la continuité territoriale, il faut aussi prendre en compte, outre les aides aux déplacements, les congés bonifiés, ce qui représente environ 100 millions d’euros par an, les évacuations sanitaires prises en charge par la sécurité sociale et les 500 millions d’euros débloqués pour sauver les compagnies aériennes outre-mer et préserver la concurrence, qui a un effet modérateur sur les prix.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815099" ordre_absolu_seance="111" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3941421" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3042.34">La parole est à M. Christophe Bex.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815100" ordre_absolu_seance="112" id_acteur="PA793772" id_mandat="PM842708" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3941422" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Bex (LFI-NFP)</nom>
+            <id>793772</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3051.04">Je souhaite tout d’abord remercier mes camarades Jean-Hugues Ratenon et Perceval Gaillard, députés à l’origine de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer, qui sera examinée cette semaine dans le cadre de la niche parlementaire de notre groupe.<br/>Le droit à la continuité territoriale reste fragile, inégal et surtout non opposable. Il dépend des arbitrages budgétaires de l’État et donc d’un choix politique qui, par nature, peut changer. De surcroît, les aides varient selon les territoires, ce qui peut engendrer des inégalités persistantes. La dépendance à des compagnies aériennes en quasi monopole empêche l’État de garantir des tarifs réellement accessibles et les liaisons interterritoriales en Guyane, en Polynésie ou ailleurs, restent insuffisantes.<br/>À la lecture du rapport d’information déjà cité, j’observe toutefois que nombre des constats et recommandations qui y figurent rejoignent des propositions de notre programme, « L’avenir en commun ». Le droit opposable à la continuité territoriale, le renforcement des transports locaux, l’augmentation des crédits de Ladom : autant de mesures qui vont dans un sens que nous approuvons. Mais les propositions restent circonstancielles et limitées alors que nous avons besoin de réformes structurelles. Si le rapport d’information préconise de soutenir Air Austral ou d’expérimenter le plafonnement des tarifs aériens, nous pensons qu’il faut mettre fin à l’oligopole aérien, contrôler strictement les prix et envisager la nationalisation ou le développement public des infrastructures portuaires et aéroportuaires.<br/>De même, plutôt que renforcer le bouclier qualité prix (BQP), comme cela est proposé, nous préconisons un encadrement légal et généralisé des prix des produits de première nécessité. Le rapport d’information n’aborde pas plus avant l’urgence d’un plan global de rénovation des infrastructures routières, maritimes et d’un retour du rail là où il est possible.<br/>Face à un droit aussi fragile et à des inégalités aussi profondes, ne serait-il pas temps d’assumer une transformation d’ampleur en modernisant les infrastructures, en bloquant les prix essentiels et en créant les conditions du retour sur place des jeunes ultramarins formés en métropole ? Il y a urgence.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815105" ordre_absolu_seance="117" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3941427" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3175.75">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815106" ordre_absolu_seance="118" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3941428" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3184.18">Je partage vos préoccupations et j’aimerais engager des réformes structurelles mais je crains de ne pas trouver de majorité compte tenu de la situation politique actuelle.<br/>Cela étant, nous pouvons toujours en discuter. En attendant, des dispositifs de soutien existent. Vous avez évoqué les liaisons aériennes : la concurrence s’exerce, en particulier à La Réunion qui compte quatre compagnies régulières, ce qui est une bonne chose.<br/>S’agissant du BQP, je vous renvoie à l’article 2 du projet de loi contre la vie chère dans les outre-mer. Nous avons avancé sur ce sujet, et renforcé l’efficacité du BQP, notamment grâce aux amendements des sénateurs. Le dispositif a ainsi été étendu aux services, les entreprises qui ne jouent pas le jeu s’exposent au<italique> name and shame</italique>, et les acteurs locaux sont davantage impliqués. Nous avons réussi à inscrire des progrès dans le texte avant qu’il arrive devant votre assemblée. D’autres pistes de réflexion sont ouvertes et nous poursuivrons ensemble le travail engagé car il reste des marges d’amélioration. Nous pourrons en particulier reprendre les questions laissées en suspens. Nous abordons ce sujet en ayant à cœur de réduire les écarts de prix et en nous intéressant aux marges et aux frais d’approche. Je reste à votre disposition pour y réfléchir et déposer des amendements en séance le moment venu, à l’Assemblée nationale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815108" ordre_absolu_seance="121" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3941430" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3284.13">La parole est à Mme Béatrice Bellay.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815109" ordre_absolu_seance="122" id_acteur="PA842211" id_mandat="PM843716" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3941431" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Béatrice Bellay (SOC)</nom>
+            <id>842211</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3289.58">Cela fait huit ans, presque neuf, qu’Emmanuel Macron s’est juré de résorber les fractures territoriales mais une évidence demeure : la continuité territoriale pour les pays des océans, la vraie, celle qui garantit la mobilité et l’accès équitable aux services, aux droits, aux opportunités, n’existe pas.<br/>À chaque fois, vous vous abritez derrière des formules dilatoires que nous avons trop entendues, nous répondant que le gouvernement fait des efforts, et que le budget de Ladom augmente. Ladom est une agence low cost bumidomienne qui accorde des aides aux déplacements, aides conditionnées par les faibles revenus de ceux qui les demandent. On compte 8 000 aidés pour 2,4 millions d’habitants. À la bonne heure !<br/>Pour nos compatriotes, c’est insuffisant et de plus en plus injuste : une aide par an, puis tous les deux ans et à présent, pour le grand public, tous les trois ans ! Il faudra donc expliquer à nos enfants étudiants qu’ils ne recevront pas d’aide au déplacement parce que leur formation est aussi délivrée dans leur territoire. Tient-on ce discours aux étudiants métropolitains en licence de droit à Paris alors que leurs parents habitent à Bordeaux et qui bénéficient du tarif étudiant pour retourner chez eux le week-end ?<br/>C’est d’autant plus injuste que nous sommes asphyxiés, captifs des compagnies aériennes, lesquelles prospèrent sur nos seules épaules, ou se meurent, c’est selon, alors que des solutions existent, comme l’encadrement du<italique> yield management,</italique> proposé par mon collègue Jiovanny William, des dispositifs fiscaux incitatifs pour nos compagnies régionales au lieu de la TSBA qui sert à financer le rail sur nos reins, ou le plafonnement et la sécurisation des prix, notamment durant les vacances scolaires.<br/>La vraie continuité territoriale, ce sont des chances gagnées, c’est la culture aidée qui permet à nos artistes de se produire ailleurs, c’est le lien familial préservé, ce sont des forces vives et économiques stimulées, ce sont des échanges construits et améliorés entre nos pays, et des devenirs liés, mutualisés plutôt que des territoires mis en concurrence.<br/>Pour l’heure, les surcoûts liés à la mobilité engendrent des discriminations directes. Où est la République une et indivisible ?<br/>Je ne suis pas une assimilationniste, ne vous y trompez pas : je suis une autonomiste. Si vous ne savez pas faire, donnez-nous, comme vous l’avez fait pour la Corse, les moyens de faire nous-mêmes. Quand et comment, madame la ministre, assurerez-vous ce principe de continuité territoriale qui, s’il n’est pas de nature constitutionnelle, s’inscrit dans l’esprit constitutionnel de solidarité, d’égalité et d’indivisibilité de l’État ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815113" ordre_absolu_seance="129" id_acteur="PA643143" id_mandat="PM843761" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3941555" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christian Baptiste</nom>
+            <id>643143</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3340.72">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815114" ordre_absolu_seance="130" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3941436" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3413.99">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815115" ordre_absolu_seance="131" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3941437" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3427.62">J’ai peur de vous faire des réponses qui ne vont pas vous satisfaire car le budget de Ladom augmente. Peut-être pas suffisamment mais c’est mieux que l’inverse. Cela étant, on peut toujours faire mieux, vous avez raison.<br/>Le sort des étudiants et de la jeunesse en général dans les territoires ultramarins pose une question fondamentale, et nous avons le devoir de leur offrir des perspectives. Vous évoquez les aides à la mobilité et vous regrettez que nous ne leur en accordions qu’une tous les trois ans, mais celle que vous visez est tout de même très particulière : elle leur permet de se rendre à moindre coût dans l’Hexagone sans motif particulier – visite, retour dans sa famille… Cette aide n’exclut pas les autres dispositifs : les étudiants en première année peuvent bénéficier de la prise en charge de deux allers-retours par an, une fois par an ensuite.<br/>On peut toujours améliorer ce qui existe mais vous ne pouvez pas dire que rien n’est fait, ni que ce délai de trois ans vaut pour tout le monde. Ce n’est pas vrai.<br/>Concernant le<italique> yield management</italique>, vous avez raison, c’est une pratique commerciale franchement discutable. Pour les outre-mer, on peut le dire, c’est honteux, c’est scandaleux. Je veux y travailler en associant votre collègue Jiovanny William. Ce sujet est bien identifié, madame la députée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815119" ordre_absolu_seance="135" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3941441" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3529.67">La parole est à M. Elie Califer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815120" ordre_absolu_seance="136" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3941442" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer (SOC)</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3541.39">Je remercie le groupe LIOT pour son initiative et je salue les divers travaux réalisés sur la continuité territoriale.<br/>Les territoires ultramarins se situent à des milliers de kilomètres de l’Hexagone. Cette distance considérable est à l’origine de grandes inégalités : éloignement, insularité et j’en passe. Elle rend difficile les déplacements entre les territoires, les prix des billets d’avion sont rédhibitoires, et l’accès aux services publics, aux formations, à la vie culturelle s’en trouve compliqué, ce qui renforce les inégalités et les discriminations. Autrement dit, les outre-mer subissent de plein fouet les effets de leur éloignement géographique, qui les exclut du champ de l’égalité républicaine. C’est pourquoi le principe de continuité territoriale est essentiel. Sa mise en œuvre doit garantir à tous les citoyens, où qu’ils vivent, les mêmes droits et les mêmes chances, conformément aux valeurs d’égalité et de solidarité qui fondent la République.<br/>Pourtant, lorsqu’on examine la manière dont cette politique est pilotée, un problème majeur saute aux yeux : le budget qui lui est consacré est variable. Madame la ministre, quand disposerons-nous d’une stratégie cohérente, dotée de moyens adaptés, susceptible de garantir réellement l’égalité républicaine ? Dans la mesure où, manifestement, il nous faut opérer une refondation, êtes-vous prête à travailler à une véritable application du principe de continuité territoriale ? J’insiste sur le verbe travailler car je vous interroge sur vos intentions.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815049" ordre_absolu_seance="139" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940614" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3614.57">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815050" ordre_absolu_seance="140" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940615" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3665.55">Oui, je suis prête à travailler dans un cadre déterminé avec une méthode de travail. Des marges de manœuvre existent : regardons les sujets sur lesquels nous pouvons converger. Je suis prête à travailler : il nous reste à nous entendre. Je suis là pour faire avancer les dossiers autant que possible. Dégageons quelques points de consensus. Je vous dis donc à très bientôt…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815050" ordre_absolu_seance="141" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940746" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3705.70">À très vite, madame la ministre !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815051" ordre_absolu_seance="142" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940616" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3708.41">Vous gardez la parole, monsieur Califer, pour poser votre seconde question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815052" ordre_absolu_seance="143" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940617" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer (SOC)</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3711.16">Madame la ministre, je souhaite vous interroger sur deux aspects de l’égalité des chances et des conditions de vie dans les territoires ultramarins. Au préalable, permettez-moi de saluer la présence ce soir en cette salle de l’ancien ministre des outre-mer<italique> (M.</italique> <italique> Philippe Vigier sourit)</italique> : il a découvert nos territoires, c’est un partenaire désormais…<br/>Vous soulignez régulièrement que la notion de continuité territoriale ne concernerait que le transport des personnes. Pourtant, une continuité territoriale commerciale, pensée pour les produits de première nécessité et pour les services, permettrait d’agir concrètement sur le niveau des prix pratiqués en outre-mer. Appuyée sur la péréquation, la continuité territoriale commerciale pourrait lisser les coûts, réduire les inégalités structurelles et garantir au consommateur ultramarin un accès plus équitable aux biens essentiels. En effet, nous connaissons les limites du BQP : il n’a pas pour effet de baisser les prix.<br/>Je souhaite vous interroger sur une autre dimension de l’égalité réelle : elle concerne les élèves avocats originaires d’outre-mer qui sont particulièrement touchés par l’éloignement en raison de l’absence de centre régional de formation professionnelle des avocats (CRFPA) en dehors de l’Hexagone. Comme les Corses, les élèves ultramarins sont contraints de quitter leur territoire pour suivre leurs dix-huit mois de formation, ce qui occasionne des coûts très lourds. Or – c’est une particularité – ils ne bénéficient pas des dispositifs prévus par Ladom.<br/>D’où deux questions : premièrement, êtes-vous prête à examiner comment assurer une véritable continuité territoriale pour les élèves avocats à ce niveau ? Deuxièmement, êtes-vous prête à instaurer une continuité territoriale des services et à proposer des réponses qui ne se limitent pas à promulguer, comme nous les appelons, des lois bavardes ? À l’instar du projet de loi de lutte contre la vie chère dans les outre-mer, ces textes ne contiennent pas d’avancées concrètes – je le dis après les avoir bien cherchées dans ledit projet de loi – susceptibles de satisfaire les Français ultramarins et d’éviter le caractère cyclique des crises.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815056" ordre_absolu_seance="147" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940621" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3874.07">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815057" ordre_absolu_seance="148" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940622" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3880.69">Cette question me permet de compléter la réponse apportée à la question précédente. En parallèle des questions budgétaires, je travaille sur la manière d’intégrer les réalités ultramarines dans la conscience générale. Quand nous pensons à la France, nous devrions penser à la France dans sa globalité, ce que nous avons encore du mal à faire : dans chaque texte, il y a les dispositions générales puis les dispositions applicables à l’outre-mer…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815058" ordre_absolu_seance="149" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940623" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3909.57">Les ordonnances outre-mer !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815059" ordre_absolu_seance="150" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940624" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3910.88">Je préfère parler des dispositions diverses des projets de loi. Plus largement, la question se pose de savoir ce que nous voulons faire demain des territoires d’outre-mer. J’entends travailler avec ces derniers sur tous les modèles possibles. Même si, actuellement, la majorité est compliquée – voire impossible – à trouver au sein de l’Assemblée, nous pouvons poser cette question dans la perspective des débats qui se tiendront à l’occasion de l’élection présidentielle. Il est nécessaire que les candidats s’emparent de ce sujet et répondent à la question : quel avenir pour les territoires d’outre-mer à l’horizon 2030 ? Je vais sans doute lancer des consultations par territoire puis, sans prendre personnellement position, soumettre les deux ou trois modèles qui en émergeront aux candidats.<br/>Je reviens à la question des frais d’approche. Bien que l’article 5 du projet de loi de lutte contre la vie chère dans les outre-mer, qui habilitait le gouvernement à légiférer par ordonnance sur cette question, a été supprimé par le Sénat, nous continuons à travailler sur le sujet avec les corapporteurs pour étudier les convergences possibles. Vous le savez, le droit européen nous lie et nous engage, même si on peut le déplorer…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815061" ordre_absolu_seance="152" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940626" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3999.75">Oui mais il y a aussi l’article 349 du traité sur le fonctionnement de l’Union européenne !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815062" ordre_absolu_seance="153" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940627" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4014.63">Nous avons mis tous les scénarios sur la table pour déterminer ce qui était le plus efficace et le plus sécurisé juridiquement. Nous allons en reparler prochainement car le gouvernement veut avancer en la matière.<br/>Je suis d’autant plus sensible aux difficultés des élèves avocats que je l’ai été moi-même, comme d’autres personnes ici…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815064" ordre_absolu_seance="155" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940629" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4041.83">Oui mais dans l’Hexagone !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815065" ordre_absolu_seance="156" id_acteur="PA605782" id_mandat="PM874605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940630" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Marcangeli</nom>
+            <id>605782</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4043.64">Ou en Corse !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815066" ordre_absolu_seance="157" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940631" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4049.79">J’ai évoqué ce sujet avec M. Davy Rimane, président de la délégation aux outre-mer de l’Assemblée. Je suis favorable à ce que les élèves avocats bénéficient des aides dont peuvent jouir les étudiants ultramarins pour l’achat des billets d’avion. J’ai réfléchi cet après-midi à la possibilité de déposer un amendement en ce sens puisque celui de M. Rimane, adopté en commission, n’a pas pu être examiné en séance du fait du rejet de la première partie du projet de loi de finances. Peut-être convient-il de traiter ce sujet au Sénat sur le fondement des travaux que vous avez menés.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815066" ordre_absolu_seance="158" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940925" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4088.11">Merci à vous, madame la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815067" ordre_absolu_seance="159" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940632" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4091.29">La parole est à Mme Maud Petit.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815068" ordre_absolu_seance="160" id_acteur="PA721234" id_mandat="PM843692" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940633" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Maud Petit (Dem)</nom>
+            <id>721234</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4096.85">La continuité territoriale avec nos territoires d’outre-mer est un principe structurant, fondamental de notre pacte républicain. Je remercie Olivier Serva d’avoir proposé l’organisation d’un débat sur ce thème.<br/>Le principe de continuité territoriale, simple et évident en apparence, vise à garantir un accès équitable aux services, aux mobilités et aux opportunités à chaque citoyen français, quel que soit son lieu de résidence.<br/>Cependant, depuis un territoire d’outre-mer, le coût d’un déplacement vers l’Hexagone demeure particulièrement élevé. Si le fonds de continuité territoriale joue un rôle important, il conviendrait d’améliorer sa lisibilité et son ciblage, notamment vis-à-vis des jeunes, des familles modestes et des étudiants.<br/>Dans les Antilles, la stabilité des liaisons aériennes inter-îles entre la Guadeloupe, la Martinique et leurs voisins est indispensable au dynamisme économique autant qu’aux liens familiaux, sanitaires et culturels qui structurent la région.<br/>À Mayotte, l’accès à certains soins spécialisés nécessite encore des déplacements vers La Réunion. La montée en puissance des capacités locales doit se poursuivre, tout en garantissant la qualité des évacuations sanitaires.<br/>En Polynésie française, l’immensité du territoire impose des liaisons aériennes et maritimes adaptées. Dans plusieurs archipels, les dessertes ne sont assurées qu’à intervalles espacés, ce qui rend l’accès au service public difficile.<br/>Au-delà des aspects logistiques, la continuité territoriale revêt de multiples dimensions – médicale, sociale, commerciale, familiale, éducative – qui sont essentielles. Garantir des conditions équitables pour les étudiants, les familles, les personnes en situation de précarité ou de handicap, c’est permettre à chaque citoyen ultramarin de bénéficier des mêmes opportunités que celles offertes dans l’Hexagone, qu’il s’agisse de l’accès aux études, à l’emploi ou aux soins.<br/>Madame la ministre, quelles actions le gouvernement prévoit-il pour consolider la continuité territoriale dans chaque bassin ultramarin et pour garantir une égalité réelle dans l’accès aux mobilités et aux services, en tenant compte des contraintes spécifiques des territoires ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815076" ordre_absolu_seance="168" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940641" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4216.73">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815077" ordre_absolu_seance="169" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940642" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4237.61">Je vous remercie infiniment d’avoir employé les mots justes dans votre question en évoquant les publics fragiles et modestes. Nous avons un devoir de protection à leur égard. C’est une action prioritaire de mon ministère et du gouvernement en général.<br/>Vous avez évoqué les moyens alloués aux différents dispositifs de soutien de la mobilité : passeport pour la mobilité des études, passeport pour la mobilité des formations et aide à la continuité territoriale en faveur de ceux qui se déplacent pour voir leur famille. Tous ces moyens sont en augmentation dans le cadre du projet de loi de finances pour 2026, étant observé que ces aides prennent en charge le pré-acheminement.<br/>L’aide à la continuité territoriale outre-mer a été étendue ces dernières années : nous pouvons désormais prendre en charge davantage de frais pour davantage de personnes. L’ensemble des engagements pris par le gouvernement à l’occasion du Ciom de 2023 ont été intégrés dans le décret du 6 septembre 2025, qui prévoit le passeport retour. Nous avons cherché à lancer des filets plus larges pour atteindre davantage de publics et ça marche : le nombre de bénéficiaires de ces dispositifs a augmenté de l’ordre de 13 % entre 2023 et 2024, ce qui est considérable.<br/>Je rappelle tout de même que la continuité territoriale intérieure aux collectivités et territoires ultramarins relève de la compétence desdites collectivités, même si l’État peut intervenir ponctuellement, ce qu’il fait. Si tout n’est pas parfait, je reste à votre écoute, madame la députée, dans le cadre de ce débat comme des débats à venir et je vous remercie de votre contribution.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815081" ordre_absolu_seance="173" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940646" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4362.20">La parole est à M. Philippe Vigier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815082" ordre_absolu_seance="174" id_acteur="PA331582" id_mandat="PM842639" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940647" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Vigier (Dem)</nom>
+            <id>331582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4369.89">S’il est un sujet primordial pour les territoires ultramarins, auxquels j’associe amicalement la Corse, c’est celui de la continuité territoriale. S’y ajoutent les questions de la cherté de la vie, des obstacles à la formation – notamment dans l’enseignement supérieur – et des difficultés d’accès aux soins – en particulier à Mayotte, comme Maud Petit l’a évoqué.<br/>Soyons honnêtes : des efforts financiers considérables ont été faits puisqu’entre 2022 et 2023, les crédits ont augmenté de 42 %. Tout n’est pas résolu pour autant, pour les raisons qui ont été énoncées.<br/>Je retiens, de la période où j’ai eu à régler tel ou tel problème, une question centrale : la concurrence. Quand vous êtes dans les départements d’Amérique française, en Guadeloupe par exemple, et que vous voulez aller à Saint-Martin ou à Saint-Barthélemy, l’absence de concurrence est un sujet majeur. Il est anormal que le prix du billet entre Paris et la Guadeloupe soit moins cher que celui du billet entre la Guadeloupe et Saint-Barthélemy ou Saint-Martin. Je sais, pour avoir eu à le traiter, que ce problème est très compliqué à résoudre malgré la forte implication des collectivités.<br/>Deuxième sujet : quand vous êtes à Saint-Pierre-et-Miquelon, vous devez malheureusement passer par le Canada pour rejoindre la métropole. Les liaisons directes avec Saint-Pierre nécessitent un financement public et une subvention d’équilibre élevée. Or on ne peut pas tout demander aux collectivités. Si un rattrapage a été opéré, il est nécessaire que le gouvernement poursuive ses efforts en matière d’ouverture à la concurrence. Je pense aussi à nos amis corses car l’effort fait en faveur de la continuité territoriale avec leur île est quatre fois inférieur à celui consenti pour les autres territoires ultramarins.<br/>Ce n’est pas uniquement un enjeu d’égalité des chances. Nous devons absolument traiter cette question. La richesse de la France, c’est l’Hexagone, mais ce sont aussi les territoires d’outre-mer. Il faut donc répondre aux besoins de mobilités de nos compatriotes ultramarins, d’autant plus que – vous le savez peut-être – l’Assistance publique-Hôpitaux de Paris offrait il y a quelques années des possibilités beaucoup plus importantes qu’aujourd’hui en matière de continuité territoriale.<br/>Dès lors, qu’envisage le gouvernement dans les prochaines semaines sur ces questions ? Il convient de poursuivre et même d’accélérer les efforts entrepris dans le cadre du fameux Ciom, le comité interministériel des outre-mer, afin d’assurer une meilleure continuité territoriale, ce qui supposera probablement d’introduire davantage de concurrence.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2814983" ordre_absolu_seance="180" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940379" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4412.90">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2814984" ordre_absolu_seance="181" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940380" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4530.56">Je vous remercie pour cet exposé. Vous qui avez été aux responsabilités connaissez les difficultés et les contraintes auxquelles nous sommes confrontés. Vous savez aussi que l’État fait des efforts pour trouver des solutions. Cette mission n’est pas toujours simple, nous devons continuer à travailler ensemble. Je suis ouverte à toutes les propositions crédibles et financées qui nous permettraient d’avancer.<br/>Par ailleurs, nous sommes déjà dans un cadre concurrentiel. Je citais tout à l’heure l’exemple de La Réunion où opèrent quatre compagnies aériennes ; mais d’autres situations intéressantes existent. Nous devons probablement réfléchir à l’amélioration du modèle pour les autres territoires.<br/>Le prix du billet est une question récurrente, pour ne pas dire permanente. Nous travaillons sur ce dossier avec notamment le député Jiovanny William. J’envisage d’ailleurs de lui confier une mission sur le sujet, d’autant plus qu’il a déjà travaillé sur le thème voisin, quoiqu’un peu plus spécifique, du<italique> yield management</italique>. Il faut cependant réfléchir au format que nous lui proposerons : si c’est simplement pour lui confier une mission de plus, et qu’il doit consacrer six mois à cette tâche, ce ne serait pas très utile. Notre objectif est que – s’il accepte bien sûr cette mission – des propositions concrètes en ressortent et que nous puissions donc avancer.<br/>Nous sommes donc au rendez-vous, pleinement mobilisés, avec des services très engagés et des collaborateurs qui maîtrisent parfaitement ces questions – mais vous le savez mieux que moi, monsieur le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2814988" ordre_absolu_seance="185" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940384" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4630.64">La parole est à M. Laurent Marcangeli pour deux questions.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2814989" ordre_absolu_seance="186" id_acteur="PA605782" id_mandat="PM874605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940385" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Marcangeli (HOR)</nom>
+            <id>605782</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4638.86">Je dois à la vérité de dire que ma première question ne vous était pas destinée à l’origine puisque je n’ai pas la chance d’être l’élu d’un territoire ultramarin. Néanmoins, je suis élu d’un territoire insulaire, certes proche, puisqu’il se situe à une heure et demie de Paris.<br/>La Corse bénéficie d’un dispositif de continuité territoriale qui – comme l’a rappelé M. le ministre Vigier – ne constitue en aucun cas un privilège ni un avantage qui serait accordé à ses habitantes et à ses habitants.<br/>Les annonces budgétaires faites la semaine dernière par la ministre de l’action et des comptes publics lors de l’examen de la première partie du projet de loi de finances pour 2026 ont été suivies avec la plus grande attention en Corse. Mme de Montchalin a évoqué l’ajout d’une enveloppe de 50 millions d’euros destinée à renforcer le dispositif à la demande des élus de Corse. Cette mesure, si elle se confirmait, constituerait un signal important alors que les surcoûts liés à l’énergie, au fret et plus largement aux contraintes logistiques pèsent de plus en plus lourdement sur les transports aériens et maritimes insulaires.<br/>Même si cela ne relève pas de la compétence de votre ministère, permettez-moi de vous demander si vous pouvez confirmer officiellement la rallonge de la dotation de continuité territoriale dont bénéficie la Corse. Les collectivités comme les opérateurs de transport ont besoin de visibilité et de certitudes pour organiser l’offre, ajuster les tarifs et garantir le service public auquel nos concitoyens ont droit.<br/>Au-delà de cette confirmation, j’aimerais poser la question de la pérennisation de cet effort. Depuis 2009, on constate en effet un blocage. Le montant de l’enveloppe n’a pas augmenté alors qu’il conviendrait de l’ajuster en fonction du coût de la vie et de l’inflation. Je demande donc officiellement au gouvernement de se pencher sur la question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2814995" ordre_absolu_seance="191" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940391" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4751.05">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2814996" ordre_absolu_seance="192" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940392" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4784.18">Je vous remercie de votre engagement sur ce sujet. Nous parlions des avocats tout à l’heure, eh bien, voici maître Marcangeli qui plaide, comme toujours, pour la Corse !<br/>Vous avez raison : depuis 2009, le montant de l’enveloppe demeure inchangé alors que, dans cette même période, la situation a évolué. Si la collectivité a pu thésauriser dans le passé, la dépense est beaucoup plus élevée aujourd’hui en raison de l’accroissement des coûts structurels.<br/>Ce que je peux vous dire à ce stade, c’est que le gouvernement devra statuer sur ce point dans le cadre du projet de loi de finances. La ministre de l’action et des comptes publics connaît parfaitement la situation. L’éventualité d’accorder une rallonge exceptionnelle de la dotation au profit de la collectivité a été évoquée avec les élus, notamment vous-même, monsieur le ministre. Cette question sera tranchée prochainement.<br/>Même si je ne peux pas, à ce jour, vous assurer que l’octroi de cette rallonge est entériné, je peux vous confirmer que l’État n’agira pas dans le sens d’une fragilisation de la continuité territoriale. Pour les raisons que vous-même avez exposées, une telle orientation serait particulièrement dangereuse et néfaste. Vous l’avez très bien dit, il ne s’agit pas d’un privilège – nous le devons à nos amis corses.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815000" ordre_absolu_seance="196" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940396" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4873.35">La parole est à M. Laurent Marcangeli pour sa seconde question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815001" ordre_absolu_seance="197" id_acteur="PA605782" id_mandat="PM874605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940397" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Marcangeli (HOR)</nom>
+            <id>605782</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4884.83">Ce n’est pas une surprise : cette question porte sur la continuité territoriale en outre-mer, un sujet auquel mon groupe est très sensible. Les dispositifs publics de soutien à la continuité territoriale jouent un rôle crucial dans le renforcement des échanges et des liens entre l’ensemble de nos concitoyens, hexagonaux comme ultramarins, et dans la lutte contre les fortes inégalités économiques qui demeurent entre les différents territoires de la République.<br/>Diverses solutions ont été versées au débat. Certains collègues ont ainsi proposé de fixer des tarifs plafonds pour les liaisons aériennes régulières, Ladom étant chargé de financer l’écart entre le prix fixé par les compagnies aériennes et celui que paient nos concitoyens.<br/>Notre groupe s’oppose à une telle philosophie, convaincu qu’une telle démarche ne réglera pas le problème mais – pire – entraînera à terme une hausse mécanique des prix de la part des compagnies aériennes. Or nous sommes convaincus qu’il existe des solutions plus respectueuses des équilibres des marchés.<br/>Comment le gouvernement entend-il agir pour résoudre ce problème ? Envisagez-vous une réforme de l’aide à la continuité territoriale pour éviter de rigidifier le marché du transport aérien ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815005" ordre_absolu_seance="201" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940401" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4950.02">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815006" ordre_absolu_seance="202" id_acteur="PA720908" id_mandat="-1" id_nomination_oe="PM873678" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3940402" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Naïma Moutchou</nom>
+            <id>720908</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4972.60">Les aides de Ladom permettent à un nombre de plus en plus important de nos concitoyens de voyager afin de se former, d’étudier ailleurs ou de rendre visite à leur famille. Nous nous en félicitons, il ne faut pas modifier ce dispositif.<br/>La présence de plusieurs compagnies aériennes en outre-mer permet de faire jouer la concurrence par les prix. Cependant, il est vrai qu’à certaines périodes, lorsque la demande est forte, les prix peuvent être très élevés.<br/>Nous menons une réflexion sur cette question. Je vous remercie de l’avoir abordée dans le cadre de cette discussion. Peut-être trouverons-nous une solution en nous raccrochant à de futurs véhicules législatifs. Le projet de loi de lutte contre la vie chère dans les outre-mer, qui sera examiné début 2026 à l’Assemblée, pourrait en être un. Nous pourrons travailler ensemble sur ce dossier, auquel, je le sais, le groupe Horizons est très attaché, comme le gouvernement. Je vous propose d’en discuter en vue de l’examen de ce texte, de réfléchir à des dispositifs afin d’avancer sur cette voie en tout début d’année prochaine.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815009" ordre_absolu_seance="205" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940405" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>794354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5043.76">La séance de questions est terminée.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="2815011" ordre_absolu_seance="207" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3940407" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2815012" ordre_absolu_seance="208" id_acteur="PA794354" id_mandat="PM842960" id_nomination_oe="0" id_nomination_op="PM873247" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3940408" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>794354</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5046.17">Prochaine séance, demain, à quatorze heures :<br/> Questions au gouvernement ;<br/> Discussion de la proposition de résolution européenne relative à la mise en œuvre du protocole de l’Organisation mondiale de la santé pour « lutter contre le commerce illicite de tabac » ;<br/> Débat sur le thème : « Agences, opérateurs et organismes consultatifs d’État : quelle gouvernance, quelles priorités et quelles missions pour une action publique efficace et lisible ? »<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2815014" ordre_absolu_seance="210" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3940410" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-deux heures cinquante-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2815015" ordre_absolu_seance="211" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3940411" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

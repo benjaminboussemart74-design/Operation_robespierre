@@ -1,0 +1,903 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2026O1N088</uid>
+  <seanceRef>RUANR5L17S2026IDS30040</seanceRef>
+  <sessionRef>SCR5A2026O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20251209213000000</dateSeance>
+    <dateSeanceJour>mardi 09 décembre 2025</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>88</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2025 -2026</session>
+    <nomFichierJo>20250088</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-12-16T17:25:02.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3964332">Présidence de M. Christophe Blanchet</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3964336">
+          <intitule>Recours des collectivités territoriales au modèle de la société portuaire</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3964337"/>
+        <sommaire2>
+          <titreStruct id_syceron="3964339">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="3964341">M. Michel Fournier, ministre délégué chargé de la ruralité</para>
+          <para id_syceron="3964349">Mme Liliana Tanguy, rapporteure de la commission du développement durable et de l’aménagement du territoire</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3964360">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="3964362">Mme Sandrine Lalanne</para>
+          <para id_syceron="3964932">M. Thomas Portes</para>
+          <para id_syceron="3964942">M. Fabrice Roussel</para>
+          <para id_syceron="3964954">M. François-Xavier Ceccoli</para>
+          <para id_syceron="3965138">Mme Julie Ozenne</para>
+          <para id_syceron="3965149">M. Jimmy Pahun</para>
+          <para id_syceron="3965163">M. Jean-Michel Brard</para>
+          <para id_syceron="3965087">M. Paul Molac</para>
+          <para id_syceron="3965103">M. Jean-Paul Lecoq</para>
+          <para id_syceron="3965123">M. Olivier Fayssat</para>
+          <para id_syceron="3965307">Mme Béatrice Roullaud</para>
+          <para id_syceron="3965319">Mme Liliana Tanguy, rapporteure</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3965326">
+            <intitule>Explications de vote</intitule>
+          </titreStruct>
+          <para id_syceron="3965328">M. Sylvain Carrière (LFI-NFP)</para>
+          <para id_syceron="3965416">M. Jean-Paul Lecoq (GDR)</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3965431">
+            <intitule>Vote sur l’article unique</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3965425">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du mardi 09 décembre 2025</journee>
+      <session>Session ordinaire 2025 -2026</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2830204" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3964332" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Christophe Blanchet<br/> vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2830205" ordre_absolu_seance="2" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964333" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="902.54">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2830206" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3964334" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830208" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3964336" valeur=" (n[[o]] 2136)">
+      <orateurs/>
+      <texte>Recours des collectivités territoriales au modèle de la société portuaire</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830209" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="3964337" valeur="">
+      <orateurs/>
+      <texte>Discussion, après engagement de la procédure accélérée, d’une proposition de loi adoptée par le Sénat</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830210" ordre_absolu_seance="7" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964338" valeur=" (n[[os]] 1605, 2136)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="915.24">L’ordre du jour appelle la discussion de la proposition de loi élargissant la possibilité pour les collectivités territoriales et leurs groupements d’avoir recours au modèle de la société portuaire pour l’exploitation de leurs ports (n<exposant>os</exposant> 1605, 2136).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830211" ordre_absolu_seance="8" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3964339" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830212" ordre_absolu_seance="9" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964340" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="932.85">La parole est à M. le ministre délégué chargé de la ruralité.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830213" ordre_absolu_seance="10" id_acteur="PA873631" id_mandat="-1" id_nomination_oe="PM873736" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3964341" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Fournier</nom>
+            <id>873631</id>
+            <qualite>ministre délégué chargé de la ruralité</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="976.57">Le 18 juin dernier, le Sénat a adopté cette proposition de loi à l’unanimité. Cette adoption sans aucune voix discordante témoigne de la pertinence et de la maturité du texte, fruit d’un travail parlementaire de qualité et d’une écoute attentive des besoins des territoires.<br/>Aujourd’hui, l’enjeu est double : adopter ce texte nécessaire à la modernisation de la gouvernance portuaire, et le faire rapidement. Car le temps presse : le département du Finistère doit renouveler sa concession portuaire le 1<exposant>er</exposant> janvier 2026. C’est pourquoi je vous appelle à un vote conforme, qui permettra une promulgation rapide et offrira aux collectivités la sécurité juridique indispensable à leurs projets de développement portuaire.<br/>Ce texte pragmatique, ancré dans les réalités du terrain, vise à corriger une anomalie législative et à élargir la boîte à outils des collectivités territoriales. Rappelons d’abord l’importance économique des ports décentralisés : ce sont plus de 600 ports gérés par les communes, les départements et les régions, qui représentent 22 % du tonnage total de marchandises du pays et engendrent 600 millions d’euros de valeur ajoutée, en employant 11 000 personnes directement, et 16 000 de plus indirectement.<br/>Le modèle de la société portuaire existe depuis 2006, mais il est aujourd’hui réservé aux dix-sept ports métropolitains visés par la loi du 13 août 2004 relative aux libertés et aux responsabilités locales. Cette limitation est devenue obsolète. D’autres ports ont été transférés en pleine propriété aux collectivités, notamment depuis la loi Notre du 7 août 2015 – cependant, même si leur situation est strictement comparable, ces dernières ne peuvent bénéficier de ce dispositif. Les régions Bretagne et Nouvelle-Aquitaine ont démontré l’efficacité de ce modèle avec BrestPort et Port de Bayonne. Ces expériences prouvent qu’il est possible de concilier expertise publique et efficacité économique, et de renforcer le pilotage des collectivités tout en préservant la coopération avec les chambres de commerce et d’industrie (CCI).<br/>Cette proposition de loi permettra aux collectivités de disposer d’un cadre juridique modernisé, facilitant une gestion plus souple ; de renforcer leur pilotage dans la gouvernance portuaire : d’envisager une gestion coordonnée de plusieurs ports au sein d’une structure unique ; enfin, de mobiliser des capitaux pour accompagner le développement des infrastructures. Je tiens à vous rassurer, toutes les garanties sociales sont cependant maintenues. Les agents publics pourront signer un contrat de droit privé ou être réintégrés dans leur chambre de commerce et d’industrie d’origine ; les salariés de droit privé bénéficieront du transfert dans le respect du droit du travail. Notre attachement au dialogue social et à la protection de l’emploi est total.<br/>Par ailleurs, ce texte reflète notre vision d’une politique des transports pragmatique, à l’écoute des territoires, respectueuse des équilibres sociaux, visant un objectif de simplification et d’efficacité. L’urgence du calendrier, la qualité du texte adopté par le Sénat et les besoins concrets des territoires plaident en faveur du vote de cette proposition de loi. Je vous invite donc à adopter ce texte, pour en permettre la promulgation rapide et offrir aux collectivités un outil de gouvernance portuaire moderne, efficace et adapté aux défis contemporains.<italique> (Mmes Sophie Errante et Sandrine Lalanne applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830219" ordre_absolu_seance="16" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964347" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1200.05">La parole est à Mme Liliana Tanguy, rapporteure de la commission du développement durable et de l’aménagement du territoire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830220" ordre_absolu_seance="17" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964348" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1220.83">La Bretagne à la tribune !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830221" ordre_absolu_seance="18" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3964349" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure de la commission du développement durable et de l’aménagement du territoire</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1229.01">Le système portuaire français, qu’il s’agisse des grands ports maritimes ou des ports décentralisés, des ports de commerce, de pêche ou de plaisance, est un atout formidable pour notre pays. Nos ports sont des portes entrouvertes sur le monde : ils accueillent 326 millions de tonnes de trafic maritime par an.<br/>La gestion des ports est une compétence éclatée entre l’État et les différentes strates des collectivités, fruit des vagues successives de décentralisation. Les outils juridiques à la disposition des autorités portuaires se sont adaptés à ces nouvelles réalités, mais de manière imparfaite. L’objet de la présente proposition de loi est de mettre en cohérence le droit avec la réalité. Je veux rendre hommage au pragmatisme de ses auteurs, les sénateurs Nadège Havet, Michel Canévet et Yves Bleunven. Tous les groupes du Sénat ont voté ce texte issu du terrain, efficace, utile et simplificateur.<br/>Un bref rappel historique est nécessaire. En 1983, le législateur a donné compétence aux départements pour exploiter 304 ports maritimes de commerce et de pêche, et a conféré la même compétence aux communes pour 228 ports de plaisance. La loi de décentralisation de 2004 a marqué une nouvelle étape majeure en transférant aux régions à la fois la propriété et la compétence concernant dix-sept ports d’intérêt national métropolitains et un port ultramarin. Puis la loi du 4 juillet 2008 portant réforme portuaire a créé le statut de grand port maritime, qui s’est appliqué aux onze ports maritimes relevant de l’État. Actuellement, la France compte plus de 600 ports décentralisés, qui représentent 22 % du tonnage total de marchandises du pays, 600 millions d’euros de valeur ajoutée, 11 000 emplois directs – 27 000 en incluant les emplois indirects.<br/>Les collectivités disposent de plusieurs outils pour assurer la gestion de leurs ports : la régie, en gestion directe ou par une entité intermédiaire ; la concession, avec délégation à un tiers – historiquement, le réseau des CCI est très mobilisé dans ce mode de gestion ; la société publique locale (SPL), dont le capital n’est ouvert qu’à des collectivités territoriales et à leurs groupements, ce qui exclut les CCI ; la société d’économie mixte (SEM), à actionnariat majoritairement public, mais qui peut associer des acteurs privés qui détiennent au moins 15 % du capital ; enfin, la société d’économie mixte à opération unique (Semop), créée spécifiquement pour un projet, comme la gestion d’un port, avec un actionnariat public et privé, où le public n’est pas forcément majoritaire.<br/>La loi du 5 janvier 2006 relative à la sécurité et au développement des transports a également créé le modèle de la société portuaire qui constitue, pour les collectivités, un outil supplémentaire de gestion des ports. La société portuaire a l’avantage de pouvoir associer des collectivités territoriales et des chambres de commerce et d’industrie ; d’autre part, elle permet de bénéficier de la souplesse propre au modèle de la quasi-régie, en matière de mise en concurrence et de publicité des concessions. Toutefois, en 2006, le législateur n’a réservé ce statut qu’aux dix-huit ports pour lesquels la compétence de l’État avait été transférée aux régions en 2004 ; à l’époque, le besoin n’apparaissait pas de l’étendre aux autres ports décentralisés.<br/>La présente proposition de loi part des besoins du terrain et d’un manque juridique injustifié : d’un côté, nos ports ont besoin d’investissements significatifs et d’une gestion souple ; de l’autre, il est très complexe de conjuguer les capacités d’investissement et de gestion des collectivités à celles des chambres de commerce et d’industrie. À cet égard, la société portuaire offre un outil particulièrement utile. On comprend mal pourquoi ce statut n’est actuellement ouvert qu’à dix-huit ports parmi l’ensemble des ports décentralisés. Soulignons le maintien des garanties sociales existantes lorsque la société portuaire est créée : en particulier, le transfert des contrats de travail est prévu en cas de changement de concessionnaire.<br/>Il n’existe pour l’heure que deux sociétés portuaires : BrestPort, créée en 2021 et détenue à 50 % par la région Bretagne, à 39 % par la CCI du Finistère et à 11 % par Brest Métropole ; Port de Bayonne, créée en 2024 et détenue à 70 % par la région Nouvelle-Aquitaine, à un peu plus de 27 % par la CCI Bayonne Pays basque et à un peu moins de 3 % par la CCI des Landes.<br/>D’autres ports pourraient avoir recours à ce modèle, comme ceux du pays de Cornouaille, notamment ceux situés dans ma circonscription. Seul le port de Concarneau, localisé dans la circonscription voisine, est actuellement éligible au modèle de gestion en société portuaire, les six autres ports du pays de Cornouaille ne le pouvant pas juridiquement. Or une gestion unifiée par les collectivités et la CCI est très attendue par le département du Finistère ainsi que par les élus du Pays Bigouden Sud, que je salue. Une gestion unifiée par les collectivités et la CCI permettrait d’augmenter la capacité d’investissement dans les infrastructures cruciales que sont l’outillage de levage et les dispositifs de froid, ainsi que dans la transition écologique.<br/>C’est la raison pour laquelle il est nécessaire d’adopter cette proposition de loi, qui prévoit de supprimer la limitation du modèle de la société portuaire aux seuls dix-huit ports transférés aux régions par la loi de 2004. En effet, cette restriction n’est plus justifiée.<br/>Remarquons qu’en l’absence d’investisseurs privés dans une société portuaire – comme c’est le cas dans les deux sociétés portuaires existantes –, la société est éligible au modèle de quasi-régie. Elle ne se voit donc pas contrainte par les règles de publicité et de mise en concurrence des concessions à leur renouvellement.<br/>La commission a adopté cette proposition de loi sans modification. Mes chers collègues, ce texte constitue une occasion pour notre assemblée d’adopter une mesure utile et éprouvée sur le terrain. Je plaide pour son adoption dans une rédaction conforme à celle de nos collègues sénateurs.<italique> (Mmes Sophie Errante, Sandrine Lalanne</italique><italique> et</italique><italique> Sandrine</italique><italique> Le</italique><italique> Feur, présidente de la commission du développement durable et de l’aménagement du territoire,</italique><italique> applaudissent.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830232" ordre_absolu_seance="29" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3964360" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <interExtraction nom_orateur="Mme Sandrine Lalanne" id_acteur="PA795390" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM874935">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830233" ordre_absolu_seance="30" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="DISC_GENERALE_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964361" valeur="" bibard="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>719024</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1704.66">Dans la discussion générale, la parole est à Mme Sandrine Lalanne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2830234" ordre_absolu_seance="31" id_acteur="PA795390" id_mandat="PM874935" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_GENERALE_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3964362" valeur="" bibard="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sandrine Lalanne</nom>
+              <id>795390</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1733.08">La France est la deuxième nation maritime au monde, avec un littoral de plus de 20 000 kilomètres. Elle est aussi le deuxième fabricant mondial – et le premier en Europe – de bateaux de plaisance. Pourtant, les deux tiers des produits de la mer que nous consommons sont importés ; notre potentiel nous permettrait de prendre une plus grande part au commerce maritime. Ce paradoxe montre combien l’attractivité économique de certains territoires littoraux et leur capacité à s’appuyer sur des ports résilients sont essentielles pour soutenir les économies de proximité.<br/>Outre les 11 grands ports maritimes – qui sont des établissements publics de l’État –, plus de 600 ports décentralisés – 470 ports de plaisance, 100 ports de pêche et 50 ports de commerce – jouent un rôle économique majeur à l’échelle territoriale.<br/>Ils représentent 22 % du tonnage total de marchandises, 600 millions d’euros de valeur ajoutée et 27 000 emplois, dont 11 000 emplois directs.<br/>Depuis la loi du 5 janvier 2006 relative à la sécurité et au développement des transports, les collectivités territoriales peuvent créer ou prendre des participations dans des sociétés portuaires. Toutefois, cette possibilité est actuellement réservée aux dix-huit ports visés par la loi du 13 août 2004. La présente proposition de loi vise à supprimer cette limitation, pour ouvrir cette possibilité à l’ensemble des collectivités territoriales et de leurs groupements détenant des ports en pleine propriété.<br/>Dans le modèle de la société portuaire, les collectivités concédantes renforcent leur implication dans la stratégie de développement de leurs ports en devenant concessionnaires. Cela permet d’allier l’expertise de la CCI, acteur parfois historique de la gouvernance des ports, à la puissance financière des collectivités pour préserver et accroître le volume de leurs investissements dans la transition écologique et technologique ainsi que pour améliorer leur compétitivité. Ce modèle offre de nombreux avantages : une gestion administrative simplifiée par rapport aux règles applicables aux SPL et aux SEM ; la possibilité d’engager un véritable plan de développement, l’actionnaire public étant en mesure de prendre des risques sur le long terme ; une capacité d’investissement renforcée ; la préservation des emplois, voire la création de nouveaux emplois ; enfin, une faculté d’adaptation aux enjeux actuels. Les ports de Bayonne et de Brest sont les seuls à avoir jusqu’à présent adopté la forme de la société portuaire ; ils ont apporté la démonstration de l’efficacité d’un modèle qu’il n’apparaît aucunement nécessaire de faire évoluer.<br/>L’avenir de nos ports dépend aussi étroitement de leur capacité à réussir la transition écologique. Les infrastructures portuaires doivent répondre à des exigences nouvelles : réduction des émissions de gaz à effet de serre, décarbonation des activités logistiques et construction navale plus vertueuse. Investir massivement dans ces transformations, c’est non seulement garantir la conformité de ces ports aux normes européennes et internationales, mais c’est aussi renforcer leur attractivité face à une concurrence mondiale toujours plus exigeante. Le port de Brest, via la société portuaire Brest Bretagne, a ainsi engagé un plan d’investissement de 900 millions d’euros sur quarante ans, dont 500 millions doivent être réalisés dès les dix premières années.<br/>Enfin, le risque que des capitaux étrangers s’introduisent dans les sociétés portuaires sans contrôle préalable de l’État est maîtrisé. Les CCI, établissements publics placés sous la tutelle de l’État, ne peuvent céder ou acquérir des participations dans une société portuaire qu’avec l’autorisation préalable du préfet de région. Le cadre juridique prévu par le code du commerce garantit déjà pleinement ce contrôle de l’État et sécurise la gouvernance publique des ports.<br/>De nombreuses concessions arrivent bientôt à échéance : la nécessité d’une adoption rapide de ce texte n’en est que plus grande. Nous montrerons ainsi aux acteurs économiques que nous savons réagir rapidement aux évolutions qui les touchent. Au vu du rapport produit par Mme la rapporteure, dont je salue le travail, et des auditions menées par le Sénat, qui l’a adopté à l’unanimité, le groupe EPR votera ce texte, dans l’espoir d’une adoption conforme.<italique> (Applaudissements</italique><italique> sur</italique><italique> les</italique><italique> bancs</italique><italique> des</italique><italique> commissions.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2830475" ordre_absolu_seance="39" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964931" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1984.13">La parole est à M. Thomas Portes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2830476" ordre_absolu_seance="40" id_acteur="PA796062" id_mandat="PM843668" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3964932" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thomas Portes</nom>
+            <id>796062</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2003.56">Vous prétendez que cette proposition de loi modernisera la gestion des plus de 500 ports relevant des collectivités territoriales. Elle organise en réalité leur basculement vers un modèle de société portuaire, une structure de droit privé – habillée de capitaux publics, mais guidée par une logique de marché. La France insoumise s’y oppose fermement.<br/>Ce texte s’inscrit dans une trajectoire sans équivoque : la casse du service public portuaire, l’opacification des décisions et l’ouverture progressive d’infrastructures stratégiques aux intérêts privés et potentiellement étrangers. Votre modèle est celui de la privatisation par étapes. Elle commence par transformer ces infrastructures en sociétés de droit privé et par faire entrer dans leur capital les CCI, dont la gouvernance est dominée par des représentants d’entreprise qui favorisent souvent la recherche de la rentabilité au détriment de l’intérêt général. Il ne reste plus, ensuite, qu’à ouvrir grand les portes aux intérêts privés. Absolument rien, dans ce texte, n’empêche que des capitaux privés n’entrent demain dans la gestion de nos ports.<br/>Nous ne connaissons malheureusement que trop bien ce scénario pour l’avoir déjà vu jouer avec les aéroports. ADP, établissement public hier, société anonyme ensuite, a été introduit en Bourse avant que Vinci ne rentre dans son capital. En 2004 et en 2005, la gestion de 150 aérodromes est confiée à des collectivités ; quelques années plus tard, les gestionnaires en ouvrent le capital à des investissements privés. Le cabinet SIA Partners a parfaitement documenté comment ces acteurs, nés publics, glissent progressivement vers le privé par l’ouverture de leur capital, par des concessions ou par des délégations de service public.<br/>Ce texte applique aux ports la même doctrine libérale. C’est une loi pour servir vos amis. Ne prétendez pas que la détention à 100 % du capital initial par une collectivité publique offre une quelconque garantie : rien n’interdit, dans un second temps, l’arrivée d’acteurs privés. C’est d’autant plus vrai que les CCI, censées être présentes au capital, voient leurs ressources publiques s’effondrer : le projet de loi de finances (PLF) pour 2026 prévoit de réduire d’un tiers leur budget, après qu’il a déjà baissé de 66 % depuis 2013. Pour survivre, elles seront poussées à se tourner vers des financements privés ; et quand les financements privés entrent, l’intérêt général sort.<br/>Les expérimentations de BrestPort et Port de Bayonne devraient suffire à vous faire voir le danger. Les conséquences y sont terribles : manque de transparence, éclatement de la prise de décision et perte de contrôle démocratique. À Bayonne, la transformation en société portuaire a même permis de contourner l’appel d’offres. Une concession pour quarante ans a remplacé une délégation de service public renouvelée tous les quinze ans, garantissant ainsi un équilibre minimal.<br/>La prise de pouvoir par le privé n’est pas le seul danger. Nos ports sont des infrastructures hautement stratégiques : nous devrions y interdire clairement et définitivement toute participation de capitaux étrangers. Mais vous ne le faites pas, si bien que rien ne nous prémunit contre leur arrivée. Tout au contraire, ce texte autorise l’arrivée de financements étrangers dès lors que l’État valide une cession. Sous un gouvernement ultralibéral et dans un contexte de sous-financement chronique des collectivités et des CCI, cette hypothèse n’a rien de théorique.<br/>Vous justifiez votre texte par la mutualisation des moyens des CCI et des collectivités pour financer les investissements portuaires. Mais si cette mutualisation devient nécessaire, c’est parce que vous avez méthodiquement affaibli les pouvoirs publics : baisse des dotations aux communes et aux départements, réduction massive du financement des CCI et désengagement continu de l’État sous le macronisme.<br/>Ce texte assume son objectif : organiser la privatisation d’infrastructures d’intérêt général, après que votre politique les a asphyxiées financièrement. Rien, en revanche, ne fait référence à l’enjeu central, l’écologie. Nos ports traitent chaque année des centaines de millions de tonnes de marchandises. La zone industrialo-portuaire de Fos-sur-Mer, par exemple, émet près de 18 millions de tonnes de CO<indice>2</indice> par an. Nous avons besoin d’une grande loi sur la décarbonation, la modernisation écologique et la durabilité des ports ; vous proposez à la place une réforme à votre image, libérale, sans vision climatique ni ambition environnementale, au service des intérêts privés et des capitaux étrangers.<br/>Nous voulons des ports entièrement publics, au service de l’aménagement du territoire, de la sécurité de l’emploi et de la décarbonation, des ports protégés des appétits privés et étrangers. Au nom de la transparence, de la démocratie, de l’intérêt général, de la souveraineté, du service public et de l’exigence écologique, nous voterons contre cette proposition de loi.<italique> (Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2830485" ordre_absolu_seance="49" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964941" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2256.25">La parole est à M. Fabrice Roussel.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2830486" ordre_absolu_seance="50" id_acteur="PA841327" id_mandat="PM842915" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3964942" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabrice Roussel</nom>
+            <id>841327</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2275.18">Dans notre économie, les ports occupent une place stratégique du point de vue logistique, industriel et social. Les grands ports maritimes traitent chaque année plusieurs centaines de millions de tonnes de marchandises, tandis que l’ensemble des activités du secteur génère environ 15 milliards d’euros de valeur et soutient près de 180 000 emplois directs.<br/>La gestion portuaire, en France, est très largement décentralisée : on recense plus de 600 ports relevant des collectivités territoriales. S’ils ne comptent que pour une part minoritaire du trafic national de marchandises, ils occupent cependant une place essentielle dans l’économie maritime française, en concentrant près de 75 % du trafic de véhicules et du transport de passagers. Ils produisent environ 600 millions d’euros de valeur et emploient, directement ou indirectement, près de 27 000 salariés.<br/>L’économie maritime représente au total près de 1,5 % du PIB français. Cette contribution ne provient pas seulement du transport de marchandises, de la pêche ou encore de la plaisance, mais aussi de l’ensemble des activités paraportuaires : industrie, réparation navale, commerce logistique et services liés aux hinterlands. Les ports constituent également des leviers de réindustrialisation. Dans le cadre de la stratégie nationale portuaire, la France s’est fixé l’objectif de doubler les emplois liés à l’activité portuaire d’ici à 2050 et de renforcer l’attractivité de ses plateformes dans le trafic de conteneurs. Dans certains bassins d’emploi côtiers, les activités maritimes représentent jusqu’à 10 % des emplois, ce qui illustre le rôle structurant des ports dans le développement territorial.<br/>Les ports doivent cependant relever plusieurs défis majeurs. L’avenir de la pêche est une question essentielle et stratégique. Le domaine maritime français est la deuxième plus grande zone économique exclusive au monde ; la France, pourtant, importe les trois quarts de sa consommation de produits de la mer et l’aquaculture produit moins de 10 % de ses besoins, ce qui nous place dans une situation de forte dépendance alimentaire.<br/>Les ports sont également confrontés à d’autres enjeux structurants : la décarbonation des infrastructures et des activités, la transformation de la construction navale, le développement d’une plaisance durable et, plus généralement, le financement des investissements nécessaires à l’accompagnement de ces transitions.<br/>Dans ce contexte, le modèle de la société portuaire a deux atouts essentiels : d’une part, il renforce l’implication des collectivités territoriales concédantes, qui deviennent pleinement actrices de la gouvernance portuaire, ce qui conduit à aligner stratégie locale, besoins économiques et développement portuaire ; d’autre part, la participation financière accrue des collectivités offre une base plus solide pour financer les investissements lourds que les CCI ne sont plus en mesure d’assumer seules. Ce modèle permet donc de sécuriser les investissements indispensables à la compétitivité des ports français.<br/>Je souhaite néanmoins attirer votre attention sur deux points. Comme vous l’avez remarqué, monsieur le ministre, il est d’abord essentiel de veiller à la préservation des droits sociaux des agents transférés, afin d’éviter d’aviver certaines tensions. Dans un second temps, si le statut de société portuaire impose un capital initial entièrement public pour permettre le transfert de concession, il n’interdit pas pour autant une ouverture progressive du capital à des acteurs privés. Cela fait courir un risque de perte de contrôle, de la part des pouvoirs publics, sur des infrastructures pourtant stratégiques.<br/>Ce risque est renforcé par les difficultés financières des CCI, qui pourraient être contraintes de se retirer du capital au profit d’acteurs privés, dont les intérêts économiques ou géopolitiques peuvent diverger de l’intérêt général que les ports sont censés servir. L’article L. 151-3 du code monétaire et financier, qui traite de l’obligation d’obtenir l’autorisation du préfet pour toute cession éventuelle des CCI, démontre surtout l’absence de garanties effectives contre une perte de contrôle public des sociétés portuaires créées par les collectivités territoriales. Ce dispositif relève en effet exclusivement du contrôle des investisseurs étrangers dans des secteurs stratégiques ; mais ces ports relevant des collectivités territoriales, y compris quand ils sont gérés par une société portuaire constituée sous forme commerciale, ne sont pas considérés comme des infrastructures essentielles, au sens du droit de contrôle des investissements étrangers.<br/>C’est pour ces raisons que nous avions déposé trois amendements en commission. Ils y ont été examinés mais n’ont pas été jugés recevables en séance, à notre grande surprise, au motif qu’ils entraîneraient une hypothétique perte de recettes publiques.<br/>Nous voterons néanmoins pour ce texte, tout en restant particulièrement attentifs à son évolution et à celle de nos infrastructures portuaires, qui demeurent des actifs stratégiques pour notre économie, notre souveraineté logistique et notre sécurité maritime.<italique> (Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2830496" ordre_absolu_seance="60" id_acteur="PA840955" id_mandat="PM842573" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964952" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Pribetich</nom>
+            <id>840955</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2547.22">Bravo !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2830497" ordre_absolu_seance="61" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3964953" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2575.01">La parole est à M. François-Xavier Ceccoli.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2830498" ordre_absolu_seance="62" id_acteur="PA841047" id_mandat="PM842675" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3964954" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Xavier Ceccoli</nom>
+            <id>841047</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2592.70">Notre groupe apportera un soutien sans équivoque à cette proposition de loi, car elle corrige une inégalité juridique qui bride depuis près de vingt ans la capacité d’action des collectivités littorales et fluviales.<br/>Le texte répond à une exigence d’efficacité. Il permet aux collectivités propriétaires d’un port de créer une société portuaire au capital initial entièrement public, d’en transférer la concession dans un cadre sécurisé et d’y associer les CCI ou les acteurs économiques, selon une gouvernance souple et moderne. Il garantit également la continuité des droits des agents, ce qui est indispensable à la stabilité de ces projets : le facteur humain, dans cette évolution, ne saurait être oublié.<br/>La France compte plus de 600 ports décentralisés représentant à eux seuls 22 % du tonnage total de marchandises du pays, 600 millions d’euros de valeur ajoutée et quelque 11 000 emplois directs. Toutefois, à ce jour, seuls 17 ports peuvent avoir recours au modèle de société portuaire. Cela signifie que la quasi-totalité des ports de pêche, de commerce ou de plaisance, pourtant essentiels à l’économie locale, ne disposent pas de l’outil le plus efficace pour se moderniser, attirer des investissements ou conduire des projets industriels de long terme.<br/>Cette situation n’a plus de justification. L’accès à ce modèle doit donc être élargi, car il permet de renforcer l’implication des collectivités territoriales concédantes dans la stratégie de développement de leurs ports. Elles le demandent d’ailleurs de façon récurrente, conscientes que leur destin est lié à cette infrastructure. Ce modèle constitue également l’un des leviers les plus performants pour développer les énergies marines, décarboner les chaînes logistiques, soutenir la souveraineté alimentaire et accompagner les projets liés à l’hydrogène. Les enjeux sont multiples et touchent à l’avenir de notre société et de nos enfants.<br/>Promouvoir la participation des collectivités à des sociétés portuaires, aux côtés des CCI, permet de mutualiser les risques et de fluidifier les relations et les négociations entre concédants et concessionnaires. La gestion vertueuse des sociétés portuaires de Brest, Bayonne ou Port-la-Nouvelle le prouve.<br/>À ce titre, un tel outil présente un intérêt particulier pour les territoires insulaires. En Corse, que j’ai l’honneur de représenter, la logistique maritime, la continuité territoriale et les investissements portuaires conditionnent chaque jour l’approvisionnement, la transition énergétique et le développement économique – c’est-à-dire le bien-être des habitants de l’île. Disposer d’un modèle de gouvernance plus agile, plus lisible et capable de piloter des projets multiports constitue donc un véritable atout stratégique pour un territoire insulaire dépendant de ses infrastructures maritimes.<br/>Enfin, l’urgence est réelle : plusieurs concessions arriveront à échéance le 1<exposant>er</exposant> janvier 2026, notamment dans le Finistère. Notre vote conforme est donc indispensable pour garantir la continuité d’exploitation, la sécurité juridique des collectivités et la préservation des emplois. Pour toutes ces raisons – équité, efficacité, transition écologique et urgence opérationnelle –, notre groupe votera pour l’adoption de cette proposition de loi.<italique> (Applaudissements sur les bancs du groupe HOR. – Mme la rapporteure applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830555" ordre_absolu_seance="69" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965137" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2823.57">La parole est à Mme Julie Ozenne.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830556" ordre_absolu_seance="70" id_acteur="PA842045" id_mandat="PM843581" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965138" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Julie Ozenne</nom>
+            <id>842045</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2858.13">À ce jour, seules dix-huit installations peuvent bénéficier du modèle de la société portuaire pour l’exploitation de leurs ports. Ce format permet pourtant de sécuriser le financement, de moderniser les infrastructures portuaires, de conforter l’emploi maritime dans les territoires et de bénéficier des dérogations liées aux contrats de quasi-régie.<br/>Les quelque 600 ports décentralisés français sont donc privés des avantages de ce dispositif plus vertueux : associer collectivités et chambres de commerce et d’industrie dans une gouvernance plus souple et robuste, mutualiser les risques, simplifier les relations entre concédant et concessionnaire et faciliter des investissements de long terme. L’objectif de ce mode de fonctionnement est d’exploiter au mieux les atouts maritimes de la France. Le groupe Écologiste et social soutient donc la démarche de cette proposition de loi – avec quelques réserves, toutefois.<br/>Les ports jouent un rôle stratégique pour notre territoire, pour notre économie, mais aussi pour la biodiversité marine. Or les CCI, dont ce texte renforce la place, ne garantissent pas à elles seules une prise en compte suffisante des enjeux écologiques et sociaux. L’occupation du domaine public maritime, les aménagements portuaires, les digues : voilà des éléments qui exercent déjà une pression forte sur nos écosystèmes.<br/>Il est donc absolument nécessaire que ces ports adoptent des démarches opérationnelles de protection de la faune, de la flore et de la qualité des eaux. Lors du comité interministériel de la logistique du 7 décembre 2020, il a été rappelé que les écosystèmes portuaires français avaient un rôle déterminant à jouer dans la décarbonation des chaînes de transport à l’horizon 2050.<br/>En 2021, la stratégie nationale portuaire a été adoptée. L’accélération de la transition écologique et énergétique des ports de commerce en est un axe majeur, un levier essentiel pour réduire l’impact des infrastructures portuaires sur l’environnement et le climat. L’édition 2024 de l’Observatoire de la performance portuaire et des chaînes logistiques rappelle encore que « les ports doivent répondre aux objectifs fixés par le paquet Fit for 55, qui prévoit une réduction des émissions de gaz à effet de serre (GES) d’au moins 55 % d’ici à 2030 ». Nous devons donc saisir l’occasion qu’offre cette proposition de loi de bonifier la stratégie française de verdissement de ses pratiques.<br/>Au-delà du besoin d’amélioration des pratiques des ports en matière écologique, il est également primordial de limiter les risques liés à cette exploitation maritime. Nous déplorons le contexte général de baisse des dotations aux collectivités : plus de 7 millions d’euros de coupes pour les collectivités territoriales et les services publics locaux dans le PLF pour 2026. Il ne s’agit pas de leur faire un cadeau empoisonné, alors qu’elles risquent de devoir céder progressivement leurs parts. Cela limiterait leur capacité à orienter le développement portuaire dans une démarche plus soucieuse des enjeux écologiques et sociaux.<br/>En commission, nous avons apporté notre soutien à des amendements visant à introduire des garanties de protection supplémentaires. Il nous aurait par exemple paru souhaitable que toute cession totale ou partielle des participations détenues par une CCI soit soumise au contrôle des investissements étrangers, mais aussi à autorisation, afin d’éviter toute prise de contrôle étrangère sur des infrastructures portuaires stratégiques. Malheureusement, ces amendements ont été rejetés. Nous serons très attentifs au respect de ces conditions.<br/>L’ouverture plus large du recours au modèle de société portuaire est une évolution utile, mais elle doit s’accompagner de garanties de gouvernance et, surtout, de moyens publics renforcés, afin de préserver la maîtrise des collectivités et de soutenir une véritable ambition écologique et sociale. Le risque existe désormais que des sociétés étrangères intègrent ce type de sociétés portuaires. Il faudra s’en préoccuper pour l’avenir.<italique> (Mme la rapporteure sourit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830564" ordre_absolu_seance="78" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965146" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2881.24">Pas plus qu’avant.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830565" ordre_absolu_seance="79" id_acteur="PA842045" id_mandat="PM843581" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965147" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Julie Ozenne</nom>
+            <id>842045</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3098.11">C’est très sérieux.<italique> (M. Édouard Bénard applaudit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830566" ordre_absolu_seance="80" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965148" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3106.99">La parole est à M. Jimmy Pahun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830567" ordre_absolu_seance="81" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965149" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jimmy Pahun</nom>
+            <id>720334</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3135.51">Je remercie la rapporteure et mes collègues bretons du Sénat, …</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830568" ordre_absolu_seance="82" id_acteur="PA796106" id_mandat="PM843383" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965150" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Édouard Bénard</nom>
+            <id>796106</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3138.21">Chauvinisme !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830569" ordre_absolu_seance="83" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965151" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jimmy Pahun</nom>
+            <id>720334</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3138.49">…Nadège Havet, Michel Canévet et Yves Bleunven. Leur travail répond à des difficultés rencontrées pour faire évoluer notre modèle de gouvernance portuaire. J’évoquerai ainsi le département du Finistère et la région Bretagne, non en tant que Breton,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830570" ordre_absolu_seance="84" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965152" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3153.45">Régionalisme !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830571" ordre_absolu_seance="85" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965153" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jimmy Pahun</nom>
+            <id>720334</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3153.53">…mais parce que ces territoires devront faire face, d’ici fin décembre, à la fin des concessions. Depuis la loi du 5 janvier 2006 relative à la sécurité et au développement des transports, les collectivités territoriales ont la possibilité de créer des sociétés portuaires ou d’y prendre des participations, mais uniquement pour les ports métropolitains visés par la loi du 13 août 2004 – des ports d’intérêt national pour lesquels la compétence de l’État a alors été transférée aux régions ou aux départements.<br/>À ce jour, d’ailleurs, seules trois collectivités ont exercé cette faculté : la région Bretagne à Brest, la région Nouvelle-Aquitaine à Bayonne et la région Occitanie à Port-la-Nouvelle. Je crois à l’avenir des ports décentralisés, et au cabotage : contrairement à ce qui se passe dans les grands ports maritimes, comme celui du Havre, où les conteneurs sont parfois parqués pendant un mois avant d’être livrés à leur destinataire, le cabotage permet de faire circuler la marchandise de port en port ; on peut aller la chercher dans un port et l’acheminer de l’autre côté de l’Atlantique, ou ailleurs en Europe.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830573" ordre_absolu_seance="87" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965155" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3209.70">Quand même pas !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830574" ordre_absolu_seance="88" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965156" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jimmy Pahun</nom>
+            <id>720334</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3228.28">C’est important pour le transport maritime à la voile, auquel nous croyons beaucoup. En Bretagne, le Caboteur des îles est une réussite. Je crois également à l’évolution des ports. La base sous-marine de Lorient s’est ainsi transformée en un pôle de course au large exceptionnel. Les zones portuaires présentent aussi un grand intérêt pour le futur développement des énergies marines.<br/>Cette proposition de loi étend donc la possibilité, pour les collectivités territoriales et leurs groupements détenant des ports en pleine propriété, d’avoir recours au modèle de la société portuaire. Elle procède également à des mises à jour bienvenues.<br/>Ce modèle permet une gestion plus souple des infrastructures portuaires et un renforcement de leur pilotage, en associant collectivités et chambres de commerce et d’industrie. Il permet également d’envisager une gestion coordonnée de plusieurs ports au sein d’une structure unique, ou de mobiliser des capitaux privés pour accompagner le développement des infrastructures. Je comprends les mises en garde de Mme Ozenne au sujet des investisseurs étrangers susceptibles de prendre des parts dans ces sociétés portuaires. Nous risquons peut-être de ne plus être chez nous, comme les Grecs au Pirée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830577" ordre_absolu_seance="91" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965159" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3305.32">Non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830578" ordre_absolu_seance="92" id_acteur="PA720334" id_mandat="PM842996" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965160" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jimmy Pahun</nom>
+            <id>720334</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3311.62">Cette proposition de loi marque une avancée importante pour nos ports et nos territoires côtiers. Nous devons être particulièrement attentifs à la souveraineté alimentaire de notre pays, à laquelle la filière pêche contribue ; nous devons trouver pour elle des solutions équilibrées, au service d’un avenir plus prospère et durable.<br/>Il s’agit d’un enjeu de compétitivité, d’emploi et de développement économique ; c’est aussi une demande des collectivités, qui en ont besoin. Nous devons les entendre. Le groupe Les Démocrates votera en faveur de cette proposition de loi et souhaite qu’elle soit adoptée de manière conforme pour permettre sa promulgation rapide, afin de répondre à l’urgence rencontrée sur le terrain.<italique> (Mme la rapporteure, M. Frédéric Petit et Mme Julie Ozenne applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830580" ordre_absolu_seance="94" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965162" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3356.94">La parole est à M. Jean-Michel Brard.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2830581" ordre_absolu_seance="95" id_acteur="PA841339" id_mandat="PM842927" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965163" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Michel Brard</nom>
+            <id>841339</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3375.04">Cette proposition de loi est aussi technique qu’essentielle pour l’avenir de nos ports territoriaux. Elle touche à un pan souvent méconnu de notre politique maritime qui, pour nos collectivités littorales, représente pourtant un enjeu stratégique majeur : la capacité à gérer, à moderniser et à développer efficacement les ports qui irriguent nos économies locales.<br/>Je le dis en tant qu’élu d’un territoire qui connaît intimement l’importance de ses ports, qu’il s’agisse de ports de pêche, de ports de plaisance ou de petits ports de commerce. En Loire-Atlantique, sur l’ensemble du littoral, de Pornic à La Turballe, nos ports sont bien plus que des infrastructures techniques. Ce sont des lieux de vie, des pôles économiques, des portes d’entrée touristiques et des identités locales. Leur gestion doit disposer d’outils modernes, souples et adaptés aux besoins du terrain.<br/>Cette proposition de loi répond précisément à cette nécessité. Elle vise à ouvrir à l’ensemble des collectivités territoriales la possibilité de recourir au modèle de la société portuaire, actuellement accessible à un nombre très restreint d’entre elles, en vertu de la loi du 13 août 2004 relative aux libertés et aux responsabilités locales. Seuls dix-huit ports sont concernés par ce dispositif. Tous les autres, pourtant tout aussi stratégiques, en sont exclus.<br/>Cette situation n’est ni cohérente, ni satisfaisante, ni conforme aux attentes des élus locaux. Comme cela a été rappelé, les ports décentralisés constituent un maillage essentiel de notre économie maritime. Ils représentent 22 % du tonnage national, 75 % du roulier et 75 % du trafic passager. Ils créent une valeur ajoutée estimée à 600 millions d’euros et représentent près de 11 000 emplois directs. Ils sont au cœur de la vie économique de nos territoires littoraux.<br/>Ces ports doivent faire face à de nouveaux défis : le renouvellement des infrastructures, la modernisation des équipements, l’adaptation aux évolutions des usages maritimes, la mise en conformité environnementale, le développement de nouveaux services pour soutenir l’attractivité touristique ou économique. Tout cela exige une capacité d’investissement renforcée.<br/>Or chacun le constate sur le terrain : les chambres de commerce et d’industrie, qui jouent historiquement un rôle moteur dans la gestion portuaire, ne peuvent plus assumer seules l’effort d’investissement nécessaire. Elles disposent d’une expertise précieuse et d’une connaissance fine du tissu économique, mais leurs moyens financiers se sont contractés. Le modèle de la société portuaire est pertinent pour répondre à cette réalité. Il permet d’associer collectivités et CCI dans une gouvernance partagée, de mutualiser les capacités financières et de sécuriser des investissements de long terme.<br/>Les expériences conduites à Brest et à Bayonne montrent combien ces sociétés portuaires peuvent constituer des outils efficaces et adaptés. Ces exemples démontrent qu’une gouvernance modernisée, associant expertise économique et pilotage public, permet de bâtir des stratégies robustes pour nos ports. Pour des territoires comme celui de Pornic, où le port est à la fois un centre économique, un moteur touristique et un point d’équilibre pour de nombreuses activités locales, cet outil représente une opportunité majeure. Il permettra aux collectivités de mieux planifier, d’investir plus efficacement et de renforcer la cohérence des politiques portuaires.<br/>Je salue le travail du Sénat, qui a clarifié et sécurisé le dispositif, notamment en matière de commande publique, pour garantir un cadre pleinement compatible avec le droit européen.<br/>Je salue également l’adoption conforme de ce texte par la commission du développement durable et de l’aménagement du territoire, qui démontre le large consensus politique dont il fait l’objet.<br/>Dans cet hémicycle, nos débats sur l’organisation de l’action publique sont souvent complexes. En l’espèce, il s’agit d’une mesure concrète, pragmatique et attendue, qui respecte pleinement l’esprit de la décentralisation – faire confiance aux collectivités, leur fournir les outils adéquats et reconnaître la pertinence de la décision locale.<br/>Pour ces raisons, et parce que cette proposition de loi apporte une réponse cohérente et utile à nos ports comme à l’ensemble de notre territoire, notre groupe votera avec conviction en faveur de ce texte.<italique> (Applaudissements sur les bancs du groupe HOR.</italique> <italique>– Mme la rapporteure applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830504" ordre_absolu_seance="106" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965086" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3637.76">La parole est à M. Paul Molac.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830505" ordre_absolu_seance="107" id_acteur="PA607619" id_mandat="PM843002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965087" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Paul Molac</nom>
+            <id>607619</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3664.42">La présente proposition de loi élargit la possibilité pour les collectivités territoriales et leurs groupements de recourir au modèle de la société portuaire pour l’exploitation de leurs ports.<br/>Notre groupe tient à saluer ce texte d’origine sénatoriale. Comme l’a rappelé notre rapporteure, ses rédacteurs sont la sénatrice Havet ainsi que les sénateurs Canévet et Bleunven, tous trois originaires de Bretagne.<italique> (Sourires.)</italique> Il n’est peut-être pas anodin que ce texte émane de cette région, tant il répond à la nécessité de proposer à nos ports davantage de flexibilité et de marges de manœuvre dans leur gestion.<br/>Ce texte répond aussi à la nécessité de doter les territoires d’un outil de gouvernance portuaire adapté aux besoins des collectivités, notamment lorsqu’elles souhaitent s’investir dans le développement économique de leur territoire – compétence qui relève à la fois des régions et des communautés de communes ou d’agglomération.<br/>Le modèle de la société portuaire a démontré son efficacité : les régions Bretagne et Nouvelle-Aquitaine l’ont mis en œuvre avec succès avec BrestPort et Port de Bayonne. Ces initiatives illustrent la pertinence de ce mode de gouvernance, qui permet aux collectivités territoriales de devenir des acteurs centraux de leur développement et de leur écosystème portuaire. À titre d’exemple, la région Bretagne a investi 200 millions d’euros dans le port de Brest.<br/>L’enjeu est de sécuriser l’investissement dans nos infrastructures portuaires face à une concurrence internationale où les règles sociales et fiscales diffèrent de celles de la France. Il s’agit également de s’adapter aux crises successives qui ont frappé la filière, qu’il s’agisse du Brexit, de la fermeture de la pêche dans le golfe de Gascogne, de la flambée des carburants ou de la pandémie de covid.<br/>Cette proposition de loi vise à simplifier le cadre existant en élargissant l’éventail des outils à disposition des collectivités locales. Elle modernise et étend le dispositif des sociétés portuaires instauré par la loi du 5 janvier 2006 relative à la sécurité et au développement des transports.<br/>À cet effet, la limitation actuelle aux seuls dix-sept ports métropolitains visés par la loi du 13 août 2004 relative aux libertés et responsabilités locales est supprimée. Cette restriction écartait en effet de nombreux ports décentralisés, pourtant confrontés à des enjeux similaires.<br/>On peut s’étonner de cette manière de légiférer : un État qui fait confiance à ses territoires et aux acteurs de terrain aurait dû permettre dès l’origine aux autorités portuaires, aux chambres de commerce et d’industrie et aux collectivités concernées de choisir le format le plus adapté à leur situation.<br/>Or nos ports décentralisés ne disposent pas des marges de manœuvre des sociétés portuaires, et le législateur de 2004 a lui-même fixé une liste limitative de dix-huit ports pouvant bénéficier du régime de société portuaire. Pourquoi une telle limitation ? Nous allons régler le problème ce soir.<br/>Nous devons soutenir nos pêcheurs afin d’assurer la souveraineté alimentaire de notre pays. Je pense notamment aux sept ports de pêche du Pays de Cornouaille – Douarnenez, Audierne, Saint-Guénolé-Penmarc’h, Le Guilvinec, Lesconil, Loctudy et Concarneau –, qui représentent à eux seuls 20 % de la pêche française et 50 % de la pêche en Bretagne administrative.<br/>Je pense également au port de La Turballe, cité par notre collègue Brard, qui illustre pleinement l’importance de ces infrastructures – La Turballe étant bien évidemment un port breton, même s’il est situé en Loire-Atlantique. D’ailleurs, le cercle celtique de La Turballe est champion de Bretagne. Comment certains peuvent-ils encore douter que la Loire-Atlantique est en Bretagne ? Franchement !<italique> (Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830516" ordre_absolu_seance="118" id_acteur="PA607193" id_mandat="PM842930" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965098" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sophie Errante</nom>
+            <id>607193</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3731.52">Personne n’en doute !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830517" ordre_absolu_seance="119" id_acteur="PA793816" id_mandat="PM842657" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965099" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mélanie Thomin</nom>
+            <id>793816</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3753.42">Pas ici !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830518" ordre_absolu_seance="120" id_acteur="PA607619" id_mandat="PM843002" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965100" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Paul Molac</nom>
+            <id>607619</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3899.57">Notre groupe ne souhaite ni limiter ni brider les ports dans leur gestion, mais au contraire fournir aux élus locaux et aux CCI une véritable boîte à outils. Là où existe une volonté, ce texte permettra de généraliser la coopération entre collectivités territoriales et chambres de commerce et d’industrie, en faveur d’une gestion plus efficiente des infrastructures portuaires.<br/>Pour toutes ces raisons, notre groupe votera en faveur de cette proposition de loi.<italique> (Applaudissements sur plusieurs bancs du groupe SOC et sur quelques bancs du groupe HOR.</italique> <italique>– Mme Sophie</italique><italique> Errante</italique><italique> applaudit</italique> <italique>également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830520" ordre_absolu_seance="122" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965102" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3931.82">La parole est à M. Jean-Paul Lecoq.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830521" ordre_absolu_seance="123" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965103" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3950.51">Au milieu de tous ces Bretons, il y aura un Normand, qui n’est pas là pour rappeler que le Mont-Saint-Michel est en Normandie, mais qui représente aussi une grande ville portuaire. En outre, Le Havre est la plus grande ville bretonne hors de Bretagne, si l’on considère le nombre d’habitants havrais d’origine bretonne.<italique> (Sourires.)</italique><br/>Nous examinons un texte très court, mais il touche à un sujet essentiel – la gouvernance, la maîtrise publique et l’emploi dans nos ports décentralisés. D’ailleurs, comment intégrer les ports de nos départements et territoires d’outre-mer dans ce dispositif ?<br/>Les ports décentralisés représentent 22 % du tonnage total de marchandises du pays, 600 millions d’euros de valeur ajoutée, 11 000 emplois directs et près de 27 000 emplois si l’on inclut les emplois indirects.<br/>Le texte propose d’ouvrir à tous les ports le statut de société portuaire. Le principal atout de ce dernier est de conjuguer la capacité d’investissement des collectivités avec celle des chambres de commerce et d’industrie. Compte tenu des besoins d’investissement, l’outil peut paraître séduisant.<br/>Il permet de renforcer les capacités d’investissement et nul ne conteste que certains ports, notamment les ports de pêche, ont besoin de ce soutien. Il permet aussi à la collectivité propriétaire du port de devenir son concessionnaire en intégrant la société portuaire, ce qui renforce son implication dans la stratégie et la gestion portuaires.<br/>Mais un outil mal encadré peut devenir dangereux. C’est notre crainte, déjà exprimée à cette tribune par plusieurs groupes. À ce jour, aucune évaluation sérieuse de ce modèle n’a été réalisée et les retours de terrain invitent à la prudence.<br/>Rappelons également que les chambres de commerce sont fragilisées depuis la réforme du réseau consulaire, il y a plus de dix ans. Leurs ressources fiscales ont diminué de 66 % depuis 2013, soit plus de 800 millions d’euros par an. Leurs effectifs sont passés de 25 000 à 14 000 collaborateurs.<br/>À titre d’exemple, la CCI Seine Estuaire, au Havre, a cumulé les difficultés dans la gestion du port de Fécamp, qu’elle tenait par concession accordée par le département de Seine-Maritime depuis les années 1980. La situation était devenue tellement compliquée et préjudiciable au bon fonctionnement du port, à ses trafics et aux conditions de travail des salariés, que le département a dû mettre fin prématurément à la concession et éponger une bonne partie de l’ardoise – si vous me permettez l’expression.<br/>Il n’est pas certain que demain, le département se saisisse de l’opportunité de se constituer en société portuaire. Au contraire, il vient de réinvestir le secteur, assumant une gestion 100 % publique par la création d’un syndicat mixte associant les collectivités concernées par les quatre ports du département.<br/>Voulons-nous vraiment autoriser les collectivités à entrer dans des sociétés commerciales sans fixer les règles du jeu ? Le statut de société portuaire est par nature sensible. Il permet à une collectivité de prendre des parts dans une société à vocation commerciale, au risque d’une gouvernance opaque, de déséquilibres entre partenaires, de collectivités minorisées ou de sociétés sous-capitalisées dépendantes à terme d’intérêts privés, voire étrangers.<br/>Nous ne sommes pas opposés par principe aux sociétés portuaires. Nous reconnaissons que cet outil peut être utile, notamment pour les ports de pêche en difficulté – et c’est l’objet même du texte. Mais cette forme de gestion exige des garde-fous qui n’existent pas dans la proposition de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830533" ordre_absolu_seance="134" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965115" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4126.63">Si, ils existent !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830534" ordre_absolu_seance="135" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965116" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4200.96">La Fédération nationale des ports et docks CGT demande un report du débat afin de permettre une véritable concertation et d’améliorer le texte. C’est une demande raisonnable, d’autant que les concessions qui se terminent cette année peuvent être prolongées sans difficulté, contrairement à ce qui a été affirmé par notre collègue du groupe EPR.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830535" ordre_absolu_seance="136" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965117" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4222.89">Non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830536" ordre_absolu_seance="137" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965118" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4230.52">Cette demande devrait aller de soi, car nous touchons à la maîtrise publique, à la concurrence entre gestionnaires et à la situation sociale dans les ports.<br/>Nous soutenons l’objectif de dynamisation de nos ports, mais faisons-le proprement, sans fragiliser les collectivités ni la maîtrise publique, et sans précariser les travailleurs faute de garanties sur l’application des conventions collectives nationales unifiées concernant l’organisation et les conditions de travail. Notre rôle n’est pas d’offrir des facilités juridiques.<br/>Si vous m’y autorisez, monsieur le président, je me permets d’évoquer un sujet : puisque le gouvernement est présent, je rappelle que l’État a l’obligation de financer les dragages des ports. Or le projet de loi de finances pour 2026 prévoit de supprimer 20 millions d’euros affectés à ces dragages. Sans dragage, pas de port, et la question qui nous rassemble ce soir ne se posera même plus.<br/>Le groupe GDR s’abstiendra sur ce texte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830540" ordre_absolu_seance="141" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965122" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4288.59">La parole est à M. Olivier Fayssat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2830541" ordre_absolu_seance="142" id_acteur="PA840773" id_mandat="PM842456" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965123" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Olivier Fayssat</nom>
+            <id>840773</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4307.47">Le système portuaire français constitue l’une de nos forces. Qu’il s’agisse des grands ports maritimes, des ports de commerce, de pêche ou de plaisance, nos infrastructures littorales représentent un maillon essentiel de l’économie nationale et de l’aménagement de nos territoires.<br/>Elles irriguent nos régions, soutiennent nos filières productives, dynamisent nos communes littorales et incarnent un outil de puissance pour une grande nation maritime comme la nôtre.<br/>Cependant, si notre système portuaire est un atout, il est aussi le produit d’une construction juridique complexe, héritée des vagues successives de décentralisation. Depuis les transferts opérés en 1983 puis en 2004, sans oublier la réforme portuaire de 2008 et la loi Notre, les responsabilités entre l’État, les régions, les départements et le bloc communal se sont recomposées.<br/>Les outils juridiques mis à la disposition des collectivités se sont adaptés, mais seulement partiellement. Aujourd’hui encore, le modèle de la société portuaire, créé par la loi du 5 janvier 2006, n’est ouvert qu’aux dix-huit ports transférés aux régions en 2004. Cet héritage juridique crée une inégalité de traitement injustifiée entre les ports, alors que les besoins d’investissement sont immenses et que les modèles de gestion existants montrent leurs limites.<br/>La France compte plus de 600 ports décentralisés. Ils représentent 22 % du tonnage total des marchandises, 600 millions d’euros de valeur ajoutée et 11 000 emplois directs. Ce sont des infrastructures stratégiques pour l’économie nationale comme pour les économies locales.<br/>Aujourd’hui, plusieurs modèles de gestion existent : la régie, la concession, la société publique locale ou la société d’économie mixte. La société portuaire offre une alternative équilibrée : elle permet l’association des collectivités et des chambres de commerce et d’industrie, tout en bénéficiant de la souplesse du régime de la quasi-régie.<br/>Pourtant, seules deux sociétés portuaires existent en France : BrestPort, créée en 2021, et Port de Bayonne, créée en 2024. Dans les deux cas, le modèle s’est révélé efficace – investissements accrus, gouvernance clarifiée, capacités d’action renforcées. De nombreux territoires souhaitent s’engager dans cette voie, mais en sont empêchés juridiquement.<br/>La gestion portuaire est devenue très complexe. Les collectivités doivent conjuguer les exigences de sécurité, de performance économique, de transition écologique et de soutien aux filières – notamment la pêche, en grande difficulté –, tout cela avec des règles juridiques parfois inadaptées.<br/>Lorsque les criées sont fragilisées, lorsque les volumes se contractent, la délégation de service public classique montre ses limites : le concessionnaire n’est plus en mesure d’assumer seul le risque.<br/>Le statut de société portuaire permet au contraire aux collectivités de reprendre la main, d’investir, de soutenir leurs filières et de moderniser leurs infrastructures.<br/>Plus largement, ce modèle est en phase avec les enjeux contemporains : transition énergétique, développement technologique, résilience économique, concurrence internationale. Il permet d’allier la puissance financière des collectivités à l’expertise opérationnelle des CCI.<br/>Nous devons donner à nos ports les moyens d’être plus attractifs, plus compétitifs, plus innovants. J’avais prévu ici de parler du port de Marseille, mais le président Ciotti m’a vivement conseillé de parler du port de Nice. Je vais donc m’exécuter. En effet, à l’échelle locale, le port de Nice est un pôle important d’attractivité sur la Côte d’Azur et pourrait bénéficier de l’extension de ce mode de gestion. Celui-ci ne doit cependant pas oublier d’associer les acteurs locaux, concernés tant par les navires de croisière – fournisseurs de recettes et d’activités mais également sources de nuisances – que par l’aménagement de l’espace public à proximité des activités portuaires. Ce n’est que si les citoyens et les acteurs locaux sont consultés et d’accord avec l’orientation du port que la symbiose fonctionnera au bénéfice du territoire, des citoyens et de la prospérité de tous.<br/>Le groupe UDR soutiendra donc ce texte.<italique> (Applaudissements sur les bancs des groupes UDR et RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830592" ordre_absolu_seance="155" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965306" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4552.01">La parole est à Mme Béatrice Roullaud.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830593" ordre_absolu_seance="156" id_acteur="PA795410" id_mandat="PM843440" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965307" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Béatrice Roullaud</nom>
+            <id>795410</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4572.38">Nous examinons une proposition de loi dont l’ambition est claire : offrir un cadre juridique efficace et performant pour la gestion des ports, en étendant à toutes les collectivités la possibilité de recourir au statut de la société portuaire. Ce texte, qui paraît de prime abord très spécifique, est au contraire général et essentiel, car l’activité d’un port a des effets profonds sur un territoire. Le port est parfois le seul poumon économique d’une commune ou d’un département, et ce quelle qu’en soit la taille.<br/>La législation qui régit la gestion des zones portuaires est actuellement très disparate et extrêmement complexe. À ce jour, les collectivités locales, qui ne peuvent pas bénéficier légalement du statut de la société portuaire, ne disposent que de deux outils juridiques insatisfaisants : d’une part, la société publique locale, qui présente l’inconvénient d’exclure tout acteur privé et prive donc de ce fait le port de la possibilité d’accroître ses ressources financières ; d’autre part, la société d’économie mixte, qui impose des procédures lourdes de mise en concurrence.<br/>Actuellement, seuls les grands ports de France, comme celui de Sète, dans l’Hérault, mon département d’origine, mais aussi ceux de Calais, Boulogne-sur-Mer, Brest, Lorient, Bayonne, peuvent recourir à la société portuaire créée par la loi du 5 janvier 2006. Il n’existe en effet que 18 ports sur plus de 600 à pouvoir bénéficier du statut de la société portuaire, qui offre pourtant maints avantages. La souplesse d’abord, qui permet d’intégrer des CCI et favorise ainsi l’investissement, en conjuguant les capacités d’investissement des collectivités territoriales et des CCI ; la sécurité juridique ensuite, par rapport à la SEM qui est soumise à des exigences de concurrence difficiles à concilier avec l’activité portuaire. Ainsi, la société portuaire permet aux collectivités d’investir directement dans les infrastructures. Elle facilite le soutien aux criées, indispensables à la vitalité économique locale. Elle autorise une prise en charge partagée du risque, indispensable à la survie de certains ports.<br/>L’objet de cette proposition de loi est de permettre à toutes les collectivités de pouvoir bénéficier de ces avantages. Elle a été déposée par trois sénateurs pour répondre à la situation du Finistère, dont les concessions portuaires arriveront à échéance le 1<exposant>er</exposant> janvier 2026. De l’aveu du président du conseil départemental du Finistère, Maël de Calan, le modèle de la société portuaire est mieux adapté que celui d’une délégation de service public, notamment lorsque le secteur de la pêche est en décroissance et déficitaire.<br/>Si cette proposition de loi était adoptée, la société portuaire permettrait aux collectivités d’investir dans la modernisation des infrastructures, équipements, criées et quais, comme cela a été le cas pour le port de Sète, en pleine expansion avec 5,6 millions de tonnes de marchandises en 2023.<br/>Enfin, l’adoption d’un tel statut autoriserait également la prise en charge de certaines dépenses, qui pèsent actuellement sur les seuls pêcheurs. Sa généralisation constituerait donc une réelle avancée pour l’activité de pêche, car nous ne pouvons faire abstraction du contexte : la pêche française traverse une crise profonde marquée par la contraction des volumes, la hausse des coûts, les risques de délocalisation et une concurrence internationale déloyale. Dans ce cadre, le modèle classique de délégation de service public, fondé sur un opérateur qui assume seul le risque économique, n’est plus adapté. Il ne fonctionne plus lorsque l’activité décline et que le concessionnaire ne peut plus raisonnablement équilibrer son modèle.<br/>La société portuaire, telle que proposée ici, apporte une solution souple dont on a vu les avantages. Ce texte est un outil simple et clair, qui respecte l’équilibre fondamental entre gestion publique du service portuaire et mobilisation des compétences économiques locales. Il permettrait aussi, s’il était adopté, d’uniformiser la gestion des ports, actuellement éclatée entre plusieurs opérateurs selon les secteurs d’activité – commerce, plaisance, pêche.<br/>Les auditions l’ont montré de manière unanime, ce texte répond à une réelle attente des territoires. En ouvrant la possibilité de créer des sociétés portuaires à l’ensemble des collectivités propriétaires d’un port, cette proposition de loi redonne à ces dernières la capacité d’agir au plus près de leurs enjeux économiques, sociaux et maritimes.<br/>Pour toutes ces raisons, le groupe Rassemblement national soutiendra ce texte.<italique> (Applaudissements sur les bancs du groupe RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830602" ordre_absolu_seance="165" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965316" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4878.26">La discussion générale est close.<br/>Sur l’article unique, je suis saisi par les groupes Les Démocrates, La France insoumise-Nouveau Front populaire et Libertés, indépendants, outre-mer et territoires de demandes de scrutin public.<br/> Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à Mme la rapporteure.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830605" ordre_absolu_seance="168" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965319" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4905.06">Avant que nous passions au vote, je souhaite clarifier un certain nombre de points et répondre aux interrogations soulevées.<br/>Je veux d’abord redire que ce texte n’a ni pour objectif ni pour effet d’augmenter la part du secteur privé dans la gestion des ports. Les ports relèvent en grande partie du domaine public, et les collectivités en sont et en resteront propriétaires après le vote de cette loi. Il est ici question de l’exploitation des ports, et il faut donc se garder de toute confusion.<br/>Ce texte permet précisément d’impliquer davantage les collectivités territoriales dans la gestion des ports. C’est un outil – comme il en existe déjà, telles la SEM ou la Semop, qui sont des concessions à des tiers privés – très efficace pour déléguer au secteur privé l’exploitation des ports. La société portuaire permet surtout de conjuguer les forces des CCI et des collectivités territoriales en utilisant la quasi-régie.<br/>Certains redoutent que les CCI soient le cheval de Troie des intérêts privés ; mais ce sont des établissements publics, soumis comme tels à l’autorisation du préfet pour ce qui est de la cession du capital détenu dans des sociétés portuaires.<br/>Je tiens également à rassurer notre collègue du groupe Socialistes et apparentés, Fabrice Roussel, en redisant que cette proposition de loi n’expose pas les ports à l’ingérence étrangère. En réalité, elle ne fait qu’étendre un statut existant, qui n’est d’ailleurs pas le statut qui donne le plus de place au secteur privé, puisque la SEM comme la Semop intègrent des capitaux publics et privés dès leur création.<br/>Par ailleurs, pour répondre à l’inquiétude exprimée sur les bancs du groupe Écologiste et social, il y a plusieurs garde-fous. Le dispositif de contrôle des investissements étrangers existe et s’applique pour les activités stratégiques. En outre, je viens de le dire, toute cession de parts du capital par une CCI est soumise à autorisation du préfet. Il faut donc, pour ouvrir le capital au privé, l’accord des collectivités et du préfet, voire celui du ministre de l’économie si des activités stratégiques sont en jeu.<br/>Je terminerai en ayant une pensée pour nos ports, qui sont autant d’atouts mais font face à de nombreux défis. Pour parler de ceux que je connais le mieux, les sept ports de Cornouaille, ils doivent s’adapter et adapter leur mode de gestion pour permettre des investissements nécessaires à leur développement et à la transition énergétique. Grâce à cette proposition de loi, le département du Finistère, la région et le syndicat mixte des ports de Cornouaille pourront gérer les ports aux côtés de la CCI. La délégation de service public octroyée à la CCI s’achevant à la fin de l’année, une société portuaire pourra être constituée pour assurer leur attractivité et maintenir l’activité de pêche – plusieurs d’entre vous l’ont fort bien dit. J’espère donc qu’en votre âme et conscience, vous voterez en faveur des ports de France et de Cornouaille.<italique> (Applaudissements sur les bancs des groupes EPR et Dem.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830612" ordre_absolu_seance="175" code_grammaire="DISC_ARTICLES_1_2" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3965326" valeur="">
+      <orateurs/>
+      <texte>Explications de vote</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830613" ordre_absolu_seance="176" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965327" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5180.95">Nous en venons aux explications de vote.<italique> (Protestations sur divers bancs.)</italique><br/> La parole est à M. Sylvain Carrière.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830614" ordre_absolu_seance="177" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965328" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière (LFI-NFP)</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5206.36">Nous arrivons au terme de l’examen de ce texte, qui a été marqué par un mélange de confusion et d’indifférence. Confusion d’abord quant au choix du moment : pourquoi en pleine discussion budgétaire et dans une telle hâte ? Je remarque d’ailleurs que vous êtes beaucoup plus rapides pour inscrire des textes de privatisation…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830615" ordre_absolu_seance="178" id_acteur="PA794798" id_mandat="PM843188" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965329" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Françoise Buffet</nom>
+            <id>794798</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5224.43">Mais ce n’est pas de la privatisation !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830616" ordre_absolu_seance="179" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965330" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5225.64">…que lorsqu’il s’agit de textes visant à nationaliser des industries stratégiques comme ArcelorMittal.<italique> (Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830617" ordre_absolu_seance="180" id_acteur="PA642935" id_mandat="PM843218" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965331" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Olivier Becht</nom>
+            <id>642935</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5231.64">Vous racontez n’importe quoi !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830618" ordre_absolu_seance="181" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965332" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5233.43">Indifférence ensuite en ce qui concerne le contenu de cette proposition de loi. Or cette indifférence est dangereuse tant ce texte pourrait constituer une étape supplémentaire de vos politiques libérales, qui fragilisent des secteurs aussi stratégiques que celui de la gestion portuaire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830619" ordre_absolu_seance="182" id_acteur="PA719404" id_mandat="PM842648" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965333" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Didier Le Gac</nom>
+            <id>719404</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5247.94">Quelle caricature !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830620" ordre_absolu_seance="183" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965334" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5248.48">En effet, la décentralisation engagée depuis les années 1980 a fragmenté la gouvernance et la gestion portuaires, ce qui a abouti à une mise en concurrence des administrations territoriales. Dans mon département, les syndicats du port de Sète se mobilisent, ce jeudi 11 décembre, pour dénoncer la concurrence déloyale du port de Port-la-Nouvelle, dont la gouvernance opaque pose déjà des problèmes.<br/>Votre proposition de loi apparaît comme une tentative de moderniser la gouvernance locale, mais elle ne résout aucun des problèmes structurels auxquels font face nos ports : manque de moyens des collectivités locales et absence de vision nationale cohérente pour l’ensemble des ports français. Car vous l’avez peut-être oublié mais, si les collectivités territoriales ne sont pas en mesure d’investir dans nos ports, c’est parce que chaque année, les gouvernements macronistes et leurs alliés ont saccagé leur budget.<italique> (Mêmes mouvements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830622" ordre_absolu_seance="185" id_acteur="PA719404" id_mandat="PM842648" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965336" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Didier Le Gac</nom>
+            <id>719404</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5292.27">Ça faisait longtemps !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830623" ordre_absolu_seance="186" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965337" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5302.08">Et que proposez-vous ? D’ouvrir les investissements aux chambres de commerce et d’industrie. Le problème, c’est que vous leur avez réservé le même sort. Depuis votre arrivée au pouvoir, l’enveloppe allouée aux CCI est passée de 885 millions à 585 millions d’euros en 2025, soit une baisse de 35 %. Comme si cela ne suffisait pas, le projet de loi de finances pour 2026 prévoit la réduction du budget des CCI d’un tiers par rapport à 2025, ce qui conduirait à la suppression de 3 000 postes, selon l’Unsa CCI.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830623" ordre_absolu_seance="187" id_acteur="PA794138" id_mandat="PM842909" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965411" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ségolène Amiot</nom>
+            <id>794138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5342.93">La honte !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830624" ordre_absolu_seance="188" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965338" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5343.95">Vous allez donc faire progressivement reposer des missions de service public sur des ressources privées. Nous retrouvons ici la bonne vieille stratégie des néolibéraux que vous êtes. Première étape, vous réduisez les recettes en baissant les impôts sur les très riches et les grandes entreprises.<italique> (« Ah ! » sur les bancs du groupe EPR et Dem.)</italique> Deuxième étape, ce manque de recettes vous sert de prétexte pour affaiblir le service public en réduisant les budgets – ici, celui des collectivités territoriales et des CCI. Troisième étape, vous nous expliquez que le service public fonctionne mal et qu’il faut ouvrir le secteur et les financements à l’investissement privé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830625" ordre_absolu_seance="189" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965339" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5369.19">Mais il est déjà ouvert !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830626" ordre_absolu_seance="190" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965340" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5383.89">Ainsi, ce premier pas que vous faites avec cette proposition de loi n’a rien d’engageant. Il pourrait bien devenir la première étape vers la privatisation des ports français.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830627" ordre_absolu_seance="191" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965341" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5393.24">Je viens de dire le contraire ! Vous n’avez pas écouté !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2830628" ordre_absolu_seance="192" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965342" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5394.28">D’ailleurs, vous n’en êtes pas à votre coup d’essai. Vous avez appliqué la même logique à la gestion aéroportuaire. En 2004, la droite a commencé par transférer les aéroports aux collectivités, puis elle a ouvert progressivement les capitaux des sociétés exploitantes aux acteurs privés. L’établissement public Aéroports de Paris est devenu une société anonyme, qui a ensuite été introduite en Bourse.<br/>Depuis 2019, vous avez essayé à plusieurs reprises d’opérer une privatisation totale. Ce sont vos méthodes. Après cela, vous essayez encore de nous faire croire que vous n’en ferez pas autant pour les ports. Hier, nous n’étions pas tombés dans votre panneau. Aujourd’hui, nous sommes conscients de votre manœuvre et demain, nous continuerons à combattre votre agenda de privatisation des services publics.<italique> (Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830237" ordre_absolu_seance="194" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965413" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5427.65">C’est de la propriété publique !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830238" ordre_absolu_seance="195" id_acteur="PA793912" id_mandat="PM842795" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965414" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Carrière</nom>
+            <id>793912</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5444.45">L’exposé des motifs justifie ce texte en invoquant la souveraineté de notre pays. Mon groupe partage cet objectif, mais pas les moyens inefficaces que vous proposez pour y parvenir. Ce n’est ni en réduisant le contrôle de l’État sur les ports ni en rendant la gouvernance encore plus opaque que l’on assure la souveraineté alimentaire, bien au contraire. Celle-ci doit être renforcée par une véritable stratégie portuaire nationale qui vise à moderniser l’ensemble de nos ports et à renforcer le contrôle démocratique et public. C’est ainsi que nous pourrons garantir des conditions de travail protectrices pour les salariés portuaires et conduire une gestion ambitieuse d’un point de vue environnemental. Mon groupe s’oppose à l’avenir rabougri que vous promettez aux ports français et votera bien entendu contre cette proposition de loi.<italique> (Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830239" ordre_absolu_seance="196" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965415" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5498.86">La parole est à M. Jean-Paul Lecoq.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830240" ordre_absolu_seance="197" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3965416" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq (GDR)</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5504.68">Depuis de longues années, je suis membre du conseil de développement territorial du port du Havre, qui a récemment, dans le cadre d’une belle stratégie de dynamique portuaire, créé Haropa Port, le port fluvio-maritime de la Seine qui réunit les ports du Havre, de Rouen et de Paris. Suivant notre philosophie politique, nous, élus communistes normands, avons toujours soutenu l’idée que l’État devait coordonner et conduire la stratégie des ports normands, de Cherbourg au Havre en passant par Ouistreham, voire en élargissant jusqu’à Dunkerque. Pour autant, nous ne pensons pas que l’État doive gérer tous les ports. Une gestion locale est possible, et il est nécessaire d’y associer des acteurs portuaires car cela crée une dynamique intelligente qui permet de se comprendre et de répondre aux questionnements concernant l’activité du port. Si c’est un port de pêche, il me semble ainsi cohérent d’associer à sa gestion tous les acteurs de la pêche.<br/>Il existe des risques, comme vient de le dire le camarade Insoumis, mais je pense qu’il faut faire confiance aux collectivités territoriales. Avant d’embarquer à bord d’une flottille pour Gaza, j’avais été cantonné sur le port du Pirée, dans lequel les Chinois ont massivement investi. Nous ne voudrions pas que cette ouverture développe ce risque qui s’est déjà réalisé dans des ports européens. C’est pourquoi notre groupe s’abstiendra sur ce texte. Nous vous invitons à poursuivre le travail sur cette question, à border les choses, comme on dit dans ma famille.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830242" ordre_absolu_seance="199" id_acteur="PA719550" id_mandat="PM842660" id_nomination_oe="-1" id_nomination_op="-2527980" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965418" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Liliana Tanguy</nom>
+            <id>719550</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5680.06">C’est déjà bordé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830243" ordre_absolu_seance="200" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965419" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5682.32">Je ne parle pas des bords à la manière des voileux. Moi aussi, je voulais parler de vélique, car nous avons au Havre de belles sociétés de transport à la voile : les Bretons ne sont pas les seuls à savoir faire de la voile.<italique> (Mme Marie-Agnès Poussier-Winsback applaudit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830244" ordre_absolu_seance="201" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="SCRUT_ART_PUB_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965420" valeur=" l’article unique" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5705.20">En effet, il y a de beaux ports en Normandie aussi.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830244" ordre_absolu_seance="202" code_grammaire="VOTE_ENS_PPL_S_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3965431" valeur=" (n[[o]] 2136)">
+      <orateurs/>
+      <texte>Vote sur l’article unique</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830244" ordre_absolu_seance="203" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="SCRUT_ART_PUB_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965430" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5708.17">Je mets aux voix l’article unique de la proposition de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830245" ordre_absolu_seance="204" code_grammaire="SCRUT_ART_PUB_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3965421" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830246" ordre_absolu_seance="205" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="SCRUT_ART_PUB_1_8" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965422" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5735.92">Voici le résultat du scrutin :<br/>        Nombre de votants                        67<br/>        Nombre de suffrages exprimés                61<br/>        Majorité absolue                        31<br/>                Pour l’adoption                56<br/>                Contre                5</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2830247" ordre_absolu_seance="206" code_grammaire="SCRUT_ART_PUB_1_9" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3965423" valeur=" l’article unique" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’article unique est adopté</italique>
+          <italique> ainsi</italique>
+          <italique> que</italique>
+          <italique> l’ensemble</italique>
+          <italique> de</italique>
+          <italique> la</italique>
+          <italique> proposition</italique>
+          <italique> de</italique>
+          <italique> loi.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="6" id_preparation="2830249" ordre_absolu_seance="208" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3965425" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2830250" ordre_absolu_seance="209" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3965426" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>719024</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5739.70">Prochaine séance, demain, à quatorze heures :<br/> Questions au gouvernement ;<br/> Déclaration du gouvernement sur la stratégie de défense nationale, suivie d’un débat et d’un vote ;<br/>Discussion de la proposition de loi organique modifiant l’article 43 de la loi organique portant statut d’autonomie de la Polynésie française.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2830251" ordre_absolu_seance="210" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3965427" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-deux heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2830252" ordre_absolu_seance="211" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3965428" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

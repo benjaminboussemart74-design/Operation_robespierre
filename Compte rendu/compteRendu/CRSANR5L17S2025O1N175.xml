@@ -1,0 +1,806 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N175</uid>
+  <seanceRef>RUANR5L17S2025IDS29338</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250428213000000</dateSeance>
+    <dateSeanceJour>lundi 28 avril 2025</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>175</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250175</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-05-06T17:27:49.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3717705">Présidence de Mme Nadège Abomangoli</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3717709">
+          <intitule>Comment construire une véritable défense européenne ?</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3717713">M. Jean-Michel Jacques (EPR)</para>
+        <para id_syceron="3717724">M. Bastien Lachaud (LFI-NFP)</para>
+        <para id_syceron="3717739">M. Sébastien Saint-Pasteur (SOC)</para>
+        <para id_syceron="3718504">Mme Virginie Duby-Muller (DR)</para>
+        <para id_syceron="3718518">Mme Catherine Hervieu (EcoS)</para>
+        <para id_syceron="3718530">M. Christophe Blanchet (Dem)</para>
+        <para id_syceron="3717892">M. Édouard Bénard (GDR)</para>
+        <para id_syceron="3717897">M. Matthieu Bloch (UDR)</para>
+        <para id_syceron="3717902">M. Laurent Jacobelli (RN)</para>
+        <para id_syceron="3718120">Mme Natalia Pouzyreff (EPR)</para>
+        <para id_syceron="3718142">M. Michel Castellani (LIOT)</para>
+        <para id_syceron="3718162">Mme Patricia Mirallès, ministre déléguée chargée de la mémoire et des anciens combattants</para>
+        <para id_syceron="3717804">Mme Constance Le Grip (EPR)</para>
+        <para id_syceron="3717810">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3717814">Mme Brigitte Klinkert (EPR)</para>
+        <para id_syceron="3717818">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3718184">M. Arnaud Saint-Martin (LFI-NFP)</para>
+        <para id_syceron="3718189">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3718192">M. Emmanuel Fernandes (LFI-NFP)</para>
+        <para id_syceron="3718197">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3718200">Mme Marie Récalde (SOC)</para>
+        <para id_syceron="3718205">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3718210">M. Arnaud Simion (SOC)</para>
+        <para id_syceron="3718403">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3718407">Mme Virginie Duby-Muller (DR)</para>
+        <para id_syceron="3718411">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3718417">M. Pascal Lecamp (Dem)</para>
+        <para id_syceron="3718421">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3718427">M. Thibaut Monnier (RN)</para>
+        <para id_syceron="3718432">Mme Patricia Mirallès, ministre déléguée</para>
+        <para id_syceron="3718435">Mme Caroline Colombier (RN)</para>
+        <para id_syceron="3718654">Mme Patricia Mirallès, ministre déléguée</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3718662">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du lundi 28 avril 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2676253" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3717705" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Nadège Abomangoli<br/> vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2676254" ordre_absolu_seance="2" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717706" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="803.02">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2676255" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3717707" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2676257" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3717709" valeur="">
+      <orateurs/>
+      <texte>Comment construire une véritable défense européenne ?</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2676258" ordre_absolu_seance="6" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717710" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="829.75">L’ordre du jour appelle le débat sur le thème : « Comment construire une véritable défense européenne ? »<br/>La conférence des présidents a décidé d’organiser ce débat en deux parties. Dans un premier temps, nous entendrons les orateurs des groupes, puis le gouvernement ; nous procéderons ensuite à une séquence de questions-réponses.<br/>La parole est à M. Jean-Michel Jacques.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2676261" ordre_absolu_seance="9" id_acteur="PA720354" id_mandat="PM843008" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717713" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Michel Jacques (EPR)</nom>
+            <id>720354</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="836.03">Face à la guerre en Ukraine ou encore aux positions diplomatiques américaines, pour nous, Européens, l’heure est plus que jamais à l’unité. Cette nouvelle ère géostratégique doit sonner le réveil de l’Europe. Dans un monde de plus en plus brutal, force est de constater que la France et l’Europe se retrouvent parmi les derniers remparts du droit international.<br/>Plus que jamais, l’Europe de la défense doit devenir une réalité pour rendre l’Europe puissante et indépendante. Pourquoi ? Parce que les bouleversements géostratégiques en cours déstabilisent profondément nos démocraties et mettent à mal notre sécurité et notre prospérité ; parce que, face à la multiplication des menaces qui pèsent sur la sécurité du continent, les Européens ne doivent pas rester spectateurs, mais doivent agir pour rester maîtres de leur destin !<br/>Face à ces constats, comment faire pour construire une véritable Europe de la défense ? D’abord, en nous réarmant davantage. La paix comme notre sécurité ont un prix, et chacun doit y prendre sa part. Je rappelle que nous, Français, n’avons pas attendu pour agir. Dès 2017, nous avons amplifié la hausse du budget de notre défense, qui aura doublé en l’espace de dix ans. Ces efforts nous ont permis de transformer notre outil militaire, pour disposer aujourd’hui de la première armée d’Europe.<br/>Ils devront être poursuivis dans les prochaines années en augmentant encore le budget de nos armées, ce qui impliquera d’accroître notre investissement dans des domaines stratégiques tels que le nucléaire, le spatial, le cyber, et d’accélérer l’acquisition de certaines capacités supplémentaires – frégates, Rafale, drones, missiles, artillerie –, sans oublier le renforcement des moyens de guerre électronique.<br/>Ensuite, cette volonté d’indépendance européenne implique de nous libérer de nos dépendances en matière d’équipements militaires. En France comme en Europe, nous devons accélérer notre réindustrialisation, qui est souvent duale, c’est-à-dire civile et militaire. Nous devons également mieux sécuriser nos chaînes d’approvisionnement afin de favoriser la montée en puissance de notre base industrielle et technologique de défense (BITD).<br/>Nous devons, en troisième lieu, résolument appliquer une préférence européenne dans l’achat de nos équipements militaires. Cela permettra de générer des retombées économiques dans nos territoires européens.<br/>Enfin, la construction de l’Europe de la défense passe par le renforcement de son autonomie stratégique européenne. Nous devons être en mesure d’agir et d’avoir les capacités de nous défendre nous-mêmes pour assurer notre sécurité. Cela implique, notamment, d’agir de façon plus coordonnée entre Européens, sur les plans industriel et opérationnel.<br/>Cette Europe de la défense est bien entendu complémentaire de l’Otan.<br/>Mes chers collègues, nous sommes à un moment crucial de notre histoire. La classe politique française et européenne doit prendre ses responsabilités de façon claire. L’ère qui s’ouvre à nous impose d’agir avec force et dans l’unité. Alors, n’ayons pas peur ! N’oublions pas que l’Europe, ce sont 450 millions d’habitants, 17 000 milliards d’euros de PIB, 400 milliards d’euros de dépenses militaires en 2024. L’Europe, c’est une base industrielle et technologique de défense puissante, qui représente 1,4 million d’emplois directs et indirects.<br/>Soyons conscients de notre force. Agissons dans l’unité européenne pour l’intérêt supérieur de la nation. Continuons de jouer un rôle moteur dans la construction d’une Europe puissante, solidaire et unie. Et que vive l’Europe ! Vive la République ! Vive la France !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2676271" ordre_absolu_seance="19" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717723" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1102.51">La parole est à M. Bastien Lachaud.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2676272" ordre_absolu_seance="20" id_acteur="PA720846" id_mandat="PM840441" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717724" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud (LFI-NFP)</nom>
+            <id>720846</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1111.61">Le groupe macroniste se demande comment construire une véritable défense européenne. Malgré les nombreuses déclarations du président Macron depuis 2017 pour pousser les membres de l’Union européenne (UE) dans ce sens, l’Europe de la défense n’a jamais eu le début du commencement d’une réalisation. Les États-Unis et l’Otan restent la clé de voûte indépassable de la défense des pays membres, point final.<br/>La guerre en Ukraine n’y a rien changé, pas plus que la réélection de Donald Trump. Emmanuel Macron a beau gesticuler, c’est encore et toujours vers les États-Unis et ses matériels que les pays européens se tournent. La preuve en est la liste des États membres qui ont racheté ou confirmé leur commande de F-35 états-uniens depuis la réélection de Donald Trump : Belgique, Allemagne, Pays-Bas, Italie, Roumanie. Même le Danemark reconfirme son contrat, alors qu’il est directement menacé dans ses frontières par Washington – comble du ridicule de l’Europe de la défense !<br/>Malgré ce constat, l’Union européenne s’arroge progressivement et contre tous les traités européens la compétence de la défense. Cela se manifeste par la création d’un commissaire européen à la défense et à l’espace en 2024. Mais son rôle ne sera pas d’affirmer une autonomie stratégique européenne, ainsi qu’en témoigne le Livre blanc de la défense européenne : ce document réaffirme que l’Otan reste au centre de la défense des pays membres.<br/>L’alignement sur la vision stratégique américaine est total et valide un « axe du mal » regroupant Russie, Biélorussie, Corée du Nord, Iran et Chine, en omettant évidemment de mentionner le seul pays qui menace à ce jour l’intégrité territoriale de l’Union européenne, à savoir les États-Unis, qui veulent annexer le Groenland.<br/>Et face à la supposée menace chinoise, que propose-t-on ? De nouer des partenariats stratégiques avec tous les alliés historiques de Washington dans la zone Asie-Pacifique. Donc, face à l’impérialisme états-unien, l’Union européenne répond par le renouvellement de sa vassalisation.<br/>Mais il ne s’agit pas non plus pour l’Union européenne de développer une industrie européenne propre qui garantirait son autonomie. J’en veux pour preuve l’initiative ReArm Europe – un programme à 800 milliards d’euros. Ce chiffre est trompeur, car il comprend 650 milliards qui ne sont que des autorisations d’endettement supplémentaires accordées par la Commission européenne aux pays membres, sans affectation spécifique à des programmes d’armement européens. Les 150 milliards restants sont un emprunt de la Commission destiné à l’achat de matériel de défense, mais ce fonds pourra bénéficier à des pays extérieurs à l’UE.<br/>Résultat : c’est le pays qui a une industrie de défense souveraine, la France, qui va être encore désavantagé au profit de l’industrie états-unienne. Nous devrions donc financer, avec ReArm Europe, le démantèlement de notre propre base industrielle de défense.<br/>La logique reste inchangée, puisque 60 % des achats d’armements des États membres profitent à l’industrie américaine. C’est à cette aune qu’il faut comprendre les exigences de Donald Trump : il veut réindustrialiser son pays et il entend faire payer ses alliés pour cela.<br/>L’objectif de l’Union européenne est donc uniquement la création d’un marché commun de l’armement, et l’UE ne défend une fois encore que des objectifs financiers et les intérêts allemands. L’économie de ce pays est en crise, il lui faut de nouvelles industries à développer et l’armement en fait partie.<br/>Comme la commission est incapable de penser autrement que dans le cadre d’un libéralisme forcené, elle refuse tout protectionnisme. Cela sera forcément néfaste à notre industrie de défense, car le cadre européen existant nous est largement défavorable – les collaborations comme le Scaf, le système de combat aérien du futur, ou le MGCS, système principal de combat terrestre, le démontrent.<br/>Pire encore, l’existence d’un marché de l’armement va aboutir à la constitution d’un gigantesque stock de matériel de guerre. Et quand ce stock sera plein, comment allons-nous l’écouler ? La seule solution sera de provoquer une guerre, ainsi que le démontre l’histoire de l’industrie de l’armement des États-Unis.<br/>La France a tout intérêt à construire une économie de paix au lieu d’une économie de guerre. Les grands axes prioritaires de ce plan seraient d’accroître l’indépendance de notre défense en procédant à des relocalisations massives ainsi qu’à des renationalisations d’entreprises stratégiques – je pense à Vencorex, que le gouvernement vient pourtant d’abandonner. Il faut créer en parallèle un pôle public de l’armement. Notre économie doit aussi être décarbonée pour sortir de la dépendance énergétique dans laquelle nous nous trouvons. Il faut enfin arrêter les coupes budgétaires massives dans l’enseignement et la recherche. Cette dernière et les emplois hautement qualifiés qui y sont liés sont en effet la seule solution pour développer les technologies nécessaires à la France afin de faire face à la reconflictualisation du monde.<br/>Enfin, l’unité de la nation est essentielle à sa sauvegarde. Cela passe d’abord par le fait de faire payer les plus riches pour financer les efforts nécessaires, mais aussi par la lutte contre la montée des racismes et des discriminations, facteurs de division du peuple.<br/>Vous le comprenez, la participation de la France à cette nouvelle Europe de la défense affaiblit notre voix sur la scène internationale autant qu’elle menace notre base industrielle de défense. Toutes les annonces d’Emmanuel Macron sur une Europe indépendante et non alignée sont nulles et non avenues. Il n’a pas défendu les intérêts de la France au sein des institutions européennes, intérêts qui résident dans une France non alignée, indépendante et au service de la paix, et non dans une France inféodée à l’industrie de guerre états-unienne et à son affrontement à venir avec la Chine.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2676286" ordre_absolu_seance="34" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717738" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1417.76">La parole est à M. Sébastien Saint-Pasteur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2676287" ordre_absolu_seance="35" id_acteur="PA841243" id_mandat="PM842825" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717739" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Saint-Pasteur (SOC)</nom>
+            <id>841243</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1427.65">Depuis 1945, l’Europe a été traversée par des tragédies mais elle a su préserver dans son ensemble une paix inédite dans son histoire. Aujourd’hui, cette paix est de nouveau menacée : la guerre frappe durablement à nos portes et elle ne se limite plus aux champs de bataille, elle infiltre nos sociétés, nos économies, nos démocraties.<br/>En 1954, la France a refusé de ratifier la Communauté européenne de défense. Ce choix a permis de préserver notre autonomie stratégique, mais il a aussi profondément influencé les trajectoires des six États fondateurs. Certains, comme la France, ont choisi l’autonomie ; d’autres, comme l’Allemagne et l’Italie, ont renforcé leur intégration dans l’Otan ; l’idée d’une défense européenne unifiée a été durablement repoussée.<br/>Aujourd’hui, alors que nos partenaires d’Europe centrale et orientale font face à des menaces immédiates, l’heure n’est plus aux hésitations. Le Livre blanc sur la défense présenté en mars dernier trace une ambition claire : renforcer nos capacités militaires, soutenir notre industrie de défense, réduire nos dépendances stratégiques et investir massivement dans l’innovation. Avec près de 800 milliards d’euros mobilisés, il s’agit de bâtir une défense plus solide, mais aussi une sécurité humaine plus résiliente, capable de protéger l’ensemble des dimensions de notre souveraineté.<br/>Mais entrons plus en détail dans ces propositions, car certaines peuvent être trompeuses. Ainsi en est-il de la clause dérogatoire, prévue par le pacte de stabilité et de croissance, qui permet de déroger en cas de crise aux limites imposées aux États membres en termes de déficit et de dette publique. La Commission évoque, à titre d’exemple, la possibilité que les États membres augmentent leur budget militaire jusqu’à 1,5 point de PIB sans que ces sommes soient prises en compte dans leurs déficits nationaux. On parle de 650 milliards d’euros sur quatre ans pour la défense, mais il s’agit en réalité d’une capacité d’endettement supplémentaire.<br/>On parle également de lever sur le marché obligataire 150 milliards d’euros par<italique> </italique>l’émission d’obligations européennes, des fonds qui seraient restitués aux États sous forme de prêts, avec des taux bas et des échéances de remboursement longues ; il s’agirait de financer une liste de projets militaires paneuropéens, comme la défense antiaérienne, en mutualisant la demande et en effectuant des achats communs, les équipements ainsi financés pouvant notamment être envoyés à l’Ukraine. C’est évidemment une piste préférable eu égard à l’état de nos finances publiques.<br/>Quant à faciliter l’utilisation des fonds de cohésion pour des investissements dans la défense, c’est, selon moi, une démarche qui trouvera plutôt un écho dans les pays d’Europe centrale et orientale.<br/>Enfin, il est envisageable d’instituer une union de l’épargne et des financements pour pousser les établissements financiers privés à soutenir l’industrie militaire – ce qu’ils ne font à ce jour qu’avec une certaine réticence, même si l’évolution est positive –, tout comme il faut pousser la BEI, la Banque européenne d’investissement, à appuyer également le secteur de la défense. On sait que la gouvernance de la BEI est aux mains des États membres, ce qui fait que la Commission a peu la voix au chapitre en la matière.<br/>La construction d’une véritable Europe de la défense passera donc par des outils incitatifs et clairs, des financements privilégiés pour des projets communs, un soutien accru à la recherche conjointe, des bonus à l’interopérabilité entre nos armées.<br/>Je viens de citer les principales pistes évoquées, mais nous savons tous qu’un autre enjeu est tout aussi central : faire de cet effort un effort de coordination et non de confrontation ou de compétition entre États membres, comme c’est malheureusement trop souvent le cas. C’est pourquoi un tel effort et, plus encore, ce nécessaire mouvement de convergence ne pourront réussir sans transparence : il nous faudra renforcer le contrôle parlementaire, garantir des rapports publics réguliers, rendre chaque décision lisible et compréhensible pour les citoyens européens, pour nos concitoyens.<br/>Ce travail de contrôle ne pourra pas se limiter à des débats d’orientation, mais devra porter, de manière approfondie, sur des projets ciblés, sur des choix stratégiques, sur l’efficacité réelle de nos politiques de défense, le partage de la valeur, l’exigence de l’État en tant qu’acheteur dans ce renforcement de la BITD et de la BITDE, la base industrielle et technologique de défense européenne. Ce sont autant d’orientations que nous appelons de nos vœux, car la défense et la démocratie sont indissociables et l’ont toujours été. Il s’agit d’une urgence, à l’heure où nos démocraties sont menacées par une guerre hybride menée par des États qui nous menacent et nous frappent sans dévoiler leurs visages.<br/>Jean Jaurès n’écrivait-il pas déjà dans <italique>L’Armée nouvelle</italique>, il y a plus d’un siècle : « Dans une démocratie, la force armée ne doit être ni au-dessus du peuple, ni obscure au peuple, mais une émanation consciente et visible de la volonté collective » ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2676378" ordre_absolu_seance="46" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718503" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1680.33">La parole est à Mme Virginie Duby-Muller.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2676379" ordre_absolu_seance="47" id_acteur="PA608826" id_mandat="PM843365" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718504" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Virginie Duby-Muller (DR)</nom>
+            <id>608826</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1688.05">Le retour de Donald Trump à la tête des États-Unis a brutalement rappelé à l’Europe une vérité longtemps tue : nous ne pouvons plus nous reposer sur un allié aussi imprévisible pour garantir notre sécurité. Après avoir suscité de la sidération, la ligne politique américaine, mouvante et parfois incohérente, nous oblige à prendre la responsabilité d’assurer notre propre défense.<br/>L’idée d’une défense européenne n’est pas nouvelle. Dès l’après-guerre, le projet de Communauté européenne de défense (CED) répondait au souhait des Américains de se désengager, alors que les tensions en Corée mobilisaient leur armée. Cette volonté de retrait du Vieux Continent incitait de façon sous-jacente les Européens de l’Ouest à prendre en charge leur propre défense face au péril soviétique. Pourtant, malgré l’urgence de l’époque, l’Assemblée nationale rejeta ce projet en 1954.<br/>Mais si l’histoire politique de la défense européenne est faite de rendez-vous manqués, l’histoire militaire offre, elle, des exemples concrets d’unité en actes. Ainsi, en 1918, les gouvernements alliés désignèrent le général Foch comme généralissime des forces alliées en France, puis sur le front de l’Ouest, réunissant ainsi tous les soldats de ces forces sous un même commandement. Cette stratégie, qui mena vers la victoire finale, créa un précédent historique puissant.<br/>En juin 1940 encore, lors de la seconde guerre mondiale, au cours des heures les plus sombres de notre histoire, alors que les dirigeants les plus courageux continuaient la lutte contre l’Allemagne nazie, le projet d’Union franco-britannique émerge. La défense commune face à un péril mortel justifiait un gouvernement commun. Si ce projet n’a jamais vu le jour, il tend à démontrer que face à un péril d’une gravité immense, nous serions prêts à nous unir avec nos alliés de manière très concrète, afin de gagner en efficacité dans la lutte armée.<br/>Le contexte politique mondial actuel nous impose une vigilance renouvelée. Construire une défense européenne, ce n’est pas renoncer à nos souverainetés, mais les affermir dans une alliance efficace, adaptée à notre époque. Et cela commence par une armée française forte, indépendante, dotée de moyens modernes, comme le prévoit la loi de programmation militaire (LPM) 2024-2030, à laquelle certains députés de gauche, qui demandent pourtant une hausse des dépenses militaires, se sont opposés. Je dénonce ces attitudes incohérentes, qui manquent de vision stratégique et conduiront notre pays à l’abîme.<br/>Certains discours de députés de gauche refusant les emplois de l’industrie militaire montrent qu’ils ne comprennent rien aux enjeux actuels. Je m’inquiète de leur ignorance, si ce n’est de leur volonté de jouer le jeu de nos ennemis.<br/>Développer une base industrielle et technologique de défense constitue un enjeu crucial de souveraineté et d’autonomie stratégique. Et je suis fière que des entreprises de Haute-Savoie fassent partie de la filière de défense et que la France ait investi plus de 400 milliards d’euros pour moderniser ses capacités militaires au vu de l’évolution des champs de conflictualité et des nouvelles technologies.<br/>En tant que parlementaire, j’ai également acquis la conviction qu’il faut travailler avec nos alliés européens en matière de défense, une conviction que j’ai renforcée en étant auditrice de l’IHEDN – Institut des hautes études de défense nationale – et lors de missions en Europe, au cours desquelles j’ai vu la coopération à l’œuvre entre nos forces, le rôle essentiel de l’Otan et la complémentarité d’un dialogue entre institutions européennes et structure transatlantique.<br/>J’ai ainsi eu l’occasion de me rendre en Estonie, un État balte qui partage près de 300 kilomètres de frontières avec la Russie, et où nos soldats sont présents de manière quasi permanente. Cette présence s’inscrit dans le cadre de l’Otan, mais le soutien militaire français a également été sollicité par l’État estonien pour renforcer la formation de ses soldats.<br/>La solidarité est ici concrète, loin des discours, et c’est cela, la défense européenne en action : une réalité de terrain faite d’alliances, de formations communes, d’exercices conjoints. Renforcer les exercices interarmées avec nos alliés est préférable à la création d’une armée intégrée, car la première solution permet, tout en assurant une coopération renforcée, que chaque pays reste souverain en matière militaire, avec ses doctrines, ses priorités et ses lignes rouges.<br/>Enfin, n’éludons pas la question industrielle. Depuis l’agression russe contre l’Ukraine, le réarmement européen profite largement aux États-Unis : près de 64 % des armes importées en Europe en proviennent. À l’échelle mondiale, les États-Unis représentent 43 % des exportations d’armement dans le monde.<br/>Nous dépendons d’eux stratégiquement, mais aussi économiquement. Il est donc impératif que les fonds européens servent d’abord à soutenir notre industrie de défense. Produire, innover et armer en Europe est une exigence stratégique et de souveraineté qui nous permettra d’être indépendants. La France doit poursuivre prioritairement ses efforts, avec ses alliés européens, en mobilisant des moyens significatifs pour acheter de l’armement européen.<br/>Pour conclure, je salue l’engagement de tous nos soldats, d’active ou de réserve, pleinement engagés au service de la défense de nos compatriotes et des intérêts de notre nation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2676392" ordre_absolu_seance="60" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718517" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1987.12">La parole est à Mme Catherine Hervieu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2676393" ordre_absolu_seance="61" id_acteur="PA840947" id_mandat="PM842570" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718518" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Catherine Hervieu (EcoS)</nom>
+            <id>840947</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1999.96">Nous vivons une période historique pour la France et pour l’Europe, avec pour enjeu la sauvegarde d’un modèle démocratique – certes perfectible – reposant sur les valeurs humanistes ainsi que des fondements mêmes de l’Union européenne. Nous faisons face à de nouvelles menaces concrètes. La paix telle que nous la connaissions jusqu’à présent n’est plus garantie. Nous devons agir pour la pérennité de nos sociétés, de nos peuples et de nos démocraties.<br/>Il faut pour cela élaborer plusieurs scénarios, croisant les données géopolitiques, diplomatiques, sociales, historiques, et bien sûr climatiques et énergétiques. La France, détentrice de l’arme atomique, a une position primordiale, qui nous donne une voix particulière compte tenu du risque préoccupant de prolifération. Nous pouvons lancer des initiatives pour la paix en favorisant l’ouverture de discussions pour le désarmement nucléaire multilatéral, auquel aspirent les peuples du monde entier.<br/>Le retour des impérialismes et la montée de mouvements nationalistes autoritaires sont alarmants en ce qu’ils menacent les démocraties européennes. La défense est donc l’une des composantes à renforcer parmi d’autres, car ces mouvements recherchent notre division interne. Les choix stratégiques doivent être pensés à l’échelle du vaste territoire européen, et c’est ce qui manque aux objectifs de la revue nationale stratégique (RNS).<br/>Après que la Commission européenne a fait connaître ses contributions en la matière, à savoir son Livre blanc pour une défense européenne et le plan ReArm Europe, qui prépare l’horizon 2030, la France doit également travailler à l’élaboration d’une stratégie commune pour les prochaines décennies.<br/>Le renforcement de la base industrielle et technologique de défense doit être prioritairement européen. Notre dépendance aux énergies fossiles nous fragilise : il faut investir dans l’efficacité énergétique et dans la réduction des consommations. Le renseignement, l’utilisation des satellites, le numérique et l’intelligence artificielle sont également des domaines où nous ne sommes pas souverains, notamment s’agissant de l’utilisation des données. La guerre électronique, invisible pour beaucoup d’entre nous, constitue une menace significative. C’est pourquoi la cyberdéfense et la cybersécurité sont cruciales pour défendre nos territoires, mais surtout nos services publics et nos entreprises.<br/>Comment devons-nous aborder ces évolutions ? Il nous faut une stratégie, une vision globale des enjeux, une complémentarité entre diplomatie et armée, des moyens humains et financiers, et surtout le consentement de la population. Le renforcement de la défense nationale et européenne doit viser un objectif de paix en cohérence avec les aspirations des citoyens et citoyennes.<br/>La revalorisation du budget de la défense dans le cadre de la loi de programmation militaire montre l’intérêt croissant des politiques. Toutefois, si la mise à disposition des fonds prévus est constamment reportée, nous ne pourrons pas construire le modèle d’armée que nous souhaitons. La défense devient prioritaire, mais nous devons aussi nous engager à ne pas abandonner notre modèle social et à ne pas augmenter les impôts. Or les annonces de ce week-end vont dans le sens inverse. Nos futurs débats parlementaires devront porter sur l’allocation de moyens pour assurer la cohésion sociale, et conséquemment la cohésion nationale, piliers indispensables à l’effort nécessaire de défense.<br/>À quel niveau la France pourra-t-elle participer à un emprunt européen ? Nous cumulons un déficit public qui risque de s’aggraver au vu de la méthode esquissée par l’exécutif. Il faut mettre fin au tabou de la ressource et examiner la proposition de taxe Zucman des écologistes, qui imposerait une participation des 0,01 % des plus riches à hauteur de 2 % de leur patrimoine.<br/>L’enjeu majeur est la coordination des forces européennes et leur interopérabilité, car la France, tout comme ses voisins, est incapable de se défendre seule. Le groupe et la cohésion font la force. L’Otan est encore un moyen qui permet de nous organiser, et l’UE en est un autre en devenir. Nos forces françaises œuvrent au quotidien, sur le flanc est de l’Europe, à la défense de notre continent.<br/>La recomposition des alliances et de l’ordre international ouvre des possibilités de renforcer la coopération internationale au service de la paix. Le réarmement de la France et de l’Europe doit s’accompagner d’un investissement dans l’être humain qui passe par la promotion du droit international et de la diplomatie, par le soutien de nos services de santé civils et militaires et par le réinvestissement dans l’éducation et la culture. La défense seule ne suffit pas. La coopération est un espoir et porte nos savoir-faire au-delà de nos frontières. La formation est un pilier de l’avenir de notre diplomatie et de nos armées. Notre <italique>soft power</italique> et notre<italique> hard power</italique> doivent se soutenir mutuellement, et de façon protéiforme. Lutte informationnelle, communication, économie, guerre du droit : nous devrons œuvrer dans tous ces secteurs pour que le climat, notre sécurité et notre défense suscitent l’espoir de l’Europe et de la France.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2676404" ordre_absolu_seance="71" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718529" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2304.80">La parole est à M. Christophe Blanchet.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2676405" ordre_absolu_seance="72" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718530" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Blanchet (Dem)</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2316.85">La défense européenne comporte différentes dimensions. Le volet militaire, qui englobe entre autres les questions des ressources humaines, des capacités opérationnelles et des doctrines stratégiques, est bien sûr primordial. Mais pour nous, les Démocrates, il est impératif d’y intégrer deux questions.<br/>La première est la question énergétique, source historique de tensions et de conflits. Le conflit actuel que mène la Russie contre l’Ukraine illustre bien cet enjeu. Lutte géopolitique, ce conflit implique également la maîtrise des ressources énergétiques et des matières premières telles que les terres rares, indispensables à de nombreuses industries, et il met en exergue la dépendance de l’Europe à l’égard de la Russie pour ce qui est du gaz, vital pour son économie, mais aussi à l’égard des États-Unis pour d’autres ressources.<br/>L’édifice européen a été construit sur la question énergétique, en particulier celle du développement de l’énergie nucléaire. Le 27 mars 1957 ont en effet été signés non seulement le traité de la Communauté économique européenne (CEE), mais aussi le traité de la Communauté européenne de l’énergie atomique (Euratom). Discuter de l’Europe de la défense suppose donc d’intégrer au débat les questions liées à l’énergie.<br/>Si nous ne développons pas une stratégie commune pour réduire notre dépendance aux énergies fossiles et garantir notre autonomie énergétique, nous ne pourrons pas construire une défense collective cohérente.<br/>Et pourtant, notre approche de l’énergie nucléaire diverge de celle de notre meilleur allié, l’Allemagne. Cela peut-il fissurer notre unité face aux menaces extérieures ? Il est crucial de réfléchir à la formation d’une véritable Europe de la défense, y compris énergétique.<br/>Pour ce faire, il faut construire une autonomie énergétique solide et harmonisée, fondée sur une base nucléaire associée à des sources d’énergie renouvelable. Néanmoins, nous sommes actuellement confrontés à des limites dans le déploiement et la capacité des énergies renouvelables à répondre entièrement aux besoins énergétiques de l’Europe. En somme, l’avenir de la défense européenne est indissociable de notre capacité à garantir une indépendance énergétique commune basée sur le nucléaire.<br/>Fabien Bouglé, dans son ouvrage <italique>Guerre de l’énergie</italique>, rappelle les propos d’Hervé Machenaud au Cercle de l’Union interalliée en 2020. Il disait en substance que le modèle économique, c’est le gaz, qui vient de Russie. Or c’est l’Allemagne qui tient le robinet du gaz russe, c’est elle qui a fait construire le gazoduc Nord Stream 1, et qui construit actuellement Nord Stream 2 avec un financement de Total. L’Allemagne va être le hub de distribution du gaz en Europe, et aura à ce titre la main sur la stratégie énergétique de la France.<br/>Certes, les gazoducs Nord Stream sont neutralisés depuis 2022. Mais imaginer que leur usage ne figurera pas sur le futur traité de paix serait irresponsable. Nord Stream renaîtra. Nous placerons-nous alors en situation de dépendance comme nous l’étions avant ce conflit ? N’attendons pas de redevenir dépendants de ces enjeux avec – hélas –l’appui des États-Unis. Nous devons définir et anticiper maintenant nos stratégies d’autonomie à l’égard des ressources fossiles, et il nous incombe donc de réussir la construction d’une défense militaire européenne. En effet, ne détournons pas le regard, les objectifs de domination énergétique sont communs à l’Est et aux États-Unis, comme l’indique la création par le président américain, en février 2025, d’un conseil national pour la domination énergétique.<br/>Alors, comment construire une véritable Europe de la défense si en son sein des pays ont des conceptions divergentes de ce qui les a réunis historiquement dès 1957 ?<br/>Le second enjeu repose non plus sur les ressources terrestres, mais sur celles de l’espace : l’Union européenne a lancé Iris2, l’infrastructure de résilience et d’interconnexion sécurisée par satellite, un ambitieux projet de constellation satellitaire visant à des communications sécurisées d’ici à 2030. Alors que nous dépendons fortement de systèmes non européens, comme Starlink, il y a là une question de souveraineté numérique et stratégique. Quelles sont les priorités de la France touchant ce projet ? Comment s’assure-t-on que cette constellation répondra pleinement aux besoins de nos armées, de l’État, de nos entreprises ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2676362" ordre_absolu_seance="82" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717891" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2590.40">La parole est à M. Édouard Bénard.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2676363" ordre_absolu_seance="83" id_acteur="PA796106" id_mandat="PM843383" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717892" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Édouard Bénard (GDR)</nom>
+            <id>796106</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2600.49">D’aucuns, en leur temps, auraient pu dire qu’en invoquant l’Europe de la défense, nous sautions comme des cabris ; or il ne s’agit pas de gesticuler, mais de construire lucidement une sécurité collective européenne, ce qui exige en premier lieu une approche fondée sur la paix et l’indépendance, donc une rupture nette avec l’Otan, à tout le moins une sortie de son commandement intégré. En effet, comment les grands discours sur l’autonomie stratégique pourraient-ils être crédibles, quand aucune dépendance structurelle n’est remise en cause ? De Brest à Vladivostok, ou de Saint-Étienne-du-Rouvray à Saint-Pétersbourg, il nous faut, comme en 1975 par l’Acte final d’Helsinki, refonder la sécurité européenne sur nos propres bases.<br/>Je n’ai de cesse de le répéter : nous, députés du groupe GDR, souhaitons renforcer la défense. Seulement, au lieu qu’une Europe fédéraliste et militarisée confisque notre souveraineté, nous voulons une autonomie stratégique véritable, fondée sur des coopérations nouvelles. Il est préoccupant que nombre de discours actuels exaltent l’Europe de la défense, non en tant que projet collectif, mais comme prétexte à une illusoire économie de guerre – prétexte dont s’est servi le premier ministre pour conclure précipitamment le conclave sur les retraites, refusant aux syndicats de travailleurs, au nom du contexte international, de discuter du report de l’âge légal de départ. En d’autres termes : plus d’obus, moins de sécu ! La course aux armements prévue dans le cadre de ReArm Europe coûtera ainsi – cela a été dit tout à l’heure – 800 milliards d’euros, sans nouvelles recettes, à nos services publics au profit d’industriels de la défense souvent vassalisés, pire, financiarisés.<br/>Derrière les grands mots d’autonomie stratégique, derrière le drapeau de la défense européenne, nos entreprises de défense sont bradées : l’usine chimique Vencorex, rachetée il y a quelques semaines par un groupe chinois, sans que l’État n’intervienne ; Éolane, producteur de cartes électroniques, en redressement judiciaire ; Verney-Carron, dernier fabricant d’armes légères du pays, fournisseur du Groupe d’intervention de la gendarmerie nationale (GIGN) et de l’armée française, qui passe sous pavillon étranger – et tant d’autres. Qui a parlé de nationalisation, de relocalisation ? Encore vous épargnerai-je l’histoire du choix de l’Américain Hewlett Packard Enterprise en vue de construire pour nos armées un supercalculateur consacré à l’intelligence artificielle.<br/>Pendant que l’on agite le drapeau de l’Europe de la défense, le cours des actions des groupes de l’industrie militaire flambe : 65 % en quatre mois pour celles de Dassault Aviation, 75 % pour celles de Thales, qui avant même cette explosion boursière avait versé à ses actionnaires 1 milliard d’euros au titre de l’exercice 2024 ! Au sein des entreprises de ce même groupe, cela fait dix-sept semaines que les grèves s’enchaînent, une perte nette de 1 000 emplois, des retraités rappelés faute de formation des jeunes aux affaires militaires ; là encore, j’en passe. Si l’argent de la commande publique, notre argent, ne reparaît ni dans les salaires ni dans l’investissement au profit de l’outil industriel, il aboutit logiquement, en majorité, dans les poches des actionnaires !<br/>Le capitalisme financiarisé reste de toute évidence incompatible avec une planification industrielle au profit de notre autonomie stratégique. Or il est urgent de reconstruire, avec un pilotage public, notre BITD, ce qui implique de sortir du court-termisme financier et de planifier sur le long terme. D’ambitieux défis européens s’offrent à nous. Je pense à Iris2 : ce système satellitaire de connectivité sécurisée constitue une nécessité si nous ne voulons pas revivre l’humiliation d’il y a quelques mois, lorsque les télécommunications mahoraises ont été rétablies grâce à Starlink, la constellation de satellites d’Elon Musk. Nous avons besoin de savoir-faire, de compétences ; elles sont déjà là ! Enfin, il est vital de réaffirmer que l’Europe de la défense ne sera pas une Europe des canons, mais du droit. Cela passe par un engagement renouvelé en faveur de la paix, par le dialogue avec les Brics+ et les pays du Sud global. La France porte une responsabilité immense : refuser la spirale belliciste, faire triompher la coopération, la solidarité, la paix. Telle doit être notre boussole pour une Europe de la sécurité collective.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2676367" ordre_absolu_seance="88" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717896" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2901.88">La parole est à M. Matthieu Bloch.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2676368" ordre_absolu_seance="89" id_acteur="PA840889" id_mandat="PM842534" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717897" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Matthieu Bloch (UDR)</nom>
+            <id>840889</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2910.26">L’Europe de la défense constitue-t-elle une chimère ? Nous nous posons la question depuis plus de soixante-dix ans. En août 1954, la Communauté européenne de défense, cette tentative en vue d’une armée intégrée qui piétinait la souveraineté nationale, se heurtait à l’opposition du général de Gaulle, du Parti communiste français, de personnalités telles que Pierre Mendès France. Tous avaient compris ce que Philippe Séguin devait rappeler dans son fameux discours du 5 mai 1992 : « La souveraineté, cela ne se divise pas ni ne se partage et, bien sûr, cela ne se limite pas. » Revenu au pouvoir en 1958, le général défendit un autre projet : une Europe politique, fondée non sur l’intégration, mais sur la coopération entre États souverains. Il proposa les deux versions successives du plan Fouchet, qui fut rejeté par nos partenaires, plus rassurés sous le parapluie américain. De Gaulle tenta alors, en tête-à-tête avec le chancelier Adenauer, de sauver cette ambition ; mais le Bundestag ajouta au traité d’amitié franco-allemand un préambule qui le vidait de sa substance. L’Allemagne de l’Ouest choisit définitivement la protection américaine.<br/>Ainsi, pendant des décennies, on fit semblant de croire à l’avènement d’une Europe de la défense, tandis que nos partenaires achetaient leur matériel militaire de l’autre côté de l’Atlantique. Aujourd’hui encore, la désillusion menace. L’élection de Donald Trump avait sonné comme un réveil brutal. Avant même son arrivée au pouvoir, des négociations étaient engagées en vue d’un programme européen de défense ; plus récemment, les vingt-sept États membres se réunissaient à Bruxelles dans l’attente d’un changement de cap. On nous promet une préférence européenne. Nous voudrions nous réjouir, mais le scepticisme s’impose : que penser d’une Europe de la défense où la Belgique, la semaine dernière, décidait d’acheter des F-35 américains plutôt que des Rafale, moins chers et plus polyvalents ? Nous discernons surtout, derrière les discours, l’inquiétante réalité d’une nouvelle tentative de fédéralisation, un retour masqué de la CED. Il en va de même des déclarations du président de la République. Certes, celui-ci invoque la doctrine gaullienne de 1964, qui étendait la protection nucléaire française aux intérêts vitaux de la France à l’extérieur de ses frontières ; mais pourquoi, alors, donner à nos partenaires le sentiment d’une rupture ? L’Allemagne elle-même a interprété ces propos non comme une continuité, mais comme une brèche.<br/>Soyons clairs : la dissuasion nucléaire française ne se partage pas. Elle est nationale. Elle est inaliénable. Il nous faut préserver le principe gaullien en vertu duquel la défense commence par l’indépendance. Nous avons aussi, cependant, des raisons d’être confiants : la solidité de notre BITD, la capacité de nos industriels à monter en puissance et répondre aux besoins croissants de nos armées, la possibilité de coopérations qui respectent les souverainetés nationales. La France excelle en matière aéronautique et nucléaire, l’Allemagne dans la construction de chars. La complémentarité existe : sachons la valoriser. Nous avons confiance dans nos armées, aguerries par l’expérience opérationnelle, capables demain, si les États-Unis se désengageaient de l’Otan, de prendre le leadership militaire d’une Europe forte et indépendante. Néanmoins, tout cela a une condition : que l’Union européenne cesse d’asphyxier ses États membres par des règles budgétaires absurdes et permette enfin d’exclure les dépenses de défense du calcul des déficits.<br/>Comme le général de Gaulle, nous continuons de penser que l’Europe de la défense ne saurait être qu’une Europe des nations, indépendante des États-Unis, sûre de son destin, de sa liberté. Nous restons vigilants face à la Commission européenne, qui, après avoir taillé en pièces notre agriculture, notre énergie, nos télécommunications, bientôt notre industrie automobile, pourrait s’en prendre à notre défense. Débarrassons-nous des chimères fédéralistes, organisons enfin cette défense que de Gaulle appelait de ses vœux et dont la France, forte de son armée, de ses industries, de sa dissuasion nucléaire, doit prendre la tête ! Si nous ne parvenons pas à convaincre nos partenaires, nous avancerons seuls, comme nous l’avons toujours fait au besoin, en nation souveraine que nous devons demeurer quoi qu’il advienne. Si le projet de Scaf, cette coopération mal engagée, venait à échouer, nous saurions, avec Dassault et notre BITD, produire seuls l’avion de combat du futur ! Dans le domaine militaire en particulier, la souveraineté ne constitue pas une option, mais la condition à la fois de la liberté et de l’exercice démocratique de celle-ci. Ceux qui renoncent à la défendre renoncent, tôt ou tard, à exister.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2676372" ordre_absolu_seance="93" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717901" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3186.98">La parole est à M. Laurent Jacobelli.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2676373" ordre_absolu_seance="94" id_acteur="PA794598" id_mandat="PM843026" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717902" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Jacobelli (RN)</nom>
+            <id>794598</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3197.37">Après que vous avez échoué à construire l’Europe sociale, industrielle, agricole, l’Europe de l’énergie ou celle de l’immigration, pourquoi votre nouvelle lubie, l’Europe de la défense, connaîtrait-elle un autre sort ? Elle aussi est vouée à un échec programmé, voire déjà consommé à travers le fiasco du char et de l’avion du futur, le MGCS et le Scaf. Au fond, cela vous importe peu ; vous semblez préférer un échec européen à un succès français. Comment peut-on faire preuve d’autant d’aveuglement ? J’ai bien une idée : mis à l’écart de la scène nationale, Emmanuel Macron se rêve un destin européen, d’abord en s’improvisant chef de guerre avec son projet insensé d’envoyer des troupes en Ukraine, puis en agitant l’Europe de la défense, comme un enfant gâté son hochet, pour tenter de reconquérir auprès des autres peuples la confiance que lui ont retirée les Français. Derrière les gesticulations et les discours ampoulés, tandis qu’il s’imagine géant, figure d’une fresque que l’histoire lui refuse, l’enjeu est bien plus grave : il s’agit de notre souveraineté.<br/>La véritable question est simple : comment garantir, aujourd’hui comme demain, l’indépendance de notre défense nationale ? En effet, que cela vous plaise ou non, l’Europe de la défense n’existe pas. Elle ne peut exister en droit : l’article 4 du traité sur l’Union européenne dispose sans équivoque que la défense relève exclusivement des États membres, si bien que la récente nomination d’un commissaire européen à la défense constitue une simple imposture. Elle ne peut exister en pratique ; les faits nous le prouvent chaque jour. Alors que l’interopérabilité devrait constituer une priorité pour les armées européennes, tous nos partenaires, à l’exception notable de la Grèce et de la Croatie, tournent le dos à notre bon vieux Rafale pour acheter des F-35 américains. Surtout, elle ne peut exister stratégiquement, faute de doctrine militaire commune, et pour cause : pas de doctrine sans souveraineté, de souveraineté sans peuple. Or, n’en déplaise aux euro-béats, il n’y a pas de peuple européen, mais des peuples européens, chacun ayant son histoire, sa géographie, ses intérêts souvent convergents, parfois divergents, voire opposés.<br/>Dans le basculement que vit le monde, la France, loin d’un surcroît de confusion, a besoin de clarté, car son devoir consiste à assumer son rôle de puissance, en commençant, dans ce but, par renouer avec le triptyque gaullien – indépendance, équidistance, constance – qui assura naguère sa singularité, lui permit de faire entendre une voix libre, respectée. Afin de retrouver cet héritage, acceptons le fait que le mirage de l’Europe de la défense est en train de devenir un péril pour notre nation, la seule en Europe à posséder une industrie de défense autonome, soutenue non seulement par ses fleurons, mais aussi par plus de 4 000 très petites, petites et moyennes entreprises (TPE et PME) enracinées dans nos territoires. Par l’instauration d’une priorité d’achat intransigeante au profit du matériel européen, donc français, nous pourrions faire de cette industrie le fer de lance d’une défense européenne. Bruxelles suit un tout autre chemin : celui de la soumission, de la dépendance organisée, des programmes de financement qui ponctionneront le contribuable français pour permettre à l’Allemagne de faire tourner l’industrie américaine.<br/>Si M. le ministre Lecornu avait été là – peut-être est-ce pour cette raison qu’il n’est pas venu –, je lui aurais rappelé qu’il est difficile de se prétendre gaulliste militaire tout en acceptant cette Europe de la défense, alors que le général de Gaulle déclarait : « Il faut que la défense de la France soit française. » Au sein du groupe Rassemblement national, nous affirmons que l’architecture d’une défense souveraine doit reposer sur trois piliers. Premièrement, des investissements massifs – depuis 2012, Marine Le Pen ne cesse de réclamer que le budget de nos armées soit porté au moins à 3 % du PIB ; vous en rigoliez hier, vous le proposez aujourd’hui.<br/>Deuxièmement, il faut lever les contraintes normatives qui étranglent notre industrie de défense. Comment accepter qu’une entreprise stratégique soit traitée par les banques de la même manière qu’une entreprise œuvrant dans les secteurs des jeux d’argent ou des boissons alcooliques ? Comment tolérer que des start-up innovantes soient freinées dans leur développement à cause de normes motivées par des délires écologistes ?<br/>Troisièmement, notre indépendance passera par la création d’une véritable Europe des nations, une Europe des coopérations libre et respectueuse des souverainetés, sur le modèle du partenariat franco-britannique.<br/>Ceux qui pensent que la France est condamnée à choisir entre la tutelle de Bruxelles, de Washington ou de Moscou sont les agents du défaitisme. Au Rassemblement national, avec Marine Le Pen et Jordan Bardella, nous croyons encore en la France, c’est pourquoi nous voulons rester souverains et refusons fermement de céder au fédéralisme européen.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2676300" ordre_absolu_seance="101" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718119" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3500.96">La parole est à Mme Natalia Pouzyreff.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2676301" ordre_absolu_seance="102" id_acteur="PA721916" id_mandat="PM843470" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718120" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Natalia Pouzyreff (EPR)</nom>
+            <id>721916</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3513.23">L’agression de l’Ukraine par la Russie a marqué le retour de la guerre de haute intensité sur le continent européen. En cherchant à normaliser leurs relations avec la Russie, les États-Unis ont pris à revers les États européens.<br/>Si l’administration américaine a confirmé sa participation à l’Otan, elle ne cache pas ses intentions de réduire progressivement son rôle dans la sécurité européenne. Pour l’Europe, le réveil est brutal et les incertitudes sont grandes. Les Européens doivent cesser les incantations et passer à l’action.<br/>Dès son discours de la Sorbonne en 2017, Emmanuel Macron appelait à renforcer l’autonomie stratégique de l’Europe et à augmenter les dépenses d’armement. Cette année, la France consacre 50 milliards d’euros à sa défense – hors pensions de retraite –, soit environ 2 % du PIB.<br/>Compte tenu de la dégradation du contexte international, le ministre des armées estime qu’il faudrait augmenter nos dépenses jusqu’à atteindre un montant de 100 milliards d’euros, soit environ 3,5 % du PIB. Cette nouvelle ambition pourrait devenir une cible commune pour les pays de l’Otan lors du prochain sommet à La Haye.<br/>Depuis l’agression russe de l’Ukraine, plusieurs États européens ont engagé une forte dynamique de réarmement : la Pologne et les pays baltes se donnent pour objectif de consacrer 5 % de leur PIB aux dépenses militaires ; l’Allemagne promet de fournir un effort massif, que permet l’assouplissement du frein à l’endettement pour les dépenses militaires voté par le Bundestag.<br/>Cependant, cette hausse des budgets militaires profite essentiellement à l’industrie américaine, qui a capté près des deux tiers des achats d’armement européens au cours des dernières années.<br/>La défense demeure un domaine de souveraineté nationale. La construction d’une défense européenne repose donc sur la volonté politique des États. C’est en ce sens qu’une coalition d’États volontaires a été constituée pour offrir à l’Ukraine des garanties de sécurité.<br/>L’Otan est actuellement la seule organisation véritablement opérationnelle apte à assurer la sécurité de l’Europe. Ainsi, la construction d’une Europe de la défense passe à la fois par une européanisation de l’Otan et par la consolidation de la base industrielle et technologique de défense européenne.<br/>Si la volonté d’autonomie stratégique européenne se concrétise, alors la logique opérationnelle de l’Otan pourra s’appliquer aux Européens. Ils pourront alors en maîtriser les effecteurs, c’est-à-dire les moyens de commandement, de communication et de renseignement, ainsi que tous les matériels associés, aujourd’hui essentiellement fournis par les États-Unis.<br/>En parallèle, l’Europe de la défense requiert des investissements massifs dans nos capacités industrielles et technologiques. À court terme, il s’agit d’accroître les volumes et les cadences afin de reconstituer nos stocks et d’approvisionner plus rapidement l’armée ukrainienne. Il est illusoire d’imaginer que la France puisse y parvenir seule.<br/>Le retour d’expérience au sujet de la guerre en Ukraine a mis en évidence une transformation fondamentale consistant à intégrer des technologies civiles, qui évoluent très rapidement, aux usages militaires. La « dronisation » du champ de bataille et sa combinaison avec l’intelligence artificielle augurent d’un nouveau modèle d’industrie. L’Europe ne peut rester à la traîne et notre outil industriel devra donc s’adapter. Pour planifier les investissements nécessaires, l’Union européenne dispose de nombreux instruments, parmi lesquels la coopération structurée permanente, qui permet aux États membres de développer des projets capacitaires communs.<br/>Pour ce qui est des instruments financiers, on peut citer l’action de soutien à la production de munitions (Asap), le programme visant à renforcer l’industrie européenne de la défense au moyen d’acquisitions conjointes (Edirpa), le Fonds européen de la défense ou le récent programme ReArm Europe.<br/>Le programme européen pour l’industrie de défense (Edip) vise également à soutenir les États membres de l’Union européenne dans le développement industriel de matériels militaires. Récemment adopté par le Parlement européen, le texte affiche un principe clair de préférence européenne en soumettant son financement à la présence de 70 % de composants européens. Toutefois, il provoque de vives tensions entre les vingt-sept États membres au sujet de l’inclusion éventuelle d’équipements américains, dont le développement pourrait ainsi être financé par l’Union européenne.<br/>Pour être efficaces, les financements ne doivent pas être dispersés, ils doivent prioriser les programmes industriels structurants et dépasser les cadres nationaux.<br/>Le rapport Draghi propose en outre de réorganiser l’industrie européenne de la défense en favorisant une division du travail à l’échelle du continent. C’est un défi de taille, dans la mesure où chaque État membre cherche naturellement à défendre ses propres intérêts. Pourtant, une véritable consolidation de la défense européenne ne sera possible qu’au prix de l’existence d’interdépendances consenties.<br/>Le réarmement de l’Europe est urgent : les États européens sont déjà les cibles de tentatives de déstabilisation se servant des vulnérabilités de nos démocraties.<br/>Pour reprendre les propos de M. le ministre des armées au sujet de la Russie, nous ne sommes pas en guerre, mais nous ne sommes plus complètement en paix.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2676322" ordre_absolu_seance="119" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718141" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3824.08">La parole est à M. Michel Castellani.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2676323" ordre_absolu_seance="120" id_acteur="PA719138" id_mandat="PM842672" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718142" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Castellani (LIOT)</nom>
+            <id>719138</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3831.66">Si le monde a toujours été instable et dangereux, l’agression russe en Ukraine et ses conséquences ont marqué une nouvelle étape dans cette détérioration.<br/>Dans ce contexte, les membres du groupe LIOT partagent la volonté de définir une nouvelle trajectoire ambitieuse et lucide pour la défense nationale.<br/>Le récent bouleversement des équilibres géostratégiques, le positionnement incertain des États-Unis dans la guerre en Ukraine et les diverses prises de position du président Trump sont la source d’inquiétudes profondes nécessitant des adaptations à leur mesure.<br/>Le risque d’un désengagement progressif des États-Unis en matière de défense de l’Europe est majeur et pousse les États européens à anticiper. Nous ne pouvons pas rester les spectateurs inertes de ces tensions géopolitiques. Nous devons, plus que jamais, adopter une démarche proactive et coordonnée. Elle devra se traduire pour la France par une montée en gamme de la défense nationale s’inscrivant nécessairement dans une trajectoire budgétaire et financière robuste. L’objectif de renforcement de nos capacités de défense exige en effet des investissements significatifs.<br/>Dans un contexte budgétaire national très contraint, et face à l’impossibilité d’alourdir davantage la pression fiscale, le financement de la base industrielle et technologique de défense implique d’engager une réflexion sérieuse sur la rationalisation des dépenses publiques et la définition d’une trajectoire budgétaire plus ambitieuse.<br/>Au-delà de ces difficiles mesures budgétaires internes, un principe fondamental doit être affirmé : il faut produire et acheter européen. Dans le contexte qu’on connaît, les États membres de l’Union européenne ont encore augmenté leurs importations d’armes et d’équipements américains. Ce n’est pas une politique responsable.<br/>L’Europe n’a guère le choix : elle doit amplifier ses moyens internes de défense. Le Fonds européen de la défense doit servir de moteur pour enrayer la tendance traditionnelle à l’extraversion et, pour cela, être renforcé et dédié au financement des seuls projets européens.<br/>Le développement de la défense européenne devra se faire dans le respect des souverainetés et reposer sur le principe de solidarité entre les nations.<br/>La coopération structurée permanente peut devenir plus ambitieuse et constitue un instrument essentiel de la collaboration dans le domaine de la défense. La chaîne de commandement est devenue insuffisante face aux enjeux actuels.<br/>Il convient aussi de favoriser la mise en commun des moyens et l’harmonisation des matériels, dont la grande diversité constitue une source de faiblesse.<br/>Face à la compétition internationale, la préservation du savoir-faire technologique doit devenir une priorité stratégique. Certaines entreprises européennes, dans le cadre de leur politique commerciale, continuent de consentir d’importants transferts de compétences qui favorisent l’apparition de nouveaux concurrents étrangers sur notre propre marché.<br/>S’agissant de l’état du paysage géostratégique, l’Union européenne et la France doivent tenir compte du risque de recul des États-Unis au sein même de l’Otan, jusqu’à envisager l’éventuel abandon de la fonction de commandement suprême. Cette éventualité, qui renverserait totalement l’équilibre des pouvoirs au sein de l’Alliance, doit être anticipée.<br/>La France exerce le commandement allié Transformation, qui constitue le second commandement de l’Otan par ordre d’importance. Elle aura ainsi un rôle important à jouer pour redéfinir la planification de la défense de l’Europe.<br/>L’État doit désormais décliner sa stratégie par zones géographiques afin de tenir compte des spécificités de chacune d’entre elles. Dans cette optique, les collectivités ultramarines sont appelées à s’intégrer pleinement dans leur environnement géopolitique et à développer leurs relations avec les pays tiers. Le renforcement de cette coopération locale apparaît indispensable dans un monde globalisé.<br/>Nous ne sommes animés d’aucun sentiment belliciste ; bien au contraire, nous avons toujours à l’esprit la somme de souffrances et de malheur que représente la guerre. Notre ambition est celle d’un monde d’échanges pacifiques, de coopérations et de solidarités. Les prises de position du groupe LIOT ne sont donc que des réponses légitimes à une situation qui est aujourd’hui imposée aux nations paisibles et démocratiques de l’Europe occidentale. Cependant, ces réponses doivent être claires et dépourvues de toute ambiguïté, et procéder d’une volonté totale de sécurité.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2676342" ordre_absolu_seance="135" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718161" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4092.02">La parole est à Mme la ministre déléguée chargée de la mémoire et des anciens combattants.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2676343" ordre_absolu_seance="136" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718162" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée chargée de la mémoire et des anciens combattants</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4102.39">Nous vivons un moment où l’histoire s’accélère, où les certitudes vacillent, où les alliances qui semblaient invincibles sont brutalement questionnées. Cette situation s’impose à nous. Nous ne pouvons y rester étrangers, pas plus que nous ne pouvons avoir la naïveté d’imaginer répondre seuls aux menaces qui grondent autour de nous. Notre pays ne peut se le permettre.<br/>Nous sommes aujourd’hui à un tournant historique qui ouvre des interrogations essentielles. La France telle que nous la connaissons est le fruit des choix courageux faits par nos responsables politiques après la guerre.<br/>Les choix que nous sommes en train de faire dessineront le visage de l’Europe de demain. À quelques heures de vol de Paris, la Russie, appuyée par l’Iran et la Corée du Nord, poursuit l’agression qu’elle a lancée contre l’Ukraine. Le régime de Poutine mène une guerre abjecte qui défie nos valeurs, questionne nos frontières et menace notre sécurité.<br/>La Russie mène une guerre totale. Celle-ci dépasse les frontières terrestres, infiltre le cyberespace, teste nos défenses, manipule nos perceptions, pèse sur nos choix démocratiques et s’amuse de nos divergences. Elle constitue une menace directe pour les pays du continent européen.<br/>Ailleurs, l’ordre international est également remis en cause. Il faut être aveugle, ou faire preuve de beaucoup de mauvaise foi, pour ne pas voir que le multilatéralisme recule et que la loi du plus fort cherche à s’imposer face au droit.<br/>Disons-le sans détour, compte tenu de la situation internationale, la France et ses partenaires européens doivent se réarmer pour être en mesure de peser sur l’évolution du monde, de protéger nos intérêts et de défendre le projet démocratique auquel nous adhérons.<br/>Nous avons une responsabilité historique : celle de construire une défense européenne solide qui rassure nos concitoyens, nous protège efficacement et dissuade d’éventuels agresseurs. Pour y parvenir, nous devons sans cesse nouer des coopérations dans le cadre de l’Otan, de l’Union européenne ou d’autres espaces <italique>ad hoc</italique>, sans pour autant diminuer la souveraineté de chaque État membre.<br/>Heureusement, nous ne partons pas démunis dans ce projet de réarmement. D’une part, les pays européens peuvent s’appuyer sur les leviers offerts par les institutions européennes et par les cadres existants de coopération européenne comme l’organisation conjointe de coopération en matière d’armement.<br/>D’autre part, ils peuvent s’appuyer sur l’Otan, un instrument clé de l’interopérabilité et de la coopération militaire entre nos armées – ce qui n’empêche pas l’Europe de chercher à accroître ses capacités d’action autonome en son sein.<br/>La mobilisation de ces leviers ne revient pas à remettre en cause la souveraineté des États ou leurs prérogatives en matière de sécurité nationale, qui sont garanties par l’article 4, paragraphe 2, du traité sur l’Union européenne. Au contraire, elle constitue la preuve d’un esprit de responsabilité et de pragmatisme.<br/>Depuis le début de la guerre en Ukraine, les États membres de l’Union européenne ont démontré leur capacité à agir ensemble, à faire face, à ne pas se dérober quand l’histoire leur tend la main. L’agression russe a été, pour les peuples d’Europe, un révélateur de nos capacités, de nos forces, mais aussi de nos faiblesses. C’est une bonne chose.<br/>Réunis, les États membres de l’UE sont devenus le premier contributeur d’aide à l’Ukraine, devant les États-Unis. Des instruments existants ont été mobilisés, comme la Facilité européenne pour la paix, et d’autres ont été créés : un plan pour l’achat de munitions, des mécanismes de soutien à la base industrielle et technologique de défense européenne ou encore l’utilisation des intérêts produits par les avoirs russes gelés pour l’acquisition de matériel militaire.<br/>L’agenda de Versailles adopté en 2022 a posé les fondements d’une meilleure approche de la sécurité européenne et des efforts de défense en les inscrivant dans une vision plus large : réduction des dépendances critiques, renforcement des capacités industrielles, accélération des investissements stratégiques.<br/>Il n’y aura pas de défense efficace sans résilience d’ensemble de notre industrie et de nos sociétés. Investir dans notre industrie, construire les conditions de sa compétitivité, travailler sur les conclusions du rapport Draghi, c’est aussi contribuer à la défense européenne.<br/>C’est dans le même esprit que s’inscrivent les conclusions des Conseils européens du 6 et du 20 mars derniers, qui engagent l’Union européenne à des investissements massifs, structurants et ciblés : dans la défense aérienne, l’artillerie, les munitions et missiles, les drones, la guerre électronique, l’intelligence artificielle, la mobilité militaire, la cybersécurité et les facilitateurs stratégiques comme l’aviation de transport ou les capacités spatiales.<br/>Le règlement Edip est en cours de négociation. Un nouvel instrument de prêt garanti par l’Union va également voir le jour : l’instrument Agir pour la sécurité de l’Europe (Safe) permettra de lever 150 milliards d’euros. Le mandat de la Banque européenne d’investissement (BEI) a été élargi pour accorder davantage de prêts au secteur de la défense, ce qui est aussi une excellente nouvelle.<br/>Après des décennies à acheter américain – autrement dit à subventionner le complexe militaro-industriel américain –, la logique de préférence européenne doit désormais s’imposer comme une évidence stratégique. Ce changement de paradigme se fera progressivement, certes, mais l’objectif demeurera la consolidation de l’industrie de défense européenne et l’atteinte de notre autonomie stratégique. Acheter américain ne va plus de soi, y compris pour nos partenaires européens les plus liés aux États-Unis – on voit que l’usage de ces armements n’est pas toujours libre, ce qui remet profondément en question la liberté d’action des armées européennes. Il faut toutefois continuer à convaincre – tous les pays n’ont pas encore la même vision de la souveraineté que celle défendue par la France.<br/>J’en profite pour souligner que si l’Union européenne peut contribuer à la réindustrialisation de la défense du continent, elle ne peut en revanche se substituer aux États en ce qui concerne les exportations d’armements, tant elles sont indissociables de leur politique de défense et de leurs relations internationales. Pour renforcer la capacité des pays européens à se défendre, nous devons aller encore plus loin, en développant les acquisitions conjointes, en améliorant le financement privé de la défense, en allégeant les normes, en structurant notre base industrielle de défense avec la volonté d’intégrer nos différents modèles plutôt que de les dupliquer.<br/>Mais ce ne serait pas encore suffisant : comme le dit le ministre des armées, on peut désormais être défait sans avoir été envahi. Pour prévenir cela, l’Union doit se doter de capacités de réponses fortes face aux menaces hybrides, aux ingérences informationnelles et aux attaques contre nos processus électoraux. Cette ambition a été plusieurs fois confortée : par la désignation d’un commissaire européen à la défense et à l’espace pleinement mandaté, par la publication du Livre blanc pour une défense européenne, largement inspiré des contributions françaises, et par la présentation du plan ReArm Europe.<br/>Enfin, pour terminer sur les leviers permettant aux États de mettre en place une défense européenne plus efficace, il faut citer l’importance du secteur spatial dont la double dimension civile et militaire est devenue un élément clé de toute posture stratégique solide et crédible. La recherche d’autonomie en la matière est fondamentale pour ne pas être déclassé. C’est pourquoi la France souhaite notamment accélérer le déploiement d’Iris2. L’Union européenne et ses membres doivent aussi soutenir le succès du lanceur lourd européen Ariane 6 et préparer la génération suivante de lanceurs plus légers.<br/>Aussi vite que nous allions dans les prochaines années, quels que soient les efforts que nous consentirons, il serait illusoire de croire que la défense européenne puisse se construire sans l’Otan. Pour la plupart de nos alliés européens, l’Alliance atlantique a été, est et restera le creuset de notre défense collective. Il faut comprendre les États d’Europe orientale membres de l’Union qui ont souffert pendant quarante-cinq ans derrière le rideau de fer. Pour l’interopérabilité entre nos armées, pour la conduite des opérations, pour la mutualisation des capacités stratégiques, l’Otan demeure un outil irremplaçable. C’est pourquoi nous devons en préserver les atouts, en renforçant en son sein la dimension européenne.<br/>Il y a des choses sur lesquelles les hommes ont peu de prise ; la géographie en est une. C’est en Europe que se jouera l’avenir de la défense de l’Europe, du monde occidental et de ses valeurs. Comme l’expliquait déjà très bien le général de Gaulle, il serait irresponsable de parier sur un soutien automatique, indéfectible, éternel des États-Unis. Nous devons faire notre part, et plus encore. Les pays européens doivent prendre toute leur part au sein de l’Otan, ce qui suppose une vision élargie de la sécurité européenne : il faut travailler davantage avec le Royaume-Uni, renforcer la Communauté politique européenne (CPE) et penser l’arrimage stratégique de l’Ukraine à notre continent, lorsque le moment sera venu, sur des bases solides, crédibles et durables.<br/>S’il est important d’agir en Européens, il ne faut pas non plus oublier d’agir en Français. Dans le geste du réarmement qu’est en train d’écrire l’Europe, notre pays doit être l’un des personnages principaux. Depuis 2017, le président de la République fait le constat lucide du besoin de se réarmer. Depuis cette date, nous avons engagé un effort continu, soutenu, responsable. Aujourd’hui, nos armées sont cohérentes, entraînées, opérationnelles. Nous pouvons sans mentir dire qu’elles sont parmi les meilleures au monde. De même, notre industrie de défense est parmi les plus complètes d’Europe : elle innove, elle exporte et elle irrigue nos territoires.<br/>L’effort français sert l’Europe : il contribue à l’autonomie stratégique du Vieux Continent et il renforce notre crédibilité collective. Il crée aussi des synergies avec nos alliés, comme le montrent les programmes de coopération avec l’Allemagne, la Belgique, l’Espagne, la Grèce, l’Italie, le Luxembourg, les Pays-Bas, la Pologne, le Portugal et bien d’autres encore. Depuis l’élection de Donald Trump – et même avant –, nos partenaires européens ont commencé à voir l’intérêt d’acheter français plutôt qu’américain. Et cela se traduit très concrètement dans les chiffres de nos exportations d’armements, qui ont été sensiblement réorientées vers nos alliés européens.<br/>Enfin, beaucoup a été dit sur la dissuasion nucléaire sans que cela soit toujours très juste ou très honnête. La France peut – doit – faire redécouvrir à ses alliés son rôle dissuasif. Comme le président de la République l’a dit en 2020, les intérêts vitaux de la France s’inscrivent également dans une dimension européenne qui n’est pas limitée au seul cadre de l’Union européenne. Rien n’a changé depuis de Gaulle : notre dissuasion contribue à la sécurité de tous. Mais soyons clairs : si nos alliés du continent européen peuvent tirer des bénéfices de l’existence même de notre dissuasion, la décision d’employer l’arme nucléaire ne saurait être partagée.<br/>La défense européenne ne se proclame pas ; elle se construit, jour après jour, discussion après discussion, décision après décision. Elle demande de la lucidité, de la constance et du courage. Elle est éminemment politique en ce qu’elle exige des choix déterminants : des choix de coopération et d’investissement, des choix pour assurer notre souveraineté. C’est ce à quoi nous sommes appelés aujourd’hui, pour donner à l’Europe les moyens d’être à la hauteur du destin que nous nous souhaitons : une Europe forte, une Europe souveraine, une Europe respectée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2676237" ordre_absolu_seance="162" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717802" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4845.32">Nous en venons aux questions. Je vous rappelle que leur durée, ainsi que celle des réponses, est limitée à deux minutes, sans droit de réplique.<br/>La parole est à Mme Constance Le Grip.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2676239" ordre_absolu_seance="164" id_acteur="PA345722" id_mandat="PM843650" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717804" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Constance Le Grip (EPR)</nom>
+            <id>345722</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4860.17">La France et le Royaume-Uni ont pris l’initiative de travailler à la constitution d’une force de réassurance qui a vocation à être déployée en Ukraine après un cessez-le-feu entre ce pays et la Russie. Cette initiative franco-britannique, soutenue par des échanges bilatéraux renforcés et une coordination étroite, s’inscrit dans le cadre de ce qu’on appelle la coalition des volontaires, qui rassemble une bonne trentaine de pays.<br/>Le 10 avril dernier, à Bruxelles, au siège de l’Otan, d’ailleurs – c’est à noter –, le ministre des armées, Sébastien Lecornu, et son homologue britannique ont coprésidé une première réunion avec les ministres de la défense et les chefs d’état-major des pays engagés – des pays européens mais également le Japon, l’Australie, la Nouvelle-Zélande, entre autres. À cette occasion, des options capacitaires ont été présentées par les deux ministres : cette force, sous commandement britannique, aurait des missions de sécurisation, notamment autour d’Odessa, de la mer Noire et des principaux axes logistiques – des capacités tant aériennes que maritimes et terrestres, donc.<br/>Lors de sa récente audition devant la commission de la défense nationale et des forces armées de l’Assemblée, le ministre des armées a rappelé que cette force visait à éviter un nouveau Minsk et à instaurer de véritables garanties de sécurité et des mécanismes de dissuasion destinés à empêcher toute nouvelle attaque de la Russie contre l’Ukraine.<br/>Alors que se préparent de nouvelles discussions entre le Royaume-Uni et l’Union européenne en matière de sécurité et de défense avant un prochain sommet en mai, pouvez-vous nous en dire un peu plus sur l’état d’avancement de la préparation de cette force de réassurance sur les plans politique, capacitaire et opérationnel ? J’entends bien qu’il peut être important de faire preuve d’une certaine discrétion, s’agissant des détails précis de ces discussions. Néanmoins, compte tenu des nombreuses questions qui se posent dans plusieurs pays européens, sur cette future force de réassurance, et du rôle que pourrait être amenée à jouer la représentation nationale, il serait utile que nous puissions disposer du maximum d’informations possibles à ce stade.<br/>Enfin, comment la France entend-elle garantir que cette force, lorsqu’elle sera constituée – si elle est constituée et déployée –, s’inscrive pleinement dans la dynamique d’affirmation de l’autonomie stratégique européenne tant défendue par le président de la République ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2676244" ordre_absolu_seance="169" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717809" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4887.42">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2676245" ordre_absolu_seance="170" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717810" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4999.47">La France et le Royaume-Uni ont pris la tête d’une coalition de volontaires pour aider l’Ukraine lorsque les combats cesseront. Les travaux se poursuivent entre les états-majors. Toutes les options sont étudiées, d’abord pour continuer à former et à équiper l’armée ukrainienne – la première garantie de sécurité de l’Ukraine, c’est son armée ; ensuite, si les combats cessent, pour garantir que la Russie ne soit pas tentée de relancer la guerre quand cette armée sera refaite – il s’agit d’anticiper ce qui sur terre, en mer, dans les airs, le permettra, et non de remplacer l’armée ukrainienne.<br/>Face à l’incertitude provoquée par l’administration Trump, les Européens doivent rester unis et dissuader la Russie de poursuivre la spirale guerrière. Des garanties de sécurité solides et crédibles doivent y aider – la stabilité du continent Europe dépend de la façon dont la Russie sera dissuadée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2676247" ordre_absolu_seance="172" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717813" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5059.03">La parole est à Mme Brigitte Klinkert.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2676248" ordre_absolu_seance="173" id_acteur="PA643184" id_mandat="PM843206" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717814" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Brigitte Klinkert (EPR)</nom>
+            <id>643184</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5067.92">L’idée d’une défense en Europe est depuis plus de soixante ans la victime de l’histoire de la construction européenne. Pourtant, quatre-vingts ans après la fin de la seconde guerre mondiale, elle est plus que jamais nécessaire. La chute du bloc communiste, qui a permis l’unité de l’Europe par l’intégration des pays de l’Est, a rendu possible une union de la défense – toutefois considérée comme inutile du fait de l’absence de guerre ou d’ennemis en Europe. Pour certains, nous étions une union économique qui n’avait qu’à se pencher pour récolter les dividendes de la paix. Nous avons fait le choix de délaisser les questions stratégiques et de sécurité commune pour nous concentrer sur l’union économique. Nous ne percevions pas le danger – nous nous croyions protégés par un parapluie américain hypothétique.<br/>Mais depuis, notre monde a changé – beaucoup n’ont pas su ou pas voulu le voir jusqu’à l’irruption de la guerre en Ukraine en 2022, puis la réélection de Trump en 2024. La réalité est que la brutalité militaire et les guerres de conquête avaient refait surface en Europe – dès 2008 en Géorgie et en 2014 en Crimée – et que Donald Trump avait déjà plongé l’Otan dans un état de « mort cérébrale » lors de son premier mandat.<br/>Nous sommes confrontés à un monde brutal, à des puissances impériales, au retour de la force. Le temps de la naïveté est terminé. Pour bâtir une défense européenne, il nous faut une industrie commune de défense revitalisée. Les Européens doivent s’équiper des mêmes outils afin de renforcer l’interopérabilité mais aussi de produire eux-mêmes leurs armements, de manière à ne pas dépendre d’autres. La priorité absolue est une souveraineté européenne de l’industrie d’armement. Comment pouvons-nous construire en franco-allemand cet axe de défense pour l’Europe ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2676251" ordre_absolu_seance="176" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3717817" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5189.43">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2676252" ordre_absolu_seance="177" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3717818" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5194.86">Vous avez raison de souligner que l’Europe ne peut plus se contenter d’être un acteur économique : elle doit devenir un acteur stratégique à part entière. Le président de la République le dit depuis 2017. Depuis l’agression russe contre l’Ukraine en 2022, l’Union européenne a pris pleinement conscience de la nécessité de renforcer les moyens de défense de ses États membres. Ce tournant stratégique s’est traduit par des avancées concrètes : l’adoption de la Boussole stratégique, la création d’une capacité européenne de déploiement rapide et le lancement du Livre blanc pour une défense européenne en 2025. Nous avons également engagé la réindustrialisation de notre base de défense grâce à des projets européens majeurs visant à favoriser la recherche et développement (R&amp;D) en matière de défense, pour produire plus vite et plus souverainement nos équipements militaires tout en renforçant notre interopérabilité.<br/>Parallèlement, nous devons réussir à affermir le pilier européen de l’Otan pour assurer la capacité des États européens à agir de façon autonome. Tout doit être fait pour que l’Europe reste maître de son destin stratégique face aux désordres du monde. La France est pleinement engagée dans cette dynamique pour faire émerger une véritable souveraineté européenne.<br/>En ce qui concerne la coopération avec l’Allemagne, dimension essentielle de réarmement de l’Europe, le réveil militaire de notre voisin outre-Rhin est engagé depuis l’annonce du changement d’ère par le chancelier Scholz. En 2024, l’Allemagne a annoncé pouvoir dépenser près de 100 milliards d’euros pour sa défense, un effort qui marque l’importance pour Berlin de compenser un sous-investissement chronique au cours des trente dernières années. Ce réveil est une bonne nouvelle pour l’Europe et sa sécurité.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676194" ordre_absolu_seance="180" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718183" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5316.21">La parole est à M. Arnaud Saint-Martin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676195" ordre_absolu_seance="181" id_acteur="PA841845" id_mandat="PM843407" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718184" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Saint-Martin (LFI-NFP)</nom>
+            <id>841845</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5322.10">Comment construire une véritable Europe de la défense ? On est d’emblée sceptique quant à l’emploi de l’adjectif « véritable », qui induit l’idée d’une construction déjà acquise et à parfaire, un comment sans pourquoi, alors que cette construction relève davantage de l’incantation rhétorique que de besoins réels en matière de souveraineté et de défense nationale. C’est en d’autres termes une formule performative qui achoppe sur des réalités diplomatiques, politiques, économiques et industrielles déjà structurées depuis de nombreuses décennies.<br/>Un seul exemple, parmi tant d’autres : le projet Iris2, déjà évoqué et qui appelle de ma part une série de questions. C’est une constellation duale d’environ 300 satellites, en mesure de fournir une connectivité sécurisée pour les gouvernements, les entreprises ou les armées. C’est un projet européen qui patine, alors même qu’il était censé remplacer Syracuse 4C dans la loi de programmation. Il manquerait aujourd’hui 1 milliard d’euros sur les 10 milliards théoriquement nécessaires pour financer le projet et tout reste à valider d’ici à la fin de l’année.<br/>Le projet repose largement sur l’ineffable couple franco-allemand, mais on apprend par la presse que l’armée allemande envisagerait une architecture d’une centaine de satellites sur plusieurs plans orbitaux, conçus pour fournir des services de communication et renforcer ses capacités de communication sécurisée et de renseignement. L’Allemagne disposerait ainsi, à l’horizon de 2030, d’un système hors Starlink quand la France, elle, s’arme de patience et, dans une spectaculaire impréparation, utilise Starlink, comme ce fut le cas après le passage du cyclone Chido à Mayotte et sans doute en d’autres occasions. Quelles solutions envisagerez-vous dans l’hypothèse, plausible, que l’Allemagne cesse d’investir dans Iris2, lui préférant un système indépendant ou que d’autres partenaires, à l’image de l’Italie, succombent à l’offre commercialement agressive de Starlink ?<br/>Enfin, face à la prolifération des constellations satellitaires, la question de la sécurisation du milieu exoatmosphérique et de l’évolution des systèmes se pose avec acuité. À supposer qu’une stratégie spatiale de défense européenne puisse voir le jour, comment intègrera-t-elle la protection des infrastructures orbitales stratégiques ? Je pense à Copernicus, à Galileo, et évidemment à Iris2. Comment la France entend-elle contribuer à la protection de la souveraineté de ces infrastructures à l’échelle européenne ? Quels moyens faut-il déployer pour l’assurer concrètement ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676199" ordre_absolu_seance="185" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718188" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5414.20">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676200" ordre_absolu_seance="186" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718189" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5449.16">Comme vous l’avez dit, Iris2 est un projet de constellation très ambitieux qui vise à nous doter d’une infrastructure de communication sécurisée à l’horizon de 2030. Il s’agit d’un besoin partagé : nos armées, nos administrations et nos entreprises ont toutes besoin de communiquer en toute sécurité sans dépendre d’un acteur non européen comme Starlink, car la guerre en Ukraine a montré le risque que représente une dépendance critique à l’égard d’un entrepreneur étranger.<br/>Iris2 est donc un projet de souveraineté, un outil concret d’autonomie stratégique. La priorité de la France est que cette infrastructure soit bien conçue comme duale, civile et militaire, et qu’elle réponde pleinement aux besoins de nos forces armées, y compris dans les scénarios de crise. La Commission européenne pilote les négociations et la France y est engagée. Nous nous assurons que tout soit fait pour que ce projet aboutisse dans les délais prévus et relève le défi technologique. À ce titre, Iris2 est un jalon stratégique pour l’Europe, comparable à ce qu’a été le programme Ariane pour l’accès autonome à l’espace ou le programme Galileo. C’est pourquoi nous devons réussir Iris2.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676202" ordre_absolu_seance="188" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718191" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5531.20">La parole est à M. Emmanuel Fernandes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676203" ordre_absolu_seance="189" id_acteur="PA794786" id_mandat="PM843242" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718192" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Emmanuel Fernandes (LFI-NFP)</nom>
+            <id>794786</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5540.85">Ma question porte sur l’inéluctable imbrication d’une illusoire Europe de la défense dans l’Otan – qui compte trente-deux membres dont vingt-trois sont des États membres de l’Union européenne. Ce mirage d’une Europe de la défense qui serait souveraine et autonome a beau faire sauter certains sur leur chaise comme des cabris depuis plusieurs décennies, l’histoire nous enseigne que le point commun entre toutes les tentatives de construction d’une défense européenne est l’inévitable inféodation à l’Otan.<br/>En 1952, certes quelques années après la fin de la seconde guerre mondiale et dans un contexte de guerre froide, le traité sur la Communauté européenne de défense était une initiative conçue et pilotée par et pour l’Otan, visant à la création d’une armée européenne avec des institutions supranationales placées sous la supervision du commandant en chef de l’Otan, lui-même nommé par le président des États-Unis.<br/>Plus récemment, le traité de Lisbonne de 2007, version <italique>bis</italique> du traité constitutionnel européen imposé malgré son rejet par référendum en France deux ans plus tôt, instaure la politique de sécurité et de défense commune (PSDC), qui vise à renforcer le rôle de l’Union européenne en matière de gestion internationale des crises, mais de manière coordonnée avec l’Otan et finalement dans une forme de dépendance à l’égard de celle-ci. Tout récemment encore, Andrius Kubilius, commissaire européen à la défense – fonction dont l’existence même est une anomalie déjà évoquée par notre collègue Bastien Lachaud –, indiquait que l’Union européenne devait fixer ses priorités avec l’Otan, suggérant même la rédaction d’un plan de production industrielle basé sur les exigences – je dis bien les exigences – de l’Organisation : c’est finalement le plan ReArm Europe.<br/>Or, en matière d’armement, on sait l’immense dépendance de l’Europe à l’égard de l’Otan. Entre 2022 et 2024, les pays européens qui en sont membres se sont tournés vers les États-Unis pour 64 % de leurs commandes en armement, la France n’arrivant qu’en deuxième position avec seulement 6,5 %, soit un volume dix fois moindre. Madame la ministre, j’ai entendu votre tentative d’une démonstration assez obscure d’un « en même temps » : quand allez-vous enfin prendre acte de l’inéluctable vacuité du concept même d’une Europe de la défense souveraine et autonome tant que l’Europe sera otanienne ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676207" ordre_absolu_seance="193" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718196" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5671.56">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676208" ordre_absolu_seance="194" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718197" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5674.55">Mon propos n’avait rien d’obscur. Nous parlons souvent de la complémentarité entre l’Union européenne et l’Otan. Cette idée, plus qu’un principe diplomatique, est devenue un cadre opérationnel concret et partagé. Depuis que la Boussole stratégique européenne et le concept stratégique pour l’Otan ont été adoptés presque simultanément en 2022, le cap politique est clair : renforcer le partenariat. L’UE et l’Otan partagent des intérêts stratégiques communs et font face aux mêmes menaces. D’un côté, l’Otan est un partenaire central de l’UE en matière de défense, en particulier pour la garantie collective ; de l’autre, l’UE est un partenaire unique pour l’Otan car elle apporte une puissance civile, économique et normative ainsi qu’un maillage diplomatique qui complète l’action de l’Alliance atlantique.<br/>Ce partenariat a pris une nouvelle dimension avec la troisième déclaration conjointe de l’UE et de l’Otan du 10 janvier 2023, après celles de 2016 et de 2018. Ce texte insiste notamment sur les menaces hybrides, la désinformation, la protection des infrastructures critiques et l’impact sécuritaire du changement climatique. Ces priorités ont été traduites dans un plan d’action structuré autour de soixante-quatorze actions concrètes. Bien sûr, la guerre en Ukraine a été un accélérateur : l’UE et l’Otan ont multiplié les échanges de haut niveau, les <italique>briefings</italique> croisés, les réunions des comités politiques et de sécurité de l’UE et du Conseil de l’Atlantique Nord. Cette coordination étroite a permis de converger vers des mesures concrètes de soutien à l’Ukraine, que ce soit en matière d’aide militaire, de logistique ou de résilience.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676210" ordre_absolu_seance="196" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718199" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5781.44">La parole est à Mme Marie Récalde.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676211" ordre_absolu_seance="197" id_acteur="PA341981" id_mandat="PM842822" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718200" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie Récalde (SOC)</nom>
+            <id>341981</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5787.09">En ce qui concerne le chemin vers la souveraineté et la crédibilité européenne, Donald Trump, le mois dernier, a indiqué vouloir fournir aux alliés des États-Unis intéressés une version du futur F-47 aux capacités amoindries, parce qu’« un jour peut-être, ils ne seront plus des alliés ». Nous sommes entrés dans une phase d’incertitude économique, diplomatique et militaire face à la tension mondiale qui ne cesse de croître ces dernières années et face à la menace russe qui s’affirme, comme cela a été rappelé : en un mot, un bouleversement de l’ordre mondial tous azimuts.<br/>Déjà, le front uni des premières heures semble se rompre peu à peu, à l’ouest avec l’Italie qui cherche à conclure un accord commercial bilatéral, remettant ainsi en cause la crédibilité d’une réponse européenne unie, ainsi qu’à l’est, avec la Hongrie de Viktor Orbán, qui ne correspond plus vraiment à ce que devrait être l’Union européenne. L’autonomie stratégique européenne, dans la décision comme dans les capacités, peut-elle être renforcée efficacement sans accepter que les États-Unis ne doivent plus être notre garantie de sécurité ?<br/>Comment la France, qui a toujours adopté une position particulière sur cette question, peut-elle tirer son épingle du jeu au niveau européen ? Comment être crédible face aux menaces d’un Donald Trump quand le Livre blanc conjoint sur la préparation de la défense européenne à l’horizon 2030 indique que l’Union européenne va continuer d’approfondir les liens des chaînes de valeur transatlantiques ?<br/>Enfin, parce que nous avons évoqué le secteur spatial, comment construire une souveraineté spatiale européenne cohérente et efficace, à l’heure où des programmes nationaux à vocation duale fragmentent les investissements et freinent l’émergence d’un véritable projet spatial commun face aux enjeux géopolitiques et de défense ? Faut-il aller vers le développement de capacités antisatellite ? Si oui, sous quelle gouvernance et, surtout, avec quelles règles d’engagement communes ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676215" ordre_absolu_seance="201" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718204" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5906.93">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676216" ordre_absolu_seance="202" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718205" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5912.54">Votre question me permet de revenir sur l’autonomie stratégique, qui est la capacité pour l’Europe d’assurer seule sa sécurité, de protéger ses citoyens et de défendre ses intérêts sans dépendre des puissances extérieures. Dans un monde marqué par le retour de la guerre en Europe, par une compétition stratégique mondiale exacerbée, par les menaces hybrides et par une implication américaine de plus en plus incertaine, l’autonomie stratégique n’est pas une option, c’est une nécessité.<br/>Il ne s’agit ni de rompre avec nos alliés ni de nous replier, il s’agit d’assumer nos responsabilités et de prendre notre part dans la sécurité du continent. Comme l’a rappelé le président de la République à la Sorbonne, « être autonome, c’est pouvoir analyser une situation, décider, agir selon nos valeurs et nos intérêts ». Cela suppose des capacités propres – renseignement, analyse, planification, commandement – et cela implique aussi une présence dans les grands espaces stratégiques – cyber, espace, mer, fonds marins – et la capacité d’y faire respecter le droit.<br/>C’est pourquoi la France soutient pleinement les initiatives européennes qui visent à renforcer la coopération entre les États membres, à structurer une industrie de défense forte et innovante, à bâtir des programmes communs comme ReArm Europe, les achats conjoints de munitions ou l’aviation de combat du futur. Ces efforts répondent à une double ambition : faire émerger un pilier européen de défense et instaurer un partage des responsabilités plus équilibrées au sein de l’Otan.<br/>Soyons clairs : 450 millions d’Européens ne peuvent durablement compter sur 340 millions d’Américains pour se défendre face à 140 millions de Russes. Nous avons besoin d’une Europe forte et une Europe forte, c’est aussi une Otan forte : l’autonomie stratégique européenne sert l’Europe et elle sert l’Alliance atlantique.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676220" ordre_absolu_seance="206" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718209" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6030.96">La parole est à M. Arnaud Simion.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2676221" ordre_absolu_seance="207" id_acteur="PA841091" id_mandat="PM842705" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718210" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Simion (SOC)</nom>
+            <id>841091</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6038.50">L’avenir de la défense européenne ne peut être pensé sans une réflexion approfondie à propos de son socle industriel. Composé d’acteurs historiques comme Airbus Defence and Space (ADS), Thales Alenia Space (TAS), MBDA ou Nexter, mais aussi de nombreuses PME ou start-up technologiques et d’entreprises associées, il constitue – ou plutôt, pourrait constituer – un pilier de la souveraineté stratégique européenne. Or il est aujourd’hui fragilisé, non par un manque de missions mais par une série de décisions industrielles et politiques qui remettent en cause sa cohérence et sa capacité à répondre aux défis du futur.<br/>Les exemples récents dans le secteur spatial de défense, notamment sur les sites toulousains d’ADS et de TAS, sont édifiants. Ces entreprises bénéficient d’un carnet de commandes en croissance constante, elles sont au cœur des programmes stratégiques évoqués ce soir – Galileo, Copernicus, Iris2 ou Syracuse. Pourtant, elles annoncent des plans massifs de suppressions de postes : plus de 2 000 pour ADS à l’échelle européenne, dont près de 500 en France ; jusqu’à 980 emplois supprimés chez TAS dans le cadre d’un plan dit de compétitivité. Ce processus s’accompagne d’une dégradation profonde du dialogue social et des conditions de travail. Avec notre collègue Jacques Oberti, nous avons rencontré il y a quelques jours les organisations syndicales.<br/>Toute ambition européenne – que nous appelons de nos vœux – en matière de défense industrielle semble compromise si elle ne s’appuie pas d’abord sur un tissu solide, un investissement en compétences, une vision industrielle assumée de l’État actionnaire et des budgets préservés en recherche et développement. Par conséquent, pourriez-vous nous préciser comment le gouvernement envisage de renforcer le pilotage public dans ce domaine ? Comment entend-il insérer des conditionnalités sociales et industrielles dans les marchés publics de défense ? Ambitionne-t-il d’instaurer un plan de réinvestissement massif dans les compétences, la recherche et les capacités productives ? Enfin, envisage-t-il la création d’un grand champion européen dans le domaine du spatial ? À cet égard, le projet dit Bromo suscite des interrogations majeures que je n’ai pas le temps de développer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676414" ordre_absolu_seance="210" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718402" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6170.11">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676415" ordre_absolu_seance="211" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718403" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6173.33">En fin de compte, que nous apporte l’Europe, puisque c’est ce dont nous débattons ? La France profite de la hausse des budgets militaires de l’Union européenne. Les dépenses mondiales de défense ont augmenté de 9,4 % en 2024, ce qui constitue la plus forte hausse depuis la fin de la guerre froide ; l’Europe est au cœur de cette hausse en raison des menaces que la Russie fait peser sur elle.<br/>La France et sa BITD bénéficient de cette évolution au service de l’autonomie industrielle de l’Europe. Entre 2021 et 2023, 20 à 25 % des exportations françaises d’armes se sont faites vers l’Europe ; avant 2017, cette proportion était inférieure à 10 %. Des contrats emblématiques ont été conclus : je pense au succès du canon Caesar auprès de la République tchèque, de la Lituanie, de l’Estonie, de la Belgique ou du Portugal, à la vente de quatre sous-marins Barracuda aux Pays-Bas, à la vente de trois frégates de défense et d’intervention (FDI) à la Grèce, au succès du Rafale en Grèce, en Croatie et en Serbie ou encore à l’acquisition conjointe de missiles antiaériens Mistral 3 avec la Belgique, la Hongrie, la Roumanie, l’Espagne, le Danemark, l’Estonie et la Slovénie. C’est précisément pour nourrir la BITD que nous faisons Iris2.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676417" ordre_absolu_seance="213" id_acteur="PA841243" id_mandat="PM842825" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718405" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sébastien Saint-Pasteur</nom>
+            <id>841243</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6206.79">Quelle réponse précise ! Les salariés vont vous remercier !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676418" ordre_absolu_seance="214" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718406" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6249.98">La parole est à Mme Virginie Duby-Muller.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676419" ordre_absolu_seance="215" id_acteur="PA608826" id_mandat="PM843365" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718407" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Virginie Duby-Muller (DR)</nom>
+            <id>608826</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6256.62">Après une première prise de parole plus générale, je souhaite aborder le sujet précis de la cybersécurité. Les nouvelles technologies, bien que bénéfiques dans des domaines comme la santé, présentent aussi des menaces pour le pays, pour les institutions et pour l’économie. La loi de programmation militaire tient compte de ces menaces et prévoit des réponses ciblées consistant notamment à investir dans les drones, dans la défense sol-air, dans l’innovation militaire et dans la cyberdéfense. J’étais présente le 4 mars à l’École polytechnique lors de l’inauguration du pôle recherche de l’Agence ministérielle pour l’intelligence artificielle de défense (Amiad) ; ce centre permettra de développer l’IA de défense en lien avec les mondes académique et industriel tout en attirant de jeunes talents. Ce jour-là, un partenariat stratégique a été signé avec Mistral AI, preuve que nous pouvons bâtir la souveraineté technologique européenne avec des acteurs français de premier plan.<br/>Une réponse européenne coordonnée est essentielle. L’Europe joue déjà un rôle clé au moyen de législations communes comme le règlement sur les services numériques dit DSA, le règlement sur les marchés numériques dit DMA et le Cyber Resilience Act. Plusieurs acteurs européens et internationaux tels que le Cert-EU – le service de cybersécurité pour les institutions, organes et organismes de l’Union –, le réseau des Csirts – les centres de réaction aux incidents de sécurité informatique –, le Centre européen de compétences en matière de cybersécurité, l’Agence européenne de cybersécurité (Aesri) ou encore le réseau européen des organisations de liaison en cas de crise cybernétique jouent un rôle d’accompagnement pour des acteurs français de la cyberdéfense comme l’Agence nationale de la sécurité des systèmes d’information (Anssi) ou le commandement de la cyberdéfense (Comcyber). Là encore, l’Europe de la défense existe déjà sous la forme d’entités et d’actions coordonnées et concrètes.<br/>Comment renforcer les échanges entre acteurs européens de la cybersécurité pour partager les bonnes pratiques et pour mieux comprendre les attaques subies par nos alliés ? Une des réponses réside sans doute dans l’organisation de réunions régulières entre acteurs telles que la dernière conférence des cybercommandeurs européens qui s’est déroulée du 24 au 26 mars en Pologne.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676422" ordre_absolu_seance="218" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718410" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6373.23">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676423" ordre_absolu_seance="219" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718411" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6377.74">Comme vous l’avez dit, la France n’a pas attendu : elle a investi 4 milliards d’euros dans la cybersécurité dans le cadre de la LPM. Le cyberespace est devenu un domaine stratégique central pour la sécurité européenne. L’Union européenne a reconnu l’importance d’améliorer sa résilience face aux cyberattaques, en particulier depuis l’intensification des menaces hybrides liée au contexte international. Dans ce cadre, elle développe plusieurs actions concrètes pour renforcer les échanges entre acteurs européens en matière de cyberdéfense et de cybersécurité.<br/>Premièrement, un effort important est mené pour construire une culture stratégique commune dans ce domaine ; cela passe par la consolidation de connaissances communes, notamment grâce aux échanges réguliers entre les commandements de cyberdéfense des États membres et au partage d’informations stratégiques et techniques sur les typologies d’attaques observées, les vecteurs utilisés et les méthodes de riposte efficaces.<br/>Deuxièmement, l’Agence européenne de défense (AED) joue un rôle moteur. Elle favorise la coopération intergouvernementale en matière de cyberdéfense, facilite le développement des capacités communes et soutient la montée en compétence des acteurs européens.<br/>Troisièmement, des programmes spécifiques ont été lancés pour encourager la coopération entre États. Ainsi, en 2022, le cyber a été intégré dans la Boussole stratégique pour renforcer les capacités de prévention, de détection, de défense et de réplique face aux cyberattaques ; par ailleurs, le Fonds européen de la défense (FED) soutient des projets collaboratifs visant à développer des outils innovants de cyberdéfense et de cybersécurité.<br/>Le cyber fait donc pleinement partie de l’approche européenne de la défense, en articulation avec la résilience civile et militaire, et constitue un des piliers de l’autonomie stratégique européenne. J’ajoute que deux stratégies spécifiques viennent d’être adoptées : la stratégie de préparation de l’Union européenne à l’horizon 2030 pour faire face aux menaces et la stratégie contre les menaces hybrides russes passant par le cyberespace.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676428" ordre_absolu_seance="224" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718416" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6506.89">La parole est à M. Pascal Lecamp.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676429" ordre_absolu_seance="225" id_acteur="PA795374" id_mandat="PM843593" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718417" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pascal Lecamp (Dem)</nom>
+            <id>795374</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6516.47">L’Europe affronte de nouveau une guerre sur son sol – l’agression russe contre l’Ukraine – et la question de l’autonomie stratégique du continent ne peut plus être différée. L’Union européenne a certes progressé en la matière grâce à la politique de sécurité et de défense commune et à la coopération structurée permanente (CSP), mais ces dispositifs demeurent insuffisants face à un monde où les rapports de force se durcissent et où la garantie de sécurité américaine devient de plus en plus incertaine. Plus inquiétant encore, l’entente diplomatique quant aux enjeux de la guerre en Ukraine se fait de plus en plus instable : certaines propositions irresponsables évoquant la reconnaissance de la Crimée comme territoire russe fragilisent l’unité occidentale et risquent d’entériner par la diplomatie ce que l’agression militaire a imposé par la force dès 2014. Face à ces dérives, l’Union européenne se doit d’incarner une ligne distincte, ferme, stricte, fidèle au droit international et au principe de souveraineté.<br/>À cette instabilité s’ajoute, plus préoccupante encore, l’ombre d’un rapprochement entre l’administration américaine et la Russie. Les prises de position passées du président Trump relativisant l’engagement américain au sein de l’Otan et entretenant l’ambiguïté sur la responsabilité de Moscou dans le conflit ukrainien doivent nous alerter. Le risque de voir l’Europe livrée à elle-même, sans filet de sécurité extérieur, impose une réponse stratégique forte.<br/>Tirons les leçons de l’histoire. En 1952, la France, aux côtés de ses partenaires du Benelux, de l’Allemagne de l’Ouest et de l’Italie, a signé le traité instituant la Communauté européenne de défense. Ce projet était mû par l’ambition exceptionnelle de construire une armée européenne intégrée placée sous une autorité politique commune. Cependant, en 1954, l’Assemblée nationale a refusé la ratification du traité – que les Pays-Bas, la Belgique, le Luxembourg et la RFA avaient pourtant tous validé entre mars 1953 et avril 1954 –, entraînant la suspension de la ratification par l’Italie en attente du choix de la France. Le gouvernement envisage-t-il de proposer une ratification symbolique du traité instituant la CED afin de démontrer l’engagement de la France en faveur d’une Europe forte, souveraine et capable d’assurer seule sa sécurité collective ? L’Italie est en passe de le faire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676432" ordre_absolu_seance="228" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718420" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6588.27">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676433" ordre_absolu_seance="229" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718421" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6656.91">Depuis 1954, la capacité de l’Europe à penser et à construire sa propre sécurité collective a profondément évolué. Nous n’en sommes plus au stade des projets initiaux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676434" ordre_absolu_seance="230" id_acteur="PA795374" id_mandat="PM843593" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718422" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pascal Lecamp</nom>
+            <id>795374</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6668.30">Je parle d’une ratification symbolique !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676435" ordre_absolu_seance="231" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718423" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6668.79">L’Union européenne est née et s’est dotée d’outils concrets pour agir dans le domaine de la défense. L’Otan a profondément évolué en accueillant l’Allemagne puis la plupart des pays d’Europe centrale et orientale et en devenant l’un des cœurs de la défense collective du continent européen. Le paysage a donc radicalement changé depuis les débats relatifs à la CED. Proposer une ratification symbolique du traité instituant la Communauté européenne de défense aurait peu d’effets politiques et stratégiques. Notre défi actuel consiste à réussir ce que l’Union européenne bâtit progressivement depuis le traité de Maastricht de 1992 et qui s’accélère depuis le début de la guerre en Ukraine.<br/>L’Union européenne a déjà franchi des étapes majeures – Boussole stratégique, agenda de Versailles, Livre blanc, Edirpa, Asap, soutien à l’Ukraine, missions et opérations – et doit poursuivre dans cette voie en appliquant la stratégie industrielle de défense dite Edis et en adoptant le règlement Edip, qui doit aider à consolider une industrie de défense européenne compétitive et résiliente. Parallèlement, les États européens doivent acquérir une capacité d’autonomie militaire et stratégique permettant de fortifier un véritable pilier européen de l’Otan.<br/>L’Europe de la défense est bien en mouvement ; nul besoin de revenir à la Communauté européenne de défense.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676438" ordre_absolu_seance="234" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718426" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6766.87">La parole est à M. Thibaut Monnier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676439" ordre_absolu_seance="235" id_acteur="PA840915" id_mandat="PM842552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718427" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibaut Monnier (RN)</nom>
+            <id>840915</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6782.10">Pour bâtir une défense européenne respectueuse de la souveraineté des États, nous ne saurions nous passer du renforcement des points d’appui de l’influence française au sein des institutions européennes.<br/>Malheureusement, les débats au Parlement européen au sujet du programme Edip ont démontré que la France était une fois de plus très isolée dans le concert des États membres. Alors qu’elle est représentée pour la première fois de son histoire dans tous les groupes politiques du Parlement européen, votre ministère n’a pas cherché à constituer une « équipe de France » ni défini de stratégie pour défendre les intérêts français relativement au projet Edip. Ce règlement qui introduit les prémices d’une préférence européenne dans l’achat de matériel militaire soulève aussi de nombreuses questions concernant les projets européens de défense ou encore la contribution financière attendue des États membres. Sur toutes ces questions, les députés français du Parlement européen ont navigué à vue, sans jamais être sollicités ni consultés par votre ministère pour définir une stratégie nationale. Tous les acteurs français ont dénoncé la légèreté du gouvernement en la matière.<br/>Plus grave encore, le secrétariat général aux affaires européennes, placé sous l’autorité du premier ministre, n’a même pas daigné publier une note pour définir la position du gouvernement sur le règlement Edip. Personne ne sait si vous approuvez ou non le texte adopté jeudi par le Parlement européen. Nous regrettons fortement l’absence du ministre des armées, alors que nous évoquons ce soir un sujet si fondamental pour notre industrie de défense.<br/>Je vous poserai trois questions simples. Quelle est la position de votre gouvernement sur le projet de règlement européen Edip adopté par le Parlement européen ? Allez-vous constituer une équipe de France associant les parlementaires européens et les industriels de la défense pour préserver les intérêts souverains de la France auprès des institutions européennes, en prévision du prochain trilogue ? Comment allez-vous convaincre nos partenaires polonais, italiens et allemands de construire une véritable préférence européenne pour l’achat de matériel militaire ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676443" ordre_absolu_seance="239" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718431" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6883.78">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676444" ordre_absolu_seance="240" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718432" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6898.15">Le règlement Edip est encore en cours de négociation au niveau européen. Au Conseil, les États ont encore des questions à traiter. Nous pouvons nous réjouir de l’accord trouvé la semaine dernière au Parlement européen. La position française sur ce texte est des plus claires : l’argent européen doit aller à l’industrie européenne. Nous devons acheter des produits dont nous maîtrisons la conception en toute autonomie. La défense est une prérogative des États et non de la Commission, qui doit donc agir dans son domaine.<br/>Pour convaincre, nous devons montrer que l’achat de matériel de défense en Europe est la condition de notre souveraineté, que nous disposons d’une technologie, d’une industrie de pointe et de matériel du meilleur niveau et qu’il n’est pas nécessaire d’aller les chercher outre-Atlantique. Cela est possible ; le succès des rapporteurs français au Parlement européen le prouve.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676446" ordre_absolu_seance="242" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718434" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6952.83">La parole est à Mme Caroline Colombier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2676447" ordre_absolu_seance="243" id_acteur="PA793548" id_mandat="PM842606" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718435" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Caroline Colombier (RN)</nom>
+            <id>793548</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6966.10">À l’heure du désengagement américain par rapport au conflit russo-ukrainien, la chimère de l’Europe de la défense revient à marche forcée. Ces dernières années, on ne compte plus le nombre de nos alliés qui se gargarisent d’être les pionniers de la défense européenne alors que leur regard et leur budget sont en réalité dirigés vers l’Atlantique. Par ailleurs, le président américain ne semble avoir aucune intention de laisser tomber l’Otan, bien décidé à faire payer les Européens pour leur défense à hauteur de 5 % du PIB.<br/>Dans ce contexte, la Commission européenne profite de chaque occasion pour s’octroyer de nouvelles prérogatives. Ainsi, au prétexte de sa compétence en matière industrielle, elle s’immisce dans le pré carré des États membres, en particulier dans le domaine de la défense – pouvoir régalien par excellence. Nous tenons bien sûr à rappeler que cela constitue une forfaiture de la part de la Commission, qui dévoie la lettre et l’esprit des traités.<br/>C’est dans cet esprit qu’elle a publié il y a peu un Livre blanc indolore sur la défense européenne, cherchant à justifier le déblocage de 800 milliards d’euros pour augmenter les capacités de défense de l’Union. Je souhaite vous interroger sur cette enveloppe et sur sa portée car certains de nos voisins sont habitués à faire financer sur fonds européens du matériel sous licence états-unienne, encourant ainsi l’application des normes Itar, la réglementation américaine de contrôle des exportations en matière de défense. Quels outils diplomatiques comptez-vous déployer pour que les 800 milliards investis au niveau européen servent à l’achat de matériel véritablement européen, c’est-à-dire fabriqué et surtout conçu sur le sol européen ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2676116" ordre_absolu_seance="246" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718653" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7004.98">La parole est à Mme la ministre déléguée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2676117" ordre_absolu_seance="247" id_acteur="PA719668" id_mandat="-1" id_nomination_oe="PM855118" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3718654" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Patricia Mirallès</nom>
+            <id>719668</id>
+            <qualite>ministre déléguée</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7064.70">Le plan ReArm Europe, présenté le 4 mars par la Commission européenne, marque un tournant décisif. Il est dévoilé à un moment critique, celui où l’aide américaine à l’Ukraine est suspendue, tandis que les budgets européens sont sous pression et que la guerre, à nos portes, nous oblige à agir. ReArm envoie un signal clair : tous les États membres doivent être en mesure d’investir dans la défense. Ce plan ne crée pas une armée européenne. Il ne contraint personne mais donne à chacun les moyens d’agir.<br/>Son application passe par l’utilisation de trois leviers. Le premier est l’assouplissement budgétaire : les États membres pourront investir davantage sans se voir sanctionnés pour déficit excessif, grâce à une dérogation au pacte de stabilité et de croissance jusqu’à 1,5 % du PIB par an, pendant quatre ans. C’est une occasion que pourront saisir ceux qui n’ont pas encore consenti d’effort significatif.<br/>Deuxième levier : la création de l’instrument Safe. Grâce à lui, la Commission pourra lever jusqu’à 150 milliards d’euros que les États membres consacreront à des achats communs, au soutien industriel ou à l’innovation. Les décisions prises à cet égard demeureront nationales : chacun gardera la main.<br/>Enfin, le troisième et dernier levier consiste dans la mobilisation de la BEI et des capitaux privés en vue d’ouvrir le financement aux PME et aux start-up dans le domaine de la défense. C’est la fin de l’autocensure en matière d’investissements souverains.<br/>Le plan va plus loin : il prévoit d’adapter les règles de la politique de cohésion de l’Union européenne pour permettre aux régions de financer des projets de défense grâce au Fonds européen de développement régional (Feder) et au Fonds social européen (FSE+). Il prévoit également un allègement du cadre réglementaire visant à fluidifier les chaînes de production.<br/>ReArm ne remplace pas les budgets nationaux mais autorise ceux qui le souhaitent à investir plus facilement. Il s’agit d’un outil de solidarité stratégique et de bon sens politique. Soit nous nous exposons séparément, soit nous nous réarmons ensemble, ce qui nous permettra évidemment de fabriquer français et d’acheter français et européen.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2676123" ordre_absolu_seance="253" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718660" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7186.55">Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="8" id_preparation="2676125" ordre_absolu_seance="255" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3718662" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2676126" ordre_absolu_seance="256" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3718663" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7187.74">Prochaine séance, demain, à neuf heures :<br/> Questions orales sans débat.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2676127" ordre_absolu_seance="257" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3718664" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures quinze.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2676128" ordre_absolu_seance="258" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3718665" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

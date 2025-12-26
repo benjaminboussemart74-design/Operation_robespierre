@@ -1,0 +1,1083 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N067</uid>
+  <seanceRef>RUANR5L17S2025IDS28908</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250114213000000</dateSeance>
+    <dateSeanceJour>mardi 14 janvier 2025</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>67</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250067</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-01-22T11:55:20.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3592100">Présidence de M. Xavier Breton</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3592104">
+          <intitule>Dépôt d’une motion de censure</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3592107">
+          <intitule>Palestine/Liban : le rôle de la France dans l’effondrement du droit international</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3592113">Mme Insaf Rezagui, docteure en droit international de l’université de Paris Cité</para>
+        <para id_syceron="3592124">Mme Monique Chemillier-Gendreau, professeure émérite de droit public et de sciences politiques à l’université Paris VII</para>
+        <para id_syceron="3592133">M. Jean-Paul Lecoq (GDR)</para>
+        <para id_syceron="3592136">Mme Monique Chemillier-Gendreau</para>
+        <para id_syceron="3592139">M. Thomas Portes (LFI-NFP)</para>
+        <para id_syceron="3592142">Mme Insaf Rezagui</para>
+        <para id_syceron="3592145">Mme Monique Chemillier-Gendreau</para>
+        <para id_syceron="3592148">Mme Sabrina Sebaihi (EcoS)</para>
+        <para id_syceron="3592151">Mme Monique Chemillier-Gendreau</para>
+        <para id_syceron="3592154">Mme Insaf Rezagui</para>
+        <para id_syceron="3592156">M. Frédéric Petit (Dem)</para>
+        <para id_syceron="3592162">Mme Insaf Rezagui</para>
+        <para id_syceron="3592166">Mme Elsa Faucillon (GDR)</para>
+        <para id_syceron="3592169">Mme Monique Chemillier-Gendreau</para>
+        <para id_syceron="3592174">Mme Insaf Rezagui</para>
+        <para id_syceron="3592180">M. Peio Dufau (SOC)</para>
+        <para id_syceron="3592184">Mme Monique Chemillier-Gendreau</para>
+        <para id_syceron="3592188">Mme Insaf Rezagui</para>
+        <para id_syceron="3592386">M. Hendrik Davi (EcoS)</para>
+        <para id_syceron="3592391">Mme Insaf Rezagui</para>
+        <para id_syceron="3592396">Mme Monique Chemillier-Gendreau</para>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="3592399">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="3592404">M. Jean-Noël Barrot, ministre de l’Europe et des affaires étrangères</para>
+        <para id_syceron="3591884">Mme Elsa Faucillon (GDR)</para>
+        <para id_syceron="3591892">M. Jean-Noël Barrot, ministre</para>
+        <para id_syceron="3591903">Mme Eléonore Caroit (EPR)</para>
+        <para id_syceron="3592014">M. Jean-Noël Barrot, ministre</para>
+        <para id_syceron="3592024">Mme Ersilia Soudais (LFI-NFP)</para>
+        <para id_syceron="3592032">M. Jean-Noël Barrot, ministre</para>
+        <para id_syceron="3592041">M. Peio Dufau (SOC)</para>
+        <para id_syceron="3592045">M. Jean-Noël Barrot, ministre</para>
+        <para id_syceron="3592191">M. Jean-Claude Raux (EcoS)</para>
+        <para id_syceron="3592196">M. Jean-Noël Barrot, ministre</para>
+        <para id_syceron="3592199">M. Bruno Fuchs (Dem)</para>
+        <para id_syceron="3592204">M. Jean-Noël Barrot, ministre</para>
+        <para id_syceron="3592210">M. Jean-Paul Lecoq (GDR)</para>
+        <para id_syceron="3592324">M. Jean-Noël Barrot, ministre</para>
+        <para id_syceron="3592330">Mme Catherine Hervieu (EcoS)</para>
+        <para id_syceron="3592334">M. Jean-Noël Barrot, ministre</para>
+        <para id_syceron="3592338">M. Frédéric Petit (Dem)</para>
+        <para id_syceron="3592341">M. Jean-Noël Barrot, ministre</para>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="3592347">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mardi 14 janvier 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2592007" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3592100" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Xavier Breton<br/> vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2592008" ordre_absolu_seance="2" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592101" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="916.67">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2592009" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3592102" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2592011" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3592104" valeur="">
+      <orateurs/>
+      <texte>Dépôt d’une motion de censure</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2592012" ordre_absolu_seance="6" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592105" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="919.81">La présidente de l’Assemblée nationale a reçu aujourd’hui, à dix-sept heures trente-huit, une motion de censure déposée par Mme Mathilde Panot et cinquante-sept membres de l’Assemblée, en application de l’article 49, alinéa 2, de la Constitution. En application de l’article 153, alinéa 4, de notre règlement, il est pris acte de ce dépôt. La motion de censure sera notifiée au gouvernement et affichée. La date et l’heure de la discussion et du vote de la motion de censure seront fixées par la conférence des présidents.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="2592014" ordre_absolu_seance="8" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3592107" valeur="">
+      <orateurs/>
+      <texte>Palestine/Liban : le rôle de la France dans l’effondrement du droit international</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="2592015" ordre_absolu_seance="9" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592108" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="949.60">L’ordre du jour appelle le débat sur le thème : « Palestine/Liban : le rôle de la France dans l’effondrement du droit international ».<br/>Ce débat, demandé par le groupe de la Gauche démocrate et républicaine, se tient en salle Lamartine afin que des personnalités extérieures puissent être interrogées.<br/>La conférence des présidents a décidé d’organiser le débat en deux parties. Nous commencerons par une table ronde en présence de personnalités invitées, d’une durée d’une heure, qui donnera lieu à une séance de questions-réponses, puis, après une intervention liminaire du gouvernement, nous procéderons à une nouvelle séquence de questions-réponses d’une durée d’une heure également. La durée des questions et des réponses sera limitée à deux minutes sans droit de réplique.<br/>Pour la première phase du débat, je souhaite la bienvenue à Mme Insaf Rezagui, docteure en droit international de l’université de Paris Cité, membre de l’association des Juristes pour le respect du droit international, ainsi qu’à Mme Monique Chemillier-Gendreau, professeure émérite de droit public et de sciences politiques à l’université Paris VII. J’invite les orateurs qui souhaitent poser une question aux invitées à s’inscrire dès à présent auprès de la direction de la séance. Je vais maintenant donner la parole à nos invitées, pour une intervention de cinq minutes chacune.<br/>La parole est à Mme Insaf Rezagui, docteure en droit international de l’université de Paris Cité, membre de l’association des Juristes pour le respect du droit international.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="2592020" ordre_absolu_seance="14" id_acteur="PA-125879" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592113" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Insaf Rezagui</nom>
+            <id>-125879</id>
+            <qualite>docteure en droit international de l’université de Paris Cité</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1052.72">Je me concentrerai sur l’avis consultatif du 19 juillet 2024 rendu par la Cour internationale de justice (CIJ) qui est riche d’enseignements. Il traite d’une part des conséquences des politiques menées par Israël en Palestine, en particulier des lois et mesures discriminatoires prises contre les Palestiniens, d’autre part des incidences de ces politiques sur le statut de l’occupation et des conséquences pour les États, dont la France.<br/>En ce qui concerne la première question, la Cour souligne le lien entre l’occupation par Israël du territoire palestinien, qui dure depuis cinquante-sept ans, et sa politique coloniale, en violation de l’article 49 de la quatrième convention de Genève, qui interdit à la puissance occupante de transférer sa population dans le territoire qu’elle occupe. Or environ 800 000 colons sont établis en Cisjordanie et à Jérusalem-Est, soit une augmentation de 220 % depuis le début des années 2000. Cette politique coloniale passe par l’implantation de colonies de peuplement, la confiscation des terres palestiniennes, l’exploitation des ressources naturelles palestiniennes au profit des colons, l’imposition par Israël d’un droit militaire aux Palestiniens de Cisjordanie, alors que les colons relèvent des tribunaux civils israéliens, le déplacement forcé de la population palestinienne et l’accroissement des actes de violence commis par les colons et les forces de sécurité israéliennes contre les Palestiniens.<br/>La Cour se prononce ensuite – c’est une nouveauté – sur l’annexion, qu’elle entend comme « le fait, pour la puissance occupante, d’acquérir par la force le territoire qu’elle occupe, c’est-à-dire de l’intégrer au sien ». Pour la Cour, les politiques israéliennes que je viens de citer révèlent une volonté de contrôle permanent sur le territoire palestinien, car elles sont destinées à rester en place indéfiniment. En conséquence, la Cour considère qu’il y a une annexion d’une large partie du territoire palestinien.<br/>Enfin, elle se prononce sur la discrimination, à savoir le traitement différencié entre les Israéliens et les Juifs non Israéliens d’une part, et les Palestiniens en Cisjordanie d’autre part. Plusieurs discriminations sont visées par la Cour : les permis de résidence octroyés – les Israéliens peuvent résider sans restriction à Jérusalem-Est, tandis que les Palestiniens doivent disposer d’un permis de résidence qui peut être révoqué à la discrétion du ministre de l’intérieur pour « manquement à l’obligation de loyauté » due à l’État d’Israël ; la situation des Palestiniens du reste de la Cisjordanie, notamment l’interdiction de résider à Jérusalem-Est ; les restrictions à la liberté de circulation telles que les routes réservées aux colons et la présence de 565 obstacles militaires ; la démolition de biens, etc.<br/>La Cour se prononce également sur la ségrégation raciale et l’apartheid. L’article 3 de la Convention internationale sur l’élimination de toutes les formes de discrimination raciale (CIEDR) stipule que « les États parties condamnent spécialement la ségrégation raciale et l’apartheid et s’engagent à prévenir, à interdire et à éliminer sur les territoires relevant de leur juridiction toutes les pratiques de cette nature. » Or, pour la Cour, les politiques israéliennes entraînent une séparation physique et juridique entre les colons et les Palestiniens. La Cour en déduit qu’Israël viole l’article 3 de ladite convention.<br/>Pour la Cour, les politiques israéliennes entravent le droit à l’autodétermination du peuple palestinien et donc son droit à un État indépendant car elles entraînent « des changements dans le caractère physique, le statut juridique, la composition démographique et l’intégrité territoriale du territoire palestinien ». Ces changements « manifestent [donc] une intention de créer une présence israélienne permanente et irréversible […] ».<br/>J’en viens aux conséquences juridiques. La présence continue d’Israël en Palestine est un fait internationalement illicite continu, qui engage sa responsabilité internationale. En conséquence, Israël doit mettre fin à sa présence dans le territoire palestinien dans les plus brefs délais, mettre fin aux politiques et pratiques illicites et réparer les dommages causés à la population palestinienne. Certaines des obligations violées par Israël sont opposables à tous les États dont la France, notamment celle de faire respecter le droit du peuple palestinien à l’autodétermination, de ne pas reconnaître comme licite cette situation et de ne pas prêter aide ou assistance au maintien de la situation.<br/>Le 18 septembre, l’Assemblée générale des Nations unies (AGNU) a adopté une résolution qui reprend cette décision. La France ayant voté en faveur de ce texte, elle a des obligations juridiques. L’Assemblée générale donne à Israël douze mois pour se retirer du territoire palestinien. Elle impose donc à tous les États de s’acquitter de leurs obligations, en favorisant la réalisation du droit à l’autodétermination du peuple palestinien, ce qui impliquerait la reconnaissance de l’État de Palestine, déjà reconnu par 147 des 193 États membres de l’ONU. Certains États comme la France, qui ne reconnaissent pas l’État de Palestine, ont pourtant voté en faveur de ce texte. Ce vote positif traduit la fragilité de la position française sur la question. Il est difficile de justifier en droit international le soutien à des résolutions adoptées par l’Assemblée générale tout en refusant de reconnaître l’État de Palestine.<br/>L’Assemblée générale demande aussi aux États de faire la distinction « dans leurs échanges […], entre Israël et le Territoire palestinien occupé », de cesser « la fourniture ou le transfert d’armes […] à Israël », qui pourraient être utilisées dans le cadre de l’occupation, et de prohiber « l’importation de tout produit provenant des colonies de peuplement israéliennes ». Or l’Union européenne ne le fait pas. Elle impose un simple étiquetage spécifique pour tous les produits importés des colonies.<br/>Je conclurai en citant la Cour internationale de justice, selon laquelle « la réalisation du droit du peuple palestinien à l’autodétermination, y compris son droit à un État indépendant […], coexistant dans la paix avec l’État d’Israël, […] contribuerait à la stabilité régionale et à la sécurité de tous les États du Moyen-Orient ». Finalement, la Cour rappelle à la société internationale qu’elle a le devoir et l’obligation juridique d’imposer la solution à deux États et de faire respecter le droit international. Or, aujourd’hui, il n’y a plus de volonté politique dans cette région.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="2592030" ordre_absolu_seance="24" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592123" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1390.63">La parole est à Mme Monique Chemillier-Gendreau, professeure émérite de droit public et de sciences politiques à l’université Paris VII.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="1" id_preparation="2592031" ordre_absolu_seance="25" id_acteur="PA-125889" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592124" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Monique Chemillier-Gendreau</nom>
+            <id>-125889</id>
+            <qualite>professeure émérite de droit public et de sciences politiques à l’université Paris VII</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1398.05">Quand j’ai su qu’il s’agissait de parler de l’effondrement du droit international en dix minutes, ramenées à sept puis à cinq, j’ai d’abord pensé me désister. Mais finalement, je vais essayer de le faire en répondant à trois questions. La première est la suivante : y a-t-il effondrement du droit international ? Oui. Le mécanisme du maintien de la paix ne fonctionne plus – les guerres en cours le démontrent. Le droit humanitaire en cas de conflit armé connaît un échec criant. Les droits de l’homme sont ineffectifs, tout comme le droit pénal international, dans la majorité des pays.<br/>La deuxième question est : quel est le rôle de la France dans cet effondrement ? Ce rôle est marqué par une ambivalence générale. Des moments d’éclair créateur ont été le plus souvent suivis de nombreuses violations des droits qui avaient été proclamés. Les exemples sont multiples, à toutes les époques. La France révolutionnaire se dote d’une Déclaration des droits de l’homme et du citoyen de portée universelle, puisqu’elle proclame : « Les hommes naissent et demeurent libres et égaux en droits ». Elle ne dit pas « les Français », mais « les hommes ». Dans cette logique, elle abolit l’esclavage dans les colonies en 1794, mais Napoléon le rétablit en 1802.<br/>Après la seconde guerre mondiale, la France, par l’intermédiaire de René Cassin, participe activement à la rédaction de la Charte des Nations unies en 1945 puis à celle de la Déclaration universelle des droits de l’homme en 1948. Mais elle piétine les normes proclamées lors de la guerre d’Indochine, des massacres de 1947 à Madagascar et de la guerre d’Algérie.<br/>En matière migratoire, la France, avec bien d’autres pays européens, participe à une violation massive des droits humains mais aussi de la Convention internationale de 1979 sur la recherche et le sauvetage maritimes en laissant sans secours les embarcations qui tentent de traverser la Méditerranée ou la Manche.<br/>En ce qui concerne le Sahara occidental, le droit international a été dit en 1975 par la Cour internationale de justice, qui a reconnu qu’il n’y avait pas de souveraineté marocaine, mais que le peuple sahraoui avait le droit de se prononcer sur son sort. Plus récemment, la Cour de justice de l’Union européenne (CJUE) a précisé que le peuple sahraoui est celui qui a été colonisé par l’Espagne et qu’il ne peut pas être assimilé à la population actuelle du territoire dominé par les colons marocains. La France, en reconnaissant la souveraineté marocaine, a contribué à l’effondrement du droit international.<br/>Elle y contribue de manière plus générale parce qu’elle ne reconnaît pas la compétence de la Cour internationale de justice. Pour être obligatoire à l’égard d’un État, cette compétence doit avoir fait l’objet d’une déclaration de la part de celui-ci. Notre pays, qui avait fait cette démarche lors de la création de la Cour en 1948, s’en est retiré en 1974. La France refuse ainsi le principe démocratique selon lequel, en cas de différends entre États, le recours au juge serait obligatoire.<br/>Sur le conflit israélo-palestinien, beaucoup de choses viennent de vous être dites. Les violations du droit international par Israël sont massives et pourtant, la France persiste à se dire l’amie d’Israël sans conditions. Elle est aveugle au fait qu’Israël ne peut plus être considéré comme démocratique depuis sa loi fondamentale de 2018 qui fait de cet État celui des Juifs, à l’exclusion des autres composantes de sa population. Comme cela vient d’être rappelé, la France refuse de s’engager dans les mesures qui permettraient de faire bouger les choses. En refusant d’appliquer les mandats d’arrêt émis par la Cour pénale internationale (CPI) contre des dirigeants israéliens, elle contribue à l’effondrement du droit international. Elle devrait pourtant méditer les propos du contre-amiral israélien Ami Ayalon, qui a dirigé pendant plusieurs années le service du renseignement intérieur israélien. Ayant pris la mesure de l’impasse où se trouve son pays, il concluait ainsi une interview en 2014 : « La communauté internationale devrait jouer un rôle bénéfique ; nous avons besoin que quelqu’un de l’extérieur nous éclaire sur nos erreurs. » Sauver les Israéliens contre eux-mêmes sur la base du droit international, voilà ce que la France ne fait pas.<br/>En conclusion, ma réponse à la troisième question sera très brève. Quelles sont les conséquences de cette contribution de la France à l’effondrement du droit international ? Tout simplement le déclin de notre pays. Notre histoire est faite de moments de grandeur, ceux où la France a apporté au monde des éléments de progrès grâce à un message universel, lors de la Révolution française avec la Déclaration des droits de l’homme et du citoyen, plus tard lors de la révolution de 1848, plus tard encore avec la Résistance française. Ces moments furent des moments de message universel en faveur de la liberté des peuples. Mais il y a aussi dans notre histoire des moments dans lesquels notre pays n’a plus rien à dire au monde : nous y sommes. Comment reprendre le flambeau de la liberté universelle que nous avons su tenir par moments ? Sans doute en prenant la tête d’un mouvement intransigeant en matière de respect des droits humains, en appliquant à nous-mêmes ce respect et sans complaisance à l’égard de tout pouvoir qui les violerait. Cela supposerait un soutien actif aux juridictions internationales chargées de faire appliquer ces droits.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592039" ordre_absolu_seance="33" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592132" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1711.29">Je précise que les durées d’intervention avaient été fixées par la conférence des présidents. Nous en venons aux questions.<br/> La parole est à M. Jean-Paul Lecoq pour la première question, le groupe de la Gauche démocrate et républicaine étant à l’initiative du présent débat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592040" ordre_absolu_seance="34" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592133" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq (GDR)</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1742.68">Je vous remercie, mesdames, pour vos explications et je serais tenté de dire qu’on s’arrête là, parce que vous avez dit beaucoup de choses et apporté une réponse synthétique à la question posée ce soir. Le droit international est composé de très nombreuses sources : les traités, les conventions internationales, les accords multilatéraux ou bilatéraux, les décisions de la justice internationale ou européenne, rendues notamment par la Cour internationale de justice et la Cour pénale internationale. Vous avez rappelé que la France a été un moteur dans la création du droit international, mais également dans sa défense au fil des années, et cela pendant longtemps. Aujourd’hui, la France porte une responsabilité de plus en plus grande dans l’effondrement du droit international, tant lorsqu’elle méconnaît une règle de droit international que lorsqu’elle accepte, d’une manière ou d’une autre, une situation illégale au regard du droit international.<br/>Je ne reviendrai pas sur la déclaration du président de la République du mois de juillet 2024. Lorsqu’une instance juridique internationale remet un avis ou une décision, ce rendu doit s’appliquer à la France : le confirmez-vous ? Quand la Cour internationale de justice affirme qu’il existe un risque de génocide contre la population palestinienne, la France est-elle dans l’obligation juridique de prendre des sanctions pour contraindre l’État violant les règles internationales – dans ce cas, Israël – à s’y conformer ? Je souhaiterais que vous clarifiiez la question de la reconnaissance de la compétence de la Cour par la France. Si la réponse est positive, quel éventail de sanctions la France pourrait-elle infliger à Israël comme à tout autre État qui commettrait ce genre d’infraction ? Au nom de mon groupe, j’ai moi-même réalisé un rapport sur l’état du droit international pour la commission des affaires étrangères. L’ONU joue-t-elle toujours un rôle ? N’évoluons-nous pas vers un espace où le droit international s’effondre ? Quand on écoute les dernières déclarations de M. Trump, on peut légitimement se poser la question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592042" ordre_absolu_seance="36" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592135" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1816.44">La parole est à Mme Monique Chemillier-Gendreau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592043" ordre_absolu_seance="37" id_acteur="PA-125889" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592136" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Monique Chemillier-Gendreau</nom>
+            <id>-125889</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1877.35">Le fait que la France ne reconnaisse pas la juridiction de la Cour internationale de justice – celle de La Haye, qui a été fondée avec les Nations unies – ne signifie pas qu’elle ne doit pas respecter ce que dit cette cour. Ce sont deux choses différentes. Je regrette infiniment que la France ait agi ainsi. C’est en 1974, quand elle a été menacée d’être traînée devant la Cour pour les essais nucléaires dans le Pacifique, et alors même qu’elle avait reconnu la juridiction obligatoire de la Cour en tant que membre permanent du Conseil de sécurité – comme grande puissance, c’était bien le moins qu’on pouvait attendre d’elle –, qu’elle a préféré s’en retirer. Elle n’est jamais revenue sur sa décision.<br/>Cela signifie qu’aucun État de la planète ne peut traduire la France devant la Cour internationale de justice, sauf si l’État en question est lié à la France par un traité qui inclut une clause de juridiction. C’est le cas notamment de la Convention pour la prévention et la répression du crime de génocide. Cela étant, les arrêts de la Cour et ses avis consultatifs constituent des moyens, pour elle, de préciser le droit international, s’agissant de problèmes où subsiste un doute sur ce que dit ce droit. Une fois que la Cour a dit le droit international, son interprétation est valable pour tous les États du monde. Même si sa décision ne peut pas être revendiquée par un État dans un contentieux bilatéral, d’une manière générale le droit international a été dit.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592045" ordre_absolu_seance="39" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592138" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1973.15">La parole est à M. Thomas Portes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592046" ordre_absolu_seance="40" id_acteur="PA796062" id_mandat="PM843668" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592139" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thomas Portes (LFI-NFP)</nom>
+            <id>796062</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1983.67">Je partage les propos de mon collègue Lecoq : on a presque envie de s’arrêter là, tellement cela fait du bien d’entendre ce que vous avez dit. Ma question porte sur le positionnement de la France relatif aux mandats d’arrêt émis en novembre dernier par la CPI contre Benyamin Netanyahou et plusieurs de ses ministres. Dans un premier temps, la diplomatie française avait affirmé son soutien à la CPI puis elle a opéré un inquiétant revirement, évoquant une immunité compte tenu des liens d’amitié qui lient la France à Israël. Le droit international s’applique-t-il à tous ou certaines amitiés permettent-elles d’y échapper, même lorsqu’une des parties commet un génocide ? D’après une source israélienne, cette concession aurait été négociée en échange d’un cessez-le-feu. Cela soulève une question essentielle : le respect du droit international peut-il être l’objet de marchandages diplomatiques ? Cette volte-face, vivement critiquée par les organisations de défense des droits humains, semble contredire la jurisprudence de la CPI et l’article 27 du Statut de Rome. L’immunité personnelle, y compris celle des chefs d’État, ne peut être opposée à la CPI, qui a justement été instituée pour briser l’impunité des responsables de crimes les plus graves. Les mandats d’arrêt émis en novembre dernier ont constitué une avancée majeure pour la justice internationale.<br/>Dans ce contexte, comment justifier, alors que les preuves de crimes de guerre et de crimes contre l’humanité s’accumulent à Gaza, que la France ait invoqué l’amitié pour offrir une immunité, en clair une impunité, à des criminels de guerre israéliens ? Quel message la France envoie-t-elle en refusant d’appliquer des mandats d’arrêt contre les dirigeants d’un gouvernement qui massacre une population ? La France est-elle tenue de respecter ces mandats d’arrêt ? Benyamin Netanyahou et Yoav Gallant peuvent-ils venir en France en toute impunité sans mépriser les principes fondamentaux du droit international ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592048" ordre_absolu_seance="42" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592141" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2084.49">La parole est à Mme Insaf Rezagui.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592049" ordre_absolu_seance="43" id_acteur="PA-125879" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592142" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Insaf Rezagui</nom>
+            <id>-125879</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2100.62">Premièrement, la France commet une interprétation totalement erronée, contraire à la lettre et à l’esprit même du Statut de Rome. À la lecture des débats qui ont présidé à la création de la CPI dans les années 1990, la volonté des rédacteurs était claire : les crimes visés par le Statut de Rome sont tellement graves qu’ils ne peuvent donner lieu à aucune immunité. Deuxièmement, l’article 27 supprime clairement les immunités pour les chefs d’État et de gouvernement. Si l’on avait encore un doute, on pourrait se référer à la jurisprudence de la Cour pénale internationale, à travers deux exemples. Dans l’affaire Omar Al-Bachir, mis en accusation par la Cour notamment pour des crimes de génocide, la Cour a rappelé aux États dans lesquels il s’était déplacé leurs obligations à l’égard du Statut de Rome. De même, elle a rappelé ces obligations à l’encontre de la Mongolie quand celle-ci, en septembre dernier, a accueilli Vladimir Poutine qui fait l’objet d’un mandat d’arrêt de la Cour pénale internationale pour crimes de guerre et crimes contre l’humanité. La Cour a alors affirmé que la Mongolie avait « gravement manqué à ses obligations qui lui incombaient en vertu du Statut » et avait renvoyé l’affaire à l’Assemblée des États parties.<br/>Cette position dommageable de la France en matière de droit international renvoie à la notion souvent qualifiée de double standard ou de « deux poids deux mesures ». Ainsi, la France demande à chaque État partie d’interpeller Vladimir Poutine – qui fait l’objet, à juste titre, d’un mandat d’arrêt – si celui-ci venait à se présenter sur son territoire, mais n’agit pas de même à l’égard de Benyamin Netanyahou. Le droit international, dans ce cas précis, est donc devenu une variable d’ajustement de la diplomatie française, pour un cessez-le-feu au Liban qui n’a même pas tenu quarante-huit heures.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592051" ordre_absolu_seance="45" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592144" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2175.84">La parole est à Mme Monique Chemillier-Gendreau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592052" ordre_absolu_seance="46" id_acteur="PA-125889" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592145" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Monique Chemillier-Gendreau</nom>
+            <id>-125889</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2203.73">Le droit international est d’une nature pas toujours très facile à comprendre. Il est fait de beaucoup de traités entre les États. En cela, il est très horizontal. Vous me suivrez mieux si j’use d’une comparaison avec le droit interne. En droit français, il existe les contrats et la loi. Les contrats conclus entre individus ont un effet relatif et constituent le tissu juridique très dense d’un État. La loi, au contraire, est de nature verticale : elle vaut pour tous, elle a une valeur universelle. Le droit international est quant à lui très peu vertical. Constitué de traités passés entre États souverains, il est essentiellement horizontal. Même lorsqu’il s’agit de traités multilatéraux généraux, si un État ne l’a pas signé ou ratifié, celui-ci n’est pas concerné.<br/>Je veux aussi attirer votre attention sur un point. J’ai enseigné le droit international pendant cinquante ans. Quand on arrive à la fin d’un parcours comme le mien et qu’on analyse la situation, on est d’abord saisi d’angoisse, puis on guette les petites pousses qui permettent d’espérer quelque chose de meilleur. Parmi celles-ci émergent quelques instruments verticaux du droit international, c’est-à-dire des règles qui s’appliquent à tout le monde et possèdent un potentiel universel. C’est le cas de la Cour pénale internationale, même si elle n’est reconnue que par ceux qui ont signé le traité. La France, qui reconnaît le Statut et l’a signé, se trouve avec Israël, qui ne l’a pas signé et fait valoir son immunité, dans une position horizontale. Mais à l’égard de la Cour, la France est dans une relation verticale : elle doit reconnaître les décisions de la Cour. En l’occurrence, la France a donc vraiment manqué à ses obligations, en déclarant qu’elle n’appliquerait pas les mandats d’arrêt.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592054" ordre_absolu_seance="48" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592147" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2324.26">La parole est à Mme Sabrina Sebaihi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="2" id_preparation="2592055" ordre_absolu_seance="49" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592148" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi (EcoS)</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2332.32">Je remercie le groupe de la Gauche démocrate et républicaine qui a inscrit ce sujet à l’ordre du jour de nos discussions, ainsi que les invitées pour la qualité de leurs interventions, qui charrient hélas de tristes constats et perspectives, si nous n’agissons pas en urgence pour redorer notre diplomatie qui a souffert de sept ans de macronisme. Depuis octobre 2023, le Proche-Orient est devenu le cimetière du droit international, sous le regard coupable, voire parfois complice, de nombreuses puissances occidentales face aux agissements du gouvernement israélien, qualifiés de crimes contre l’humanité. La France, hélas, depuis sept ans désormais, a fortement distingué ses paroles de ses actes. Ainsi, plusieurs résolutions de l’ONU sont restées lettres mortes et la France n’a jamais fait pression sur Israël pour les appliquer. Je pense notamment à la résolution 242 qui délégitimait la prise de territoires par la guerre, ou à l’absence d’implication de la France au sujet des réfugiés palestiniens dont plus de 200 000 sont installés dans des camps de fortune, au Liban notamment.<br/>Malgré de grandes paroles et une volonté affichée de jouer un rôle pivot dans les négociations de paix, la France a une influence très limitée, voire quasi inexistante sur le conflit en cours dans la région. J’en veux pour preuve l’humiliation qu’a représentée l’arrestation, assumée par Israël, de gendarmes français sur un site national à Jérusalem en fin d’année dernière. Enfin, la France n’est pas n’importe quel pays : c’est le pays des droits de l’homme, le berceau de la Révolution et des Lumières, la patrie des grands hommes aux idéaux d’égalité et de solidarité qui ont illuminé le monde. En ce sens, elle jouit d’une voix qui aurait dû être particulièrement influente sur le plan international. Malheureusement, il est loin le temps où l’Autorité palestinienne baptisait une rue « Jacques Chirac » à Ramallah, où Dominique de Villepin disait non à la guerre en Irak. Aujourd’hui, cette voix est remplacée par la légitimation implicite de l’impunité, le silence face aux violations répétées et assumées des droits humains au Proche-Orient, les sanctions sélectives et l’indignation à géométrie variable. Notre pays reste-t-il fidèle à ses valeurs ? Sommes-nous devenus de simples spectateurs de la diplomatie internationale ? Quelles conséquences le double standard peut-il avoir sur le droit international, notamment si d’autres États décidaient demain de s’en affranchir également ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592119" ordre_absolu_seance="51" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592150" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2386.53">La parole est à Mme Monique Chemillier-Gendreau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592120" ordre_absolu_seance="52" id_acteur="PA-125889" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592151" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Monique Chemillier-Gendreau</nom>
+            <id>-125889</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2467.30">Ce n’est pas nouveau, madame la députée. Je vous l’ai dit, au moment où la France a signé la Déclaration universelle des droits de l’homme, elle menait la guerre d’Indochine, commettait des massacres à Madagascar et s’engageait dans la guerre d’Algérie, où elle a employé du napalm et eu recours à la torture. Tous les États du monde sont dans cette ambivalence, mais le nôtre, évidemment, est regardé de manière différente parce qu’il avait pris la tête, notamment avec la Révolution française et la Déclaration des droits de l’homme et du citoyen, d’un mouvement issu du siècle des Lumières, fondé sur une pensée tout de même très séduisante. Autrement dit, le fardeau est plus lourd pour nous.<br/>Pour ma part, je vous l’ai dit, je regrette infiniment que notre pays ait poursuivi, au fil des années, dans la voie de cette ambivalence permanente, tendance qui s’est même aggravée. Je n’ai cité que quelques exemples, mais je pourrais en donner de nombreux autres. La France tient tout le temps un double discours : elle affirme respecter le droit international, mais ne le fait pas. Dans son exposé liminaire, ma collègue s’est appuyée sur l’avis consultatif rendu le 19 juillet 2024 par la Cour internationale de justice. Au cours de la procédure, la France avait déposé un document écrit et fait une intervention orale ; dans l’un comme dans l’autre, elle défendait les droits des Palestiniens. Or elle ne fait rien pour mettre en œuvre ce qu’elle a dit alors.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592122" ordre_absolu_seance="54" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592153" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2539.55">La parole est à Mme Insaf Rezagui.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592123" ordre_absolu_seance="55" id_acteur="PA-125879" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592154" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Insaf Rezagui</nom>
+            <id>-125879</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2562.05">La position de la France est d’autant plus importante que notre pays est l’un des membres permanents du Conseil de sécurité et le principal contributeur au budget de la Cour pénale internationale. Le message délivré est donc assez terrible du point de vue du droit international ; il y a un double standard. Je rappelle en outre qu’en mai 2024, la France a voté en faveur de la résolution de l’Assemblée générale intitulée « Admission de nouveaux États membres aux Nations unies », qui portait sur l’admission de l’État de Palestine. Ce texte a des conséquences juridiques, notamment en ce qui concerne la reconnaissance de l’État de Palestine. La France tient un double discours : il y a une différence entre ce qu’elle dit aux Nations unies et sur la scène internationale – où elle défend la solution à deux États – et ce qu’elle dit à son opinion publique.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592124" ordre_absolu_seance="56" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592155" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2610.44">La parole est à M. Frédéric Petit.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592125" ordre_absolu_seance="57" id_acteur="PA721182" id_mandat="PM843815" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592156" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Petit (Dem)</nom>
+            <id>721182</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2612.66">Je remercie nos collègues du groupe GDR d’avoir pris l’initiative de ce débat. Je vous remercie, mesdames, pour vos interventions très techniques et riches.<br/>Je tiens d’abord à rappeler que la diplomatie française ne se résume pas à la diplomatie d’un gouvernement, ni même d’un seul homme, qu’elle n’est pas non plus la diplomatie menée depuis sept ans, puisqu’elle a toute une histoire, que vous avez rappelée, mesdames, de manière précise. La diplomatie française, c’est aussi sa diplomatie parlementaire. En novembre 2023, la commission des affaires étrangères de notre assemblée avait estimé, de manière quasi unanime – une seule voix s’était exprimée contre –, qu’Israël menait une forme de nettoyage ethnique.<br/>Je reviens sur la question des conséquences de l’arrivée de Trump, à laquelle nous n’avons pas tout à fait répondu, selon moi. Vous avez employé à cet égard une excellente image, madame Chemillier-Gendreau, en distinguant l’horizontal et le vertical. Je crois que Trump est un homme de transactions. Ce qui nous menace, c’est le remplacement du droit par la transaction. Nous devrons être très vigilants quant à son intention de résoudre en vingt-quatre heures la guerre en Ukraine. D’autant que nous avons déjà connu cela en Europe : les accords de Dayton ne sont pas du droit, c’est une transaction ; trente ans après, la situation est bloquée et demeure inflammable.<br/>En faisant ces rappels, je souligne l’intérêt de conserver la pluralité au sein de la commission des affaires étrangères et d’envisager les questions sous tous les angles pour fonder nos avis.<br/>Ma question s’adresse à Mme Rezagui. Je m’intéresse beaucoup à la région, où je me suis rendu à plusieurs reprises. Le statut de Jérusalem est un peu particulier ; la ville est traversée de frontières invisibles. Quelle est votre analyse à ce sujet ? S’agit-il ou non d’une occupation ? Quelles sont les implications, notamment pour le transfert des ambassades ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592130" ordre_absolu_seance="62" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592161" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2704.43">La parole est à Mme Insaf Rezagui.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592131" ordre_absolu_seance="63" id_acteur="PA-125879" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592162" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Insaf Rezagui</nom>
+            <id>-125879</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2734.05">Merci beaucoup pour votre question, monsieur le député. La Cour internationale de justice traite effectivement la question de Jérusalem un peu à part. En principe, Jérusalem dans son ensemble a un statut internationalisé. Le règlement doit se faire <italique>a posteriori</italique>, avec une capitale partagée entre deux États, Jérusalem-Ouest pour Israël et Jérusalem-Est pour l’État de Palestine. Or la Cour internationale de justice dit très clairement que, depuis la fin de la guerre des Six Jours, en 1967, Jérusalem-Est a fait, de manière très évidente, l’objet d’une annexion. Elle cite à l’appui un certain nombre de faits, notamment les permis de résidence pour les Palestiniens. Le réseau de tramways et de bus favorise aussi cette annexion.<br/>Lorsque l’on se rend aujourd’hui à Jérusalem, on ne voit pas la séparation entre les deux parties de la ville ; on ne voit pas la différence. Jérusalem-Est est complètement annexée : elle est encerclée par quatorze colonies, où vivent 230 000 colons israéliens ; la vieille ville est complètement contrôlée par l’armée israélienne. Le quartier de Cheikh Jarrah, où sont installés plusieurs bâtiments relevant de la France, est complètement annexé et colonisé ; il subit des violences de la part des colons israéliens – j’en ai été moi-même témoin et victime.<br/>Ainsi que la Cour l’a relevé, un Palestinien de Cisjordanie n’a aucun droit de s’établir à Jérusalem-Est. Les Palestiniens vivant à Jérusalem-Est doivent détenir un permis de résidence. Pour pouvoir y rester, ils doivent prouver que leur résidence y est établie depuis sept ans, sans quoi ils risquent d’être expulsés vers la Cisjordanie. La révocation de ces permis de résidence est à la discrétion du ministère compétent. Le motif peut être notamment un manquement aux obligations envers l’État d’Israël. Un simple message posté sur les réseaux sociaux ou sur un groupe WhatsApp peut justifier la révocation du permis de résidence d’un Palestinien, même si sa famille vit à Jérusalem-Est depuis des générations et qu’il y a son réseau de relations.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592134" ordre_absolu_seance="66" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592165" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2759.29">La parole est à Mme Elsa Faucillon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592135" ordre_absolu_seance="67" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592166" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Elsa Faucillon (GDR)</nom>
+            <id>721896</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2879.03">Je souhaite aborder la question des sanctions. Nous constatons, depuis plusieurs dizaines d’années, que les menaces réputationnelles glissent sur Israël. Le régime israélien jouit d’une telle impunité que les menaces de cette nature ne suffisent pas pour changer la donne, c’est-à-dire stopper l’expansion de la colonisation et les violences que celle-ci engendre. Le groupe GDR estime, avec d’autres, que le régime israélien devrait avoir plus à perdre qu’à gagner à poursuivre cette politique expansionniste, ainsi que la politique de nettoyage ethnique, voire de génocide, à Gaza.<br/>De quel arsenal disposons-nous, notamment au niveau européen, pour prendre des sanctions contre Israël ? Je pense en particulier à l’accord d’association entre l’Union européenne et Israël, mais l’éventail est peut-être plus large.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592137" ordre_absolu_seance="69" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592168" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2926.50">La parole est à Mme Monique Chemillier-Gendreau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592138" ordre_absolu_seance="70" id_acteur="PA-125889" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592169" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Monique Chemillier-Gendreau</nom>
+            <id>-125889</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2952.45">Israël a plus à perdre qu’à gagner dans ce qui se passe. Je pense que, si j’étais Israélienne, je serais extrêmement inquiète pour l’avenir de mon peuple et de mon pays. Je vous renvoie aux propos de l’amiral Ami Ayalon que j’ai cités tout à l’heure, très justes selon moi : Israël a besoin qu’on l’aide à sortir de ce dans quoi il s’est enfermé, entraîné par son aile droite enragée – il faut bien le dire.<br/>Il y a un éventail de sanctions possibles. À défaut de pouvoir les appliquer – car il faut pour cela des décisions collectives, que ce soit au niveau des Nations unies ou de l’Union européenne –, il conviendrait de soulever la question et d’ouvrir le débat à ce sujet. C’est ce que devrait faire un État comme la France, y compris au Conseil de sécurité. Certes, la démarche n’aboutirait pas, car les États-Unis opposeraient leur veto, mais il faudrait au moins engager le débat en déposant des projets de résolution demandant des sanctions. Le Conseil de sécurité est tout de même chargé de mettre en œuvre des sanctions en cas de recours à la force interdit par le droit !<br/>L’accord d’association entre l’Union européenne et Israël est très large et généreux : du point de vue des avantages commerciaux et de la coopération technique, notamment, il place Israël à un rang qui n’est pas très éloigné de celui des États membres. Nous avons donc là un levier. Là aussi, cela susciterait un débat au sein de l’Union européenne : vous connaissez les réticences de l’Allemagne et d’autres pays dès qu’il est question d’Israël. Mais je trouve regrettable que la diplomatie française ne soulève pas le problème, car cela créerait une dynamique. À défaut de résultats immédiats, nous aurions au moins un résultat valable sur le plan politique.<br/>Ma collègue l’a rappelé tout à l’heure, il y a une mesure assez facile à prendre : la reconnaissance de l’État de Palestine. Ce ne serait évidemment pas une sanction, mais elle serait vécue pratiquement comme telle par Israël, et ce serait un geste très fort de la part de notre pays.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592142" ordre_absolu_seance="74" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592173" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3012.53">La parole est à Mme Insaf Rezagui.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592143" ordre_absolu_seance="75" id_acteur="PA-125879" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592174" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Insaf Rezagui</nom>
+            <id>-125879</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3024.12">Le Conseil de sécurité dispose effectivement d’un arsenal de sanctions possibles, en vertu du chapitre VII de la Charte des Nations unies. Il en avait fait usage contre le régime d’apartheid en Afrique du Sud.<br/>Je tiens à mentionner d’autres points, trop peu évoqués, sur lesquels les parlementaires que vous êtes pourraient insister.<br/>D’abord, la France devrait être beaucoup plus en pointe sur la question de la compétence universelle ; il faudrait qu’elle renforce la possibilité d’y recourir. Certains États, notamment le Brésil, sont beaucoup plus avancés que nous en la matière. Le France pourrait aussi tout simplement rappeler son soutien aux ordonnances obligatoires de la Cour internationale de justice.<br/>Il y a aussi la question de l’investissement des entreprises françaises dans les colonies. Carrefour et BNP Paribas, notamment, y sont très actifs. Les colons peuvent se procurer des produits Carrefour.<br/>Enfin, peut-être faut-il s’interroger sur les ventes d’armes à Israël par la France et les autres États membres de l’Union européenne – quelque 30 % des armes vendues à Israël proviennent d’Allemagne. En tout cas, la résolution adoptée en septembre 2024 par l’Assemblée générale de l’ONU, en faveur de laquelle la France a voté, soulève clairement la question des ventes et des transferts d’armes à l’État d’Israël.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592148" ordre_absolu_seance="80" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592179" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3129.58">La parole est à M. Peio Dufau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592149" ordre_absolu_seance="81" id_acteur="PA841633" id_mandat="PM843182" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592180" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Peio Dufau (SOC)</nom>
+            <id>841633</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3156.25">Merci beaucoup pour ces échanges très intéressants.<br/>Pour certains, l’action du Hamas a légitimé les exactions de l’État israélien. Mais que constatons-nous à Gaza aujourd’hui ? Des enfants meurent de froid, les vivres manquent, l’aide humanitaire reste bloquée et ne parvient pas à la population. Il s’agit d’apporter un secours humanitaire à une population démunie. Malgré des atteintes claires aux droits élémentaires, la situation ne semble émouvoir que très peu, malheureusement, la population et les pouvoirs publics français. Quels leviers, en droit international, permettraient de dénoncer ces exactions ?<br/>L’Espagne a reconnu l’État palestinien. En la matière, comment sortir du cas par cas et engager une démarche européenne globale ? Comment faire pression sur l’État français pour infléchir sa position ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592152" ordre_absolu_seance="84" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592183" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3218.94">La parole est à Mme Monique Chemillier-Gendreau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592153" ordre_absolu_seance="85" id_acteur="PA-125889" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592184" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Monique Chemillier-Gendreau</nom>
+            <id>-125889</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3232.76">De toute évidence, il s’agit de crimes de guerre massifs, qui sont certainement constitutifs de crimes contre l’humanité. C’est tout de même de la famine organisée. Quant au risque de génocide, il est avéré. La question a été posée devant la Cour internationale de justice, qui a signalé ce risque. Elle ne s’est pas encore prononcée sur le fond, mais nous savons dans quelle direction elle ira.<br/>Nous sommes démunis. Ce dont nous parlons, c’est de la crise du droit international. Quand on enseigne cette discipline, c’est terrible, je vous l’assure ! À la fin de ma carrière, je prévenais mes étudiants lors du premier cours : je vais vous enseigner une discipline qui n’existe pas ; selon que vous êtes pessimiste ou optimiste, vous pouvez penser qu’elle n’existe plus ou qu’elle n’existe pas encore. Pour ma part, je veux croire que cette discipline n’existe pas encore. Nous devons donc la faire advenir, ce qui implique de la prendre au sérieux.<br/>Ce qui est terrible, c’est que s’est installé un phénomène d’indifférence à l’égard de ce qui se passe à Gaza. Au cours des premières semaines et des premiers mois, nous avons entendu s’exprimer de nombreux groupes militants, notamment sur les campus américains et français, par exemple à Sciences Po Paris. Or nous voyons que le mouvement s’use, que l’indifférence s’installe. Il faut réagir contre cela. Chacun d’entre nous a un rôle à jouer là où il se trouve. Bien sûr, vous avez un rôle privilégié en tant que parlementaires.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592156" ordre_absolu_seance="88" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592187" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3284.62">La parole est à Mme Insaf Rezagui.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2592157" ordre_absolu_seance="89" id_acteur="PA-125879" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592188" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Insaf Rezagui</nom>
+            <id>-125879</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3332.95">En mai dernier, trois États de l’Union européenne – l’Espagne, l’Irlande et la Slovénie – ont reconnu l’État de Palestine. Dans le discours qu’il a prononcé à cette occasion – peut-être l’avez-vous écouté –, le premier ministre espagnol s’est montré assez pessimiste : si l’Espagne avait décidé de reconnaître l’État de Palestine, c’est parce qu’elle n’avait pas réussi à lancer un mouvement en ce sens au sein de l’Union européenne, restée divisée sur la question. Je garde aussi en mémoire que, pour son propre discours, le premier ministre irlandais avait fait placer derrière lui le drapeau de l’Irlande et celui des Nations unies, mais pas celui de l’Union européenne, adressant ainsi un message à ses partenaires européens.<br/>À ce jour, seuls 11 États membres de l’Union européenne – pour la plupart des pays de l’ancien bloc soviétique – ont reconnu l’État de Palestine, alors que 147 des 193 États membres de l’ONU ont accordé cette reconnaissance. C’est une écrasante majorité des États de la planète qui a reconnu l’État de Palestine. Le message est terrible.<br/>Cet été à Hébron, un ami palestinien me disait que le droit international n’était pas pour eux. En l’état actuel des choses, alors que la guerre à Gaza se poursuit, que voulez-vous répondre ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592161" ordre_absolu_seance="92" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592385" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3403.97">La parole est à M. Hendrik Davi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592162" ordre_absolu_seance="93" id_acteur="PA793452" id_mandat="PM842453" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592386" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Hendrik Davi (EcoS)</nom>
+            <id>793452</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3409.38">Pour prolonger la discussion, je voudrais rapprocher deux faits afin d’en examiner les conséquences juridiques pour la France et ses dirigeants.<br/>Premier fait : nous assistons à un possible génocide à Gaza. Plusieurs associations, telles que Human Rights Watch ou Amnesty International, l’évoquent, comme vous venez de le faire vous-même et comme cela est mentionné dans des rapports de l’ONU.<br/>Second fait : la France vend des armes à Israël. Dans deux documents, l’Observatoire des armements et <italique>Mediapart </italique>confirment l’existence d’exportations françaises d’armes dites à double usage, un usage défensif qui n’est pas problématique et un usage offensif, c’est-à-dire à des fins militaires. Ces armes sont susceptibles d’avoir été utilisées par l’armée israélienne contre des civils à Gaza.<br/>Dans ces conditions, la France et ses dirigeants pourraient-ils être poursuivis pour complicité de génocide, et, dans l’affirmative, par qui et comment ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592166" ordre_absolu_seance="97" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592390" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3455.10">La parole est à Mme Insaf Rezagui.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592167" ordre_absolu_seance="98" id_acteur="PA-125879" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592391" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Insaf Rezagui</nom>
+            <id>-125879</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3470.78">La question du génocide n’est pas encore tranchée sur le fond même si, selon des rapports de l’ONU ou de centres de recherche européens, les trois critères fixés par le droit international pour reconnaître un génocide semblent remplis à Gaza à l’encontre du peuple palestinien.<br/>Ainsi, des actes matériels sont constatés, tels que les meurtres massifs de Palestiniens ou le fait que la plupart des frappes militaires israéliennes ne visent pas des objectifs militaires, la majorité des victimes étant civiles. En outre, selon Amnesty International, des armes explosives à large rayon d’impact sont utilisées à grande échelle alors que, comme en atteste l’assassinat en Iran d’Ismaïl Haniyeh – l’un des responsables du Hamas –, Israël a la capacité de cibler précisément ses attaques. Enfin, certains discours pourraient démontrer l’intention génocidaire.<br/>La Convention pour la prévention et la répression du crime de génocide de 1948 comporte, outre des dispositions relatives à la répression du génocide – dont se prévaut l’Afrique du Sud –, un volet consacré à la prévention du génocide par les États signataires. Les obligations fixées s’appliquent <italique>erga omnes</italique>, c’est-à-dire qu’elles sont opposables à tous les États. Sur la base de ces stipulations, le Nicaragua a saisi la Cour internationale de justice en exposant que les ventes d’armes de l’Allemagne à Israël constituent une complicité active dans le génocide en cours dans la bande de Gaza.<br/>De même, si les rapports évoqués confirmaient l’existence d’un génocide, le Nicaragua ou un autre État pourrait décider de déposer une requête introductive d’instance à l’encontre de la France devant la Cour internationale de justice en l’accusant de manquer à ses obligations de prévention et de répression du crime de génocide. Cela est possible dès lors que la France est partie à la Convention.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592171" ordre_absolu_seance="102" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592395" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3603.70">La parole est à Mme Monique Chemillier-Gendreau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592172" ordre_absolu_seance="103" id_acteur="PA-125889" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592396" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Monique Chemillier-Gendreau</nom>
+            <id>-125889</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3604.45">Si la France ne reconnaît pas de manière générale la compétence de la Cour internationale de justice, la Convention pour la prévention et la répression du crime de génocide comprend une clause de compétence expresse en faveur de la Cour. La France pourrait donc subir ce que subit l’Allemagne.<br/>Toutefois, certains États signataires de la Convention, notamment les États-Unis, ont émis une réserve relative à l’article prévoyant la compétence de la Cour pour statuer sur l’interprétation et l’application de la Convention. Les États-Unis sont donc à l’abri de poursuites devant la Cour internationale de justice.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592174" ordre_absolu_seance="105" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592398" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3645.30">Je remercie nos intervenants d’avoir participé à nos travaux.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592175" ordre_absolu_seance="106" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3592399" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592176" ordre_absolu_seance="107" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592400" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3648.41">La séance est suspendue avant de passer à la seconde partie de ce débat.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592177" ordre_absolu_seance="108" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3592401" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à vingt-deux heures vingt, est reprise à vingt-deux heures vingt-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592178" ordre_absolu_seance="109" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592402" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3930.88">La séance est reprise.<br/>La parole est à M. le ministre de l’Europe et des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2592180" ordre_absolu_seance="111" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592404" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre de l’Europe et des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3943.32">Dans son discours de clôture de la conférence des ambassadrices et des ambassadeurs comme dans sa déclaration de politique générale, le premier ministre a décrit l’une des dynamiques les plus structurantes de notre temps : celle qui voit la force de la loi contestée par la loi de la force.<br/>Nous sommes confrontés à la loi de la force au Proche-Orient depuis le 7 octobre 2023.<br/>Nous y avons été confrontés en premier lieu par l’attaque terroriste du 7 octobre elle-même, pire massacre antisémite perpétré depuis la Shoah. Un an après, le 7 octobre 2024, je suis venu marquer le triste anniversaire de cet attentat barbare sur le site du festival Nova, là où les terroristes du Hamas ont massacré, violé, fauché la vie de tant de jeunes gens qui n’aspiraient qu’à la célébrer. J’ai rendu hommage à toutes ces victimes – notamment à nos quarante-huit compatriotes assassinés en ce jour noir – et à l’héroïsme de tous ceux qui ont donné leurs vies pour que d’autres puissent échapper au pogrom. Il est interdit de relativiser ou de minimiser l’horreur de ce massacre, horreur que nous avons éprouvée dans notre chair en France où les évènements du 7 octobre ont ranimé les souvenirs effroyables de l’Hypercacher et du Bataclan.<br/>Je pense aussi aux otages : à ceux qui ont été libérés, à ceux qui ont été tués – notamment Elia et Orion –, à ceux qui demeurent otages – nos compatriotes Ofer Kalderon et Ohad Yahalomi, retenus captifs depuis plus d’un an dans les tunnels de Gaza. La France n’abandonnera jamais les siens et ne cessera pas d’exiger la libération de tous les otages.<br/>La loi de la force, nous y avons ensuite été confrontés du fait de la terrible guerre de Gaza et de son cortège de désolation et d’indicibles souffrances pour les civils : une enclave entièrement détruite, plus de 46 000 morts, dont beaucoup de femmes et d’enfants, 100 000 blessés, 2 millions de déplacés, une situation humanitaire catastrophique, des restrictions inacceptables à l’entrée de l’aide humanitaire.<br/>Je le dis en ami d’Israël : Israël avait, a et aura le droit de se défendre mais la façon dont Israël a conduit cette guerre n’est ni acceptable, ni conforme au droit international humanitaire. Le président de la République l’a rappelé il y a quelques jours : depuis des mois, il n’y a aucune justification militaire à la poursuite des opérations israéliennes à Gaza, aux entraves délibérées à l’aide humanitaire et à l’état de faim et de dénuement extrême auquel la population civile se trouve réduite.<br/>La loi de la force, nous la voyons également à l’œuvre en Cisjordanie où nous assistons depuis le 7 octobre tout à la fois à une accélération de la colonisation – laquelle, illégale en droit international, menace la continuité et la viabilité d’un futur État palestinien sans lequel on ne voit pas comment une paix durable pourrait s’installer – et à une multiplication des violences émanant tant de colons israéliens extrémistes que de terroristes palestiniens.<br/>La loi de la force, nous la voyons enfin se déployer au Liban, entraîné dans la guerre par le Hezbollah au lendemain du massacre du 7 octobre. Les deux mois de conflit de haute intensité qui se sont déroulés entre la mi-septembre et la fin novembre ont fait près de 4 000 morts – dont de nombreux civils – et 15 000 blessés. Ils ont conduit au déplacement de plus de 1,3 million de personnes – soit presque un tiers de la population libanaise – auxquels s’ajoutent les 60 000 résidents du nord d’Israël déplacés depuis le début des attaques du Hezbollah. Cette guerre a ravagé le sud du Liban, la plaine de la Bekaa et la banlieue de Beyrouth, provoquant des destructions d’une ampleur considérable dans un pays déjà durement éprouvé par une crise économique sans précédent.<br/>Face à cette crise régionale qui ébranle le droit international, la France s’est pleinement mobilisée. Nous nous sommes engagés dans la lutte contre l’organisation terroriste du Hamas en accueillant le 13 décembre 2023 une réunion internationale qui a amélioré la coopération des partenaires internationaux en matière de sanctions contre ses dirigeants et ses sources de financement.<br/>Au niveau européen, nous avons désigné les trois principaux responsables des attaques du 7 octobre et plusieurs entités coupables de violences sexuelles. Nous avons créé un régime européen visant le Hamas et le Jihad islamique palestinien qui a permis de sanctionner douze individus et trois entités soutenant matériellement et financièrement ces groupes.<br/>En parallèle, la plateforme d’harmonisation, d’analyse, de recoupement et d’orientation des signalements (Pharos) a diligenté plus de 120 procédures contre la propagande en ligne du Hamas, que ce soit en lien avec le pôle national de lutte contre la haine en ligne ou, dans le cadre européen, avec Europol, qui signale et fait retirer des contenus terroristes. Notre objectif est clair : le Hamas ne doit plus jamais se trouver en position de perpétrer des attaques criminelles contre Israël, ni de gouverner la bande de Gaza.<br/>À Gaza, nous avons multiplié les efforts pour venir en aide aux populations civiles. Un mois après le début de la guerre, une conférence internationale s’est tenue à Paris afin de mobiliser 1 milliard d’euros pour répondre à la crise humanitaire. La France a été le premier pays occidental à soigner des Gazaouis blessés grâce à l’engagement de moyens militaires, notamment le porte-hélicoptères <italique>Dixmude</italique>. Avec ses partenaires, la France a acheminé plus de 1 200 tonnes de fret humanitaire jusqu’à la bande de Gaza grâce à des opérations aériennes ou terrestres et mobilisé plus de 200 millions d’euros au profit de la population civile de Gaza, 50 millions d’euros d’aide étant prévus en 2025.<br/>C’est la France qui, sur le plan diplomatique, a été le premier pays du G7 à appeler au cessez-le-feu et à soutenir les quatre résolutions adoptées aux Nations unies à ce sujet.<br/>La France a également été un moteur pour l’adoption de sanctions à l’encontre des colons extrémistes et violents en Cisjordanie : au niveau national, des sanctions ont été prises contre vingt-huit individus et deux trains de mesures engagés au niveau européen après le travail de conviction que nous avons mené.<br/>Nous soutenons, enfin, les efforts des médiateurs qatariens, égyptiens et américains en vue d’un cessez-le-feu assorti de la libération des otages. Les négociations ont progressé et nous espérons qu’un accord puisse, dans les prochains jours, mettre fin à la tragédie ouverte le 7 octobre et réengager une dynamique en faveur d’une solution politique au conflit israélo-palestinien.<br/>La France s’est mobilisée pour avancer concrètement vers cette issue : la solution à deux États et l’établissement d’un État palestinien viable, contigu, vivant en paix et en sécurité aux côtés d’Israël.<br/>À l’ONU, nous avons voté, tout d’abord, le 18 avril, en faveur d’un projet de résolution au Conseil de sécurité demandant l’admission pleine et entière de la Palestine comme État membre des Nations unies, puis, le 10 mai, en faveur d’une résolution sur le rehaussement des droits de la Palestine dans le cadre des Nations unies.<br/>En soutien de la Cour internationale de justice, nous avons voté le 18 septembre en faveur de la résolution palestinienne à l’Assemblée générale des Nations unies relative à l’avis consultatif de la Cour sur le caractère illicite de l’occupation israélienne des territoires palestiniens.<br/>Au sein de l’Union européenne, nous avons contribué à faire adopter deux paquets de sanctions, en avril et en juillet, contre des individus et entités soutenant la colonisation violente. Un troisième paquet est en cours de négociation – et, en la matière, croyez bien que la France se situe aux avant-postes.<br/>Sur le plan national, nous avons sanctionné vingt-huit colons violents. Il s’agit de protéger la solution à deux États en condamnant ceux qui travaillent à la rendre impossible.<br/>Nous avons par ailleurs accentué notre soutien, politique et budgétaire, sur les plans national et européen, à l’Autorité palestinienne, partenaire d’Israël pour la paix, qui doit pouvoir administrer l’ensemble des territoires palestiniens. La France est l’un des rares pays à la soutenir directement.<br/>Le chemin pour parvenir à la paix ne sera toutefois probablement pas exclusivement israélo-palestinien, mais bien régional : il nous faut aimanter la dynamique de normalisation des accords d’Abraham et le processus de paix israélo-palestinien. C’est pourquoi nous travaillons avec l’Arabie Saoudite, qui constitue la clé de voûte d’un tel mouvement, et avec laquelle nous allons coprésider en juin à New York une conférence internationale sur la création d’un État palestinien. Il nous reviendra d’en faire un moment décisif.<br/>Au Liban, enfin, nous avons obtenu des succès diplomatiques majeurs qui ont permis une sortie de crise. Comme le président de la République, je m’y suis investi personnellement à chaque étape.<br/>Le 17 septembre, après un an de guerre de basse intensité, l’explosion des bipeurs et des talkies-walkies du Hezbollah a lancé une escalade militaire de grande ampleur qui a rapidement dévasté le pays.<br/>Le 24 septembre, j’ai demandé la tenue d’une réunion d’urgence au Conseil de sécurité consacrée au Liban. Le même jour, le président de la République et le président Biden ont mis sur la table une première proposition franco-américaine de cessez-le-feu.<br/>Le 29 septembre, j’ai effectué mon premier déplacement bilatéral à Beyrouth – sous les bombes, si je puis dire – pour manifester la solidarité de la France et notre engagement à mettre fin au plus vite à cette tragédie. Dans cette perspective, j’ai multiplié les déplacements, me rendant deux fois en Israël en un mois, et enchaîné les contacts avec mes homologues américains, israéliens et libanais.<br/>Le 24 octobre, nous avons accueilli à Paris une conférence de soutien qui a permis de rassembler 1 milliard de dollars pour le Liban, dont 100 millions d’aide française – auxquels il faut ajouter 100 tonnes de fret humanitaire –, mais aussi, en marge, de travailler au cessez-le-feu.<br/>Le 27 novembre, l’accord de cessez-le-feu proposé par la France et les États-Unis a finalement été accepté.<br/>Le 30 décembre, je me suis de nouveau rendu au Liban pour saluer nos soldats, engagés au sein de la Force intérimaire des Nations unies au Liban, la Finul – auxquels, bien sûr, je rends hommage –, mais aussi pour encourager l’application de l’accord, et ce dans le cadre d’un mécanisme de surveillance franco-américain.<br/>Le 7 janvier, le premier retrait massif de forces israéliennes a eu lieu. Tsahal s’est retiré de la partie ouest de la zone qu’il contrôlait et entame son retrait des autres secteurs, où l’armée libanaise se déploie, tandis que les violations du cessez-le-feu ont drastiquement baissé. Nous allons continuer à encourager cette dynamique en vue d’un retrait complet fin janvier.<br/>Le 9 janvier, à l’issue de mon propre déplacement au Liban et d’une ultime mission de bons offices de l’envoyé personnel du président de la République Jean-Yves Le Drian, dont je salue les efforts inlassables, le parlement libanais a élu à une très large majorité M. Joseph Aoun président de la République, après plus de deux ans d’une vacance qui paralysait l’ensemble de l’État. Le 11 janvier, un nouveau premier ministre, M. Nawaf Salam, a été désigné.<br/>En trois mois, nous avons aidé le Liban à passer de l’escalade au redressement et à ouvrir une nouvelle page porteuse d’espoir. Fort d’un soutien populaire, d’un large consensus interne et d’un appui international, le nouvel exécutif libanais peut agir de façon décisive pour la restauration de la souveraineté de l’État et la reconstruction du Liban. Nous serons aux côtés des Libanais dans cette entreprise.<br/>Comme j’ai eu l’occasion de le dire il y a quelques jours à la conférence des ambassadrices et ambassadeurs, notre pays a œuvré, depuis les horreurs des guerres mondiales, avec la conviction qu’il n’y a pas de paix durable sans justice et pour que s’édifie un ordre international reposant sur le droit ainsi que sur des principes d’autodétermination des peuples et d’intégrité territoriale.<br/>Si la voix de la France est toujours entendue, c’est parce qu’elle est toujours du côté de la justice, du droit et des règles collectives, dans un monde où ces dernières sont constamment remises en cause.<br/>Nous continuons aujourd’hui de travailler à améliorer et à renforcer le droit, à rendre plus fort ce qui est juste. J’en veux pour preuve notre soutien résolu à la Cour internationale de justice et à la Cour pénale internationale, dont nous sommes le troisième bailleur, mais aussi nos efforts pour réformer le Conseil de sécurité afin de limiter les effets délétères du droit de veto ou encore notre soutien à l’initiative du CICR, le Comité international de la Croix-Rouge, pour une pleine applicabilité du droit international humanitaire.<br/>Nous évoquons aujourd’hui le conflit israélo-palestinien et le Liban. Nous y avons dénoncé les violations du droit international et du droit international humanitaire partout et en tout temps – en Israël par le Hamas, à Gaza par Israël, au Liban par Israël, en Israël par le Hezbollah. Nous pourrions tout aussi bien citer l’Ukraine, la Syrie, le Venezuela, la Birmanie, l’Afghanistan, et tant d’autres crises. Il n’y a pas, dans le langage de la France, de double standard.<br/>Ces dénonciations ne sont pas des incantations. Elles trouvent leur prolongement dans l’action au service des populations civiles pour contrecarrer sur le terrain ceux qui déstabilisent le droit international et pour trouver des solutions aux crises qui le mettent en péril – avec humilité, car nous n’avons pas tous les leviers pour les résoudre seuls, mais aussi avec détermination, car nous sommes capables de peser, comme nous l’avons montré au Liban.<br/>Vous pouvez compter sur moi pour persévérer dans nos efforts, au Proche-Orient et ailleurs, pour sauvegarder le droit et bâtir des paix justes, les seules qui assureront durablement la stabilité de cette région et la nôtre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2591981" ordre_absolu_seance="149" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3591882" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4613.50">Nous en venons à la séquence de questions-réponses. Je rappelle que la durée des questions et des réponses est limitée à deux minutes, sans droit de réplique.<br/>La parole est à Mme Elsa Faucillon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2591983" ordre_absolu_seance="151" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3591884" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon (GDR)</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4706.72">À Gaza, depuis plus d’un an, l’humanité est ensevelie sous un tapis de bombes. Ceux qui survivent risquent de mourir de faim, de soif ou faute de soins. Tous affrontent une guerre génocidaire menée par Israël.<br/>Force est de constater, malheureusement, que la position de la France relève d’un deux poids, deux mesures, d’un double standard. En effet, vous refusez que notre pays endosse le rôle qu’il devrait jouer face aux crimes commis par le gouvernement israélien en Palestine et au Liban : être le fer de lance du droit international et de la justice internationale.<br/>Cette incohérence se manifeste par votre refus – et celui de vos prédécesseurs – de condamner clairement les crimes israéliens et de prendre les sanctions qui s’imposent. Comme vos prédécesseurs, vous avez par exemple rejeté la qualification de génocide défendue devant la Cour internationale de justice par plusieurs États, dont l’Afrique du Sud, l’Espagne et l’Irlande, par des experts indépendants des Nations unies et par la plupart des organisations de défense des droits de l’homme.<br/>De même, en novembre 2024, vous avez invoqué une prétendue immunité fonctionnelle de Benyamin Netanyahou pour justifier le refus d’exécuter le mandat d’arrêt délivré contre lui par la Cour pénale internationale. Or je rappelle que cette immunité est tout à fait contraire au droit international.<br/>Cette posture incohérente a des conséquences graves pour la France et pour le droit international. Elle affaiblit la crédibilité de notre pays en tant que défenseur du droit international et érode profondément l’influence dont la France disposait au Moyen-Orient et dans le reste du monde. Les mandats d’arrêt émis ne sont pas de simples formalités administratives, mais des actes de justice qui rompent avec les logiques coloniales et le double standard qui en résulte. Elle fragilise aussi le droit international, perçu comme de moins en moins juste et universel, et renforce le discours des régimes autoritaires pour lesquels le recours à la force est la seule solution politique.<br/>Ces contradictions ne sont plus tenables. Dans votre réponse à ma question, je vous demanderai de faire comme si, quand vous parlez du régime israélien, vous parliez de n’importe quel autre pays dans le monde qui, depuis des décennies et quotidiennement, bafoue le droit international.<br/>Allez-vous enfin aligner les actes de la France sur ses principes et engagements internationaux ou avez-vous décidé de sacrifier nos principes, nos valeurs et le droit international pour préserver l’impunité historique dont jouissent les gouvernements israéliens pour les crimes qu’ils commettent en Palestine et au Liban ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2591990" ordre_absolu_seance="158" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3591891" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4833.55">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2591991" ordre_absolu_seance="159" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3591892" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="4871.60">Vous m’interrogez sur deux sujets : la reconnaissance du génocide et les mandats de la Cour pénale internationale.<br/>Premièrement, s’agissant du génocide, les mots ont un sens. En droit, le génocide est défini à l’article 2 de la Convention pour la prévention et la répression du crime de génocide de 1948 ainsi qu’à l’article 6 du Statut de Rome qui a créé la Cour pénale internationale.<br/>En vertu de ces dispositions, un génocide s’entend comme la commission de certains actes dans l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux, comme tel.<br/>La qualification de génocide sur le fondement de l’une de ces dispositions relève exclusivement de la compétence du juge, non de l’appréciation d’un État. En l’occurrence, ni la Cour internationale de justice ni la Cour pénale internationale n’ont jugé, à ce jour, qu’Israël ou ses dirigeants commettaient un génocide à Gaza.<br/>L’ordonnance du 26 janvier 2024 de la Cour internationale de justice n’a pas rendu de décision définitive sur le fond, jugement qui ne devrait pas intervenir avant 2026 ou 2027. Elle s’est bornée à exiger qu’Israël applique une série de mesures conservatoires pour prévenir un tel risque, dispositif complété par une nouvelle ordonnance le 24 mai 2024 qui prévoit deux mesures conservatoires supplémentaires.<br/>À Gaza, notre objectif est que la guerre prenne fin, qu’un cessez-le-feu immédiat et durable soit déclaré, que les otages soient libérés sans plus de délai – une exigence partagée par la Cour internationale de justice – et que l’aide humanitaire parvienne massivement et sans entrave aux populations civiles qui en ont urgemment besoin, comme l’a d’ailleurs demandé également la CIJ.<br/>Nous avons très largement soutenu les mesures conservatoires exigées par la Cour internationale de justice, à la fois au moyen de résolutions adoptées au Conseil de sécurité des Nations unies ou par des déclarations faites au niveau national.<br/>J’en viens à la question des mandats de la Cour pénale internationale. Dans la déclaration à laquelle vous faites référence, nous avons simplement rappelé qu’il existe deux obligations en droit international. La première est de coopérer avec la Cour pénale internationale, dont nous sommes le troisième bailleur, la seconde de respecter les immunités existantes.<br/>En aucun cas nous n’avons dit que l’une des deux obligations devait primer sur l’autre, pour la bonne et simple raison que cette question relève de la seule appréciation du pouvoir judiciaire. Or, en France, l’autorité judiciaire agit en toute indépendance. Comme pour toute autre situation, la capacité de décider de l’exécution, ou non, du mandat d’arrêt émis contre Benyamin Netanyahou s’il devait se rendre en France, reviendrait donc à la justice. La position du gouvernement sur cette question serait portée à sa connaissance mais, <italique>in fine</italique>, c’est bien l’autorité judiciaire qui déciderait souverainement et en toute indépendance.<br/>En résumé, dans la déclaration à laquelle vous avez fait allusion, nous nous sommes donc bornés à rappeler le droit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2592001" ordre_absolu_seance="169" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3591902" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4886.93">La parole est à Mme Eléonore Caroit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2592002" ordre_absolu_seance="170" id_acteur="PA795330" id_mandat="PM843800" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3591903" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Eléonore Caroit (EPR)</nom>
+              <id>795330</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5070.01">Face aux tragédies qui secouent le Proche-Orient, la France doit demeurer un acteur clé en faveur de la paix et du respect du droit international. Comme l’a rappelé M. le ministre, notre pays est fortement engagé dans la région avec pour ambition de rétablir une stabilité pérenne et de protéger les populations civiles.<br/>Au Liban, la France a pris des mesures concrètes face aux frappes meurtrières et à la crise politique et économique que connaît le pays. Elle a été à l’initiative de conférences internationales, mobilisé une aide humanitaire et économique et réaffirmé son soutien aux forces de maintien de la paix de la Finul. Le rôle de la France a également été essentiel au sein du mécanisme de supervision du cessez-le-feu à Beyrouth. Ces initiatives sont cruciales pour assurer la continuité de l’État libanais.<br/>Parallèlement, le conflit israélo-palestinien demeure à l’évidence le plus grand obstacle à la paix dans la région. Or la France est un acteur clé des négociations pour une paix durable. La conférence qu’elle coprésidera avec l’Arabie Saoudite en juin 2025 témoigne de cet engagement consistant à privilégier le dialogue et à éviter l’escalade.<br/>C’est en maintenant une ligne diplomatique exigeante et en menant des actions concrètes que la France continuera de jouer un rôle central dans la préservation du droit international et dans la construction d’une paix durable.<br/>Dès lors, mes questions portent sur ces actions concrètes. Tout d’abord, quels résultats attendez-vous de la conférence qui sera coprésidée par la France et l’Arabie Saoudite en juin prochain ?<br/>J’en viens à la Syrie. Suite à la chute du régime Assad, quelles actions le gouvernement entend-il mener en vue d’éviter que l’intervention de Tsahal sur le territoire syrien ne conduise à une escalade supplémentaire ?<br/>Enfin, quelles mesures concrètes la France prend-elle pour garantir que l’aide humanitaire et financière bénéficie directement à la population libanaise et ne soit pas détournée ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592080" ordre_absolu_seance="177" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592013" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5091.81">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592081" ordre_absolu_seance="178" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592014" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5192.92">Je répondrai à votre première question au sujet de la conférence que la France et l’Arabie Saoudite coprésideront en juin, en soulignant son opportunité pour l’ancrage du principe d’une solution à deux États et donc du principe même d’un État palestinien.<br/>Je le dis devant la représentation nationale : ce dernier principe, largement voire unanimement défendu dans notre pays, ne l’est pas partout avec autant de ferveur. Au vu de la nouvelle administration américaine, on peut s’attendre à ce que la perspective de son application soit fragilisée.<br/>L’objectif de ce rendez-vous du mois de juin sera donc d’agréger un soutien aussi large que possible à cette perspective, en travaillant d’ici là à en tracer le chemin. En effet, du cessez-le-feu jusqu’à l’établissement d’un État palestinien dont les habitants vivraient en paix et en sécurité et qui bénéficierait de reconnaissances mutuelles et de garanties pour chacun, il y a une période intermédiaire dont il faut pouvoir définir et garantir les paramètres.<br/>Cette conférence visera donc à établir des paramètres aussi affinés et consensuels que possible en défendant la perspective politique qui, de notre point de vue, est la seule susceptible de garantir la paix dans la région contre les manœuvres que pourraient tenter ceux qui ne partagent pas la même analyse que nous.<br/>S’agissant des actions concrètes menées pour que cessent les violations du droit international perpétrées en Syrie, c’est-à-dire pour assurer le respect de l’accord de désengagement entre Israël et la Syrie de 1974 et le retrait des troupes israéliennes des territoires qu’elles occupent en violation du droit international, nous déployons des efforts à tous les niveaux.<br/>Je me suis entretenu avec mon homologue israélien précisément à ce sujet. Notre ambassadeur vient de faire connaître notre position à la directrice politique du ministère des affaires étrangères israélien. Auprès de nos interlocuteurs, comme nous l’avions fait publiquement, nous avons non seulement condamné ces violations, mais aussi expliqué le danger que représenterait une violation trop durable du droit international pour le processus de redressement et de transition politique en Syrie. Si ce processus n’aboutissait pas, il en résulterait un danger bien plus grand encore pour la sécurité d’Israël.<br/>Enfin, vous avez raison de vous préoccuper de l’aide financière au Liban. L’afflux des fonds nécessaires aux efforts humanitaires aussi bien qu’à la reconstruction du sud du pays, largement dévasté notamment par les frappes israéliennes, aurait été inenvisageable sans le redressement politique du pays, l’élection d’un président de la République libanais et la nomination d’un premier ministre, dont je rappelle qu’il est président de la CIJ.<br/>En effet, l’expérience de 2006 a rendu frileux les bailleurs internationaux : ils ont alors eu le sentiment que l’aide apportée avait pu être détournée et que ce détournement avait conduit à la détérioration du Liban, qui a elle-même suscité la situation présente.<br/>La première étape était donc le cessez-le-feu et la deuxième, le redressement politique. Il appartient à présent au gouvernement récemment entré en fonction de créer les circuits à même de rassurer les bailleurs internationaux afin qu’ils participent pleinement à la reconstruction libanaise.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592090" ordre_absolu_seance="187" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592023" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5432.90">La parole est à Mme Ersilia Soudais.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592091" ordre_absolu_seance="188" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592024" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Ersilia Soudais (LFI-NFP)</nom>
+              <id>795466</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5467.30">La semaine dernière, le 7 janvier, un symbole du colonialisme français, un homme qui a torturé et tué des Algériens lorsque la France menait une guerre coloniale sans merci, s’est éteint. Mais le colonialisme français, lui, ne s’est pas éteint.<br/>Il continue de s’exprimer, notamment par une solidarité avec d’autres colons, au détriment de nos propres concitoyens. L’arrestation du journaliste Sylvain Mercadier alors qu’il réalisait un reportage en Syrie, près de la zone du Golan occupée par le régime colonial israélien, est une nouvelle insulte qu’Israël lance à la France.<br/>Que fait notre gouvernement ? Il se livre à des condamnations à demi-mot et procède à des convocations futiles, comme après l’interpellation de deux gendarmes français à Jérusalem-Est par l’armée israélienne en novembre dernier. Voilà le prix de l’impunité !<br/>Le passe-droit accordé à Israël pour son génocide à Gaza ne fait que s’étendre, comme on a déjà pu le voir avec les bombes au Liban et les incursions en Syrie, et il perdurera aussi longtemps que l’impunité où il trouve son origine. Il ne s’agit pas d’éviter l’escalade, comme le dit Mme Caroit, car l’escalade est déjà là, depuis bien longtemps.<br/>Pendant ce temps, Israël nous ridiculise aux yeux du monde entier, même si vous faites mine de croire que la France est toujours entendue – vous devez vraiment vivre dans une dimension parallèle !<br/>Après le massacre de plus de 45 000 Palestiniens, auxquels s’ajoutent plus de 100 000 blessés, je vous le demande : quand la France cessera-t-elle d’être le valet des génocidaires israéliens ? Ce serait le minimum au regard de notre lourd passé colonial. Quand se rangera-t-elle enfin réellement aux côtés de ceux qui luttent pour l’émancipation et l’indépendance de leurs nations ?<br/>Il ne suffit pas, monsieur le ministre, d’organiser une conférence avec l’Arabie Saoudite pour évoquer la création d’un État palestinien. Peut-être pensez-vous faire ainsi illusion mais, si vous persistez à être le paillasson d’Israël, l’avenir de la région ne sera que chaos et désolation.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592098" ordre_absolu_seance="195" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592031" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5491.84">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592098" ordre_absolu_seance="196" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592098" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5510.50">Va-t-il répondre à la question ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592099" ordre_absolu_seance="197" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592032" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5572.59">À vrai dire, je ne suis pas sûr qu’une question ait été posée…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592100" ordre_absolu_seance="198" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592033" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5675.25">C’est que vous n’avez pas écouté !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592101" ordre_absolu_seance="199" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592034" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5711.92">Je relirai le compte rendu, dont je ne doute pas qu’il soit fidèlement établi.<br/>Au sujet de Sylvain Mercadier, nous sommes intervenus immédiatement et il a été relâché dans les heures suivant son interpellation. Les services du Quai d’Orsay se sont pleinement mobilisés, comme à chaque fois que nos ressortissants sont arbitrairement détenus.<br/>Concernant l’escalade que vous évoquez, je suis au regret de vous dire que, s’agissant en particulier du Liban – même si votre question ne portait pas seulement sur ce pays –, cette escalade s’est interrompue. La seule interruption de la violence dont cette région est le théâtre depuis bientôt un an et demi a été obtenue par les efforts conjugués des États-Unis et de la France. C’est un fait. Il suffit de consulter les chiffres publiés par les Nations unies pour prendre la mesure de la diminution drastique des hostilités, des trajectoires de tir et des survols du territoire libanais. Si nos efforts diplomatiques n’aboutissent pas à tous les coups, ils sont inlassables et, au Liban, nous sommes parvenus à mettre fin à l’escalade.<br/>Ensuite, sommes-nous les valets d’Israël ? Je n’en ai vraiment pas le sentiment. Je vous invite, si vous ne l’avez déjà fait, à vous rendre en Israël. On vous dira que la France est loin d’y jouir d’une bonne réputation, car nous avons été les premiers à appeler au cessez-le-feu, à dénoncer les violations du droit international et à soigner des Gazaouis blessés. Nous avons organisé la conférence internationale que vous avez évoquée. Nous avons joué un rôle moteur dans la création, à l’échelon européen, d’un régime de sanctions à l’encontre des colons extrémistes et violents et dans son activation à deux reprises.<br/>Nous agissons actuellement afin qu’il soit activé une troisième fois. Si vous consultez les comptes rendus du Conseil des affaires étrangères de l’Union européenne, vous constaterez que la France agit. Je n’en tire toutefois aucune gloire, puisque les Canadiens et les Britanniques ont pris des sanctions contre des entités que l’Union européenne n’a pas encore sanctionnées, ce que je regrette.<br/>Si tous les pays européens et plus largement occidentaux s’étaient comportés comme la France, je crois que nous n’en serions pas là, à Gaza comme ailleurs dans la région.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592107" ordre_absolu_seance="205" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592040" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5754.87">La parole est à M. Peio Dufau.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592108" ordre_absolu_seance="206" id_acteur="PA841633" id_mandat="PM843182" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592041" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Peio Dufau (SOC)</nom>
+              <id>841633</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5762.61">Votre discours introductif est en total décalage avec les propos tenus par les experts en droit international que nous venons d’auditionner. Si l’action du Hamas a, selon certains, légitimé les exactions de l’État israélien, nous constatons que des enfants meurent de froid à Gaza. Les vivres manquent. L’aide humanitaire reste bloquée et ne parvient pas à la population. On parle d’un secours humanitaire à une population civile démunie. Malheureusement, malgré des atteintes claires aux droits les plus élémentaires, cette situation ne semble que très peu émouvoir l’État français.<br/>Deux rapports démontrent que la France vend des armes à Israël, qui s’en sert potentiellement contre les populations civiles palestinienne et libanaise. Comment cela est-il possible ? Mesurez-vous les risques que court ce faisant l’État français ?<br/>Qu’attend la France pour reconnaître l’État palestinien, comme l’ont fait l’Espagne et plus de 100 États ? Le volontarisme que vous prôniez dans vos propos introductifs doit conduire à cette reconnaissance dans les plus brefs délais et lancer un mouvement européen global en ce sens et dans le sens de la paix. Sans cela, la réponse française demeurera structurellement asymétrique, donc inaudible.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592111" ordre_absolu_seance="209" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592044" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5809.63">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="6" id_preparation="2592112" ordre_absolu_seance="210" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592045" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="5852.47">Comme vous, je suis meurtri et ému par la situation des civils à Gaza, en particulier des enfants. On parle de 45 000 civils morts depuis le 7 octobre. Nous ne disposons pas encore d’un décompte précis des victimes, mais on évoque le décès de 14 000 enfants. On dit que la tranche d’âge la plus touchée par les bombardements, celle au sein de laquelle le nombre de victimes est le plus important, est celle des 5-9 ans.<br/>Voilà de quoi susciter une émotion profonde et motiver un certain nombre d’initiatives que nous avons prises, tant sur le plan humanitaire que sur celui du droit international.<br/>S’agissant des armes, si tout le monde s’était comporté comme la France, nous n’en serions pas là. Je trouve paradoxal que vous accusiez le gouvernement français de livrer des armes à Israël pour mener sa guerre à Gaza alors que, comme vous l’avez entendu, la France est accusée par d’autres d’avoir appelé à un embargo sur la vente d’armes à Israël.<br/>Il est un fait que nous exportons des équipements vers ce pays, mais dans des volumes historiquement très limités – 0,2 % de nos exportations de matériel de défense – et suivant des procédures de contrôle très strictes reposant sur l’observation d’un ensemble de critères, dont le respect des droits de l’homme et du droit international humanitaire par le pays destinataire. Nous ne vendons donc pas d’armes susceptibles d’être utilisées en violation du droit international à un État dont nous disons ouvertement et publiquement qu’il viole ce droit.<br/>Enfin, s’agissant de la reconnaissance de l’État palestinien, nous avons toujours affirmé qu’il n’existait bien, d’après nous, qu’un seul horizon : celui d’un État palestinien et d’un État israélien vivant côte à côte, jouissant de reconnaissances mutuelles et de garanties de sécurité.<br/>Nous avons indiqué vouloir que la reconnaissance d’un tel État par la France, qui n’est pas la reconnaissance de n’importe quel pays et peut entraîner celles d’autres pays, intervienne à un moment où non seulement elle revêtirait une valeur symbolique, mais susciterait aussi un effet d’entraînement susceptible d’ancrer définitivement cette perspective.<br/>En effet, nous constatons un fait simple : la décision de reconnaissance prise par certains de nos partenaires avant que nous ne le fassions – je comprends qu’ils l’aient prise, parce qu’ils partagent notre objectif et notre horizon – n’a pas suffi à produire un effet d’entraînement capable de cranter durablement une telle perspective.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592057" ordre_absolu_seance="217" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592190" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6055.72">La parole est à M. Jean-Claude Raux.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592058" ordre_absolu_seance="218" id_acteur="PA794154" id_mandat="PM842918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592191" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Claude Raux (EcoS)</nom>
+              <id>794154</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6064.62">Aucun État ne peut avoir le privilège de se placer au-dessus du droit international, et pourtant… La semaine dernière, j’étais à Jérusalem-Est, dans le cadre d’une délégation parlementaire écologiste ; nous y avons fait de nombreuses visites et de nombreuses rencontres, notamment de responsables de l’Unrwa, l’Office de secours et de travaux des Nations unies pour les réfugiés de Palestine dans le Proche-Orient. L’Unrwa a commencé ses activités en 1950 pour garantir l’aide humanitaire en faveur des réfugiés palestiniens et leurs droits politiques, dont le droit au retour. Son mandat a été renouvelé jusqu’en juin 2026 et concerne aujourd’hui 6 millions de personnes, dont 1,4 million à Gaza.<br/>Cette agence des Nations unies est financée par les États membres, dont évidemment la France, qui lui a apporté en 2024 une contribution de 38 millions d’euros. Elle a été diabolisée après le 7 octobre en raison du fait que 9 de ses agents auraient participé aux attaques terroristes – 9 sur 30 000. Son existence a été remise en cause par deux lois votées par la Knesset fin octobre 2024 et applicables à l’issue d’un délai de quatre-vingt-dix jours, soit précisément dans quinze jours. Elles prévoient l’interdiction d’opérer sur l’ensemble du territoire israélien et, pour les autorités militaires et civiles, d’entretenir le moindre rapport avec l’agence, sachant que, de surcroît, des dispositions fiscales impacteront ses ressources.<br/>Or personne ne peut remplacer l’Unrwa, d’autant que les besoins de la population n’ont jamais été aussi importants : ils sont immenses, tant en matière d’aide alimentaire qu’en ce qui concerne la santé. Je rappelle que l’agence gère plus de 600 centres de soins, scolarise un demi-million d’enfants et entretient les infrastructures de cinquante-huit camps de réfugiés. Il s’agit d’une vraie bouée de sauvetage pour les Gazaouis bien sûr, mais aussi, plus largement, pour la Cisjordanie.<br/>Ce vote de la Knesset s’ajoute aux innombrables obstacles physiques et bureaucratiques qui ont été imposés par Israël pour limiter l’entrée de l’aide à Gaza. Ces lois contraires au droit international et à la convention de Genève vont également à l’encontre des ordonnances émises le 26 janvier dernier par la Cour internationale de justice.<br/>Voici la question qui nous a été posée en Palestine : quand une pression réelle et forte sera-t-elle enfin exercée sur Israël ou, mieux encore, quand des sanctions de la communauté internationale et donc de la France seront-elles prises pour empêcher l’application de ces lois qui bafouent le droit international, en l’espèce les droits des réfugiés, et qui pourraient entraîner un nombre de morts que je n’ose même pas imaginer ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592062" ordre_absolu_seance="223" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592195" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6187.04">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592063" ordre_absolu_seance="224" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592196" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6224.91">Tout d’abord, je vous remercie d’être allé sur place et d’avoir rencontré les responsables et le personnel de l’Unrwa. Je partage en tout point votre diagnostic. Personne ne peut en effet remplacer l’Unrwa, pour les raisons que vous avez rappelées, à savoir qu’elle fournit des services essentiels aux populations à Gaza, services que d’autres organisations ne seraient pas capables de fournir. En outre, et contrairement à ce qui a pu être dit par les autorités israéliennes, elle sert aussi de plateforme pour les activités des autres organisations non gouvernementales qui apportent des biens et des services absolument essentiels à la survie des populations sur place.<br/>C’est pourquoi la France n’a cessé de soutenir l’Unrwa budgétairement et moralement, en dépit des accusations portées à son encontre et qui ont atteint sa crédibilité au sein de la communauté internationale : de nombreux bailleurs se sont longuement interrogés sur l’opportunité de renouveler leur financement à cette agence indispensable. Ce n’est pas notre cas, puisque nous avons facilité la mission de Catherine Colonna destinée à faire la lumière sur d’éventuels manquements et à proposer des solutions pour y mettre fin, ce qui a permis de consolider la crédibilité de l’agence. Nous l’avons également soutenue sur le plan budgétaire : je dispose d’un chiffre légèrement plus élevé que le vôtre, puisque le soutien de la France a atteint selon le ministère 41 millions d’euros, ce qui fait de notre pays l’un de ses principaux donateurs. Lorsque je me suis rendu au Caire le 2 décembre pour participer à une conférence humanitaire internationale pour la population civile de Gaza, j’ai annoncé une nouvelle contribution de 50 millions d’euros pour la population de Gaza en 2025, dont 20 millions pour l’Unrwa.<br/>Très concrètement, que faisons-nous ? La France proteste au niveau bilatéral, c’est-à-dire qu’elle s’adresse à ses interlocuteurs israéliens en faisant appel non seulement à ce qu’elle attend d’eux en termes d’intégrité et de sens du devoir, inhérents au respect du droit international, mais aussi à leur intelligence : si c’est une violation du droit international que d’entraver le travail de l’Unrwa, c’est aussi contraire aux intérêts d’Israël, parce que cela crée une situation catastrophique qui pourrait constituer une bombe à retardement. La France proteste également au niveau multilatéral, dans les instances où elle est présente. C’est le cas au sein de l’Union européenne, où nous avons pu agréger les soutiens à l’Unrwa, mais aussi aux Nations unies, par exemple lors de la semaine de haut niveau de l’Assemblée générale qui s’est tenue à la fin du mois de septembre : nous étions évidemment présents à la réunion initiée par la Jordanie en soutien à l’Unrwa pour rappeler que, sur le plan moral comme sur le plan budgétaire, nous continuerions d’être aux côtés de l’agence.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592065" ordre_absolu_seance="227" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592198" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6427.09">La parole est à M. Bruno Fuchs.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592066" ordre_absolu_seance="228" id_acteur="PA722284" id_mandat="PM843221" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592199" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Fuchs (Dem)</nom>
+              <id>722284</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6430.95">Je tiens à remercier le groupe GDR en la personne de Jean-Paul Lecoq pour avoir inscrit en séance publique ce sujet d’une importance cruciale mais, en préambule, je voudrais tout de même formuler une critique constructive s’agissant de l’intitulé choisi pour ce débat. Celui-ci s’inspire en effet d’une vision quelque peu provocatrice ou pour le moins unilatérale, à contre-courant de l’action de la France au Proche-Orient. Notre diplomatie et notre pays s’honorent en réalité du travail méritoire que mènent sans relâche nos diplomates sur place et au siège des Nations unies, et s’honorent d’agir au quotidien en faveur du droit international, afin qu’il soit respecté à Gaza et au Liban ainsi que dans toute la région.<br/>J’en viens à mes questions. Certes, l’ordre mondial est en train de changer très significativement du fait d’un usage accru de la force, qui a pour conséquence un affaiblissement du droit international. Mais si la France n’a pas à elle seule la capacité de le faire respecter, elle fait beaucoup pour que la communauté internationale et les pays concernés s’y emploient. Elle agit aussi beaucoup en matière diplomatique, y compris sur le plan bilatéral – vous avez rappelé les engagements de la France depuis ces derniers mois, notamment s’agissant du Liban. Ainsi, grâce à l’action de notre pays et de ses partenaires du Quintette, le Liban dispose depuis le 9 janvier d’un président qui vient de nommer un premier ministre. Pouvez-vous préciser en quoi cette étape institutionnelle majeure va permettre de consolider le cessez-le-feu avec l’État d’Israël pour une période de soixante jours ? La nouvelle administration américaine est-elle aussi désireuse que la sortante de voir le cessez-le-feu se poursuivre ?<br/>De même, les négociations pour un cessez-le-feu à Gaza progressent de manière significative du point de vue des Qatariens, mais aussi de l’administration américaine, laissant espérer une libération prochaine des otages retenus par le Hamas. Que pouvez-vous nous en dire ce soir ? Est-il permis d’espérer qu’un cessez-le-feu à Gaza s’accompagne rapidement d’un retour de l’action humanitaire internationale et du respect par toutes les parties des préceptes du droit international ? Quelles nouvelles initiatives la France peut-elle prendre à cet égard ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592070" ordre_absolu_seance="231" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592203" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6509.85">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592071" ordre_absolu_seance="232" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592204" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6585.28">Merci pour votre question et pour vos remarques sur le titre. Si je m’y autorisais, je ne changerais pour ma part qu’un mot dans le titre, lequel deviendrait : « Palestine / Liban : le rôle de la France face à l’effondrement du droit international ». <italique>(Sourires et exclamations parmi les députés du groupe GDR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592072" ordre_absolu_seance="233" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592205" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6598.92">On n’y avait pas pensé !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592073" ordre_absolu_seance="234" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592206" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="6601.34">Je le dis en passant et n’en ferai évidemment rien, car cela ne relève pas de mes prérogatives, mais il s’agit toutefois d’un point important. La leçon à tirer des événements, si l’on met de côté le cessez-le-feu au Liban et les succès que nous avons réussi à obtenir aux côtés des États-Unis, c’est l’incapacité des institutions du droit international à le faire respecter au Proche-Orient depuis le 7 octobre. De toute évidence, si l’on est intimement convaincu qu’un ordre international fondé sur le droit reste pertinent et nécessaire, il faut en tirer des conclusions et faire en sorte de renforcer ledit droit et les institutions qui en garantissent en principe le respect. Si l’on est sincèrement convaincu de la pertinence, aujourd’hui encore, du droit international qui s’est bâti sur les décombres de la seconde guerre mondiale, une guerre qui avait déshonoré l’Europe, il faut se mobiliser pour le réformer de manière à le rendre plus efficace, plus applicable et plus contraignant.<br/>C’est pourquoi nous ne nous contentons pas de condamner les violations du droit international humanitaire, mais militons aussi pour une réforme du Conseil de sécurité des Nations unies visant à y faire entrer de nouveaux membres permanents, à savoir deux pays africains ainsi que l’Inde et le Brésil, afin que l’Afrique et les grands émergents soient pleinement représentés dans cette instance, ce qui lui donnera plus de légitimité. Nous nous mobilisons aussi pour une réforme de l’architecture financière internationale – ce n’est pas tout à fait le droit international, mais c’est son corollaire. Si les institutions financières internationales sont perçues par une partie des États de la planète comme ayant été conçues à leur désavantage, ceux-ci n’ont aucun intérêt à reconnaître comme légitime et à respecter le droit international sur lequel ces institutions sont adossées.<br/>Enfin, s’agissant du droit international humanitaire, le CICR – que j’évoquais dans mon propos introductif –, constatant que les violations du droit international humanitaire sont trop fréquentes, qu’elles ne sont pas suivies de sanctions ou que celles-ci ne sont pas suffisamment dissuasives, a lancé un chantier avec un certain nombre de pays, dont l’Afrique du Sud, le Kazakhstan et le Brésil, chantier auquel nous participons et qui devrait livrer ses conclusions en 2026. J’en ai fait une priorité de mon action parce que si, de bonne foi, on veut éviter l’effondrement du droit international, il faut se donner les moyens de le renforcer.<br/>Pour ce qui est du cessez-le-feu au Liban, de la présidentielle et de la reconstruction, c’est comme une série de cliquets : il n’y aurait pas eu d’élection présidentielle sans le cessez-le-feu, et sans l’élection présidentielle, il n’y aurait eu que peu d’espoir d’une pérennisation du cessez-le-feu et d’une arrivée des fonds pour la reconstruction. Il fallait que chacun prenne sa part et fasse un effort, que les amis du Liban, dont la France bien sûr, ainsi que les États-Unis, se mobilisent, qu’Israël consente, après avoir accepté le principe du cessez-le-feu, à retirer progressivement ses troupes, que les forces armées libanaises prennent un peu plus de risques que d’habitude en se réappropriant le sud du pays qu’elles avaient déserté au profit du Hezbollah et, enfin, que les représentants politiques du peuple libanais prennent aussi leur part de cet effort collectif en surmontant leurs querelles internes pour converger autour d’une candidature, en l’occurrence celle de Joseph Aoun. Cette élection présidentielle est une étape très importante : en effet, si elle n’était pas intervenue, tout aurait pu s’arrêter très rapidement, les Israéliens et les Américains auraient pu se détourner du Liban, focalisés qu’ils sont sur les questions liées à l’avenir de Gaza et à l’avenir de la Syrie, et les bailleurs régionaux, en tout cas les bailleurs du Golfe, l’auraient très certainement délaissé pour les mêmes raisons.<br/>S’agissant du cessez-le-feu à Gaza, nous espérons vivement qu’il intervienne au plus vite et nous avons passé des messages à toutes les parties prenantes de la négociation – à laquelle nous ne participons pas directement – pour que nos deux otages, Ofer Kalderon et Ohad Yahalomi, soient bien intégrés dans l’accord et qu’ils soient libérés dès que celui-ci aura été trouvé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592076" ordre_absolu_seance="239" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592209" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6916.12">Nous passons à une seconde série de questions. J’invite chacun à respecter le temps de parole de deux minutes, aussi bien pour les questions que pour les réponses.<br/> La parole est à M. Jean-Paul Lecoq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2592077" ordre_absolu_seance="240" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592210" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq (GDR)</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6929.60">Vous ne m’avez pas convaincu, même à propos du titre de ce débat. En fait,  pour montrer encore plus clairement le rôle joué par la France dans l’effondrement du droit international, j’aurais bien ajouté la question du Sahara occidental, qui illustre le manque de respect dont notre pays fait preuve à l’égard ce droit, mais je me suis dit que cela ferait beaucoup et il a été décidé d’en rester à la question de la Palestine, d’Israël et du Liban.<br/>La France aurait réagi plus fortement vis-à-vis de dirigeants d’autres pays qui se seraient rendus responsables d’une telle crise et de tels crimes de guerre. Elle aurait par exemple gelé leurs avoirs, et d’une manière ou d’une autre serait allée plus loin que ce que vous faites. Je ne critique pas votre action, mais je constate que le non-respect du droit international a des conséquences. Comme vous le reconnaissez, des crimes sont perpetrés. Or il n’y a pas d’acte fort de notre pays pour dire stop aux dirigeants du pays qui les commettent.<br/>C’est cela que nous critiquons, non votre action. Vous nous dites que vous faites votre travail : certes, mais nous vous parlons du respect du droit international. Le droit humanitaire international est-il actuellement respecté à Gaza ? Non. Que fait la France contre les responsables de ce non-respect ? Pas grand-chose, en tout cas rien de suffisamment fort pour permettre que ces crimes cessent. C’est cette situation qui est à l’origine de l’interpellation du groupe GDR sur le rôle de la France, dont il attend des actions fortes aussi bien vis-à-vis du Maroc que d’Israël, des pays amis du nôtre. C’est justement parce que ce sont des amis qu’il faut leur dire stop, leur dire de cesser, leur dire qu’ils courent à leur perte en raison de leur attitude. Il faut les pousser à en changer, les y obliger. Notre groupe pense que vous n’actionnez pas assez fortement les leviers qui permettraient d’aboutir au respect du droit international, seul chemin vers la paix. Quand je vois l’attitude de Poutine, de Netanyahou, de Mohammed VI ou de Trump, qui veut mettre la main sur le Groenland, je me dis que le droit international s’effondre. Si la France ne contribue pas à cet effondrement, en tout cas elle ne fait rien pour qu’il cesse, et c’est dommage.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592195" ordre_absolu_seance="243" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592323" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7041.81">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592196" ordre_absolu_seance="244" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592324" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7086.61">Que fait la France face à l’effondrement du droit international ? Je me doutais que vous évoqueriez le Sahara occidental. Vous avez fait référence à l’expression de la France au sujet du plan d’autonomie marocain. Je tiens à préciser qu’à aucun moment la France n’a écarté l’idée que ce plan d’autonomie s’inscrive dans un processus onusien, en quelque sorte soumis au droit international, et c’est bien le chemin qu’ouvre ce plan d’autonomie. En attendant l’aboutissement du processus qui a été enclenché, il faut veiller au développement de ce territoire, conformément à l’article 73 de la Charte des Nations unies. C’est dans cet esprit que le président de la République a fait des déclarations lorsqu’il était au Maroc.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592197" ordre_absolu_seance="245" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592325" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sabrina Sebaihi</nom>
+              <id>795808</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7153.24">« Provinces du Sud », ça dit bien ce que ça veut dire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592198" ordre_absolu_seance="246" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592326" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7157.46">C’est incroyable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592199" ordre_absolu_seance="247" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592327" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7158.75">À propos d’Israël, nous avons pris des sanctions à titre national contre vingt-huit colons extrémistes et violents. Toutefois, une partie de nos leviers d’action sont européens. Actionner des leviers à cette échelle-là est plus compliqué, car cela nécessite de créer du consensus. Nous l’avons fait une première fois en avril 2024, puis une deuxième fois en juillet. Nous sommes en train de négocier un troisième ensemble de sanctions. C’est difficile, à tel point que, lors d’un récent Conseil des affaires étrangères, j’ai moi-même listé les entités que nous pourrions sanctionner du fait de leur contribution à la colonisation en Cisjordanie.<br/>Cette colonisation est contraire au droit international mais aussi, dans un sens, à l’intérêt d’Israël à long terme. Vous l’avez d’ailleurs dit, et je vous en remercie : en violant le droit international, Israël agit aussi contre ses propres intérêts. Cela a déjà été le cas par le passé et il est heureux que l’erreur commise en 1982 n’ait pas été reproduite. À l’époque, lorsqu’Israël a voulu chasser du Liban l’Organisation de libération de la Palestine (OLP), il a bombardé massivement le territoire libanais et s’y est installé durablement. Que s’est-il alors passé ? Après les destructions, sur les ruines, est né le Hezbollah. Lorsqu’Israël va trop loin, il crée les conditions de sa propre insécurité. C’est pourquoi nous l’appelons au respect du droit international, dans son propre intérêt.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592201" ordre_absolu_seance="249" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592329" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7228.72">La parole est à Mme Catherine Hervieu.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592202" ordre_absolu_seance="250" id_acteur="PA840947" id_mandat="PM842570" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592330" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Catherine Hervieu (EcoS)</nom>
+              <id>840947</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7266.33">Je tiens d’abord à remercier Jean-Paul Lecoq et Elsa Faucillon d’avoir permis cet espace d’échanges. Les accords Sykes-Picot, la création de l’État d’Israël et tous les conflits qui ont suivi font partie des événements majeurs de l’histoire du Moyen-Orient. Celle de l’influence française dans la région, notamment au Liban, est longue. Cette particularité crée une attente d’une partie des Libanais auprès de l’État français, qui aurait la responsabilité de soutenir une sortie de la crise politique, économique, sociale et mémorielle au Liban.<br/>Toutefois, notre président a nourri par son attitude irresponsable des espoirs inatteignables au Liban. Ses déclarations rêveuses ont creusé encore plus la méfiance envers notre diplomatie et notre pays. La France n’allait pas sauver le Liban à elle seule, car elle ne le pouvait pas. Récemment, le Hezbollah a perdu de son pouvoir au Liban, où l’armée israélienne est toujours présente. La résolution 1559 du Conseil de sécurité de l’ONU, adoptée en 2004 à l’initiative de la France et des États-Unis, demande le respect de la souveraineté, de l’intégrité territoriale, de l’unité et de l’indépendance politique du Liban, le retrait de toutes les forces étrangères de son sol ainsi que le désarmement et la dissolution de toutes les milices libanaises.<br/>Comment l’application de cette résolution peut-elle être soutenue de manière crédible par la France, dans l’intérêt des Libanais, alors que le cessez-le-feu n’est pas encore respecté ? Nous pensons également à nos soldats de la Finul, qui constitue un tampon impuissant sur la ligne bleue. Comment la France pourra-t-elle entretenir la pérennité de son influence dans la région grâce à sa diplomatie ? Enfin, comment assurez-vous le suivi des fonds envoyés au Liban, pays où la corruption et le clientélisme sont malheureusement très présents ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592205" ordre_absolu_seance="253" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592333" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7315.60">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592206" ordre_absolu_seance="254" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592334" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7389.44">Je vous remercie pour votre question, car l’histoire nous a appris que le diable se nichait dans les détails. Notre crainte, lorsque nous avons proposé une formule de cessez-le-feu, était de reproduire les erreurs de 2006. À l’époque, le cessez-le-feu n’a pas été respecté, en tout cas pas dans les termes de la résolution 1701, qui citait la résolution 1559 que vous avez évoquée. Tant et si bien que, presque vingt ans plus tard, on s’est retrouvé dans la même situation.<br/>Pour éviter que cela se reproduise, il fallait que chacun prenne sa part dans l’effort ainsi que sa part de risque. En particulier, il fallait que les forces armées libanaises se décident résolument à se substituer aux forces israéliennes au sud du Liban et à procéder au désarmement du Hezbollah au sud du fleuve Litani. Il fallait aussi que la Finul puisse être un appui efficace des forces armées libanaises. Tout cela n’était pas observé avant le cessez-le-feu mais, depuis, nous voyons un changement considérable. J’en veux pour preuve le témoignage des soldats français de la Finul. Il y a deux ou trois ans, quand ils venaient au Liban pour une mission de trois mois, ils étaient baladés sur des trajets de patrouilles déterminés à l’avance, qui ne posaient pas de difficultés, sur lesquels ils ne trouvaient aucune cache d’armes, à propos desquels il n’y avait rien à signaler. Ces mêmes soldats, qui patrouillent depuis le cessez-le-feu, considèrent que leur mission a totalement changé. Désormais, ils font de vraies patrouilles, sur de vraies routes, ils détectent de vraies caches d’armes et contribuent ainsi effectivement à désarmer le sud du Liban.<br/>Par ailleurs, même s’il est fragile, le cessez-le-feu tient et produit des effets puisque, progressivement, le sud du Liban se désarme et que les troupes israéliennes se retirent. Après l’élection présidentielle de la semaine dernière, nous croyons possible qu’à l’issue de la période de soixante jours fixée au moment de l’entrée en vigueur du cessez-le-feu, tous les objectifs soient atteints, en particulier le retrait des troupes israéliennes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592209" ordre_absolu_seance="257" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592337" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7580.85">La parole est à M. Frédéric Petit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592210" ordre_absolu_seance="258" id_acteur="PA721182" id_mandat="PM843815" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592338" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Frédéric Petit (Dem)</nom>
+              <id>721182</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7587.18">En tant que rapporteur budgétaire pour avis sur ce qu’on appelle la diplomatie culturelle ou la diplomatie d’influence, j’estime que ce que j’appelle la diplomatie des sociétés civiles va jouer un rôle déterminant au XXI<exposant>e</exposant> siècle. C’est d’ailleurs dans ce domaine que nous sommes attaqués aujourd’hui. Nous sommes très présents dans la région, et depuis très longtemps. Nous sommes présents dans l’éducation, avec les écoles françaises. Je rappelle ainsi que l’École française de Jérusalem est une association tenue par des familles palestiniennes, qui emploie des professeurs israéliens. Nous sommes présents dans le mémoriel et dans l’économie. Nous sommes aussi très présents dans la science, puisque nous sommes le seul pays à avoir à Jérusalem un centre scientifique palestinien et un centre scientifique israélien.<br/>Avec tout ce qui est en train de se passer, notamment en Syrie, quel rôle envisagez-vous pour ces organismes ? Pour moi, cette action de la France est fondamentale. Comment voyez-vous son évolution dans les mois et les années à venir ? Que comptez-vous faire pour qu’elle revienne au centre du jeu, alors qu’elle est attaquée ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592212" ordre_absolu_seance="260" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592340" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7601.33">La parole est à M. le ministre.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592213" ordre_absolu_seance="261" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM855144" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3592341" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Noël Barrot</nom>
+              <id>721836</id>
+              <qualite>ministre</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="7676.85">Monsieur le député, je vous remercie pour vos travaux, notamment votre récent rapport budgétaire sur la diplomatie d’influence, y compris dans les zones de conflit et de guerre, qui était très éclairant et très utile.<br/>Vous avez évoqué les écoles françaises en Israël et en Palestine. On pourrait aussi parler des lycées français au Liban qui, pour certains, dans le sud du pays, ont été durement éprouvés par l’escalade militaire de la fin de l’été et du début de l’automne. On pourrait également citer l’Institut français du Proche-Orient (Ifpo), dont vous aviez d’ailleurs été le premier à me parler. Même fermée au public, son antenne de Damas, en Syrie, a été entretenue toutes ces dernières années par les personnels restés sur place malgré la situation. Cela nous a permis de conserver des liens et, au moment où la Syrie se redresse et où un nouvel espoir se lève, d’être immédiatement prêts à repartir sur de nouvelles bases avec le peuple syrien.<br/>Au-delà du service apporté à nos compatriotes établis à l’étranger et de leur rôle dans le rayonnement de la langue française, nos écoles et nos lycées permettent d’assurer la permanence de notre présence auprès des peuples, les principales victimes des guerres que connaît le Proche-Orient. Malgré tous nos efforts et malgré tous nos vœux pour qu’elle le soit à terme, cette région n’est pas encore stabilisée. Ces établissements nous permettent aussi de faire passer le message du droit international. Non par les communiqués de presse des Nations unies ou du Quai d’Orsay, mais d’une manière très différente et sans doute beaucoup plus convaincante pour les populations civiles concernées, par la présence sur place, par l’attitude, le style et le discours des personnels de nos écoles, de nos centres culturels et de nos instituts de recherche.<br/>Je crois donc que la diplomatie d’influence joue un rôle très important. Dans la Syrie qui se reconstruit aujourd’hui, nous avons des partenaires que nous n’aurions pas sans les outils de ce que vous appelez la diplomatie des sociétés civiles.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2592217" ordre_absolu_seance="265" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592345" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7848.88">Le débat est clos.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="3" ordinal_prise="8" id_preparation="2592219" ordre_absolu_seance="267" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3592347" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="2592220" ordre_absolu_seance="268" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="0" id_nomination_op="PM846636" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3592348" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>330008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="7851.60">Prochaine séance, demain, à quatorze heures :<br/> Questions au gouvernement ;<br/>Débat sur le thème « Un an après la crise agricole, quel bilan pour nos agriculteurs ? » ;<br/> Débat sur le thème « Après l’élection de Donald Trump, concrétiser la souveraineté européenne ».<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="2592221" ordre_absolu_seance="269" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3592349" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures trente.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="3" ordinal_prise="8" id_preparation="2592222" ordre_absolu_seance="270" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3592350" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

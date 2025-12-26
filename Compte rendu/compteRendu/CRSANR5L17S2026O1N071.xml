@@ -1,0 +1,1275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2026O1N071</uid>
+  <seanceRef>RUANR5L17S2026IDS29981</seanceRef>
+  <sessionRef>SCR5A2026O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20251126213000000</dateSeance>
+    <dateSeanceJour>mercredi 26 novembre 2025</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>71</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2025 -2026</session>
+    <nomFichierJo>20250071</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-12-03T17:43:00.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3942889">Présidence de M. Christophe Blanchet</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3942893">
+          <intitule>Les centres de santé pluriprofessionnels : antidote aux déserts médicaux ?</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3942897">Mme Laure Artru, présidente de l’Association de citoyens contre les déserts médicaux</para>
+        <para id_syceron="3942907">Mme Jeanne Villeneuve, secrétaire générale de la Fédération nationale des centres de santé</para>
+        <para id_syceron="3942915">M. Frédéric Villebrun, coprésident de l’Union syndicale des professionnels des centres de santé</para>
+        <para id_syceron="3943017">M. Jean-Claude Raux (EcoS)</para>
+        <para id_syceron="3943022">Mme Jeanne Villeneuve</para>
+        <para id_syceron="3943024">M. Frédéric Villebrun</para>
+        <para id_syceron="3943026">M. Nicolas Sansu (GDR)</para>
+        <para id_syceron="3943030">Mme Jeanne Villeneuve</para>
+        <para id_syceron="3943032">M. Frédéric Villebrun</para>
+        <para id_syceron="3943034">M. Julien Odoul (RN)</para>
+        <para id_syceron="3943989">Mme Laure Artru</para>
+        <para id_syceron="3943994">Mme Jeanne Villeneuve</para>
+        <para id_syceron="3943996">Mme Ersilia Soudais (LFI-NFP)</para>
+        <para id_syceron="3944001">Mme Laure Artru</para>
+        <para id_syceron="3944010">M. Elie Califer (SOC)</para>
+        <para id_syceron="3944015">M. Frédéric Villebrun</para>
+        <para id_syceron="3944019">Mme Delphine Batho (EcoS)</para>
+        <para id_syceron="3944025">Mme Jeanne Villeneuve</para>
+        <para id_syceron="3944215">M. Frédéric Villebrun</para>
+        <para id_syceron="3944181">Mme Claire Marais-Beuil (RN)</para>
+        <para id_syceron="3944185">Mme Laure Artru</para>
+        <para id_syceron="3944188">Mme Jeanne Villeneuve</para>
+        <para id_syceron="3944192">Mme Chantal Jourdan (SOC)</para>
+        <para id_syceron="3944194">M. Frédéric Villebrun</para>
+        <para id_syceron="3944199">M. Nicolas Sansu (GDR)</para>
+        <para id_syceron="3944204">M. Frédéric Villebrun</para>
+        <para id_syceron="3944208">Mme Jeanne Villeneuve</para>
+        <para id_syceron="3944211">M. Frédéric Villebrun</para>
+        <para id_syceron="3943555">Mme Stéphanie Rist, ministre de la santé, des familles, de l’autonomie et des personnes handicapées</para>
+        <para id_syceron="3943566">M. Jean-Claude Raux (EcoS)</para>
+        <para id_syceron="3943571">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3943576">M. Nicolas Sansu (GDR)</para>
+        <para id_syceron="3943687">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3943695">M. Mickaël Cosson (Dem)</para>
+        <para id_syceron="3943700">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3943707">Mme Claire Marais-Beuil (RN)</para>
+        <para id_syceron="3943709">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3943712">Mme Ersilia Soudais (LFI-NFP)</para>
+        <para id_syceron="3943814">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3943817">Mme Chantal Jourdan (SOC)</para>
+        <para id_syceron="3943820">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3943824">Mme Catherine Hervieu (EcoS)</para>
+        <para id_syceron="3943829">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3943834">M. Éric Martineau (Dem)</para>
+        <para id_syceron="3943838">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3944090">M. Elie Califer (SOC)</para>
+        <para id_syceron="3944096">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3944104">Mme Claire Marais-Beuil (RN)</para>
+        <para id_syceron="3944106">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3944111">Mme Ersilia Soudais (LFI-NFP)</para>
+        <para id_syceron="3944117">Mme Stéphanie Rist, ministre</para>
+        <para id_syceron="3944219">M. Jean-Claude Raux (EcoS)</para>
+        <para id_syceron="3944222">Mme Stéphanie Rist, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3944228">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 26 novembre 2025</journee>
+      <session>Session ordinaire 2025 -2026</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2815793" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3942889" valeur="">
+      <orateurs/>
+      <texte>Présidence de M. Christophe Blanchet<br/> vice-président</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2815794" ordre_absolu_seance="2" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3942890" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="912.60">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2815795" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3942891" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2815797" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3942893" valeur="">
+      <orateurs/>
+      <texte>Les centres de santé pluriprofessionnels : antidote aux déserts médicaux ?</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2815798" ordre_absolu_seance="6" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3942894" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="916.06">L’ordre du jour appelle le débat sur le thème : « Les centres de santé pluriprofessionnels : antidote aux déserts médicaux ? »<br/> Ce débat a été demandé par le groupe Écologiste et social.<br/> La conférence des présidents a décidé d’organiser le débat en deux parties. Nous commencerons par une table ronde en présence de personnalités invitées d’une durée d’une heure ; puis, nous procéderons, après avoir entendu une intervention liminaire du gouvernement, à une séquence de questions-réponses d’une durée d’une heure également. La durée des questions et des réponses sera limitée à deux minutes, sans droit de réplique.<br/>Pour la première phase du débat, je souhaite la bienvenue à Mme Laure Artru, présidente de l’Association de citoyens contre les déserts médicaux, à M. Frédéric Villebrun, coprésident de l’Union syndicale des professionnels des centres de santé, et à Mme Jeanne Villeneuve, secrétaire générale de la Fédération nationale des centres de santé.<br/> Je vais maintenant donner la parole à chacun de nos invités pour une intervention de cinq minutes maximum chacun.<br/>La parole est à Mme Laure Artru, présidente de l’Association de citoyens contre les déserts médicaux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2815801" ordre_absolu_seance="9" id_acteur="PA-126199" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3942897" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Artru</nom>
+            <id>-126199</id>
+            <qualite>présidente de l’Association de citoyens contre les déserts médicaux</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="986.73">Merci de votre accueil, mesdames, messieurs les députés. Je remercie votre collègue Jean-Claude Raux pour cette invitation et je remercie mes collègues d’être présents à mes côtés.<br/>La situation des usagers de la santé ne s’arrange pas, vous le savez. Il est de plus en plus difficile pour les patients de se faire soigner. Dans les années qui viennent, cela va encore s’aggraver, du fait du départ en retraite de plusieurs centaines de médecins. L’instabilité politique que nous connaissons et que vous vivez n’aide pas à la résolution du problème. Aucun plan santé n’a d’ailleurs été évoqué par aucun des gouvernements au cours des vingt dernières années. Nous sommes en retard par rapport à d’autres pays d’Europe en matière de délégation de tâches, de dépistage et de prévention. La santé a un coût. Le projet de loi de financement de la sécurité sociale (PLFSS), qui est plutôt décliniste, rendra encore plus difficile la tâche des soignants.<br/>Je me présente : médecin rhumatologue, j’étais interne et chef de clinique à Paris jusqu’à mon arrivée dans la Sarthe, où j’ai exercé pendant plus de trente ans la rhumatologie, dans des conditions tout à fait agréables, avec des correspondants généralistes compétents. Mais la désertification médicale est devenue de plus en plus importante et, en 2018, j’ai commencé à m’y intéresser – au point que je suis entrée au conseil de l’Ordre et en suis sortie pour cette raison –, rencontrant alors le président de l’Association de citoyens contre les déserts médicaux (ACCDM), Maxime Lebigot, qui l’avait créée en 2016 dans le but de rétablir partout en France l’effectivité d’un droit égalitaire et constitutionnel à la santé. Je suis présidente de cette association depuis mars 2025. Nous avons seize antennes, réparties dans seize départements.<br/>Nous avons formulé des propositions pour améliorer la situation, qui auraient dû être considérées comme immédiates et tangibles, la première étant la régulation. Comme vous le savez, celle-ci est soutenue par des députés formant un groupe de travail transpartisan, à l’origine d’une proposition de loi qui a été adoptée par l’Assemblée et qui doit suivre son chemin parlementaire – le gouvernement ne souhaitant pas l’inscrire à l’ordre du jour du Sénat, elle est en attente, ce qui est bien regrettable.<br/>Nous proposons aussi de limiter à cinq ans le temps de remplacement des médecins, comme c’est le cas pour les infirmiers.<br/>Quant à la solidarité territoriale des médecins telle qu’elle a été évoquée par le docteur Neuder quand il était ministre de la santé, elle serait probablement difficile à appliquer pour les soins primaires, mais pour la médecine de spécialité, elle est tout à fait légitime.<br/>La délégation de tâches sous transfert de compétences, elle, est déjà bien avancée, même s’il y a encore des freins parmi les médecins qui ne veulent pas s’y astreindre.<br/>Heureusement, au milieu de ce marasme, il y a des initiatives territoriales. Ainsi, dans la Sarthe, où j’habite, des médecins pratiquent déjà la médecine de demain : médecin généraliste avec quatre bureaux, dont deux pour lui ou elle, accompagné d’assistants médicaux, d’une infirmière en pratique avancée (IPA) qui travaille dans un bureau à côté et d’un interne. On voit bien que les médecins aspirent à cette médecine-là. De même, des pharmaciens créent des équipes de soins primaires ; des infirmiers se déplacent au chevet des patients quand le 15 le demande ; des ophtalmologistes, avec des orthoptistes, font du dépistage de pathologies graves…<br/>Mais la réalité est triste car, dans nos déserts médicaux, il y a des infirmières au chômage – peut-on l’entendre ? – et des pharmacies qui ferment, plutôt plus qu’ailleurs. Dans nos déserts médicaux, les numéros d’appel d’urgence ne répondent pas : vous êtes le quatre-vingtième sur la liste, on vous rappellera… dans trente-six heures. Il manque des structures mobiles d’urgence et de réanimation (Smur) ; dans la Mayenne, il n’y en a pas eu pendant dix-sept jours en juillet. En plus, dans nos centres de santé, contrairement aux vôtres – je m’adresse à mes deux collègues –, il n’y a pas de médecin spécialiste. Donc, dans les déserts médicaux, les médecins souffrent eux aussi.<br/>Il faut envisager une réforme de la santé qui passe par un service public territorial de santé – beaucoup s’accordent sur ce point et je crois que c’est essentiel. Il faut aussi une éducation à la santé pour que les citoyens acceptent de participer à la gestion de leurs risques en santé, et quoi de mieux que les centres de santé pour y parvenir ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2815810" ordre_absolu_seance="19" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3942906" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1281.19">La parole est à Mme Jeanne Villeneuve, secrétaire générale de la Fédération nationale des centres de santé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2815811" ordre_absolu_seance="20" id_acteur="PA-126219" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3942907" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Jeanne Villeneuve</nom>
+            <id>-126219</id>
+            <qualite>secrétaire générale de la Fédération nationale des centres de santé</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1291.06">Monsieur Raux, merci pour l’invitation.<br/>La Fédération nationale des centres de santé (FNCS) regroupe les gestionnaires non lucratifs de centres de santé – collectivités, associations, hôpitaux ou encore universités – sur l’ensemble du territoire national, soit aujourd’hui plus de 400 centres de santé adhérents. Les centres de santé que nous représentons sont bel et bien non lucratifs, guidés par une vocation d’intérêt public ; il faut donc les distinguer des centres à but lucratif, dont la logique repose sur la rentabilité et sur la production de bénéfices pour des actionnaires. La FNCS est une organisation représentative auprès de la Caisse nationale de l’assurance maladie (Cnam). Elle participe aux négociations conventionnelles des centres de santé mais aussi des maisons de santé pluriprofessionnelles (MSP) et des communautés professionnelles territoriales de santé (CPTS). Elle représente les centres de santé auprès des pouvoirs publics.<br/>Face aux déserts médicaux, où vivent 6 millions de Français, et face aux délais d’accès aux soins, qui deviennent intenables dans de nombreux territoires, le modèle des centres de santé fondé sur un accès universel à des soins de proximité, sans dépassement d’honoraires ni avance de frais, dans un cadre collectif intégré souvent pluriprofessionnel et interdisciplinaire, a démontré sa capacité à apporter des réponses efficaces et pertinentes aux besoins de santé croissants de la population dans tous les territoires.<br/>Selon les données de l’Observatoire national des centres de santé, on compte aujourd’hui 1 229 centres médicaux et polyvalents en activité, grâce à une forte dynamique de création sur tout le territoire. Cette croissance se traduit notamment par des créations de centres pour lutter contre la désertification médicale à l’initiative de nombreux gestionnaires, dont des collectivités territoriales de tous bords politiques. Ce mouvement témoigne de la reconnaissance et de l’intérêt des centres de santé comme alternative ou complément à l’offre de soins libérale. Créés à partir de diagnostics territoriaux et de projets de santé en réponse aux problématiques de santé de la population, les centres de santé non lucratifs sont des structures d’exercice coordonné qui salarient leurs professionnels de santé et qui pratiquent des tarifs opposables et sans avance de frais – 100 % des centres de santé pratiquent le tiers payant sur la part obligatoire ; 81 %, sur la part intégrale.<br/>Le fonctionnement des centres de santé est fondé sur une organisation collective et coordonnée du travail. La responsabilité collective et en équipe traitante d’une patientèle est un élément d’attractivité fort pour les professionnels de santé. Face à l’augmentation des besoins de santé, au vieillissement de la population et à l’explosion des maladies chroniques, mais aussi face à une médecine de plus en plus performante, il peut parfois sembler vertigineux à de jeunes professionnels de s’installer seuls. Les centres de santé représentent ainsi une alternative crédible à l’installation libérale isolée, devenue peu attractive.<br/>Le rapport de l’Inspection générale des affaires sociales (Igas) de mars 2024 montre sans ambiguïté que les centres de santé non lucratifs constituent une offre de soins essentielle dans certains territoires en manque de professionnels libéraux et pour des publics socialement défavorisés. Près d’un cinquième de nos centres sont implantés dans les quartiers prioritaires de la politique de la ville (QPV). Dans ces quartiers comme dans les territoires ruraux en voie de désertification, nous maintenons une présence médicale et garantissons un accès universel aux soins, quand les cabinets libéraux ferment les uns après les autres.<br/>La capacité des centres de santé non lucratifs à offrir des soins coordonnés et pluriprofessionnels est un atout majeur pour améliorer la qualité des soins. Les professionnels travaillent en équipe, se réunissent autour des dossiers complexes, accueillent des jeunes en formation, évaluent leurs pratiques et participent à des travaux de recherche en soins primaires. Tout cela permet de garantir la qualité et la pertinence des soins au bénéfice du patient, des professionnels mais aussi de l’assurance maladie. Les centres de santé s’ancrent dans leur territoire en développant des actions de santé publique, de prévention et d’éducation à la santé, en lien avec les collectivités territoriales et avec les habitants.<br/>Cependant, si les centres de santé non lucratifs sont une solution efficace pour lutter contre la désertification médicale et pour réduire les inégalités d’accès aux soins, leur développement se heurte à des obstacles structurels que nous devons lever ensemble. Ainsi, leur financement est calqué sur celui d’une médecine libérale monoprofessionnelle, ce qui fragilise ces structures. C’est pourquoi nous ne cessons de tirer la sonnette d’alarme : ils doivent bénéficier de financements spécifiques pour sortir du financement à l’acte et continuer à exercer pleinement leurs missions de service public.<br/>En parallèle, l’ouverture à des gestionnaires privés lucratifs qui rachetent des centres de santé ou en ouvrent de nouveaux donne l’illusion, fausse et dangereuse, qu’un modèle économique existe. Or, à ce jour, la rentabilité n’existe pas sans dégradation de la qualité des soins – enchaînement de consultations courtes, multiplication d’examens complémentaires coûteux ou prescription de médicaments inutiles. Cette incitation au volume et à la sélection d’actes rémunérateurs coûte<italique> in fine</italique> plus cher au système solidaire. C’est pourquoi nous appelons à une véritable politique publique de soutien aux centres de santé grâce à des financements pérennes pour les investissements et pour la coordination, ainsi qu’à une reconnaissance pleine et entière de leur rôle dans les politiques d’organisation des soins ambulatoires. Ces centres méritent d’être soutenus, développés et reconnus comme un pilier de notre système de santé.<br/>Vous l’aurez compris, les centres de santé apportent une réponse pertinente aux problèmes d’accès aux soins, que ceux-ci relèvent de contraintes géographiques ou économiques. Face à la crise inédite que traversent nos territoires, les centres de santé polyvalents, sans être la seule option, offrent une solution qui fonctionne : ils protègent les plus fragiles tout en répondant aux aspirations des jeunes professionnels.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2815818" ordre_absolu_seance="30" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3942914" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1608.08">La parole est à M. Frédéric Villebrun, coprésident de l’Union syndicale des professionnels des centres de santé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2815819" ordre_absolu_seance="31" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3942915" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Villebrun</nom>
+            <id>-126209</id>
+            <qualite>coprésident de l’Union syndicale des professionnels des centres de santé</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1619.49">Monsieur Raux, merci de votre invitation. Je suis, en tant que coprésident de l’Union syndicale des professionnels des centres de santé (USPCS), très honoré d’être parmi vous ce soir.<br/>Nous représentons 54 000 professionnels, un chiffre méconnu parce qu’on a pour habitude de penser que les centres de santé représentent une faible part de l’offre de soins en France. C’est pourtant une offre croissante : elle a quasiment doublé en une dizaine d’années. Ces 54 000 professionnels demandent, pour ceux d’entre eux qui travaillent en centres de santé publics, un statut, un cadre d’emploi ainsi qu’une rémunération et une grille salariale spécifiques. Nous pointons ce défaut depuis des dizaines d’années – en effet, si elle a été créée il y a un an à peine, l’USPCS s’inscrit dans la suite de l’Union syndicale des médecins de centres de santé, fondée en 1946.<br/>L’USPCS demande une représentation de l’ensemble des professionnels concernés pour faire le pendant à la représentation des structures libérales – nous sommes malheureusement absents des unions régionales des professionnels de santé (URPS) et d’autres instances. Nos professionnels ont, eux aussi, droit de cité, puisqu’ils représentent une force en devenir, qui a besoin d’être reconnue comme il se doit.<br/>L’USPCS a aussi soulevé la question du salariat des maîtres de stage des universités (MSU) et celle du salariat pour la permanence des soins ambulatoires (PDSA). Toutes ces avancées ont bénéficié également aux professionnels libéraux. Ceux-ci sont très heureux d’avoir désormais la possibilité d’être salariés en maîtrise de stage universitaire.<br/>Malheureusement, nous ne sommes pas reconnus. Les centres de santé font partie des oubliés du Ségur de la santé. Nous n’avons reçu que quelques miettes via les primes dites Coquerel, pendant deux ans.<br/>Pourtant, nous sommes capables d’assurer des passerelles entre la médecine de ville et l’hôpital, et, à l’intérieur même de la médecine de ville, avec les centres de protection maternelle et infantile (PMI) et les centres de santé sexuelle. Les médecins de l’éducation nationale, par exemple, pourraient participer de manière conjointe à une forme de structure ambulatoire globale. Or ce n’est pas possible en raison des différences de statut.<br/>Toutefois, nous travaillons sur le sujet avec plusieurs ministères qui semblent enclins à avancer. Il manque une impulsion politique pour que nous puissions disposer d’un statut transposable entre l’activité en ville, à l’hôpital et dans les structures de prévention. Mesdames et messieurs les députés, nous demandons donc votre soutien pour enfin mettre un terme à la décroissance de la médecine de prévention.<br/>Tandis que la mortalité infantile ne cesse d’augmenter et que la PMI comme la médecine scolaire connaissent de graves difficultés, des médecins tels que moi et d’autres professionnels de santé ont envie de travailler en partenariat et dans différentes structures. Ils souhaitent la création d’un statut qui permettrait d’exercer un temps à l’hôpital, un temps dans un centre de PMI, un temps dans un centre de santé. C’est une demande assez simple, et plusieurs services ministériels nous ont indiqué que c’était faisable, mais il manque la volonté nécessaire. Cela donnerait un nouvel élan aux structures de prévention et jetterait les bases d’un véritable service public territorial de santé.<br/>Nous avons été plutôt agréablement surpris par les annonces du premier ministre, qui, en septembre, lors de son premier déplacement ès qualités, a visité un centre de santé et a lancé le réseau France Santé. Pour nous, les maisons France Santé pourraient constituer la première pierre d’un maillage du territoire par des centres de santé publics ou à vocation de service public. Mais encore faudrait-il disposer des capacités d’investissement nécessaires : ce n’est pas avec 50 000 euros qu’on peut créer une structure.<br/>Nous souhaitons atteindre le chiffre d’un millier de centres de santé publics ou à vocation de service public – tout comme il y aura bientôt, sans que l’on sache précisément quand, un millier de CPTS. Pour atteindre cet objectif, il faut une volonté politique de faire des centres de santé publics ou à vocation de service public les pivots du futur service public territorial de santé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815827" ordre_absolu_seance="41" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943016" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1924.70">Je vous remercie tous les trois pour vos interventions.<br/>Nous en venons aux questions. J’invite les députés qui souhaitent intervenir dans la table ronde à s’inscrire auprès de la direction de la séance. Afin que le débat soit le plus fluide possible, les réponses seront apportées immédiatement après chaque question. Une question ne peut durer plus longtemps que deux minutes, pas plus que l’ensemble des réponses qui lui sont faites – il appartient aux invités de se répartir ce temps de parole.<br/> La parole est à M. Jean-Claude Raux, qui a été à l’initiative du présent débat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815828" ordre_absolu_seance="42" id_acteur="PA794154" id_mandat="PM842918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943017" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Claude Raux (EcoS)</nom>
+            <id>794154</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1968.69">Au nom du groupe Écologiste et social, je remercie nos invités pour leur présence et leur participation à ce débat. Nous savons tous que la désertification médicale ne cesse de progresser en France, frappant impitoyablement la quasi-totalité du territoire sans qu’une évolution – encore moins une révolution – des modalités d’accès aux soins ait lieu. Ses conséquences sont connues : on essuie des dizaines de refus de consultation ; les délais d’attente pour un simple rendez-vous s’allongent ; on doit parcourir des distances toujours plus grandes pour voir un professionnel de santé ; le suivi de patients peut s’interrompre brutalement avec le départ d’un médecin. La prise en charge se dégrade ; c’est une rupture du droit fondamental d’accès aux soins, en principe garanti à tous.<br/>Dans un tel contexte, je vois les centres de santé pluriprofessionnels comme une réponse adaptée dans les territoires où plus aucun médecin n’exerce. Cette solution correspond aux attentes des jeunes professionnels de santé, qui privilégient un exercice collectif et salarié. Ces structures reçoivent tous les publics, y compris les plus éloignés du système de santé, sans avance de frais ni dépassement d’honoraires – à un moment où ces dépassements sont de plus en plus fréquents. Comme l’écrit le docteur Julie Chastang, coprésidente de l’USPCS, elles ont choisi la solidarité et l’engagement.<br/>J’ai beaucoup de questions, même si le docteur Artru a déjà répondu à celle que j’avais prévu de lui poser.<br/>Docteur Villeneuve, la Cour des comptes recommande la création de centres de santé polyvalents par les hôpitaux de proximité ou par les groupements hospitaliers de territoire (GHT). Qu’en pensez-vous ? Lorsque les collectivités territoriales créent des centres de santé, comment mieux les accompagner dans cette démarche, en plus du volet financier ?<br/>Docteur Villebrun, alors qu’un nouvel accord national pour les centres de santé a été signé, comment sortir de la tarification à l’acte, dépassée et préjudiciable pour ces centres ? À ce sujet, quel regard portez-vous sur les expérimentations d’une rémunération forfaitaire des soins ? Je fais ici référence au Peps, le paiement en équipe de professionnels de santé en ville.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815832" ordre_absolu_seance="47" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943021" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2097.64">La parole est à Mme Jeanne Villeneuve.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815833" ordre_absolu_seance="48" id_acteur="PA-126219" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943022" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Jeanne Villeneuve</nom>
+            <id>-126219</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2119.36">Nous sommes très favorables au travail commun entre hôpitaux et centres de santé, et donc à la création de centres par des établissements hospitaliers de proximité. Les deux types de structures ont des patientèles communes.<br/>La FNCS compte parmi ses adhérents de nombreux centres de santé créés par des structures hospitalières publiques, mais pas forcément de proximité, comme l’Assistance publique-Hôpitaux de Marseille ou la Fondation Hospices civils de Lyon. Nous avons également signé une convention avec la Fédération hospitalière de France (FHF) et écrit un guide de la création d’un centre de santé par un hôpital. La mutualisation des fonctions support entre un centre de santé où se déroulent les consultations ambulatoires et un hôpital où ont lieu les soins est une bonne solution.<br/>D’une manière générale, il faut trouver des structures porteuses des centres de santé. La FNCS apporte son appui à celles qui souhaitent monter ce type de projets.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815834" ordre_absolu_seance="51" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943023" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2176.76">La parole est à M. Frédéric Villebrun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815835" ordre_absolu_seance="52" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943024" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Villebrun</nom>
+            <id>-126209</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2182.58">Je réponds à la question concernant le paiement à la capitation et les forfaits Peps, dits article 51. Si la mise en place d’un paiement à la capitation dans les centres de santé est une volonté de longue date de nos fédérations et unions syndicales respectives, il ne relève pour l’instant que de l’expérimentation. Nous demandons qu’il soit inscrit dans le droit commun le plus rapidement possible. Un travail à ce sujet est en cours mais, pour le moment, très peu de centres ont accès à cette tarification à la capitation, qui permettrait une prise en charge globale des patients. Les professionnels payés au temps passé et non à l’acte accompli ont tout intérêt à travailler dans un système également financé de manière forfaitaire. Nous sommes donc aussi pour la généralisation du financement à la capitation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815836" ordre_absolu_seance="53" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943025" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2240.64">La parole est à M. Nicolas Sansu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815837" ordre_absolu_seance="54" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943026" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Sansu (GDR)</nom>
+            <id>605745</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2252.91">Je remercie les intervenants pour leur présence ainsi que le groupe Écologiste et social et Jean-Claude Raux pour avoir organisé ce temps d’échanges. Dans le groupe de travail transpartisan sur les déserts médicaux, nous connaissons bien le sujet des centres de santé, qui sont effectivement une des réponses à la désertification médicale.<br/>Moi qui ai assisté au récent congrès de la FNCS, je m’interroge sur la capacité de ces centres à assurer l’égalité territoriale dans le cadre de la solidarité nationale. À Vierzon, nous menons plusieurs expérimentations, dont l’organisation d’un centre de santé sous forme de groupement d’intérêt public (GIP). Nous avons aussi créé, avec l’hôpital de proximité mais hors ses murs, un centre de santé où les praticiens peuvent devenir des médecins traitants, ce qui est le plus important – plus encore que les consultations avancées. Dans un département qui manque cruellement de médecins, cela permet à des praticiens à diplôme hors Union européenne (Padhue) d’intervenir en étant tutorés par des confrères de l’hôpital.<br/>Mes questions sont les suivantes : les centres de santé, dont beaucoup sont fonctionnarisés ou municipalisés, ne risquent-ils pas d’accroître les inégalités entre les territoires riches, qui pourraient s’en payer, et les autres, qui n’auraient pas cette capacité ? Pour échapper à ce risque, comment fait-on pour que la solidarité nationale les chapeaute ? À Vierzon, ce sujet majeur nous a conduits à choisir l’option du GIP. Dans cette organisation, différente de celle d’un centre de santé fonctionnarisé, les intervenants sont des salariés de droit privé en partie payés à l’acte. Cette solution, qui déplaît fortement à la FNCS, nous permet d’assurer le service et l’accès aux soins sans déséquilibrer les comptes des collectivités locales, car ce n’est pas à elles de payer pour la santé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815840" ordre_absolu_seance="57" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943029" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2313.01">La parole est à Mme Jeanne Villeneuve.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815841" ordre_absolu_seance="58" id_acteur="PA-126219" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943030" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Jeanne Villeneuve</nom>
+            <id>-126219</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2415.89">La FNCS et l’USPCS prônent depuis longtemps la création d’un service public territorial de santé. L’homogénéité entre territoires pourrait passer par les centres de santé, entre autres solutions. On peut aussi imaginer un maillage de maisons de santé dont le réseau France Santé pourrait constituer la base, à condition de le promouvoir et de rédiger des cahiers des charges précisant les missions de ces maisons. La création d’un service public territorial de santé est le seul moyen de sortir de la situation actuelle.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815842" ordre_absolu_seance="59" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943031" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2466.31">La parole est à M. Frédéric Villebrun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815843" ordre_absolu_seance="60" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943032" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Villebrun</nom>
+            <id>-126209</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2469.50">Les inégalités dont vous parlez ne sont pas inéluctables. En effet, la création du service public territorial de santé dont on a besoin nécessite un investissement qui devrait être réalisé par l’État. Certaines collectivités territoriales se substituent à lui mais d’autres ne le souhaitent pas. Si le réseau France Santé voit le jour, il faudra veiller à ce qu’il soit composé de véritables structures pluriprofessionnelles, et non de simples cabines de téléconsultation ou d’autres pis-aller. De notre point de vue, il doit s’agir de structures à vocation de service public, qu’il s’agisse de centres ou de maisons de santé. Nous sommes d’accord avec vous pour dire que, tout en étant de droit privé, un GIP peut participer au service public. L’enjeu est de créer un maillage territorial de services publics de manière suffisamment rapide pour éviter les inégalités géographiques. À mon sens, il faut agir maintenant parce que toutes les planètes sont alignées.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815844" ordre_absolu_seance="61" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943033" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2543.24">La parole est à M. Julien Odoul.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2815845" ordre_absolu_seance="62" id_acteur="PA795552" id_mandat="PM840408" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943034" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Julien Odoul (RN)</nom>
+            <id>795552</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2550.57">Les mirages ne font pas reculer les déserts. Cette formule résume la désillusion de nombre de nos compatriotes. Malgré les services inestimables que rendent les centres de santé dans nos circonscriptions, penser, comme cela est régulièrement répété, qu’ils vont permettre de lutter contre la désertification médicale, de l’endiguer, voire de la faire disparaître relève de l’illusion.<br/>La même situation existe dans différents départements, mais je vais illustrer mon propos par un exemple venu du mien, l’Yonne. Une maison de santé a été inaugurée récemment dans la commune de Gron. Quatre plaques de médecins généralistes sont posées, on coupe le ruban en trouvant cela formidable et les futurs patients ont le sourire. Tout le monde est heureux, jusqu’à ce qu’on apprenne que les quatre nouveaux médecins de Gron sont les quatre anciens médecins de la commune voisine. Les habitants ont assisté à un transfert, comme il en arrive régulièrement. En réalité, on déplace le désert, sans le limiter ni renforcer l’offre sanitaire ; c’est un jeu de chaises musicales qui dépeuple les uns pour renforcer les autres.<br/>Quelles sont les mesures prioritaires ? Bien évidemment, la formation massive de nouveaux médecins et, surtout, leur égale répartition sur tout le territoire. La fracture sanitaire est insupportable, puisqu’elle sépare les citoyens en deux catégories : ceux qui peuvent jouir de leur droit constitutionnel d’accès à la santé et les autres.<br/>Ma question est donc double. N’y a-t-il pas un problème avec la communication qui est vendue tant aux élus locaux qu’à nos concitoyens ? On leur dit : « Investissez dans des maisons de santé ou des centres de santé, posez une plaque, coupez un ruban… », mais on s’aperçoit rapidement que l’offre de soins ne s’en trouve pas renforcée. N’est-ce pas une façon de mentir, de jeter de la poudre aux yeux de nos concitoyens, qui attendent une réponse claire pour une offre de soins de proximité ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815848" ordre_absolu_seance="66" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943988" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2663.08">La parole est à Mme Laure Artru.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815849" ordre_absolu_seance="67" id_acteur="PA-126199" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943989" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Artru</nom>
+            <id>-126199</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2704.37">Vous avez raison : les médecins sont inégalement répartis sur le territoire. Une proposition de loi visant à lutter contre les déserts médicaux a été votée à l’Assemblée, mais elle doit encore suivre son chemin parlementaire. Tant qu’elle n’aura pas passé le cap du Sénat, la répartition des médecins sur le territoire continuera de ne dépendre que des médecins eux-mêmes. On ne peut pas en inventer là où il n’y en a pas !<br/>Vous avez raison de souligner qu’il ne faut pas construire de centre ou de maison de santé sans projet médical ni médecins susceptibles de s’y installer. Les choses ont été suffisamment répétées pour que cela n’arrive plus.<br/>Bien réel, le phénomène que vous avez évoqué est très douloureux : il arrive que des médecins quittent une structure pour une autre, souvent avec une petite somme d’argent ou d’autres avantages à la clé. On ne peut guère l’empêcher. Malgré tout, les centres de santé me semblent plus à même d’attirer les médecins que les maisons de santé pluridisciplinaires, dans lesquelles l’installation est peut-être plus complexe. En tout cas, l’accès des patients à la prévention, à la médecine sans dépassement d’honoraires et à l’accompagnement est très important. C’est pourquoi notre association soutient le développement de telles structures. Je ne sais pas si j’ai répondu à votre question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815852" ordre_absolu_seance="70" id_acteur="PA795552" id_mandat="PM840408" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943992" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Julien Odoul</nom>
+            <id>795552</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2751.85">En partie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815853" ordre_absolu_seance="71" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943993" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2781.50">La parole est à Mme Jeanne Villeneuve.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815854" ordre_absolu_seance="72" id_acteur="PA-126219" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943994" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Jeanne Villeneuve</nom>
+            <id>-126219</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2796.20">Je compléterai en trente secondes. Il est vrai que la formation massive de médecins constitue le véritable enjeu, mais cela prendra dix ans. Dans un moment où nous manquons de plus en plus de médecins, la force des centres de santé tient à leur caractère pluriprofessionnel. Au sein de ces structures, l’exercice coordonné permet en effet de déléguer certaines tâches médicales à d’autres professionnels, notamment aux IPA d’éducation thérapeutique.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815855" ordre_absolu_seance="73" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943995" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2831.36">La parole est à Mme Ersilia Soudais.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815856" ordre_absolu_seance="74" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943996" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais (LFI-NFP)</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2838.93">Madame la présidente Artru, vous avez fait référence plusieurs fois à la proposition de loi transpartisane visant à lutter contre les déserts médicaux, soulignant à juste titre qu’elle était bloquée au Sénat. Si vous étiez en face des sénateurs, quels arguments avanceriez-vous pour les convaincre d’avancer enfin ?<br/>Vous avez également évoqué le pacte de lutte contre les déserts médicaux, présenté par le gouvernement peu après l’adoption de cette proposition de loi, et vous avez fait part de vos doutes quant à l’efficacité, s’agissant des soins primaires, de la « solidarité territoriale » préconisée par le ministre de la santé de l’époque, Yannick Neuder. Pourriez-vous développer ce propos ?<br/>J’aimerais aussi connaître votre avis sur la cartographie des zones prioritaires qui a été publiée par ce ministre. Personnellement, je m’interroge à son sujet, dans la mesure où mon département, la Seine-et-Marne, ne figure pas parmi les zones prioritaires, alors qu’il s’agit d’un des départements les plus touchés par la désertification médicale. Que pensez-vous de la méthode qui a été employée pour établir cette cartographie ?<br/>Enfin, vous avez souligné que l’instabilité n’aide pas à avancer en matière de santé. De gouvernement en gouvernement, une chose est cependant très stable : la baisse des dépenses. Tout récemment, notre assemblée a voté sur le PLFSS, qui a ensuite été examiné par le Sénat. La commission mixte paritaire qui vient de se tenir est non conclusive. J’aurais aimé connaître votre sentiment sur ce PLFSS, dont j’estime qu’il va contribuer à détériorer la situation plutôt qu’il ne nous aidera à lutter contre les déserts médicaux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815860" ordre_absolu_seance="78" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944000" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2922.79">La parole est à Mme Laure Artru.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815861" ordre_absolu_seance="79" id_acteur="PA-126199" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944001" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Artru</nom>
+            <id>-126199</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2951.92">Si je vois un sénateur demain, voici ce que je lui dirai : l’Association des maires de France et des présidents d’intercommunalité (AMF) soutient la régulation, et les élections sénatoriales approchent.<italique> (Sourires.)</italique><br/>En ce qui concerne le pacte de solidarité territoriale, il est très important de savoir que, s’agissant des soins primaires, travailler dans un territoire deux jours par mois, c’est vraiment très court pour un médecin généraliste – je ne suis pas médecin généraliste, ce serait plutôt à eux de répondre. D’abord, il doit quitter son cabinet, ce qui suppose de trouver quelqu’un pour le remplacer. Ensuite, il verra vingt patients dans la journée – c’est ce qui se passe en ce moment dans le Calvados –, mais qui va s’en occuper le lendemain et le surlendemain ? Ce n’est pas tenable. Le seul système qui fonctionne vraiment est celui de Martial Jardel et du collectif Médecins solidaires, qui assure la continuité des soins et permet de prendre soin des patients. Autrement, il s’agit d’une médecine de haute voltige. Au premier médecin généraliste qui aura des ennuis parce que son travail est mal encadré, plus aucun médecin ne viendra dispenser de soins primaires au nom de la solidarité territoriale.<br/>J’en viens à la cartographie des zones prioritaires. Pour ce qui est de la Sarthe, nous sommes en zone d’intérêt prioritaire, sans que notre département comporte la moindre zone rouge. Il revient aux territoires de faire l’état des lieux des besoins.<br/>Quant au PLFSS, je vous ai dit qu’il était plutôt décliniste – ce n’est pas moi qui le dis, c’est l’économiste Frédéric Bizard. Comment faire mieux avec moins ? C’est impossible.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815869" ordre_absolu_seance="83" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944009" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3072.21">La parole est à M. Elie Califer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815870" ordre_absolu_seance="84" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944010" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer (SOC)</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3079.42">Je remercie le groupe Écologiste et social d’avoir choisi ce thème et salue nos invités.<br/>Je viens en élu intéressé. Dans un territoire plus que rural – je parle de la Guadeloupe, où j’ai été maire –, l’Agence régionale de santé (ARS) nous encourage fortement à pallier le manque de médecins en construisant un centre de santé. Après une campagne d’information et de motivation, nous le construisons, ce qui nous coûte 3 millions, le soutien de l’ARS s’élevant à 100 000 euros – notez que c’est beaucoup ! Or le médecin qui a monté le projet médical et animait la société interprofessionnelle de soins ambulatoires (Sisa) doit, à la suite de fortunes personnelles, abandonner le territoire guadeloupéen et retrouver la Corse, son pays natal, et sa famille. Nous nous retrouvons sans médecin pour prendre sa suite. Nous buttons là sur le véritable problème : la démographie médicale. Les centres de santé offrent peut-être une réponse au problème de la désertification, mais celui de la démographie demeure.<br/>Mes questions sont donc les suivantes : comment faire pour attirer les médecins dans les zones rurales, en particulier dans les territoires où la situation est la pire, comme les territoires ultramarins, où il n’y a pas de médecins ? Quelles incitations pourraient pousser les professionnels de santé à s’installer dans ces zones-là ? Jusqu’où peut-on aller ? Quelle organisation trouver avec les hôpitaux ? Enfin, comment faire entendre tout cela aux ARS ? Vous le savez, beaucoup dépend de la philosophie des ARS et des positions qu’elles prennent.<br/>Je vous remercie de m’aider à trouver des solutions pour ce centre de santé, qui nous regarde du haut de ces 3 millions et qui attend désespérément un médecin !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815874" ordre_absolu_seance="88" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944014" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3159.00">La parole est à M. Frédéric Villebrun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815875" ordre_absolu_seance="89" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944015" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Villebrun</nom>
+            <id>-126209</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3205.10">Hélas, si nous avions une recette miracle, nous vous l’aurions donnée tout de suite. Nous avons toutefois quelques solutions. Je reviens à mon propos liminaire : les jeunes médecins sont très intéressés par l’exercice mixte. Chaque mois, je dois par exemple refuser des candidatures dans le centre de santé que je dirige en région parisienne ; nous ne disposons pas d’assez d’espace pour accueillir tous les anciens internes qui veulent travailler chez nous.<br/>Cela renvoie à une vraie difficulté : on a une mauvaise connaissance des centres de santé. Ceux qui se créent ont peu de visibilité auprès des facultés de médecine – même si vous avez, je suppose, sollicité les facultés les plus proches. L’exercice en centre de santé fait encore l’objet de préjugés négatifs. Nous avons besoin de vous, mesdames et messieurs les députés, pour obtenir un statut spécifique et pérenne, qui assure l’attractivité des centres de santé, notamment de ceux qui dépendent d’une collectivité territoriale. Il n’existe pas de statut de médecin en centre de santé. S’il était possible de bénéficier des mêmes grilles salariales que les praticiens hospitaliers, on pourrait exercer à mi-temps dans un centre hospitalier universitaire (CHU) et à mi-temps dans un centre de santé. Une telle possibilité faciliterait le recrutement de médecins, dont des maîtres de stage, ce qui enclencherait une dynamique vertueuse.<br/>Pour finir, votre territoire dispose peut-être d’un centre de PMI ou d’un médecin scolaire à proximité, auquel cas il pourrait être intéressant de défendre une proposition de loi transpartisane créant un véritable statut mixte, qui rende l’exercice en centre de santé public, en PMI et dans l’éducation nationale compatible avec l’exercice hospitalier public.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815878" ordre_absolu_seance="92" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944018" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3324.39">La parole est à Mme Delphine Batho.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815879" ordre_absolu_seance="93" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944019" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Batho (EcoS)</nom>
+            <id>335999</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3337.01">Je suis députée des Deux-Sèvres, département où la lutte contre la désertification médicale est la première priorité des habitants, membre du groupe Écologiste et social ainsi que du groupe transpartisan contre les déserts médicaux.<br/>Dans vos propos, vous avez évoqué les annonces du gouvernement relatives au réseau France Santé. En tant que membres du groupe transpartisan, nous avons cherché, non sans mal, à en comprendre le contenu. Lors de la discussion du PLFSS, nous avons compris qu’il s’agissait de changer le nom de structures existantes – maisons de santé, centres de santé, cabinets médicaux particuliers ou de groupe, ou encore cabines de consultation en visioconférence dans une pharmacie.<br/>J’ai trois questions. Le gouvernement justifie ce changement au profit d’une appellation unifiée par l’existence, dans les territoires, d’un problème de lisibilité des différents lieux d’accès aux soins. Personnellement, ce n’est pas du tout l’expérience que j’ai dans les Deux-Sèvres : les 29 000 patients sans médecin traitant prendraient d’assaut tout nouveau praticien qui s’y installerait ! Confirmez-vous l’existence, sur le terrain, d’un problème de lisibilité ?<br/>Les professionnels des CPTS, qui sont en train de se déployer, m’interpellent sur le changement de nom et sur l’obligation de refaire toutes les conventions, ce que prévoit le PLFSS. Avez-vous, du point de vue des centres de santé, des remarques à faire sur ces évolutions ?<br/>Enfin, vos organisations – l’ACCDM, la FNCS et l’USCPS – ont-elles été consultées par le gouvernement, après ses annonces, sur le contenu et les modalités de déploiement du réseau France Santé ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815884" ordre_absolu_seance="98" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944024" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3366.39">La parole est à Mme Jeanne Villeneuve.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2815885" ordre_absolu_seance="99" id_acteur="PA-126219" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944025" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Jeanne Villeneuve</nom>
+            <id>-126219</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3465.09">À votre première question, je répondrai qu’il n’existe pas de problème de lisibilité pour nos structures.<br/>J’en viens à la question du changement de nom des CPTS. La FNCS est favorable la création d’un service public de santé assurant un maillage territorial, que le réseau France Santé pourrait préfigurer. Néanmoins, un tel réseau doit s’appuyer avant tout sur des structures d’exercice coordonné effectrices de soins, comme les centres et les maisons de santé. Or les CPTS ne sont pas effectrices de soins. Nous nous interrogeons donc, comme vous, sur la place qu’elles pourraient prendre au sein de ce réseau.<br/>Sur le papier, nous sommes favorables à un tel réseau, mais à condition qu’il soit réellement construit et que cela s’accompagne d’une vraie politique de soutien aux structures existantes dans les territoires. Il ne peut s’agir d’un simple label. Il faut apporter un soutien réel aux structures qui existent et qui peinent, notamment aux centres de santé associatifs, qui, n’étant pas soutenus par des collectivités territoriales, parviennent difficilement à équilibrer leur budget. Il faut aussi pouvoir en ouvrir de nouvelles dans les territoires les plus désertifiés.<br/>On ne peut se satisfaire d’un label donné à une pharmacie équipée d’une cabine de téléconsultation. J’entends que certains territoires ont des besoins criants, mais il ne s’agit pas d’une offre de soins de proximité : une telle consultation ne remplace pas un suivi médical. Une véritable politique de création de structures d’exercice coordonné est nécessaire.<br/>Pour finir, nous n’avons pas été consultés. Nous nous sommes permis d’envoyer une note aux différents cabinets ministériels compétents.</texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Frédéric Villebrun" id_acteur="PA-126209" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815929" ordre_absolu_seance="104" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="-1" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="3944216" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>719024</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3546.98">La parole est à M. Frédéric Villebrun.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815929" ordre_absolu_seance="105" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944215" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Frédéric Villebrun</nom>
+              <id>-126209</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3582.59">Nous avons encore trop peu de centres de santé au sein des CPTS. Parfois, les CPTS refusent l’intégration des centres de santé, voire de leurs salariés – ce qui constitue un autre problème.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815930" ordre_absolu_seance="106" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944180" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3596.64">La parole est à Mme Claire Marais-Beuil.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815931" ordre_absolu_seance="107" id_acteur="PA841563" id_mandat="PM843134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944181" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Claire Marais-Beuil (RN)</nom>
+            <id>841563</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3604.74">Madame Artru, je reprends une de vos phrases : comment faire plus avec moins ? Vous parliez des finances. Pour ma part, je parlerai de la santé : comment faire plus avec moins de médecins ? Il y avait auparavant un maillage de tous les territoires, en particulier des territoires ruraux, avec en moyenne un ou deux médecins à proximité de chaque petit village. Ce n’est plus le cas aujourd’hui, du fait des départs en retraite et des regroupements dans les maisons de santé.<br/>J’ai, dans une vie antérieure, exercé en médecine générale. J’ai moi aussi eu l’ambition de m’installer en cabinet de groupe, ce qui est toujours plus agréable et permet de partir en vacances ou de s’occuper de ses enfants. Ces cabinets de groupe ne comptaient alors que deux ou trois médecins. Mais, comme l’a très bien dit mon collègue Julien Odoul tout à l’heure, les maisons médicales, dans leur manière d’opérer des regroupements, ont déshabillé Pierre pour habiller Paul. La mobilité n’a tout simplement pas suivi. Beaucoup de gens se sont donc retrouvés sans médecin. S’il existe une maison médicale, elle se trouve bien plus loin et il faut avoir les moyens de s’y rendre, ce qui devient un problème pour certains.<br/>Dès lors, que dire de l’implantation de ces structures que sont les maisons de santé ? Elles sont déjà assez grosses puisque, pour regrouper des médecins, elles ont déshabillé les territoires alentour. En outre, elles emploient des médecins salariés, alors qu’auparavant, un médecin en libéral travaillait jusqu’à 70 heures par semaine. Nous avons donc moins de médecins et les médecins travaillent moins. Je vous retourne donc votre question : comment allons-nous faire plus avec moins ? Que nous apportent les centres de santé que nous n’avions pas déjà auparavant ? Quelles sont les solutions ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815934" ordre_absolu_seance="110" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944184" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3726.94">La parole est à Mme Laure Artru.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815935" ordre_absolu_seance="111" id_acteur="PA-126199" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944185" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Artru</nom>
+            <id>-126199</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3728.86">Comment faire plus avec moins de médecins ? La réponse est simple : le transfert de compétences et la délégation de tâches. Un jeune médecin peut par exemple travailler dans quatre bureaux avec une IPA et un interne.<br/>Je laisserai mes collègues s’exprimer sur les centres de santé. Selon moi, on ne peut éviter que les jeunes médecins aient envie de travailler au sein de structures plus importantes. Mais il faut tout autant accepter qu’un médecin travaille seul s’il en a envie – même si c’est désormais bien difficile. Il faut laisser les médecins choisir l’exercice libéral ou salarié. N’oublions pas qu’il est possible à un médecin comme à une IPA de travailler en libéral dans un centre de santé. C’est un point très important.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815936" ordre_absolu_seance="113" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944348" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Sansu</nom>
+            <id>605745</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3747.43">Exactement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815937" ordre_absolu_seance="114" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944187" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3776.72">La parole est à Mme Jeanne Villeneuve.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815938" ordre_absolu_seance="115" id_acteur="PA-126219" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944188" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Jeanne Villeneuve</nom>
+            <id>-126219</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3781.84">Plusieurs exemples montrent les bénéfices apportés par la création des centres de santé. En Saône-et-Loire, un ancien désert médical, la création de sept centres de santé départementaux depuis 2018 et le recrutement de soixante-quatorze médecins et de trente-sept autres professionnels – puisque le travail s’y effectue en pluriprofessionnalité – permettent désormais le suivi de plus de 40 000 patients qui ont déclaré un médecin traitant. Le département du Nord a mené la même politique : les quatre centres de santé créés en à peine deux ans, depuis janvier 2024, suivent plus de 7 800 patients. Voilà en quoi consiste notre proposition : monter, dans les territoires, des structures d’exercice collectif de la médecine.<br/>La pluriprofessionnalité évoquée par Mme Artru est primordiale. Nous avons effectivement moins de médecins, mais certains pays qui sont dans la même situation y arrivent ! Il suffit de travailler à la délégation de compétences, encore trop rare en France. Par exemple, un patient au diabète bien équilibré n’a pas besoin de voir un médecin tous les trois mois ; il peut n’en voir un que tous les six mois ou tous les ans s’il reçoit les visites d’une IPA formée. C’est vers ce modèle que nous devons tendre. Nous n’avons de toute manière pas de médecins : ils ne seront là que dans dix ans !<br/>Il est donc nécessaire de réfléchir à l’adjonction d’autres compétences. Les centres de santé offrent un cadre rassurant pour l’exercice coordonné – les professionnels de santé peuvent travailler en toute sécurité puisqu’un médecin est toujours présent pour superviser – et fonctionnent, comme l’attestent les exemples que j’ai donnés.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815941" ordre_absolu_seance="118" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944191" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3883.61">La parole est à Mme Chantal Jourdan.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815942" ordre_absolu_seance="119" id_acteur="PA643192" id_mandat="PM843152" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944192" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Chantal Jourdan (SOC)</nom>
+            <id>643192</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3889.86">Merci au groupe Écologiste et social d’avoir organisé ce débat et à vous d’être intervenus. Vous avez beaucoup parlé de pluridisciplinarité, de délégation de tâches, de coordination, ce qui conduit à évoquer la question très importante de la qualité des soins. Selon vous, comment notre système de soins pourrait-il devenir plus lisible ? Comment pourrait-il s’organiser pour améliorer la prise en charge de la population ? La gradation des soins fait-elle partie de vos réflexions pour l’activité des centres de santé ? Quel rôle peuvent jouer les infirmiers ? Comment s’articulent les interventions entre les différents professionnels de santé ? Enfin, quel rôle pourraient jouer des institutions comme les CPTS dans l’amélioration de la qualité des soins et de leur accessibilité à toutes et tous ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815943" ordre_absolu_seance="120" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944193" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3972.51">La parole est à M. Frédéric Villebrun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815944" ordre_absolu_seance="121" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944194" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Villebrun</nom>
+            <id>-126209</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3977.51">Une étude de la direction de la recherche, des études, de l’évaluation et des statistiques (Drees), publiée il y a quelque temps mais passée sous silence, a bien montré que la création des centres de santé avait ralenti la désertification médicale et les difficultés d’accès à un médecin traitant. En somme, sans les centres de santé, la situation serait encore pire !<br/>La qualité et la sécurité des soins sont essentielles. De ce point de vue, les centres de santé sont bien plus surveillés que d’autres structures. La loi visant à améliorer l’encadrement des centres de santé, dite loi Khattabi, a d’ailleurs permis de fermer certains centres déviants, ou du moins d’engager le retrait de leur agrément.<br/>Les centres de santé représentent une sécurité pour les professionnels de santé dans l’exercice de leur métier, puisque la pluriprofessionnalité – la présence d’un gestionnaire, d’une direction et d’une coordination médicales – permet d’améliorer la pertinence des soins et d’éviter leur surconsommation. Les études préliminaires montrent que les dépenses de santé sont moindres en cas de prise en charge dans un centre de santé plutôt que dans le secteur libéral. Cette analyse mérite d’être approfondie, mais c’est un point important du point de vue de l’effort global de la nation : la création de centres de santé publics ou à vocation de service public améliorerait aussi les finances de la sécurité sociale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815948" ordre_absolu_seance="124" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944198" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4030.47">La parole est à M. Nicolas Sansu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815949" ordre_absolu_seance="125" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944199" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Sansu (GDR)</nom>
+            <id>605745</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4108.69">Je souligne que les centres de santé – qui ne sont pas des MSP – sont une des réponses aux difficultés d’accès aux soins. En effet, l’exercice regroupé de la médecine permet de gagner du temps médical – et c’est tout l’enjeu – par la délégation de tâches, par une organisation différente des actes administratifs et par le travail en commun d’une équipe pluridisciplinaire.<br/>Je l’ai expérimenté avec bonheur dans le centre de santé que nous avons créé en 2018 à Vierzon, où travaillent désormais sept médecins généralistes, un psychiatre, un gynécologue, un orthophoniste, deux kinésithérapeutes, deux dentistes et une IPA. Cette structure facilite la délégation de tâches, le travail pluridisciplinaire et la prévention, notamment sur le diabète. J’insiste donc sur la pertinence du modèle du centre de santé, quel que soit son mode de gestion.<br/>Ma première question porte sur le réseau France Santé, avant que nous en discutions, dans la seconde phase du débat, avec la ministre de la santé. Sa constitution ne peut se limiter à la labellisation de cabines de téléconsultation ou de centres de santé existants – quand bien même ils seraient merveilleux, comme chez moi. Comment créer un réseau à même d’assurer l’égalité territoriale et républicaine – j’y reviens – dans le cadre de la solidarité nationale ? Ce n’est pas aux collectivités locales de financer la santé, sinon cela créerait des inégalités.<br/>Ma deuxième question porte sur les centres de santé hospitaliers. Comment sortir ces centres de l’hôpital de sorte que les praticiens qui y exercent puissent être médecins traitants ? Les médecins affectés pourraient être des Padhue, une solution pour répondre aux difficultés actuelles.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815953" ordre_absolu_seance="129" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944203" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4238.82">La parole est à M. Frédéric Villebrun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815954" ordre_absolu_seance="130" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944204" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Villebrun</nom>
+            <id>-126209</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4249.34">Effectivement, comme nous l’avons affirmé dans nos propos liminaires, il ne faut pas que le réseau France Santé se résume à une simple labellisation. Nous avons besoin d’une création nette de structures pluriprofessionnelles. S’agissant du maillage territorial, on ne peut qu’être d’accord avec le principe selon lequel chaque Française et Français doit avoir accès à une offre de soins de proximité à moins de trente minutes.<br/>Reste la question de la compétence en matière de santé. Beaucoup d’élus locaux la refusent, mais l’État ne s’en empare pas réellement. Dans un rapport de 2017, le Conseil économique, social et environnemental (Cese) avait préconisé, là où il n’y avait plus aucune offre de soins, la création de centres de santé par l’État via les ARS. Huit ans plus tard, cela n’a pas été suivi d’effet.<br/>Qui s’empare de la création de ces structures médicales si ce ne sont pas les collectivités territoriales ? Celles-ci font déjà beaucoup, puisque plus d’une quinzaine de départements ont créé des centres de santé départementaux. Vous faites effectivement partie des élus locaux qui ont soutenu de telles initiatives. Si on retire à ces élus la légitimité et la possibilité de créer des centres de santé, qui les créera ? L’USPCS souhaite donc plutôt aider les collectivités à créer davantage de centres – mais telle n’est pas, apparemment, la position majoritaire au sein de l’AMF. Nous estimons que l’échelon territorial est le bon et que les collectivités sont de très bons vecteurs pour créer ces structures.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815957" ordre_absolu_seance="133" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944207" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4280.98">La parole est à Mme Jeanne Villeneuve.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815958" ordre_absolu_seance="134" id_acteur="PA-126219" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944208" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Jeanne Villeneuve</nom>
+            <id>-126219</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4306.85">En ce qui concerne les centres de santé hospitaliers, je donnerai un élément de réponse – ou plutôt de non-réponse. À un moment où le centre de santé que je dirige n’allait pas très bien, j’ai essayé de le faire reprendre par un hôpital, mais je n’ai pas réussi. Je n’ai donc pas de recette toute faite.<br/>En tout cas, plusieurs centres de santé portés par des hôpitaux fonctionnent bien. Il faut faire la promotion de ce modèle, comme des autres modèles de centres de santé, afin de les faire connaître. De ce point de vue, le modèle marseillais est très intéressant, puisqu’il repose sur une mutualisation des fonctions support des centres de santé. Cela permet à ces structures, dont le modèle économique est souvent très fragile, de tendre vers l’équilibre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815960" ordre_absolu_seance="136" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944210" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4365.79">La parole est à M. Frédéric Villebrun.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815961" ordre_absolu_seance="137" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944211" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Villebrun</nom>
+            <id>-126209</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4403.62">Les médecins de centres de santé hospitaliers peuvent être déclarés médecins traitants et assurer un réel suivi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815962" ordre_absolu_seance="138" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944212" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Sansu</nom>
+            <id>605745</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4410.48">Pas partout !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815963" ordre_absolu_seance="139" id_acteur="PA-126209" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944213" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Frédéric Villebrun</nom>
+            <id>-126209</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4416.46">Peut-être tous ne le font-ils pas, mais ceux que nous connaissons le font.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2815964" ordre_absolu_seance="140" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944214" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4425.14">Au nom de tous les députés ayant participé à ce débat, je remercie Mme Artru, M. Villebrun et Mme Villeneuve, nos intervenants, qui, je l’espère, ont apprécié l’exercice. Avant de passer à la seconde partie du débat, je suspends brièvement la séance.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815904" ordre_absolu_seance="141" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3943552" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance, suspendue quelques instants, est immédiatement reprise.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815905" ordre_absolu_seance="142" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943553" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4626.43">La séance est reprise.<br/>La parole est à Mme la ministre de la santé, des familles, de l’autonomie et des personnes handicapées.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815907" ordre_absolu_seance="144" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943555" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre de la santé, des familles, de l’autonomie et des personnes handicapées</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4644.18">Je vous remercie sincèrement d’avoir inscrit ce débat à l’ordre du jour de votre semaine de contrôle, car la lutte contre les déserts médicaux n’est pas un sujet partisan : c’est un sujet qui, par nature, nous oblige et nous rassemble.<br/>En effet, trop de nos concitoyens affrontent avec angoisse les difficultés à se soigner, trop de nos concitoyens renoncent aux soins et trop de professionnels de santé subissent eux aussi cette situation qui, on le sait, est liée à la fois à une démographie médicale trop faible et à des besoins de santé croissants. Pour y répondre, vous proposez comme « antidote », pour reprendre le terme que vous employez, le déploiement de centres de santé pluriprofessionnels.<br/>Je sais votre attachement, partagé avec beaucoup de parlementaires et de collectivités locales, à ce modèle. De fait, les 2 500 centres de santé que compte notre pays, dont près de 700 sont pluriprofessionnels, sont des modèles vertueux de prise en charge. Vertueux, ils le sont parce qu’ils accueillent une patientèle souvent plus fragile, plus éloignée du système de soins traditionnel ; ils le sont aussi parce qu’ils garantissent un accès financier plus équitable grâce au tiers payant obligatoire et à l’absence de dépassements d’honoraires. Ils incarnent par essence l’exercice pluriprofessionnel, qui permet une vision globale du patient ; à ce titre, ils sont le terreau d’innovations utiles, par exemple les expérimentations introduites par l’article 51 de la loi de financement de sécurité sociale de 2018 et notamment le modèle Peps. Enfin, je sais qu’ils répondent aux aspirations de nombreux jeunes médecins qui refusent de choisir entre l’hôpital et le libéral.<br/>Pour ces raisons, ils sont des acteurs incontournables de la médecine de ville et un des leviers d’une politique volontariste en faveur de l’accès aux soins. C’est une offre importante, complémentaire aux autres, mais ce ne peut pas être l’alpha et l’oméga d’une politique d’accès aux soins, et ce pour deux raisons. La première tient à leur implantation. Le rapport de l’Igas nous le dit : les centres de santé sont à 96 % situés en zone urbaine. Je ne nie pas les difficultés d’accès aux soins dans les métropoles ; il suffit, pour s’en convaincre, de faire quelques minutes de métro et de franchir le périphérique parisien. Mais au vu de ce chiffre, on ne peut pas en faire l’antidote universel contre les déserts médicaux, en particulier dans les territoires les plus ruraux.<br/>La deuxième raison est liée à l’accès à un médecin traitant et à la prise en charge de la file active de patients. Le même rapport de l’Igas le souligne : les généralistes ayant leur cabinet au sein d’un centre de santé y sont moins nombreux à exercer comme médecins traitants et ils y suivent une patientèle plus réduite – 689 patients en centre de santé contre 1 120 en libéral. C’est donc un fait : nous devons diversifier nos réponses.<br/>J’ajoute que certains centres de santé pluriprofessionnels rencontrent des difficultés à disposer d’un modèle économique et financier stable. C’est pour cette raison que mon ministère a sollicité l’Igas pour objectiver leur situation économique, financière et organisationnelle, et c’est dans ce même esprit que nous avons engagé, avec l’assurance maladie, un travail approfondi au cours des négociations conventionnelles du premier semestre 2025.<br/>Un nouvel accord a été signé le 28 août ; il représente un investissement supplémentaire de 30 millions d’euros en 2026. Cet accord vise trois objectifs clairs : soutenir le développement territorial des centres de santé ; renforcer le travail en équipe ; valoriser les missions de santé publique et la prise en charge des publics vulnérables. L’an prochain, des groupes de travail s’attelleront, en concertation avec l’assurance maladie, aux rémunérations alternatives, à la valorisation des indicateurs de prévention et à la construction d’un contrat d’initiative territoriale.<br/>Nous soutenons donc bien le développement des centres de santé, mais je le répète : depuis 2017, le gouvernement n’a pas trouvé un remède miracle qui dissiperait en un instant les déserts médicaux. Ce n’est pas ainsi que les choses fonctionnent ! Nous avons choisi d’activer un ensemble de leviers, les uns complétant les autres, parce que oui, la réalité est complexe et les territoires ne sont pas tous les mêmes.<br/>Mais face aux attentes que j’évoquais en introduction, il faut aller plus loin et plus vite. C’est pour cette raison que le premier ministre a annoncé le lancement de France Santé. L’objectif est très clair : nous voulons que chaque Français, où qu’il vive, puisse trouver, à moins de trente minutes, un accompagnement immédiat dans son parcours de santé et obtenir un rendez-vous médical dans les quarante-huit heures lorsque son état l’exige. Les centres de santé seront pleinement intégrés à cette labellisation qui permettra de rendre l’offre de soins plus visible, plus lisible et plus intelligible pour nos concitoyens, de renforcer les lieux de soins déjà existants pour leur permettre de prendre en charge plus de patients, et enfin de créer une nouvelle offre de soins dans les lieux où il n’y en a plus.<br/>Avant de répondre à vos questions, je veux vous redire mon attachement aux centres de santé. Eu égard à l’intitulé de votre débat, je tiens aussi à rappeler que face aux déserts médicaux, aucune solution unique ne suffira. C’est l’intelligence collective, la pluralité et la complémentarité des modèles, ainsi que l’adaptation aux territoires et aux publics, qui feront la différence.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815917" ordre_absolu_seance="154" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943565" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4951.57">Nous en venons aux questions des députés.<br/> La parole est à M. Jean-Claude Raux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815918" ordre_absolu_seance="155" id_acteur="PA794154" id_mandat="PM842918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943566" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Claude Raux (EcoS)</nom>
+            <id>794154</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4969.07">À l’heure actuelle, 87 % de notre territoire est un désert médical ; au moins 6,5 millions de Françaises et de Français n’ont plus de médecin traitant et, depuis 2010, si la densité médicale est en hausse dans trente et un départements, elle est en baisse dans soixante-neuf autres. En 2024, les dépassements d’honoraires ont représenté au total un peu plus de 4 milliards d’euros. Ce constat, nous le connaissons toutes et tous, mais les réponses politiques que nous proposons diffèrent.<br/>Le pacte de lutte contre les déserts médicaux de François Bayrou n’aura, je le crains, servi à rien. La mission de solidarité obligatoire des médecins n’a été ni obligatoire – elle s’est faite sur la base du volontariat – ni solidaire – elle a fait l’objet d’incitations financières – et nous pouvons le dire, ce pacte était un écran de fumée ; en tout état de cause, ce n’était pas un remède miracle.<br/>Après le pacte de François Bayrou vient le label de Sébastien Lecornu : à chaque premier ministre son pansement. Soyons vigilants pour que France Santé ne soit pas qu’un autocollant apposé sur la façade d’un centre ou d’une maison de santé déjà existants et pour que l’argent public soit employé au mieux, avec discernement, au profit des territoires sous-dotés. Si je me permets cette remarque, c’est parce qu’un rapport de la Cour des comptes montre que les aides à l’installation ont été accaparées par un faible nombre de médecins libéraux et que leur efficacité est loin d’être prouvée.<br/>Dans le même temps, l’équilibre économique des centres de santé pluriprofessionnels est plus que fragile – vous l’avez rappelé, madame la ministre, et leur déficit médian est de 10 % –, alors qu’ils accueillent tous les publics, y compris les plus vulnérables, sans dépassements d’honoraires. Les intervenants nous disaient tout à l’heure que plusieurs ministres travaillaient avec intérêt sur ce sujet mais qu’il manquait une impulsion politique. Madame la ministre, serez-vous celle qui engagera cette dynamique ? Plusieurs demandes ont été formulées récemment, telles que l’augmentation de la subvention Teulade, la réforme de la taxe sur les salaires et la perspective d’une rémunération forfaitaire des soins – la fameuse capitation qui est en cours de discussion et qui a été expérimentée dans le cadre des Peps 1 et 2.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815922" ordre_absolu_seance="159" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943570" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5089.00">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815923" ordre_absolu_seance="160" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943571" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5172.23">Vous m’interrogez en réalité à la fois sur le financement des établissements concernés, en l’occurrence les centres de santé pluriprofessionnels, et sur la rémunération des professionnels qui y exercent. J’ai pu m’exprimer à plusieurs reprises sur le sujet du financement, notamment lors de nos débats en première lecture du PLFSS, mais aussi au Sénat, jusque tard hier soir.<br/>Comme je l’ai dit dans mon propos liminaire, je suis convaincue que nous avons besoin de l’ensemble des dispositifs existants : centres de santé, maisons de santé, secteur 1, secteur 2, exercice libéral comme salarié. Cela posé, il faut ensuite répondre aux besoins. Vous l’avez dit, les centres de santé, surtout ceux qui sont pluriprofessionnels, répondent à des besoins spécifiques ; ils doivent donc bénéficier d’aides financières, à l’image de celles proposées lors des négociations du mois d’août.<br/>Les financements doivent être adaptés aux besoins, mais il faut aller plus loin. Dans les mois qui viennent, il faudrait que nous puissions débattre du financement global de notre système de santé ; d’ici là, nous devrons aussi réfléchir à faire évoluer les modes de rémunération des professionnels dans le sens d’une même adaptation aux besoins. Cela suppose des modes de rémunération convergents, que l’on soit libéral ou salarié : une part fondée sur les besoins de santé, une part à l’acte pour certains soins et une part associée à une mission de service public.<br/>Ces trois dimensions peuvent s’appliquer aussi bien en salarié, dans un centre de santé, qu’en libéral, dans une maison pluriprofessionnelle ou en pratique individuelle. Une telle convergence permettra aux professionnels de passer d’un mode d’exercice à l’autre au cours d’une même semaine, par exemple de l’hôpital au cabinet libéral.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815927" ordre_absolu_seance="164" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943575" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5222.14">La parole est à M. Nicolas Sansu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2815928" ordre_absolu_seance="165" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943576" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Sansu (GDR)</nom>
+            <id>605745</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5323.00">La création des maisons France Santé pose une difficulté : une simple labellisation ne suffit pas. Dans ce nouveau cadre, allons-nous voir se développer un véritable réseau de service public territorial de santé ? C’est notre unique question ! Nous sommes tous deux élus d’une région, madame la ministre, particulièrement affectée par la désertification médicale – et sans doute mon territoire l’est-il encore plus que le vôtre ; or il est impératif que nous assurions l’accès aux soins de tous nos concitoyens. C’est un droit quasi constitutionnel et l’État est en train de faillir sur ce sujet : c’est dramatique, d’autant plus que le fossé se creuse entre les départements les moins dotés et les mieux dotés. Nous ne pouvons pas accepter cela.<br/>Par ailleurs, je suis d’accord avec ce que vous nous dites sur le forfait ou l’acte. Le centre de santé qui a été créé à mon initiative à Vierzon est précisément construit sur ce schéma d’un GIP qui autorise la double tarification.<br/>Comment comptez-vous faire jouer la solidarité nationale pour assurer l’égalité républicaine ? Les collectivités territoriales n’ont pas à payer les déficits des centres de santé ou des maisons de santé, auxquels il arrive que les collectivités apportent un soutien financier, notamment pour l’investissement, alors que le principe de solidarité nationale, sur lequel est fondée l’assurance maladie, impose que tout citoyen, qu’il habite à Dunkerque, à Martigues, à Vierzon ou à Orléans, bénéficie du même service.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816183" ordre_absolu_seance="168" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943686" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5442.60">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816184" ordre_absolu_seance="169" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943687" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5446.70">Merci d’évoquer Orléans, monsieur le député, cela me donne l’impression d’être un peu chez moi, ce soir.<italique> (Sourires.)</italique><br/>Vous posez plusieurs questions et je vais essayer d’y répondre avec concision. Commençons par France Santé, dont vous vous demandez s’il s’agit d’un label ou d’un réseau public. France Santé, c’est beaucoup plus que cela ! C’est tout d’abord un outil qui rend visibles les organisations mises en place pour permettre d’accéder aux soins. Le centre de santé de Vierzon, que vous avez cité, pourrait par exemple être labellisé maison France Santé, puisqu’il répond à cette demande d’accès aux soins. Les gens qui viennent d’arriver à Vierzon et ne connaissent pas encore bien la ville pourront ainsi immédiatement identifier les portes auxquelles ils devront frapper pour se faire soigner. C’est une information qu’il me semble important de délivrer aux gens. Ce premier objectif de visibilité n’est pas si anodin qu’il y paraît.<br/>Ensuite, cet outil permettra de renforcer les structures existantes. Si on finance au sein de votre centre de santé une infirmière en pratique avancée, une secrétaire, il pourra se développer encore davantage.<br/>Enfin, dans les secteurs où aucune profession médicale n’est installée, le financement que nous proposons, en permettant par exemple de doter une pharmacie d’une cabine de téléconsultation assistée, en collaboration avec un infirmier, permettra de créer les conditions d’un développement des offres d’accès aux soins à partir de ce noyau.<br/>Je crois sincèrement à ce dispositif France Santé, qui est à la main des professionnels et des territoires.<br/>Pour ce qui concerne le financement par les collectivités, nous connaissons tous l’importance de l’engagement financier des communes, des départements, des régions, des établissements publics de coopération intercommunale (EPCI) dans les murs des maisons de santé, les transports, les logements des étudiants – c’est particulièrement vrai pour notre région, monsieur le député, car elle a dû, afin de compenser une démographie médicale en grande difficulté, innover pour résister.<br/>Les collectivités, j’en suis convaincue, ont un rôle à jouer dans le financement des établissements, quitte à faire évoluer celui-ci.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816191" ordre_absolu_seance="176" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943694" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5537.21">La parole est à M. Mickaël Cosson.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816192" ordre_absolu_seance="177" id_acteur="PA793520" id_mandat="PM842582" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943695" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Mickaël Cosson (Dem)</nom>
+            <id>793520</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5593.35">Le parcours médical est au cœur des préoccupations de nos concitoyens, tout comme le parcours résidentiel, et il importe de remettre au centre du dispositif, non pas les professionnels qui seront chargés d’administrer les soins, mais bel et bien l’usager.<br/>Or ce parcours médical est devenu chaotique pour nombre d’usagers contraints de subir des délais d’attente inacceptables ou de parcourir de longues distances avant d’obtenir un rendez-vous avec un spécialiste. Le dispositif des maisons France Santé est une bonne initiative et pourrait relancer la dynamique, mais encore faudrait-il placer l’usager au centre du dispositif pour mettre fin à une situation insupportable pour lui.<br/>Je crains cependant que nous n’ayons pas suffisamment exploité certains outils que nous connaissons depuis l’école primaire, comme la pyramide des âges ou l’évolution de la société, qui pourraient nous permettre d’anticiper les problèmes.<br/>Enfin, quand sera-t-il possible d’imposer un parcours médical afin de prévenir la survenue de maladies qui engendrent des soins coûteux ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816196" ordre_absolu_seance="181" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943699" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5726.14">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816197" ordre_absolu_seance="182" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943700" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5729.64">Vous posez la question essentielle de la place de l’usager dans le système. Le DMP – dossier médical partagé – fut une première réponse. J’espère que vous avez tous installé Mon espace santé sur votre téléphone, car c’est un outil très utile, placé entre les mains de l’usager. Lorsque Agnès Buzyn et moi l’avons créé en 2018, nous avions bien conscience du changement de paradigme que nous opérions, puisque les données de santé n’allaient plus être gérées par le professionnel de santé mais par l’usager lui-même.<br/>Concernant le parcours médical, qui peut s’avérer chaotique, c’est précisément pour répondre à cette situation que nous avons fait évoluer ces dernières années la pratique des professionnels de santé qui ne sont pas des médecins. Je pense aux infirmiers en pratique avancée ou aux infirmiers de coordination, qui occupent une place centrale dans ces parcours, notamment dans les maisons ou les centres de santé, mais aussi dans le cadre de l’expérimentation de nouveaux dispositifs, qui donnent l’occasion de tester de nouveaux modes de financement.<br/>À présent que ces parcours ont été expérimentés en différents points du territoire, j’aimerais qu’ils soient généralisés pour offrir les mêmes chances à tous nos concitoyens.<br/>La question de l’accès à un spécialiste est cruciale. Ces dernières années, nous avons trouvé des pistes pour faciliter l’accès à un généraliste, mais nous n’avons pas encore réussi à résoudre le problème de l’accès à un spécialiste. Nous avons pris plusieurs mesures, qu’il faudra développer, en particulier celle des équipes de soins spécialisés. Celles-ci permettent de rassembler autour d’un projet les spécialistes présents dans un territoire. Ces équipes peuvent d’ailleurs faire partie de France Santé si elles le souhaitent.<br/>La télé-expertise et la téléassistance pourraient également constituer le moyen de réduire ces délais – je ne peux hélas pas développer, car mon temps de réponse est limité.<br/>Quant à la prévention, je vous renvoie à une disposition du projet de loi de financement de la sécurité sociale qui tend à prendre en charge les soins des malades avant qu’ils ne soient placés en ALD – affection de longue durée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816203" ordre_absolu_seance="188" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943706" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5777.83">La parole est à Mme Claire Marais-Beuil.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816204" ordre_absolu_seance="189" id_acteur="PA841563" id_mandat="PM843134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943707" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Claire Marais-Beuil (RN)</nom>
+            <id>841563</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5788.98">Je suis d’accord avec vous, madame la ministre, sur le fait que les médecins, autrefois répartis dans l’ensemble d’un territoire, se sont regroupés dans des centres de santé ou des maisons médicales, généralement installés dans des centres-bourgs, ce qui a fait des territoires ruraux de véritables déserts médicaux. Comment comptez-vous faire pour que les maisons France Santé tiennent leurs promesses alors qu’il n’y a plus de maillage territorial ? Comment sera-t-il possible de garantir une offre de soins de proximité à moins de trente minutes et sous quarante-huit heures ? Sur mon secteur, par exemple, je ne vois pas quelle solution vous pourriez trouver à moins d’une heure et demie. Les médecins sont saturés et il me paraît difficile de leur demander de travailler encore davantage quand on sait que ceux encore présents en milieu rural travaillent déjà 70 heures par semaine ! Si on accueille moins de patients dans les centres de santé, c’est tout simplement parce que les médecins y assurent moins d’heures.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816205" ordre_absolu_seance="190" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943708" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5987.92">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816206" ordre_absolu_seance="191" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943709" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6051.49">Vous avez raison de soulever ce problème, madame la députée. Il peut être angoissant et compliqué de vivre éloigné d’une offre de soins. France Santé est l’outil qui permettra de trouver des solutions dans les secteurs dépourvus d’offre médicale. L’idée n’est pas d’imposer des mesures, mais de proposer des pistes.<br/>Par exemple, s’il reste une pharmacie et une infirmière dans un secteur déserté par les médecins, il est possible d’envisager une collaboration entre ces deux professionnels pour installer au sein de la pharmacie une cabine de téléconsultation dans laquelle le malade serait accompagné par l’infirmière, lui offrant ainsi la possibilité d’accéder à une offre de soins dans les quarante-huit heures. Il faut ensuite espérer que, progressivement, des médecins seront tentés de venir s’installer autour de ce noyau constitué d’une pharmacie et d’une infirmière. Je ne dis pas qu’un dermatologue viendra forcément s’installer, en tout cas dans les premiers temps, mais notre intention est de favoriser une dynamique propice à l’installation de médecins.<br/>Le numérique est un bon outil pour cela. Je le sais pour l’avoir expérimenté dans mon propre département, où les premières cabines de téléconsultation ont été installées. Nous offrons une première réponse médicale aux patients et nous pensons que c’est ensuite, progressivement, que les professionnels se regrouperont en réseau autour.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816208" ordre_absolu_seance="194" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943711" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6133.07">La parole est à Mme Ersilia Soudais.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2816209" ordre_absolu_seance="195" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943712" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais (LFI-NFP)</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6143.72">Vous avez dit, madame la ministre, que la lutte contre les déserts médicaux n’était pas un sujet partisan. Vous mentez. Certes, vous me répondrez qu’une loi transpartisane a été votée à l’Assemblée nationale, mais sachez qu’elle est boudée par le Sénat, lequel est dominé, je vous le donne en mille, par la droite.<br/>Vous me direz encore que le gouvernement s’est engagé à honorer un pacte pour lutter contre les déserts médicaux ; peut-être, mais, dans les faits, les gouvernements successifs se sont illustrés par une réduction continue des dépenses.<br/>Vous vous abriterez, en vertu de ce fameux pacte gouvernemental, derrière la solidarité territoriale pour ne pas dépenser davantage mais, comme l’a souligné Laure Artru, ce n’est pas par la solidarité territoriale que des réponses pourront être trouvées à la problématique des soins primaires.<br/>La cartographie des zones prioritaires est d’ailleurs établie selon une méthodologie plus que douteuse, puisque la Seine-et-Marne n’y figure pas, alors qu’elle fait partie des départements les plus touchés par la désertification médicale.<br/>Enfin, quand 87 % du territoire souffre de la désertification médicale, il est bien difficile de faire jouer cette solidarité. La solidarité entre pauvres a ses limites !<br/>Bien sûr, et vous y avez pensé, il reste toujours la possibilité d’exploiter les médecins – c’est ce que vous faites avec les Padhue. Mais là encore, il y a eu un souci car le GHEF, le Grand Hôpital de l’Est francilien, pour combler le manque de médecins, avait décidé d’instaurer une prime différentielle, laquelle a été jugée non réglementaire et a dû être remboursée par les médecins – jusqu’à 100 000 euros pour certains d’entre eux !<br/>Arrêtons l’hypocrisie, madame la ministre, et posons-nous la bonne question : comment faire mieux avec moins ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816070" ordre_absolu_seance="202" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943813" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6192.51">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816071" ordre_absolu_seance="203" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943814" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6258.92">Vous posez une question importante, à laquelle je répondrai par un exemple concret : il y a cinq ans, dans mon département, il était impossible, même dans une métropole de 300 000 habitants, d’obtenir un rendez-vous médical sous quarante-huit heures – il n’y avait pas d’autre solution que de se rendre aux urgences. Les professionnels se sont rassemblés au sein de communautés professionnelles territoriales de santé ; ils ont organisé un accès aux soins non programmés permettant à des patients dépourvus de médecins traitants d’être reçus par un praticien sous quarante-huit heures. La coopération entre professionnels fait gagner du temps médical et améliore la prise en charge des patients, et c’est encore mieux lorsque des infirmiers en pratique avancée, des infirmiers de coordination et des assistants médicaux entrent dans le processus.<br/>Certes, la situation est difficile et nous ne pourrons faire apparaître des médecins en un claquement de doigts, mais je suis certaine d’une chose : l’obligation d’installation ou le déconventionnement des médecins – que vous avez évoqués – détruiraient tout ce que les professionnels sont en train de bâtir et compliqueraient davantage l’accès aux soins. Pour ma part, je crois beaucoup dans la coopération entre professionnels.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816073" ordre_absolu_seance="205" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943816" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6381.31">La parole est à Mme Chantal Jourdan.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816074" ordre_absolu_seance="206" id_acteur="PA643192" id_mandat="PM843152" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943817" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Chantal Jourdan (SOC)</nom>
+            <id>643192</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6392.47">Je souhaite revenir sur le rôle du réseau France Santé, car nous avons du mal à le cerner avec précision. Si nous comprenons que ce réseau peut favoriser la coordination – ce qui est une bonne chose –, nous sommes interpellés par les CPTS qui craignent de perdre la fonction d’aide à l’accès aux soins qu’elles exercent actuellement, dans la mesure où vous semblez vouloir confier à France Santé le soin d’adapter l’offre de soins dans les territoires. Pouvez-vous nous apporter des précisions sur ce sujet ?<br/>Deuxième question : à propos des difficultés économiques des centres de santé, vous avez évoqué de nouvelles formes de financement – financements forfaitaires, rémunérations alternatives. Pouvez-vous nous en dire davantage ? Une réforme des financements permettrait-elle de renforcer le maillage des centres de santé ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816076" ordre_absolu_seance="208" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943819" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6480.42">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816077" ordre_absolu_seance="209" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943820" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6488.29">Il nous semblait logique d’inclure les CPTS dans le réseau France Santé, étant observé que ce réseau n’est pas un nouveau dispositif, mais la labellisation de ce qui existe déjà. France Santé ne prend donc pas la place des CPTS. C’est une sorte de chapeau devant servir à améliorer la lisibilité de l’offre de soins pour nos concitoyens et à la renforcer avec une dotation moyenne de 50 000 euros : on essaie de créer quelque chose là où il n’y a rien.<br/>Notre projet de PLFSS comportait un article prévoyant de changer le nom des CPTS en « communautés France Santé », mais s’il faut retirer cette disposition au cours du débat législatif, nous le ferons sans difficulté. Seules les maisons de santé qui le souhaitent seront labellisées France Santé ; toutes ne le seront pas. Le label est une possibilité offerte aux acteurs des territoires, professionnels et élus, en association avec chaque département, de rendre visible un lieu et de bénéficier pour cela d’un petit financement. Ce financement peut, par exemple, aider à l’installation d’une infirmière référente en santé mentale. Vous savez que, dans le cadre de la grande cause nationale 2025 en faveur de la santé mentale, nous essayons de développer ce rôle – avec des résultats mitigés pour le moment, mais le financement que nous proposons pourrait justement donner un coup de pouce au dispositif.<br/>Vous m’interrogez sur le financement forfaitaire : je crois à la souplesse des dispositifs. J’aimerais une réforme d’ampleur qui aille vers une convergence des modes de rémunération sans imposer la rémunération forfaitaire. Selon moi, chaque professionnel doit trouver le mode d’exercice qui lui convient et conserver la possibilité de passer d’un mode d’exercice à un autre, parce qu’on a le droit d’avoir envie de changer d’activité tout au long de sa carrière.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816080" ordre_absolu_seance="212" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943823" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6606.27">La parole est à Mme Catherine Hervieu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816081" ordre_absolu_seance="213" id_acteur="PA840947" id_mandat="PM842570" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943824" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Catherine Hervieu (EcoS)</nom>
+            <id>840947</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6675.52">Nous parlons beaucoup d’égalité territoriale pour l’accès à l’offre de soins : comment l’articuler avec les différences de prévalence des pathologies selon les territoires, liées aux contextes environnementaux qui leur sont propres ? Comment ce critère pourrait-il être appliqué en complément de celui du nombre de patients en déshérence de soins ?<br/>Les registres régionaux et nationaux peuvent aider à prendre en compte les différences territoriales en matière de prévalence des pathologies. À cet égard, je me félicite du vote en faveur de la création d’un registre national des cancers intervenu il y a quelques mois à l’Assemblée. C’est un bel outil de prévention.<br/>La prévalence du cancer étant très importante, disposer d’un accès aux soins le plus rapide possible en cas de symptômes, même dormants, est très important. Cette dimension est-elle prise en compte lors de la labellisation des centres France Santé ?<br/>Enfin, vous avez évoqué le rôle des infirmières référentes en santé mentale. Eu égard à la détérioration de la santé mentale qui touche toutes les générations et tous les territoires, cette réponse semble un peu en deçà des besoins en la matière, en dépit de l’intérêt qu’elle présente.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816085" ordre_absolu_seance="217" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943828" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6811.76">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816086" ordre_absolu_seance="218" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943829" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6817.46">Vous avez raison d’insister sur la prévalence de l’environnement dans les pathologies.<br/>Le décret d’application de la loi prévoyant la création d’un registre national des cancers est à l’étude à la Commission nationale de l’informatique et des libertés (Cnil).<br/>Votre question sur la santé mentale est vraiment importante. Nous connaissons tous ici les drames que vivent les familles et les chiffres qui révèlent l’ampleur des problèmes de santé mentale dans notre société. Le recours à des infirmières référentes ne constitue pas la seule mesure à avoir été prise. Je le dis d’autant plus facilement que ce sont mes prédécesseurs qui ont agi depuis plusieurs années, et particulièrement en 2025, année de la grande cause nationale consacrée à la santé mentale. En décembre, j’aurai l’occasion de dresser le bilan de cette grande cause pour déterminer comment poursuivre nos efforts.<br/>L’infirmière référente constitue l’un des éléments de la prise en charge. Des études internationales ont démontré ce dont je suis moi-même convaincue : la qualité de prise en charge des patients s’améliore quand les médecins travaillent avec d’autres professionnels – IPA, kinésithérapeutes, infirmières référentes. Cela est particulièrement vrai pour les maladies chroniques. Une infirmière référente de santé mentale va pouvoir coordonner des soins, être présente pour répondre à la demande des patients. Il faut à tout prix éviter qu’un patient, ou un usager selon le terme utilisé tout à l’heure, n’obtienne pas de réponse à sa demande. Les usagers ne veulent pas nécessairement voir un médecin, mais ils souhaitent que quelqu’un réponde aux questions qu’ils se posent. Par rapport à une infirmière, une IPA a suivi deux années d’études supplémentaires, dans le cadre universitaire. Elle dispose d’une formation, d’un diplôme, de compétences pour soigner et orienter le patient. Cela permet de gagner du temps et d’offrir une meilleure prise en charge. Personnellement, je crois beaucoup aux infirmières référentes en santé mentale pour répondre, coordonner et faire gagner du temps aux médecins.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816090" ordre_absolu_seance="222" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943833" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6829.90">La parole est à M. Éric Martineau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816091" ordre_absolu_seance="223" id_acteur="PA795100" id_mandat="PM843335" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943834" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Martineau (Dem)</nom>
+            <id>795100</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6993.77">Si les centres de santé sont censés pallier le manque de médecins, comment peuvent-ils fonctionner durablement sans médecins ? Faut-il rendre obligatoire la présence de médecins dans les zones sous-dotées pour que ces centres fonctionnent ? Si j’ai bien compris que la loi transpartisane que nous sommes plusieurs ici à défendre ne plaît pas à tous, je reste perplexe. Ce texte n’oblige pas les médecins à s’installer là où ils ne le veulent pas. Il donne seulement la possibilité aux ARS d’interdire à un médecin de s’installer dans un territoire trop doté. Ce n’est pas la même chose !<br/>Je salue la présence de Laure Artru en première partie de ce débat. Lorsqu’elle s’est rendue avec Guillaume Garot dans ma circonscription, la réunion que nous avions organisée sur la santé dans un petit village a rassemblé près de 300 personnes : l’accès aux soins soulève une véritable inquiétude parmi nos concitoyens.<br/>Sans réduire la question à mon cas personnel, je suis convaincu que mon père est décédé trop tôt parce qu’il n’avait pas de médecin traitant. S’il en avait eu un, il serait encore en vie. Est-il normal que nous ne disposions pas tous de la même chance d’accéder aux soins et de vivre ? Alors que mon père a payé ses impôts comme tout le monde et cotisé à la Mutualité sociale agricole (MSA), aujourd’hui il n’est plus là. Je ne dis pas que c’est la faute des médecins, mais les disparités sont flagrantes et ce n’est pas normal : député à Paris, je sais que je peux obtenir un rendez-vous dans l’heure chez un dentiste et qu’on m’accueillera avec le sourire même si j’arrive avec trois quarts d’heure de retard. Malgré les dépassements d’honoraires, je trouve cette situation profondément injuste – et je ne doute pas que ce soit le cas pour vous aussi. Je ne mets personne en accusation, mais je suis convaincu que nous devons changer les choses. D’autres professionnels de santé, les pharmaciens par exemple, n’ont pas le choix de s’installer où ils veulent.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816094" ordre_absolu_seance="226" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3943837" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7120.34">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2816095" ordre_absolu_seance="227" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3943838" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7123.16">Je vous remercie de votre question. Dans nos permanences, de nombreuses personnes nous demandent : « Qu’attendez-vous pour obliger les médecins à s’installer chez nous ? ». C’est une très bonne question, qu’il faut envisager avec beaucoup d’humilité.<br/>Vous l’avez dit, sur 87 % de notre territoire – peut-être même un peu plus, car ce chiffre date de deux ans – le nombre de médecins est globalement insuffisant pour assurer leur répartition homogène.<br/>Certes on peut toujours aller chercher des médecins dans des villes bien dotées, comme Bordeaux par exemple, mais un problème purement mathématique se posera de toute façon : le nombre de médecins traitants est insuffisant. Par conséquent, la régulation assurée au moyen d’une autorisation d’installation délivrée par l’ARS ne permettra pas de résoudre l’équation sur l’ensemble du territoire.<br/>Ensuite, pour avoir recours à la régulation, il faut être certain qu’il n’existe aucune autre solution. Je vous donne un exemple très concret. Si une interne, jeune étudiante en fin de cursus de médecine, décide de vivre à Bordeaux, on peut imaginer, au vu de la situation en centre-ville, que l’ARS lui demandera d’attendre qu’un médecin parte à la retraite.<br/>Or elle ne sera pas obligée de renoncer à son projet de vivre à Bordeaux, car plusieurs possibilités s’offrent à elle. Elle peut par exemple se rapprocher d’un médecin préretraité et lui proposer de lui racheter sa clientèle – comme cela se pratiquait il y a vingt ans. Elle peut également aller travailler à l’hôpital, où 15 000 postes sont disponibles, dans le secteur de l’industrie pharmaceutique ou encore à la sécurité sociale.<br/>Bref, si cette jeune femme a décidé de vivre à Bordeaux, vous ne parviendrez pas, malgré tous vos efforts, à l’en dissuader. Car, lorsqu’on est médecin – contrairement à bien d’autres métiers, par exemple celui de professeur –, on dispose d’une certaine liberté. Par conséquent, tous les dispositifs que l’on peut imaginer en matière de régulation se révèlent inefficaces. Et si notre interne décide de partir travailler dans l’industrie pharmaceutique, on aura définitivement perdu un médecin qui aurait pu venir renforcer l’offre d’accès aux soins.<br/>S’agissant des pharmacies, il faut savoir que des difficultés commencent à apparaître dans les déserts médicaux. En effet, les pharmaciens ont eux aussi été confrontés au problème du numerus clausus – même si, au départ, leur nombre était plus élevé. Et pourtant, ce secteur est très régulé.<br/>Tous ces exemples le prouvent : la régulation n’est pas la solution. Il n’empêche que nous devons redoubler d’efforts. Je suis convaincue que nous disposons d’autres moyens pour agir – même si certains professionnels se montrent réticents face à certaines évolutions. Il faudrait par exemple développer le travail avec des assistants médicaux ou avec des infirmières en pratique avancée, ainsi que le travail en coopération, car nous savons qu’en procédant ainsi la pratique médicale gagne en efficacité.<br/>Il est donc possible d’agir – y compris, si vous le souhaitez, en instaurant des contraintes –, mais en ayant recours à d’autres leviers que la régulation, car celle-ci est inefficace.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816268" ordre_absolu_seance="236" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944089" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7245.07">La parole est à M. Elie Califer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816269" ordre_absolu_seance="237" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944090" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Elie Califer (SOC)</nom>
+            <id>795762</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7340.61">Vous nous expliquez que la régulation est inefficace et que les centres de santé ne constituent pas la solution unique.<br/>Dans les territoires ultramarins – que vous connaissez –, en l’absence de médecins, comment faire fonctionner les centres de santé ?<br/>Aux difficultés rencontrées partout en France s’ajoutent celles liées aux Padhue affectés en outre-mer. Certains ne parviennent pas à obtenir de visa et se retrouvent loin de leurs proches parce que leur demande de regroupement familial a été rejetée. En outre, comment les garder étant donné que les épreuves de vérification des connaissances ne sont presque jamais programmées ?<br/>Comment comptez-vous assurer l’égalité républicaine, l’accès universel aux soins et surtout la permanence des soins dans nos territoires ? Les rares médecins que nous pourrions accueillir formulent des demandes, en matière de renforcement de l’attractivité, auxquelles nous ne pouvons pas faire face. Quelle est la solution ?<br/>Comment envisagez-vous la situation des territoires ultramarins, avec leurs spécificités ? Ils méritent une réponse en matière d’accès aux soins, car ils font partie du territoire national. Vous avez fixé comme objectif un rendez-vous médical dans les quarante-huit heures, à moins de trente minutes du domicile du patient. Or, dans nos territoires, il faut attendre jusqu’à quatre mois pour obtenir un rendez-vous. Il convient donc de réfléchir, hors de toute idéologie, à cette situation de blocage et y mettre fin pour que tous les usagers de la santé bénéficient d’une prise en charge.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816274" ordre_absolu_seance="242" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944095" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7435.67">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816275" ordre_absolu_seance="243" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944096" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7452.23">Tout d’abord, il n’est pas possible de donner une seule réponse pour l’ensemble des territoires ultramarins. Ils sont tous différents, chacun présentant des spécificités. Je m’en tiendrai donc à de grands principes.<br/>Premièrement, je rappelle que l’intégration des Padhue a augmenté de 40 %. J’ai d’ailleurs veillé, au moment de prendre mes fonctions, à ce qu’aucune difficulté liée à leur affectation ne se pose dans les circonscriptions. Si vous en rencontrez malgré tout – un visa qui tarde à être accordé, par exemple –, n’hésitez pas à nous en faire part et nous examinerons la situation. Cependant, la présence des Padhue ne règlera pas tous les problèmes.<br/>Comme je le disais tout à l’heure à propos de mon département, être confronté à des difficultés particulières peut aussi favoriser l’innovation. Voilà pourquoi il me semble que, dans les territoires ultramarins, il est possible de développer des solutions innovantes, notamment en matière d’organisation.<br/>Je constate par exemple avec une certaine stupeur – d’après les informations dont je dispose depuis ma prise de fonctions il y a quelques semaines – que le recours à la télémédecine dans les territoires ultramarins est très faible. À quelques semaines de 2026, nous nous devons d’utiliser davantage cette technologie pour améliorer l’accès aux soins, et cette remarque ne vaut d’ailleurs pas uniquement pour les territoires ultramarins. Il faut savoir qu’au Canada, où certains territoires sont très isolés, l’usage des innovations technologiques – qui apportent de vraies solutions – pour soigner la population est très impressionnant.<br/>Par ailleurs – puisque je vous disais qu’il était impossible de donner une réponse unique sur la question des territoires ultramarins –, il est très important de former davantage d’étudiants, notamment des jeunes qui sont issus de ces territoires et auront envie d’y exercer leur activité. Il faut, dès le lycée, donner envie aux jeunes de se lancer dans des études de médecine et de rester dans un territoire ultramarin – ou d’y revenir, selon les cas.<br/>Il faut également former au numérique les autres professionnels de santé. Je le répète : nous sommes en retard par rapport aux autres pays s’agissant de l’évolution de ces métiers. Par exemple, le nombre d’IPA formées dans notre pays est insuffisant, nous devons absolument faire en sorte qu’il augmente. Il faut aussi rappeler que les nouveaux outils numériques permettent la télé-expertise, dans le cadre de laquelle des infirmières peuvent accompagner à distance les patients lors d’un examen médical.<br/>Nous devons accélérer le déploiement de ces dispositifs. À cet égard, les territoires les plus en difficulté pourraient aussi, selon moi, être les plus innovants.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816282" ordre_absolu_seance="250" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944103" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7650.57">La parole est à Mme Claire Marais-Beuil.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816283" ordre_absolu_seance="251" id_acteur="PA841563" id_mandat="PM843134" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944104" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Claire Marais-Beuil (RN)</nom>
+            <id>841563</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7659.75">Je préside le groupe d’études sur les maladies rares qui doit se réunir pour la neuvième fois la semaine prochaine. L’un des problèmes qui se posent aux familles concernées est celui de l’errance médicale. Nous parlons de 7 000 pathologies très particulières, qui obligent les patients à s’éloigner du parcours médical classique. Quelles réponses pouvons-nous apporter à toutes ces familles qui attendent d’obtenir un diagnostic ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816284" ordre_absolu_seance="252" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944105" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7701.45">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816285" ordre_absolu_seance="253" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944106" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7705.84">Je crois beaucoup à la gradation des soins, y compris dans le cas, que vous évoquez, des maladies rares – comme, d’ailleurs, dans celui des maladies complexes, qui ne sont pas toujours les mêmes –, parfois difficiles à diagnostiquer ou à prendre à charge.<br/>La gradation de l’offre de soins passe par la diversité des établissements de santé qui répondent à différents besoins. Il y a d’abord les hôpitaux de proximité, ensuite les structures de premier recours et enfin les centres d’expertise et de référence. Les maladies rares, par définition, ne peuvent être prises en charge par les établissements qui correspondent aux deux premières catégories car, à l’évidence, nul n’est expert sur tous les sujets.<br/>L’ultraspécialisation est nécessaire, notamment pour les maladies dont vous parlez. Toutefois, les médecins ultraspécialistes ne peuvent être présents partout – ils ne sont de toute façon pas assez nombreux –, c’est pourquoi une gradation est nécessaire. D’ailleurs, celle-ci existe déjà dans notre pays – même s’il faut peut-être, dans certains cas, la consolider. Ces dernières années, beaucoup a été fait en la matière : les professionnels se sont organisés, coopèrent, innovent.<br/>Le problème est celui de la lisibilité du dispositif pour les patients. Sur ce point, nous sommes en retard. Très souvent, les malades ne disposent pas de toutes ces informations – heureusement, les associations sont là pour les guider. Il arrive même que des professionnels ne sachent pas vers quel établissement diriger un patient atteint d’une maladie rare lorsque celui-ci rencontre des difficultés pour obtenir un diagnostic ou pour être suivi. Si la gradation est nécessaire, elle doit donc aussi être lisible.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816289" ordre_absolu_seance="257" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944110" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7801.68">La parole est à Mme Ersilia Soudais.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816290" ordre_absolu_seance="258" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944111" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais (LFI-NFP)</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7826.76">J’aimerais revenir sur la question de la régulation. Comme l’a rappelé M. Martineau, il n’est absolument pas question d’obliger les médecins à s’installer à tel ou tel endroit, mais seulement de les empêcher de s’installer là où leur présence n’est pas utile.<br/>Vous prétendez que la régulation est inefficace. Or si nous partons du principe que toutes les solutions que nous proposons sont inefficaces, autant arrêter tout de suite de lutter contre la désertification médicale, car le combat est inutile.<br/>Certes, aucune solution ne résoudra à elle seule le problème de la désertification médicale. Toutefois, la régulation nous semble indispensable puisque nous ne disposons pas d’un nombre suffisant de médecins sur l’ensemble du territoire et que, comme vous l’avez dit, ce n’est pas en claquant des doigts que ce nombre augmentera demain.<br/>En réalité, nous payons les pots cassés après de nombreuses années de mauvaise gestion en la matière. Je sais bien que le numerus clausus a été supprimé, mais cela ne change rien au fait que, d’une part, il n’y a pas assez de places dans les facultés pour former les futurs médecins et que, d’autre part, le personnel chargé d’encadrer les internes dans les hôpitaux est insuffisant.<br/>Je reviens donc à la question des moyens, sur laquelle j’ai insisté lors de ma précédente intervention. Nous sommes en plein examen du PLFSS. À l’issue de la première lecture à l’Assemblée nationale, on compte 12 milliards de moins dans les caisses de la sécurité sociale – plusieurs milliards destinés aux hôpitaux ont ainsi été supprimés. Dès lors, ne serait-il pas temps, avant le vote final sur le PLFSS, de changer de stratégie ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816295" ordre_absolu_seance="263" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944116" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7856.87">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2816296" ordre_absolu_seance="264" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944117" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7928.28">Premièrement, s’agissant de la régulation, des exemples à l’étranger prouvent que cette solution est inefficace. Ensuite, je rappelle que le nombre d’étudiants formés a augmenté de 30 %, passant de 6 000 à 10 000 en cinq ans environ. Enfin, l’objectif national de dépenses d’assurance maladie (Ondam) a augmenté de 66 milliards par an depuis 2018. Par conséquent, on ne peut pas dire que nous ne mettons pas d’argent dans ce secteur.<br/>Par ailleurs, le financement ne résout pas tout – hélas, car ce serait beaucoup plus simple ! Parfois c’est un problème d’organisation qui se pose. D’autres fois, c’est le nombre de médecins qui est en cause. Même si nous décidions de consacrer à la santé des dizaines et des dizaines de milliards supplémentaires, si les médecins ne sont pas assez nombreux, cela ne servirait à rien.<br/>En revanche, on ne peut pas dire que notre système de santé et nos hôpitaux n’ont pas bénéficié d’un financement ces dernières années. Vous savez que la revalorisation des professionnels représente 13 milliards par an, et j’ai déjà parlé de l’Ondam qui atteint 250 milliards et augmente chaque année de 66 milliards – nous parlons bien de milliards, ce sont des montants colossaux. Malheureusement, l’argent ne règle pas toujours tous les problèmes.<br/>C’est d’ailleurs la raison pour laquelle nous avons pris d’autres décisions, notamment la suppression du numerus clausus ou l’augmentation du nombre d’étudiants formés – un processus qui doit prendre dix ans avant de produire ses premiers résultats. Je pense d’ailleurs qu’il faut former davantage d’étudiants, en y consacrant les financements nécessaires, car la surface du désert médical sur notre territoire est immense, et il n’y aura jamais trop de médecins dans notre pays.<br/>Cependant, il est vrai que des questions se posent s’agissant du financement de notre système de santé. J’espère d’ailleurs que, dans les mois qui viennent, nous débattrons des moyens de financer notre modèle social en général, notamment notre système de santé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2815890" ordre_absolu_seance="269" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944218" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7983.31">La parole est à M. Jean-Claude Raux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2815891" ordre_absolu_seance="270" id_acteur="PA794154" id_mandat="PM842918" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944219" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Claude Raux (EcoS)</nom>
+            <id>794154</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8052.91">Nous avons évoqué le droit de chacun de nos compatriotes à accéder aux soins, le nécessaire maillage du territoire afin que des réponses rapides leur soient apportées, et le modèle, que vous avez qualifié de vertueux, des centres de santé pluriprofessionnels.<br/>Dans le même temps, j’apprenais que les syndicats libéraux appelaient à la mobilisation et à la grève en début d’année prochaine pour s’opposer à la faculté, conférée à l’assurance maladie, de réduire les tarifs jugés excessifs de certains actes, ainsi qu’à la possible remise en cause des dépassements d’honoraires. Dans le contexte budgétaire contraint que nous connaissons, le gouvernement saura-t-il résister aux pressions syndicales des médecins libéraux et défendre l’intérêt général, à savoir celui des patients, face au corporatisme médical ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2815893" ordre_absolu_seance="272" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944221" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8073.66">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2815894" ordre_absolu_seance="273" id_acteur="PA720066" id_mandat="-1" id_nomination_oe="PM873675" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3944222" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="8113.63">Lorsque des organisations syndicales font grève ou manifestent, il convient de les écouter. Le projet de loi de financement de la sécurité sociale suscite l’inquiétude des professionnels. Leur colère, ou leur gronde, a deux causes, selon moi : d’un côté, ils s’estiment stigmatisés par ce budget ; de l’autre, ils ne voient plus l’assurance maladie comme un interlocuteur de confiance dans le cadre des négociations conventionnelles.<br/>Le mécontentement des professionnels libéraux est dirigé contre plusieurs articles du PLFSS, en particulier l’article 24 visant à lutter contre les rentes dans le système de santé. Il faut expliquer ce qu’il contient. Dans un premier temps, il prévoit que les syndicats, avec l’assurance maladie, estimeront la rentabilité de chaque secteur. Certains seuils de rentabilité particulièrement élevés – entre 20 et 30 % de rentabilité opérationnelle, à comparer aux 4 à 6 % des cliniques privées, et aux 15 à 20 % des entreprises marchandes – peuvent être considérés comme excessifs – bien qu’il faille opérer des distinctions selon les actes médicaux. Cela ne se fera pas sans les syndicats de médecins – je le répète pour qu’ils l’entendent –, l’article précisant que des négociations conventionnelles devront alors s’engager pour faire baisser les tarifs excessifs. Ces tarifs correspondent à des dépenses de l’assurance maladie, il est donc normal que nous cherchions à les maîtriser.<br/>Dans un second temps, en cas d’échec des négociations – c’est cela qui met très en colère les syndicats de médecins –, il faudra bien que quelqu’un, en l’occurrence le directeur général de la Cnam, prenne ses responsabilités pour procéder, de manière unilatérale, aux baisses de tarifs. Je peux comprendre que cela ne plaise pas du tout aux organisations syndicales, mais il faut bien que quelqu’un le fasse, puisque le budget de la branche maladie est concerné.<br/>Nous devons retisser des liens de confiance entre les professionnels et l’assurance maladie, de sorte que les négociations conventionnelles préalables aboutissent. Nous pourrons ainsi réduire ensemble le déficit de la sécurité sociale et assurer la pérennité du remboursement des soins, de la protection sociale de nos concitoyens. Nous devons être fiers de ce système grâce auquel le reste à charge est le plus bas du monde, et que beaucoup d’autres pays nous envient, quelles que soient les difficultés qu’il connaît par ailleurs.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2815898" ordre_absolu_seance="277" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944226" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. le président</nom>
+            <id>719024</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8310.42">Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="9" id_preparation="2815900" ordre_absolu_seance="279" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3944228" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2815901" ordre_absolu_seance="280" id_acteur="PA719024" id_mandat="PM842390" id_nomination_oe="0" id_nomination_op="PM873244" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3944229" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>M. le président</nom>
+              <id>719024</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8312.61">Prochaine séance, demain, à neuf heures :<br/> Discussion de la proposition de résolution invitant le gouvernement à s’opposer à l’adoption de l’accord commercial entre l’Union européenne et le Mercosur ;<br/>Discussion de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer ;<br/> Discussion de la proposition de loi visant à la nationalisation d’ArcelorMittal France afin de préserver la souveraineté industrielle de la France ;<br/> Discussion de la proposition de loi visant à défiscaliser les pensions alimentaires perçues et à lutter contre la précarité des familles monoparentales ;<br/> Discussion de la proposition de loi visant à garantir la gratuité totale des parkings des établissements publics de santé ;<br/> Discussion de la proposition de résolution invitant le gouvernement à prendre toutes les mesures nécessaires pour faire respecter le droit international, dont le droit à l’autodétermination du peuple palestinien, condition nécessaire à l’établissement d’une paix juste et durable au Proche-Orient ;<br/> Discussion de la proposition de loi visant à exonérer les apprentis de la contribution sociale généralisée et de la contribution pour le remboursement de la dette sociale ;<br/> Suite de la discussion de la proposition de loi d’abrogation de la retraite à 64 ans.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2815902" ordre_absolu_seance="281" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3944230" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures trente-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2815903" ordre_absolu_seance="282" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3944231" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

@@ -1,0 +1,1360 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N118</uid>
+  <seanceRef>RUANR5L17S2025IDS29101</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250305213000000</dateSeance>
+    <dateSeanceJour>mercredi 05 mars 2025</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>118</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250118</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-03-11T12:13:52.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3649681">Présidence de Mme Naïma Moutchou</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3649685">
+          <intitule>Valoriser la France qui travaille</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3649688">M. Jean-Pierre Vigier (DR)</para>
+        <para id_syceron="3649694">Mme Astrid Panosyan-Bouvet, ministre chargée du travail et de l’emploi</para>
+        <para id_syceron="3649699">M. Julien Dive (DR)</para>
+        <para id_syceron="3649704">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649708">M. Michel Herbillon (DR)</para>
+        <para id_syceron="3649713">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649717">Mme Josiane Corneloup (DR)</para>
+        <para id_syceron="3649723">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649727">Mme Sophie Taillé-Polian (EcoS)</para>
+        <para id_syceron="3649731">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649735">Mme Sophie Taillé-Polian (EcoS)</para>
+        <para id_syceron="3649740">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649745">M. Mickaël Cosson (Dem)</para>
+        <para id_syceron="3649797">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649801">Mme Félicie Gérard (HOR)</para>
+        <para id_syceron="3649807">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649811">Mme Marie-Agnès Poussier-Winsback (HOR)</para>
+        <para id_syceron="3649816">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649818">M. Stéphane Viry (LIOT)</para>
+        <para id_syceron="3649821">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649942">M. Stéphane Viry (LIOT)</para>
+        <para id_syceron="3649946">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649952">Mme Hanane Mansouri (UDR)</para>
+        <para id_syceron="3649956">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649959">M. Olivier Fayssat (UDR)</para>
+        <para id_syceron="3649964">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649968">M. Aurélien Dutremble (RN)</para>
+        <para id_syceron="3649972">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649167">M. Michel Guiniot (RN)</para>
+        <para id_syceron="3649172">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649175">M. Thibaut Monnier (RN)</para>
+        <para id_syceron="3649180">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649184">Mme Emmanuelle Hoffman (EPR)</para>
+        <para id_syceron="3649188">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649193">M. Bérenger Cernon (LFI-NFP)</para>
+        <para id_syceron="3649285">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649295">Mme Ersilia Soudais (LFI-NFP)</para>
+        <para id_syceron="3649303">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649311">M. Pierrick Courbon (SOC)</para>
+        <para id_syceron="3649317">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649322">M. Gérard Leseul (SOC)</para>
+        <para id_syceron="3649327">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649763">Mme Estelle Mercier (SOC)</para>
+        <para id_syceron="3649771">Mme Astrid Panosyan-Bouvet, ministre</para>
+        <para id_syceron="3649779">M. Lionel Vuibert (NI)</para>
+        <para id_syceron="3649786">Mme Astrid Panosyan-Bouvet, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3649791">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du mercredi 05 mars 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2628616" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3649681" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Naïma Moutchou<br/> vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2628617" ordre_absolu_seance="2" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649682" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="954.89">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2628618" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3649683" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628620" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3649685" valeur="">
+      <orateurs/>
+      <texte>Valoriser la France qui travaille</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628621" ordre_absolu_seance="6" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649686" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="957.41">L’ordre du jour appelle les questions sur le thème : « Valoriser la France qui travaille ». La conférence des présidents a fixé à deux minutes la durée maximale de chaque question et de chaque réponse, sans droit de réplique.<br/>La parole est à M. Jean-Pierre Vigier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628623" ordre_absolu_seance="8" id_acteur="PA607090" id_mandat="PM842903" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649688" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Pierre Vigier (DR)</nom>
+            <id>607090</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="977.53">À la demande du groupe de la Droite républicaine, nous sommes ici pour défendre ceux qui, chaque jour, font avancer notre économie : les travailleurs. Il est temps que nos politiques publiques soient à la hauteur de leur engagement.<br/>Tout d’abord, les aides sociales ne doivent pas créer une situation où ne pas travailler rapporte plus que travailler. Il est nécessaire de créer une aide sociale unique, plafonnée à 70 % du smic, pour garantir un véritable écart avec le travail. Aujourd’hui, un salarié qui accepte une promotion peut voir son pouvoir d’achat baisser, parce qu’en franchissant un certain seuil de revenus, il peut perdre une aide sociale comme la prime d’activité – perte qui dépasse parfois l’augmentation salariale liée à la promotion. C’est un non-sens total. Résultat : des salariés refusent une promotion par crainte de perdre du pouvoir d’achat et des chefs d’entreprise sont contraints de ne pas récompenser le mérite de leurs employés.<br/>Par ailleurs, la proposition de loi de mon collègue Vincent Jeanbrun, qui vise à prioriser les travailleurs dans l’attribution de logements sociaux, va dans le bon sens.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628626" ordre_absolu_seance="11" id_acteur="PA1630" id_mandat="PM843638" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649691" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Herbillon</nom>
+            <id>1630</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1053.51">Absolument !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628627" ordre_absolu_seance="12" id_acteur="PA607090" id_mandat="PM842903" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649692" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Pierre Vigier</nom>
+            <id>607090</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1058.40">De nombreux salariés sont exclus du marché locatif privé à cause des loyers trop élevés. Il est insupportable que des travailleurs à revenus modestes se voient refuser un logement social parce qu’ils travaillent.<br/>Madame la ministre, comptez-vous revoir le mécanisme d’attribution des aides sociales pour éviter qu’elles soient un frein à l’ascenseur social et qu’elles pénalisent les salariés lors d’une promotion ? Comptez-vous inscrire les travailleurs parmi les publics prioritaires pour l’accès à un logement social ? <italique>(Applaudissements sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628628" ordre_absolu_seance="14" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649693" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1102.52">La parole est à Mme la ministre chargée du travail et de l’emploi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628629" ordre_absolu_seance="15" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649694" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre chargée du travail et de l’emploi</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1113.83">Votre question fait écho à une étude de la direction de la recherche, des études, de l’évaluation et des statistiques (Drees), publiée en octobre. Elle illustre par un exemple concret le problème fondamental que vous soulevez. Pour qu’une femme payée au smic, locataire et qui élève seule ses deux enfants, voie son revenu disponible croître de 100 euros, il faudrait que son employeur lui accorde une augmentation de plus de 750 euros.<br/>C’est la résultante de l’accumulation de plusieurs effets de seuil relatifs aux allégements généraux évoqués lors de la discussion du projet de loi de financement de la sécurité sociale (PLFSS) mais aussi aux différentes prestations, en l’occurrence la prime d’activité, les aides personnelles au logement (APL) et les prestations familiales.<br/>Pour remédier à cette situation, nous agissons en deux temps. La solidarité à la source a été lancée le 1<exposant>er</exposant><exposant> </exposant>mars, avec le préremplissage automatique des déclarations trimestrielles des allocataires du RSA et de la prime d’activité, à l’image de ce qui existait depuis 2019 s’agissant des APL.<br/>Le deuxième temps, annoncé par Catherine Vautrin, c’est la création de cette fameuse allocation sociale unifiée. Cela nécessite du temps et du travail, car notre pays compte aujourd’hui plus d’une douzaine de minima sociaux, calculés selon des bases ressources différentes. Le gouvernement veut conduire cette réforme pour éviter les effets de seuil et faire en sorte que le travail paie davantage.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628633" ordre_absolu_seance="19" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649698" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1221.09">La parole est à M. Julien Dive.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628634" ordre_absolu_seance="20" id_acteur="PA712015" id_mandat="PM842381" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649699" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Julien Dive (DR)</nom>
+            <id>712015</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1227.96">Parler de la France qui travaille, c’est aussi parler de celles et ceux qui prennent soin des autres : auxiliaires de vie sociale, assistantes maternelles, accompagnantes d’élèves en situation de handicap (AESH) ou encore animatrices scolaires. Ces métiers de l’humain, qui s’accordent essentiellement au féminin, assurent chaque jour le bien-être de centaines de milliers de personnes. Elles sont plus de 1,2 million à exercer ces métiers essentiels qui, pourtant, restent sous-payés, précaires et morcelés.<br/>Seulement 750 à 900 euros par mois pour une AESH, avec un temps partiel subi et des perspectives quasi inexistantes ; à peine plus que le smic pour une auxiliaire de vie, malgré des journées éreintantes et des trajets jamais comptabilisés ; des horaires discontinus, une fatigue physique et mentale immense, un isolement professionnel qui les prive d’un collectif de travail. Selon une infographie publiée par France Travail en avril 2024, le secteur du soin et de l’accompagnement fait face à des défis de recrutement importants, avec des besoins estimés à 86 000 postes.<br/>Pas moins de 350 000 professionnels sont aujourd’hui indispensables pour répondre aux besoins liés au vieillissement de la population et à l’inclusion scolaire. Dans l’aide à domicile, un emploi sur trois n’est pas pourvu, faute de conditions de travail acceptables. Ces métiers ont besoin non de reconnaissance symbolique mais de mesures concrètes, mesurables et tangibles : revaloriser les rémunérations et revoir les grilles salariales, prendre en compte l’intégralité du temps de travail, y compris le temps de trajet et de préparation, garantir des temps pleins, permettre plus de travail en équipe, créer des espaces d’échange et de formation.<br/>Valoriser la France qui travaille, c’est garantir que celles et ceux qui s’occupent des autres puissent aussi vivre dignement de leur métier. Valoriser la France qui travaille, c’est refuser que ces métiers soient considérés comme des emplois de second ordre alors qu’ils sont essentiels à notre société. Comment comptez-vous accorder à ces travailleurs et travailleuses la reconnaissance qu’ils méritent, en leur offrant un vrai statut, une rémunération décente et une stabilité à la hauteur de leur engagement ? <italique>(Applaudissements sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628638" ordre_absolu_seance="24" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649703" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1295.51">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628639" ordre_absolu_seance="25" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649704" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1363.20">Vous soulevez de vraies questions. En tant que ministre sur ce banc, je devrais vous dire que des actions ont été conduites et il est vrai que des mesures ont été prises, notamment en matière de revalorisation des avenants. Une campagne de recrutement a été menée pour valoriser les métiers du lien. La loi « Bien vieillir », émanant d’une proposition de l’Assemblée nationale, a prévu un fonds de soutien à la mobilité des aides à domicile. Les bonnes pratiques relatives à l’organisation du temps, l’autonomie et la prévention ont été encouragées. Une carte professionnelle a été créée.<br/>Mais tout cela demeure insuffisant, nous en sommes bien conscients. Le taux de pauvreté des aides à domicile, qui pourtant exercent un travail, est de 18 %, contre une moyenne de 8 % pour l’ensemble de la population. Cette situation résulte essentiellement du temps partiel subi : ces femmes cumulent salaire horaire bas, trop peu d’heures travaillées et amplitudes horaires importantes.<br/>À la suite de la conférence sociale sur les bas salaires organisée en octobre 2023, nous avons demandé à l’Inspection générale des affaires sociales (Igas) un rapport sur le temps partiel subi. Je souhaite que les partenaires sociaux puissent s’en saisir pour étudier cette question et nous proposer des solutions sur ce sujet qui affecte très majoritairement – à 80 % – les femmes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628642" ordre_absolu_seance="28" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649707" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1468.05">La parole est à M. Michel Herbillon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628643" ordre_absolu_seance="29" id_acteur="PA1630" id_mandat="PM843638" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649708" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Herbillon (DR)</nom>
+            <id>1630</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1474.53">À l’occasion d’une audition au Sénat il y a quelques semaines, Florent Menegaux, PDG de Michelin, a tiré la sonnette d’alarme sur le manque de compétitivité des entreprises françaises. Il a notamment pointé l’écart entre le salaire brut et le salaire net perçu par les salariés en France. Je souhaite tout d’abord rappeler une évidence : pour que le travail soit valorisé, il faut que le travail paie. Malheureusement, les Français constatent une très grande différence entre ce qu’ils perçoivent en net après impôt et le coût total versé par leur employeur.<br/>Le simulateur proposé par l’Urssaf, qui s’appuie sur la situation d’une personne célibataire sans enfant ni patrimoine, permet de se rendre compte de l’ampleur de cet écart. Au niveau du smic – 1 404 euros net par mois –, il n’y a pas d’impôt sur le revenu, mais le coût total employeur est supérieur d’un tiers, soit un surcoût de près de 500 euros par mois. Au niveau du salaire mensuel médian net de 2 036 euros, l’impôt sur le revenu ramène ce salaire à 1 949 euros pour un coût employeur de 3 385 euros, soit un coût 73 % plus élevé que le salaire net perçu par le salarié.<br/>Bien sûr, les cotisations salariales et patronales permettent de financer notre protection sociale, mais nous voyons bien à quel point le coût du travail demeure élevé en France, au détriment des travailleurs, mais également des entreprises, qui perdent en compétitivité.<br/>Le coût du travail connaît d’ailleurs une croissance exceptionnelle sur les rémunérations qui dépassent le salaire médian, ce qui a pour conséquence de ne pas inciter les employeurs à augmenter les rémunérations de leurs salariés. Madame la ministre, cela fait des années que l’on évoque la nécessité absolue de rapprocher le salaire brut du salaire net. Il est temps d’arrêter les incantations et d’agir. Qu’allez-vous faire pour résoudre cette situation et ainsi valoriser le travail ? <italique>(Applaudissements sur les bancs du groupe DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628647" ordre_absolu_seance="33" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649712" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1596.55">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628648" ordre_absolu_seance="34" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649713" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1606.03">Vous mettez le doigt sur un vrai handicap français. À ce propos, j’invite tous les députés présents ce soir et qui s’intéressent à la question du travail à consulter l’étude publiée en janvier par la Drees, sur la protection sociale en Europe en 2023. Elle montre que la France a une particularité : le travail finance la protection sociale de manière anormalement élevée par rapport à nos partenaires européens.<br/>Même après application des allégements généraux, les cotisations employeurs, dont le niveau a fait l’objet d’un débat lors de l’examen du PLFSS, sont encore parmi les plus élevées dans le financement de la protection sociale. Il en va de même s’agissant des cotisations sociales salariales. L’écart entre salaire brut et salaire net constitue donc un véritable problème, sur lequel nous avons commencé à travailler.<br/>En effet, dès 2018, nous avons supprimé les cotisations salariales maladie et chômage pour plus de 20 millions de salariés et les cotisations salariales sur les heures supplémentaires. Nous avons procédé à des baisses des cotisations des travailleurs indépendants. Toutefois, il faudra bien finir par engager une réflexion globale, fondée sur le principe que le travail doit financer les risques liés au travail, à savoir les retraites, l’assurance chômage et les accidents du travail, alors qu’il finance aussi des protections universelles telles que l’assurance maladie ou la famille. Le travail doit d’abord financer les prestations contributives associées au travail et non pas les protections universelles.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628651" ordre_absolu_seance="37" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649716" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1732.30">La parole est à Mme Josiane Corneloup.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2628652" ordre_absolu_seance="38" id_acteur="PA722390" id_mandat="PM843317" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649717" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Josiane Corneloup (DR)</nom>
+            <id>722390</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1737.16">Le travail est le socle, le ciment de notre société. Il est au fondement de notre contrat social. Sans les revenus issus du travail, il n’y aurait pas de protection sociale. Il est nécessaire de réaffirmer la primauté du travail sur l’inactivité et de mettre un terme au scandale du phénomène des travailleurs pauvres qui se développe en France, surtout dans les grandes métropoles où se loger coûte très cher. Ces travailleurs devraient d’ailleurs être prioritaires lors de l’attribution des logements sociaux.<br/>Nous avons le devoir de créer un écart substantiel entre le montant du salaire net perçu par le salarié et celui des aides sociales versées à l’individu sans activité professionnelle, pour inciter beaucoup plus au travail.<br/>Pour que cet écart soit significatif, il convient en premier lieu de plafonner le cumul des aides sociales avant, dans un second temps, de réunir celles-ci en une aide sociale unique. En substituant au versement en silos des différentes aides l’attribution d’une allocation unique plafonnée à 70 % du smic, il serait possible de réaliser d’importantes économies. Évaluées à 7 milliards d’euros, elles permettraient de réduire les cotisations salariales, donc d’accroître le salaire net.<br/>Ce vaste et très ambitieux chantier administratif requiert un travail préparatoire d’ampleur et une parfaite coordination entre l’État, les départements et les organismes sociaux. Il nécessite notamment d’agréger toutes sortes de données pour simplifier le système. Grâce à la retenue à la source, il est désormais possible de verser en une seule fois l’ensemble des aides sociales auxquelles chaque contribuable est éligible. La fiabilisation des données des déclarations de ressources des allocataires conditionnera la réussite de cette réforme destinée à valoriser la France qui travaille.<br/>Néanmoins, le risque de fraude existe. La Cour des comptes n’évalue-t-elle pas à 1 euro sur 6 euros de RSA et à 1 euro sur 5 euros de prime d’activité les sommes versées à tort, et à titre définitif ? Il faut mettre fin à ce gaspillage d’argent. Quelles mesures et quels outils proposez-vous pour fiabiliser les données des déclarations de ressources ? Un récent rapport sénatorial préconise le retour à des logiciels de paie labellisés et un renforcement des contrôles ; y êtes-vous favorable ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628873" ordre_absolu_seance="43" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649722" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1868.71">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628874" ordre_absolu_seance="44" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649723" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1875.67">Vous me demandez si je suis favorable à la lutte contre la fraude ; évidemment ! Je souhaite lutter contre la fraude au moindre euro d’argent public.<br/>Je vous remercie d’avoir rappelé les deux étapes du processus. Le préremplissage des données, qui permettra de lutter contre la fraude et contre les trop-perçus, constitue une première étape indispensable au travail de longue haleine que représente l’unification des prestations sociales dont les diverses formules de calcul, mises au point au fil du temps, tiennent compte de ressources différentes.<br/>Je précise que le RSA, la prime d’activité et l’APL représentent 80 % des sommes versées. Il est donc envisageable de commencer par unifier ces trois prestations, avant d’y agréger les autres. Cela nécessitera en tout cas, comme vous le soulignez, une grande coordination non seulement entre les différentes caisses, mais aussi avec les collectivités territoriales, en particulier les départements. Mme Catherine Vautrin a exprimé sa volonté de s’investir pleinement dans ce chantier, car c’est la solution pour que le travail devienne bien plus rémunérateur et pour que la protection sociale cible bien mieux les besoins.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628877" ordre_absolu_seance="47" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649726" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1974.08">La parole est à Mme Sophie Taillé-Polian.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628878" ordre_absolu_seance="48" id_acteur="PA736201" id_mandat="PM840423" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649727" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sophie Taillé-Polian (EcoS)</nom>
+            <id>736201</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1980.25">Ma question concerne la situation des salariés du nettoyage. Elle fait suite à ma proposition de loi visant à protéger les travailleuses et travailleurs du nettoyage en garantissant des horaires de jour, adoptée par la commission des affaires sociales mais qui n’a pu, faute de temps, être débattue lors de la niche du groupe écologiste. Ces personnes sont pourtant essentielles au bon fonctionnement de la société. Elles sont particulièrement touchées par le problème des bas revenus. La plupart sont des femmes, souvent mères au sein d’une famille monoparentale, de plus 50 ans, et – dans certaines régions – immigrées ou d’origine étrangère. Elles sont donc au croisement de plusieurs facteurs d’inégalité et de discrimination.<br/>La faiblesse des salaires dans le secteur du nettoyage est due à la prévalence des temps partiels courts et contraints, sous le seuil des vingt-quatre heures hebdomadaires, et à des plages horaires de trois heures discontinues, tôt le matin ou tard le soir, qu’on appelle horaires atypiques. La spécificité de ces horaires n’est reconnue ni par la loi ni par la convention collective. Pourtant, les horaires atypiques des salariées du nettoyage ont de graves conséquences sur leur vie sociale et familiale. Comment être présente pour ses enfants, nouer des amitiés ou pratiquer la langue française lorsqu’on travaille si tôt ou si tard ? Par ailleurs, elles ont de graves conséquences sur la santé, dont il est démontré qu’elles sont quasiment équivalentes à celles du travail de nuit.<br/>Alors que les entreprises de nettoyage sont très profitables, leurs salariées ne bénéficient d’aucune compensation. Nous devons les valoriser davantage. Cela passe par une meilleure reconnaissance de leur travail, la hausse de leurs revenus et l’amélioration globale de leurs conditions de travail. Il faut, selon le principe très important reconnu en droit français et international, adapter le travail à l’humain et non l’humain au travail. Que comptez-vous faire pour améliorer enfin la situation de ces salariées ? Alors que M. Macron s’y était fermement engagé après la crise du covid-19, il ne s’est rien passé.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628881" ordre_absolu_seance="51" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649730" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2094.52">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628882" ordre_absolu_seance="52" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649731" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2102.24">Ce sujet a effectivement été débattu en commission des affaires sociales et aurait pu l’être en séance lors de la niche écologiste. Vous l’avez rappelé, ce type de travail concentre toutes les difficultés du monde. Depuis 2008, l’État s’est fixé des objectifs clairs pour promouvoir des conditions de travail décentes dans le secteur du nettoyage. Je pense en particulier aux horaires de travail en journée et en continu, à l’image des pays scandinaves, où la présence de femmes faisant le ménage dans les bureaux ne pose de problème à personne, alors qu’elles ont tendance à être invisibilisées en France.<br/>Votre question porte aussi sur la circulaire du 16 mars 2022, qui réaffirme et renforce les engagements de l’État en la matière. Elle insiste sur le rôle moteur de l’État en tant qu’acheteur public et lui fixe deux priorités. La première consiste à garantir des temps de travail continus sur un même site ou sur des sites très proches ; je tiens à souligner que le ministère du travail et les autres ministères sociaux se sont engagés dans cette démarche. La seconde consiste à ce que les prestations soient effectuées en présence des occupants, pour limiter les horaires décalés. Là encore, les ministères sociaux ont adopté cette organisation. Les résultats de cette circulaire sont déjà visibles, bien au-delà des ministères sociaux : la direction des achats de l’État (DAE) rapporte que près de deux tiers des sites publics pratiquent le travail en journée, que 83 % pratiquent le travail en continu et que plus de la moitié des sites combinent ces deux approches. Cela signifie, il est vrai, que certains ne les pratiquent pas ; l’État comme les collectivités territoriales doivent donc poursuivre leurs efforts en ce sens.<br/>Nous continuerons à renforcer les mesures existantes et à explorer de nouvelles pistes pour garantir aux salariés du nettoyage de meilleures conditions de travail. Le rapport de l’Igas sur le temps partiel contraint pourrait fournir certaines de ces pistes ; nous souhaitons que les partenaires sociaux puissent se saisir de ses recommandations.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628885" ordre_absolu_seance="55" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649734" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2199.38">La parole est à Mme Sophie Taillé-Polian.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628886" ordre_absolu_seance="56" id_acteur="PA736201" id_mandat="PM840423" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649735" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sophie Taillé-Polian (EcoS)</nom>
+            <id>736201</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2220.43">Nous parlons de valeur travail ; cette notion mérite d’être interrogée dans un contexte où, trop souvent, le travail ne respecte pas les corps. Il cause énormément d’accidents et de souffrances psychiques qui pourraient pourtant être évités. La commission chargée d’évaluer le coût pour l’assurance maladie de la sous-reconnaissance des accidents du travail et des maladies professionnelles a fait les comptes l’année dernière, et l’addition est salée. D’après la commission, la sous-reconnaissance concerne entre 21 000 et 111 000 cas, ce qui représente un coût estimé entre 127 et 668 millions d’euros. L’actualisation des études épidémiologiques relatives aux troubles musculo-squelettiques (TMS) et aux cancers professionnels explique en partie cette augmentation.<br/>Cette situation de sous-reconnaissance ne va pas s’améliorer d’elle-même. Nous devons assumer des orientations politiques et budgétaires ambitieuses pour, d’une part, perfectionner la traçabilité des risques professionnels et, d’autre part, mieux informer les personnes victimes qui, trop souvent, ne connaissent pas leurs droits.<br/>Enfin, le constat de la sous-reconnaissance ne doit pas nous exonérer de la responsabilité urgente d’agir en amont. En raison notamment des politiques appliquées depuis sept ans, la médecine du travail ou encore l’inspection du travail se trouvent fragilisées. La formation des professionnels de santé est encore nettement insuffisante dans ce domaine. Pourtant, nous devrions accorder de réels moyens à la prévention primaire, destinée aux salariés mais aussi aux employeurs, qui n’ont pas toujours connaissance des obligations qui leur incombent ou ne veulent pas les appliquer.<br/>Le nombre d’accidents du travail mortels s’élève à plusieurs centaines chaque année. Les maladies professionnelles augmentent, elles aussi. Les accidents sont sous-déclarés. Comment comptez-vous agir enfin, en profondeur, pour préserver la santé au travail ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628890" ordre_absolu_seance="60" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649739" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2306.25">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628891" ordre_absolu_seance="61" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649740" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2341.07">En lien avec les préventeurs et les partenaires sociaux, le ministère du travail promeut plusieurs plans visant à renforcer structurellement la culture de prévention en entreprise, notamment en accompagnant les très petites, petites et moyennes entreprises (TPE-PME).<br/>Des mesures fortes ont été déployées pour lutter contre les accidents graves et mortels qui, comme vous l’avez rappelé, sont encore très nombreux en France. Le plan de prévention des accidents de travail graves et mortels comporte vingt-sept mesures phares ciblant les publics les plus vulnérables : les jeunes, les intérimaires, les nouveaux arrivants dans l’entreprise et les travailleurs détachés. Il prévoit des actions de sensibilisation et de formation, le renforcement des mesures de prévention, le développement d’outils de reconnaissance ou encore des actions ciblées de l’inspection du travail.<br/>Le 3 février, j’ai réuni le Conseil national d’orientation des conditions de travail (CNOCT). J’ai demandé à M. Bernard Thibault et à Mme Dominique Carlac’h, qui ont présidé à la charte sociale des Jeux olympiques (JO) de Paris 2024, de tirer les enseignements de la forte diminution de l’accidentologie – elle a été divisée par quatre – lors des travaux préparatoires des grands sites des Jeux. Ils parraineront désormais un groupe de contact chargé de travailler avec les branches professionnelles qui connaissent le plus d’accidents graves et mortels.<br/>Nous travaillons également à d’autres pistes, comme inciter les donneurs d’ordre publics à intégrer la prévention des accidents du travail à leur politique d’achat responsable. Je pense aussi au renforcement de la coopération entre les services judiciaires et l’inspection du travail, un point crucial qui correspond à une demande des associations et des partenaires sociaux. Enfin, il est envisagé de créer une équipe chargée d’analyser les accidents du travail pour en identifier les causes et proposer des solutions ; elle serait composée de préventeurs et d’agents de contrôle et placée auprès de la direction générale du travail (DGT). Je précise que les conclusions de la réunion du 3 février ont été saluées par les partenaires sociaux, notamment par les syndicats.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628895" ordre_absolu_seance="65" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649744" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2472.74">La parole est à M. Mickaël Cosson, qui posera deux questions.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2628896" ordre_absolu_seance="66" id_acteur="PA793520" id_mandat="PM842582" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649745" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Mickaël Cosson (Dem)</nom>
+            <id>793520</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2479.46">Je poserai les deux en une seule intervention, pour gagner du temps.<br/>Bien que le thème de ce soir soit la valorisation de la France qui travaille, je pense utile de valoriser surtout la période de la vie pendant laquelle on travaille. En effet, depuis plusieurs années, nous en entendons souvent parler comme d’un tunnel dans lequel on entrerait au sortir de la scolarité et dont on ne sortirait qu’à l’âge de la retraite. Cette période à laquelle nous consacrons la moitié de notre vie – voire bien plus, quand nous sommes frappés par le malheur – devrait au contraire être considérée comme un tremplin, comme une voie vers l’épanouissement professionnel et personnel.<br/>Cinquante ans se sont écoulés depuis la crise des années 1970, les premières disparitions d’entreprises, la montée du chômage et le début de la désindustrialisation, laquelle s’est accélérée puisqu’on estime qu’il y a eu 50 % de désindustrialisation entre 2002 et 2016. Parallèlement, les métiers de la santé, de la restauration et de bien d’autres secteurs ont perdu en attractivité. En raison de ces mutations, de plus en plus de personnes, poussées par l’épuisement physique ou psychologique, changent d’emploi et exercent divers métiers au cours de leur carrière.<br/>Or l’éducation nationale ou l’enseignement supérieur forment les jeunes à leur premier métier ; ils se trouvent donc laissés à eux-mêmes quand, au cours de leur carrière, ils doivent changer de profession pour s’épanouir à nouveau. Ne considérez-vous pas que l’éducation et la formation doivent muter comme la société l’a fait et accompagner les personnes tout au long de leur carrière, de sorte qu’elles connaissent l’épanouissement plutôt que l’épuisement ?<br/>Ma seconde question concerne la durée du travail. Dans de nombreux cas, elle est contrainte : on doit travailler pendant un nombre défini d’heures hebdomadaires et pendant un nombre minimal d’années au cours d’une vie. Pourquoi ne pas redonner aux jeunes de la souplesse pour qu’ils puissent s’épanouir dans leur emploi en travaillant davantage lorsqu’ils ont peu de contraintes personnelles et en modulant leurs horaires lorsqu’ils souhaitent investir du temps dans leur famille ou dans le domaine associatif ? Surtout, pourquoi ne pas permettre aux seniors de diminuer graduellement leur temps de travail tout en prenant un autre rôle dans la société, plutôt que de passer de trente-cinq heures à zéro ?<br/>Je crois nécessaire d’explorer ces deux pistes : une formation qui accompagne l’épanouissement professionnel dans la durée, des modalités du travail adaptées pour tenir compte des mutations de la société. À l’heure de la numérisation, de la démondialisation et de la décarbonation, nous devons être acteurs de notre essor plutôt que spectateurs de notre déclin ; cela exige de faire évoluer les pratiques de travail.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628764" ordre_absolu_seance="72" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649796" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2659.41">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628765" ordre_absolu_seance="73" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649797" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2705.84">Vous soulevez la question fondamentale de la formation tout au long de la vie. Je vous invite à lire une étude publiée hier par le Conseil d’analyse économique (CAE) et intitulée : « Objectif plein emploi », qui montre qu’en France, malgré la révolution culturelle de l’apprentissage, il y a un taux très important de jeunes qui ne font que des études, par rapport aux Allemands ou aux Britanniques qui parviennent à mixer, même au-delà de l’apprentissage, études et pratique professionnelle. Néanmoins, des efforts ont été accomplis en France. Le compte personnel de formation (CPF) doit s’intégrer dans la politique des ressources humaines des entreprises, afin qu’elles abondent les formations proposées aux salariés. Des progrès restent à accomplir pour que la qualité des formations soit en adéquation avec les besoins des entreprises – vous avez évoqué les métiers naissants et les métiers en tension.<br/>Il faut faire en sorte que les conversions qui sont à la main du salarié soient dirigées prioritairement vers les métiers de demain, les compétences stratégiques dont notre économie a besoin. Nous devons y travailler avec les partenaires sociaux, car ce sont eux qui gèrent ces outils.<br/>Enfin, les syndicats et le patronat demandent la simplification des dispositifs de reconversion. Celle-ci est souvent pensée en lien avec les restructurations économiques. De tels dispositifs existent, mais il faut qu’ils soient simplifiés et beaucoup plus opérationnels. Ils doivent aussi être pensés dans la perspective de la vie entière, en particulier pour les personnes qui exercent un métier qui expose à une forte usure professionnelle, car de tels métiers ne peuvent être exercés toute une vie, et il faut pouvoir anticiper. Nous devons à présent accélérer les concertations sur la simplification de ces dispositifs.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628768" ordre_absolu_seance="76" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649800" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2839.10">La parole est à Mme Félicie Gérard.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628769" ordre_absolu_seance="77" id_acteur="PA794470" id_mandat="PM843104" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649801" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Félicie Gérard (HOR)</nom>
+            <id>794470</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2843.74">Notre débat porte sur le thème : « Valoriser la France qui travaille ». Il me semble important de rappeler les récentes avancées permises par notre assemblée et par l’action du gouvernement dans ce domaine. Depuis le 1<exposant>er</exposant><exposant> </exposant>janvier 2025, grâce à la loi relative au partage de la valeur, les entreprises de onze à quarante-neuf salariés doivent instaurer un dispositif de partage de la valeur, grâce à la prime de partage de la valeur (PPV), à un accord de participation ou d’intéressement ou à un abondement sur un plan d’épargne salariale. Par ailleurs, depuis 2019, lorsque Édouard Philippe était premier ministre, le plafond d’exonération d’impôts sur le revenu des heures supplémentaires est passé de 5 000 à 7 500 euros. Cela reprend un principe simple et bien connu : travailler plus pour gagner plus.<br/>Je le répète très souvent, le fait de travailler doit payer davantage que le fait de ne pas travailler. Pourtant, de nombreux Français qui travaillent dur chaque jour ont le sentiment qu’ils ne s’en sortent pas et que leur travail ne paie pas suffisamment. Deux points entraînent un blocage pour les actifs et pour les chefs d’entreprise.<br/>Premièrement, le tassement des salaires est principalement dû au fait que l’État soutient fortement l’emploi au niveau du smic. Par un effet de seuil, cela constitue une désincitation à la hausse des grilles salariales. Nous sommes ainsi passés de 12 % des actifs payés au smic à près de 18 % au cours des trois dernières années.<br/>Deuxièmement, l’écart important entre le salaire brut et le salaire net, connu de longue date, entraîne chez beaucoup d’actifs le sentiment que le travail ne paie plus assez et qu’ils sont touchés par le déclassement social. C’est à notre sens l’un des freins les plus importants à la valorisation de cette France qui travaille.<br/>Comment le gouvernement compte-t-il endiguer le phénomène de tassement des salaires au niveau du smic ? Quelles nouvelles incitations comptez-vous instaurer pour aider les chefs d’entreprise à augmenter les salaires ? <italique>(Applaudissements sur les bancs du groupe HOR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628774" ordre_absolu_seance="82" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649806" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2867.92">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628775" ordre_absolu_seance="83" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649807" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2989.39">D’abord, il faut continuer à faire confiance au dialogue social. Malgré la période de forte inflation, les entreprises ont joué le jeu des augmentations salariales, qui ont parfois été supérieures à l’inflation – on le voit dans les chiffres, même si ce n’est pas comme cela que c’est perçu. Toutefois, certaines branches, au nombre de cinq, ont structurellement été bloquées. La direction générale du travail analyse les raisons de ces blocages avec ces branches afin de trouver des solutions.<br/>Ensuite, il faut travailler avec les branches pour éviter le tassement des grilles salariales. Celui-ci s’explique par les augmentations assez fréquentes du smic ces dernières années à cause de l’inflation, mais aussi par le fait que plus de 50 % des branches n’ont pas révisé leurs grilles de classification depuis plus de cinq ans – certaines ne l’ont pas fait depuis plus de dix ans.<br/>Les effets de seuil sont également une question très importante, qui a fait l’objet d’une étude par Antoine Bozio et Étienne Wasmer, commandée lors de la conférence sociale sur les bas salaires en octobre 2023. Nous avons voulu commencer à appliquer leurs recommandations, qui visent à atténuer les effets de seuil, notamment pour permettre de sortir des très bas salaires. Nous nous sommes heurtés à la difficulté que les débats sur cette question, qui ont eu lieu dans le cadre du PLFSS, sont intervenus à un moment de durcissement des conditions économiques. Nous n’avons pas voulu renforcer alors le coût du travail des bas salaires par crainte d’effets sur l’emploi.<br/>Enfin, vous posez la question fondamentale de l’écart entre le super brut et le net, qui est dû à une spécificité française, car le financement de la protection sociale repose de manière anormalement élevée sur le travail. Nous devrons mettre les choses à plat pour débattre de ce que le travail doit financer en matière de protection sociale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628778" ordre_absolu_seance="87" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649810" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3116.71">La parole est à Mme Marie-Agnès Poussier-Winsback.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628779" ordre_absolu_seance="88" id_acteur="PA795270" id_mandat="PM858399" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649811" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie-Agnès Poussier-Winsback (HOR)</nom>
+            <id>795270</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3118.55">Nous sommes nombreux – mais hélas, ce n’est pas notre cas à tous – à considérer que le travail doit être au cœur de tout projet politique, de tout projet de société. Les grandes réformes menées au cours des dernières années, la réforme de l’apprentissage, de l’assurance chômage, des retraites, des lycées professionnels, s’inscrivent dans ce projet global.<br/>Pourtant, malgré toutes ces réformes, un grand nombre de nos concitoyens considèrent que le travail ne paie pas suffisamment. Nombreux sont les chefs de TPE et PME, rencontrés dans nos circonscriptions, qui nous indiquent qu’ils souhaiteraient mieux rémunérer le travail de leurs salariés, mais que des charges trop lourdes les en empêchent. Nombreux sont ceux qui disent aussi qu’ils peinent à recruter. Il y a donc bien quelque chose qui ne tourne pas rond, si vous me permettez cette expression.<br/>Les règles qui régissent le débat que nous tenons ce soir ne permettent pas d’aborder un sujet aussi sérieux et vaste, impliquant tant d’acteurs, d’autant que si nous voulions un débat sur l’assistanat, il aurait été préférable de l’assumer et de préférer le thème : « Favoriser le travail plutôt que l’assistanat ». Nos collègues de la Droite républicaine, qui ont disparu de l’hémicycle, ont souhaité discuter de la valorisation du travail. Je m’étonne que nous n’évoquions pas davantage des éléments aussi importants que les conditions de travail ou la capacité pour les salariés d’évoluer au sein d’une entreprise.<br/>Madame la ministre, pour tenter de m’en tenir au sujet initial, ma question est la suivante. Depuis le 1<exposant>er</exposant><exposant> </exposant>janvier 2025, les entreprises de onze à quarante-neuf salariés doivent instaurer un dispositif de partage de la valeur si elles réalisent un bénéfice net fiscal d’au moins 1 % de leur chiffre d’affaires pendant trois années consécutives. Comme l’a rappelé Félicie Gérard, les entreprises peuvent choisir la PPV, un accord de participation et d’intéressement ou un abondement sur un plan d’épargne salariale.<br/>De quelle manière les entreprises sont-elles accompagnées dans cette démarche ? Disposons-nous des outils qui permettent de mesurer l’impact de ce dispositif ? Une généralisation à l’ensemble des entreprises pourrait-elle être envisagée, notamment aux entreprises de moins de onze salariés ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628783" ordre_absolu_seance="93" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649815" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3209.51">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628784" ordre_absolu_seance="94" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649816" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3268.37">Je sais l’attention que vous portez aux questions d’intéressement et de participation des salariés. Seulement 11 % des entreprises de onze à quarante-neuf salariés ont instauré un dispositif d’intéressement, 4 % ont instauré la participation. Plusieurs mesures ont été adoptées à la suite d’un accord national interprofessionnel (ANI) signé par les partenaires sociaux, qui a été transposé dans la loi. Des outils ont été déployés, notamment de questions-réponses pour les entreprises qui voudraient se saisir de ces dispositifs. Enfin, un suivi permettra de s’assurer qu’elles se les approprient effectivement. Nous échangeons sur ces sujets avec les différentes organisations patronales et syndicales que nous rencontrons pour faire le point sur la situation. Je n’ai malheureusement pas de chiffres à vous donner car ces dispositifs sont encore très récents, mais je reviendrai vers vous pour vous donner des éléments dès qu’ils nous parviendront.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628785" ordre_absolu_seance="95" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649817" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3338.59">La parole est à M. Stéphane Viry.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628786" ordre_absolu_seance="96" id_acteur="PA721474" id_mandat="PM843608" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649818" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Stéphane Viry (LIOT)</nom>
+            <id>721474</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3344.49">Valoriser la France qui travaille, c’est tout simplement reconnaître que la nation puise sa force dans l’effort quotidien de chacun des Français qui travaille. Le travail doit rapporter plus que l’inactivité. Pour moi, c’est un postulat important, et pourtant, force est de constater que notre système d’aides sociales, bien qu’il soit le reflet du pacte républicain, peut parfois constituer un frein à l’effort. Dans certains cas, le cumul des aides, issu d’un véritable mille-feuille administratif composé d’une trentaine de prestations, amène une personne à gagner moins en travaillant qu’en restant inactive. De nombreux citoyens estiment à juste titre que cette situation est inadmissible, incompréhensible et injuste.<br/>Il y a un mois, en commission des affaires sociales, nous avons examiné une proposition de loi visant à instaurer une allocation sociale unique assortie d’un plafonnement à 70 % du smic du cumul des aides. Cette initiative va dans le bon sens. Cela garantirait que travailler ou reprendre un emploi soit toujours plus avantageux que dépendre d’un système qui consomme 120 milliards d’euros par an. Bien que notre modèle social reste une fierté, un pilier de solidarité et de justice, il doit à présent être réformé pour valoriser réellement les Français qui travaillent.<br/>Quelle est la position du gouvernement sur cette proposition d’allocation sociale unique ? Êtes-vous prêts à lancer des travaux pour définir ses bornes et ses modalités, puis inscrire dans la loi cette réforme qui valorisera la France qui travaille ? <italique>(Mme Félicie Gérard applaudit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628788" ordre_absolu_seance="99" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649820" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3444.51">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2628789" ordre_absolu_seance="100" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649821" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3459.28">J’ai rappelé les chiffres éloquents d’une étude publiée par la Drees en octobre, qui montrent l’importance des effets de seuil. Pour qu’une femme rémunérée au smic, qui élève ses enfants seule et est locataire – elle perçoit à ce titre la prime d’activité avec une majoration familiale et les APL – voie son revenu disponible augmenter de 100 euros, il faudrait que son employeur lui accorde une augmentation de 750 euros. Les dispositifs construits au cours des trente dernières années, les allègements généraux côté employeur, la prime d’activité côté salarié pour stimuler les faibles salaires, ainsi que les aides associées, créent ce genre de situations.<br/>Le gouvernement a décidé de procéder en deux étapes : d’abord la solidarité à la source et le préremplissage ; ensuite l’allocation sociale unifiée, sur laquelle Mme Catherine Vautrin et le premier ministre se sont engagés. Les travaux commencent mais, ne nous trompons pas, il s’agit de travaux de très longue haleine. On compte une douzaine de minima sociaux, avec des bases ressources différentes, des opérateurs ou des caisses différents, des systèmes d’information différents, des dispositifs qui relèvent pour certains de l’État, pour d’autres des collectivités territoriales. Une telle réforme paraît absolument indispensable pour valoriser le travail et mieux sortir les personnes de la pauvreté.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628935" ordre_absolu_seance="102" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649941" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3531.40">La parole est à M. Stéphane Viry, pour sa seconde question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628936" ordre_absolu_seance="103" id_acteur="PA721474" id_mandat="PM843608" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649942" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Stéphane Viry (LIOT)</nom>
+            <id>721474</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3583.31">Nous nous demandons comment valoriser la France qui travaille, mais encore faut-il que le travail soit accessible à tous, c’est-à-dire que chacun puisse accéder à un emploi ou à une activité, quels que soient son parcours, ses freins, ses échecs et ses failles.<br/>Ma question porte donc sur les politiques de l’emploi. Hier une utopie, le plein emploi est devenu un objectif car, ces derniers mois, le taux de chômage est descendu à presque 7 %. Même si, depuis, ce taux est remonté, l’objectif du travail pour tous doit rester une véritable ambition politique. Cet objectif nécessite des moyens d’accompagnement individuel et socio-professionnel, afin de permettre à des personnes abîmées et éloignées de l’emploi de retrouver un chemin, en admettant des allers-retours et des échecs, sans jamais les laisser tomber, car nous refusons l’exclusion. Selon nous, le travail est à la base de tout : de la citoyenneté, de l’intégration au sens social du terme et du bulletin de salaire qui fait du bien à toutes les familles.<br/>Dans le projet de loi de finances pour 2025, les crédits de l’insertion par l’activité économique ont été rabotés. Cela pose de nombreuses questions sur cette politique publique qui a pourtant fait ses preuves depuis plusieurs décennies. Quelle est l’intention de votre gouvernement ? Allez-vous donner encore un souffle à cette politique publique noble et républicaine, qui ne traite pas de régulation, mais d’égalité des chances ? <italique>(Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628939" ordre_absolu_seance="106" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649945" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3660.62">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628940" ordre_absolu_seance="107" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649946" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3709.48">Vous avez raison de rappeler que, malgré le durcissement des conditions économiques, le plein emploi doit rester une ambition. Il a été atteint dans d’autres pays européens et nous devons continuer nos efforts. S’agissant des crédits budgétaires de l’insertion par l’activité économique, permettez-moi de rappeler d’où l’on vient : en 2017, 800 millions d’euros étaient alloués à ce secteur indispensable ; depuis, nous sommes passés à 1,4 milliard. Cela donne une idée de l’ampleur de l’effort soutenu…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628941" ordre_absolu_seance="108" id_acteur="PA774958" id_mandat="PM843389" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649947" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Gérard Leseul</nom>
+            <id>774958</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3750.32">Et des besoins !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628942" ordre_absolu_seance="109" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649948" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3751.84">…au cours des dernières années. Sur cette même période, nous sommes passés de 140 000 à 150 000 bénéficiaires.<br/>Le sujet doit être examiné au regard du modèle économique des structures car l’accompagnement y est très différent selon que l’on parle de chantiers, d’associations, d’entreprises d’insertion ou d’entreprises de travail temporaire d’insertion (ETTI).<br/>Nous avons dû prendre des décisions difficiles dans tous les secteurs et baisser de 4 % les crédits alloués à l’insertion par l’activité économique. Afin de mieux accompagner les publics les plus vulnérables, nous avons entamé des discussions avec les acteurs concernés. Au-delà de la politique actuelle d’entrée dans les dispositifs, nous devons adopter une logique de qualité et de sortie vers des solutions structurantes ou bien des emplois durables.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628945" ordre_absolu_seance="112" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649951" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3835.84">La parole est à Mme Hanane Mansouri.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628946" ordre_absolu_seance="113" id_acteur="PA841183" id_mandat="PM842786" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649952" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Hanane Mansouri (UDR)</nom>
+            <id>841183</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3841.89">Ce débat est très important. Alors que notre économie est frappée par un déficit commercial de 81 milliards d’euros, que les investissements des entreprises sont en repli, que le marché du travail est fragile et que les dépenses publiques sont toujours aussi excessives, l’État continue d’étouffer les initiatives individuelles. Nous attendons désormais que le gouvernement nous donne des réponses à la hauteur des enjeux.<br/>Nos chers collègues du groupe Droite républicaine, qui brillent par leur absence, proposent de réformer l’assurance chômage, tout en étant alliés à M. Attal qui, par manque de courage politique, a lui-même suspendu cette réforme. Ce groupe, qui était aussi aux affaires avec le précédent gouvernement, a même enterré le projet de réforme, en privilégiant les négociations sans fin avec des partenaires sociaux indécis, alors que nous aurions pu bénéficier de 5 milliards d’euros d’économies directes.<br/>L’encouragement des forces vives de notre économie ne peut se faire à coups de renoncements lorsqu’il s’agit de prendre les mesures qui s’imposent. Le groupe UDR considère que le courage nécessite une libération du potentiel de nos entrepreneurs, à travers l’investissement, l’innovation, la création d’emplois et la hausse des salaires. L’application de ces mesures passe par une réflexion sur les manières de réduire le poids de l’État dans notre économie. C’est la seule solution pour laisser nos entreprises créer des emplois qui payent. Comment allez-vous donc mettre en œuvre ces propositions avec cohérence, pour que le travail paye enfin plus que l’assistanat ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628949" ordre_absolu_seance="116" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649955" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3920.85">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628950" ordre_absolu_seance="117" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649956" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3923.06">Ces questions, en particulier l’écart constaté entre salaire brut et salaire net, ont été posées par les députés du groupe DR en début de séance. Des débats difficiles s’imposeront devant la représentation nationale car le travail finance la protection sociale de manière anormalement élevée – 55 % –, par rapport aux autres pays européens. L’une des voies possibles, qui nécessitera des discussions courageuses, au-delà des positions des groupes politiques de l’Assemblée, est de faire en sorte que le travail couvre d’abord les risques associés au travail – assurance chômage, retraite et accidents du travail. D’autres types de revenus ou bases fiscales financeraient alors la santé et les prestations familiales.<br/>Pour ce qui est de l’assurance chômage, la réforme proposée devait dégager 3,5 milliards d’euros d’économies, et non pas 5 milliards, car des mesures avaient été refusées par les partenaires sociaux. Nous avons privilégié le compromis et l’apaisement, grâce à un accord trouvé par trois organisations patronales et trois organisations syndicales. L’idée est d’aller serrer les boulons là où il faut, en évitant de pénaliser tout le monde. Nous ciblons donc l’assurance chômage des transfrontaliers, qui concerne 77 000 demandeurs d’emploi, pour un déficit de 800 millions d’euros par an, soit environ 10 milliards d’euros depuis dix ans. Lundi, je me rendrai au Conseil européen afin de modifier le règlement qui s’y rapporte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628952" ordre_absolu_seance="119" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649958" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4051.39">La parole est à M. Olivier Fayssat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628953" ordre_absolu_seance="120" id_acteur="PA840773" id_mandat="PM842456" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649959" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Olivier Fayssat (UDR)</nom>
+            <id>840773</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4058.58">Valoriser la France qui travaille, cela passe soit par une création de richesse, soit par un transfert de richesse. Dans une économie de marché non marxiste, la création de richesse n’est pas une compétence de l’État, mais une possibilité qui relève du monde de l’entreprise. Si une valorisation théorique sous forme de reconnaissance et de réhabilitation de la valeur travail semble nécessaire, elle ne saurait être suffisante.<br/>Ma question, qui a déjà été posée, ne vous prendra pas de court, mais sa présentation est différente – cela vous changera. Souhaitant apporter une réponse concrète à cette France qui travaille, le groupe UDR propose de réduire les cotisations salariales, afin de diminuer l’écart entre le salaire net et le salaire brut. Cela permettrait d’augmenter sensiblement les revenus de tous les travailleurs de France, sans charger davantage les employeurs.<br/>Les cotisations salariales finançant notamment la protection sociale du salarié – maladie, chômage et retraite –, leur réduction suppose un financement de substitution. La générosité étant une vertu uniquement lorsqu’elle concerne ses biens propres et non pas ceux des autres, je soumets à votre lucidité, plus qu’à votre bon cœur, les dépenses suivantes, dans lesquelles notre groupe pense que nous devrions légitimement trancher : l’aide médicale de l’État (AME) qu’il faudrait transformer en aide médicale urgente (AMU), les subventions aux associations, et de nombreuses agences inutiles qu’il conviendrait de supprimer.<br/>Dans le pays le plus taxé de l’OCDE, ces cotisations sont vécues par les salariés comme un impôt supplémentaire très démotivant. N’oublions pas qu’une augmentation du salaire net entraînera à son tour une dynamique de la consommation, donc des recettes supplémentaires de TVA et d’autres effets induits, qui stimuleront la croissance, la création d’emploi et l’augmentation de la recette publique. La baisse des cotisations salariales est-elle un des leviers de valorisation envisagés par le gouvernement ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628957" ordre_absolu_seance="124" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649963" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4161.40">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628958" ordre_absolu_seance="125" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649964" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4180.65">Permettez-moi de faire un peu de publicité pour les organismes de statistiques associés aux ministères sociaux. Je vous invite à lire le dossier de la Drees publié en janvier 2025, qui étudie le financement de la protection sociale en France, par rapport aux autres pays européens. Le tableau figurant à la page 22 du document montre que les employeurs comme les salariés participent beaucoup plus qu’ailleurs en Europe au financement de la protection sociale, même après les allègements généreux des cotisations patronales.<br/>Cela en dit long sur le déséquilibre actuel, qui nuit à la compétitivité des entreprises – je fais référence à la première partie de votre question, concernant la création de richesse par les entreprises –, et qui freine l’évolution du pouvoir d’achat et du salaire net des employés.<br/>Si des mesures ont été prises depuis 2018, comme le transfert des cotisations salariales vers la contribution sociale généralisée (CSG), notamment pour la maladie, le compte n’y est pas. Comme je l’ai dit à votre collègue, nous devons examiner comment le travail pourrait financer les risques qui lui sont associés, pour le salarié comme pour l’employeur – retraites, accidents du travail et chômage –, afin que les prestations plus universelles – maladie et famille – soient financées par d’autres types de revenus. Ces décisions, difficiles à prendre, nécessitent un débat courageux.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628961" ordre_absolu_seance="128" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649967" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4295.55">La parole est à M. Aurélien Dutremble.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628962" ordre_absolu_seance="129" id_acteur="PA841761" id_mandat="PM843320" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649968" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Aurélien Dutremble (RN)</nom>
+            <id>841761</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4307.24">N’oublions pas le monde agricole dans ce débat. Le travail des agriculteurs est-il valorisé à son juste niveau ? Non, bien évidemment. La crise agricole récente l’a rappelé avec force : malgré des semaines de 70 heures, du lundi au dimanche, et des astreintes de nuit pour les éleveurs, la rémunération des 761 000 actifs permanents travaillant dans l’agriculture reste indigne.<br/>Permettez-moi de rappeler des chiffres accablants. Le revenu médian des agriculteurs est de l’ordre de 1 035 euros net par mois. Chez les éleveurs ovins, certains gagnent seulement 680 euros par mois, quand d’autres ne gagnent rien du tout, voire perdent de l’argent, comme en 2021, où j’ai relevé que les revenus d’une exploitation sur sept étaient nuls ou déficitaires. Enfin, un dernier chiffre sur cette France qui travaille beaucoup mais ne gagne rien : 26 % des agriculteurs vivent sous le seuil de pauvreté.<br/>Il est urgent de valoriser enfin la France qui travaille dans les fermes et les élevages. Les agriculteurs veulent simplement vivre de leur travail. Au lendemain du Salon de l’agriculture, quelles mesures concrètes envisagez-vous dans ce domaine ? Cotisations sociales, retraites, reconnaissance de la pénibilité, Mutualité sociale agricole (MSA) : quels leviers activerez-vous afin de garantir un revenu digne aux agriculteurs ? Quelles pistes explorez-vous déjà avec votre collègue ministre de l’agriculture ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628965" ordre_absolu_seance="132" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649971" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4417.05">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2628966" ordre_absolu_seance="133" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649972" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4425.29">Pendant le Salon de l’agriculture, j’ai eu l’occasion de discuter longuement avec des représentants de la MSA qui effectue un travail considérable en tant que guichet unique auprès de la profession agricole.<br/>Le PLFSS a accédé à certaines demandes de la profession, en prolongeant les exonérations de charges pour les employeurs, ce qui signifie plus de bénéfices dans l’exploitation, à travers le dispositif travailleur occasionnel demandeur d’emploi (TODE). Nous avons également revalorisé les retraites des non-salariés agricoles, le but étant de les caler sur les vingt-cinq meilleures années, comme c’est le cas pour le régime agricole.<br/>Au sein de ce dispositif – nous en avons discuté avec les représentants de la MSA –, il y a aussi, de concert avec France Travail, l’accompagnement des exploitants, au revenu mensuel parfois inférieur à 500 euros, en vue, si l’exploitation n’est pas viable, de trouver d’autres solutions salariées. Mme Genevard et moi poursuivrons notre tâche sur ces sujets, puisque, vous l’avez rappelé, la situation des agriculteurs, qui travaillent durement, n’est pas à la hauteur de leurs efforts.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628841" ordre_absolu_seance="136" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649166" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4523.64">La parole est à M. Michel Guiniot.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628842" ordre_absolu_seance="137" id_acteur="PA794734" id_mandat="PM843146" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649167" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Guiniot (RN)</nom>
+            <id>794734</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4545.12">Alors qu’en France plus de 30 millions de personnes occupent un emploi, 10 % sont des travailleurs pauvres, concept apparu sous la présidence de M. Sarkozy : des concitoyens qui ne peuvent correctement se loger, se nourrir, se déplacer, profiter en famille de quelques loisirs, mais dont cela n’empêche pas qu’ils soient ponctionnés – fiscalité, cotisations, taxes – au profit de gens qui parfois en abusent.<br/>Que la solidarité nationale se manifeste en faveur de ceux qui sont dans le besoin, des femmes isolées, des personnes âgées, handicapées, malades, des familles, dont beaucoup, actuellement, souffrent, est compréhensible et souhaitable. En revanche, la France qui travaille ne devrait pas financer l’entretien sur notre sol de millions de clandestins sans emploi, ni la distribution de milliards d’euros à des pays qui rejettent notre souveraineté, notre identité, comme on l’a vu récemment. La France qui travaille ne devrait pas être imposée, taxée, en vue de projets qui ne sont pas dans son intérêt. Ce n’est pas l’allocution lunaire prononcée à 20 heures par le président de la République qui l’aura rassurée.<br/>Pour valoriser la France du travail, il faut commencer par reconnaître la valeur du travail en France. Réduire l’emploi salarié à un smic à peine supérieur au seuil de pauvreté ne constitue pas une solution, d’autant que, comme cela a été dit tout à l’heure, nombre de salariés constatent que leur niveau de vie est inférieur à celui de gens qui ne se donnent pas la peine de souscrire au contrat social. Je le répète, la valorisation de la France du travail passe par une valorisation de la France, mais aussi du travail.<br/>Quelles solutions peut envisager l’État afin de ne plus seulement reconnaître, comme ce soir, la France qui travaille, mais lui rendre sa fierté ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628846" ordre_absolu_seance="141" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649171" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4664.58">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628847" ordre_absolu_seance="142" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649172" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4674.30">Vous parlez d’un phénomène dont l’existence constitue une honte : le fait de travailler et de vivre néanmoins dans la pauvreté, situation que nous avons d’abord cru ne trouver qu’outre-Atlantique, avant de la découvrir en Europe. En France, près de 8 % des travailleurs sont pauvres. Pour y remédier, nous essayons de stimuler les bas salaires par la prime d’activité, avec une majoration familiale ; nous avons créé des aides au logement dans le même but, c’est-à-dire compléter un faible revenu, un pouvoir d’achat insuffisant.<br/>Cependant, la question fondamentale reste l’écart entre le brut et le net : nous avons à la fois un coût du travail parmi les plus élevés et un salaire net parmi les plus bas d’Europe. Encore une fois, il faudrait une discussion courageuse au sujet de ce salaire différé, mutualisé, qui nuit à la compétitivité de nos entreprises et fait que le travail, dans notre pays, ne paie plus autant qu’il le devrait, y compris pour les travailleurs qui ne sont pas pauvres. Rappelons que le smic représente aujourd’hui 50 % du salaire moyen et 60 % du salaire médian, signe que le revenu par habitant a pu se dégrader au cours des dernières années.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628849" ordre_absolu_seance="144" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649174" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4783.36">La parole est à M. Thibaut Monnier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628850" ordre_absolu_seance="145" id_acteur="PA840915" id_mandat="PM842552" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649175" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibaut Monnier (RN)</nom>
+            <id>840915</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4796.67">Mieux vaut envoyer des signaux forts à ceux qui créent de la richesse, valoriser le travail, sans lequel il n’y aurait pas d’aide sociale, plutôt que le prétendu droit à la paresse ou le ministère du temps libre chers à la gauche. « Dans une nation libre, on travaille plus pour acquérir qu’à conserver », écrivait Montesquieu. Les travailleurs supportent l’essentiel de la dépense sociale : un salarié qui perçoit 2 000 euros coûte environ 3 600 euros à son employeur. S’agissant de valoriser la France qui travaille, le coût du travail constitue l’enjeu majeur.<br/>Vous l’avez dit, rapprocher le salaire net du salaire brut serait le seul moyen de revaloriser le travail, d’accroître le pouvoir d’achat. Celui qui fait le choix de travailler doit pouvoir prétendre à un revenu significativement plus élevé que celui qui vit des seules prestations sociales. Que dire de la CSG, dont le taux n’a cessé d’augmenter, passant de 1,1 % en 1991, année de son entrée en vigueur, à 6,6 % aujourd’hui ? La voilà devenue l’impôt direct le plus important, avant l’impôt sur le revenu ! En 2023, les prestations sociales représentaient 31,5 % du PIB, soit près de 888 milliards d’euros. Certes, elles sont essentielles pour soutenir les plus vulnérables, mais un tel niveau d’aide constitue un frein à l’emploi : à l’échelle individuelle, il s’apparente à un revenu de base, entraînant une dépendance qui dissuade de chercher du travail.<br/>Certains voudraient les réunir en une allocation unique équivalant à 70 % du smic : il conviendrait qu’avant de demander à tous les assurés sociaux des efforts supplémentaires, la France cesse d’être un eldorado, une pompe aspirante pour l’immigration, qui pèse sur nos comptes sociaux. Comble de l’injustice, on estime qu’en cumulant toutes les aides auxquelles il est éligible, un ressortissant étranger sans emploi, n’ayant jamais cotisé, pourrait percevoir en moyenne 811 euros par mois ! Aussi serait-il temps de ne plus verser le RSA et les APL aux étrangers que s’ils ont occupé pendant au moins cinq ans un emploi à temps plein sur le territoire national.<br/>Quand prendrez-vous les mesures qui s’imposent en vue de mettre des conditions à ces aides, envisager de réduire le coût du travail, redonner du pouvoir d’achat à nos compatriotes ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628854" ordre_absolu_seance="149" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649179" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4867.59">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628855" ordre_absolu_seance="150" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649180" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4914.69">Vous avez mentionné le problème déjà signalé de l’écart entre salaire super brut et salaire net, rappelant que nos dépenses sociales représentent près du tiers du PIB – 31,6 %. C’est en ce sens que j’évoquais la nécessité de décisions courageuses : lors de l’examen du dernier PLFSS, dès qu’ont été proposés des déremboursements mineurs touchant les consultations, les médicaments – la France est celui des pays de l’OCDE qui rembourse le mieux les dépenses de santé –, dès qu’il a été question d’une sous-indexation partielle de la pension des retraités qui peuvent se le permettre, vous avez voté contre.<br/>Les dépenses sociales sont anormalement assises sur le travail, en particulier sur l’employeur, à qui, vous l’avez très justement dit, le salarié coûte cher, tandis que ce même salarié perçoit un montant trop bas. Il importe d’une part, sans reculer devant des mesures que nous devrons prendre ensemble, car les choses ne peuvent plus continuer ainsi, de dégonfler la protection sociale, d’autre part de l’asseoir davantage sur d’autres revenus que ceux du travail : pourquoi ne pas utiliser la CSG, qui porte certes sur les salaires, mais aussi sur les pensions de retraite et les revenus du capital ? C’est là une base plus large que celle constituée des seuls salaires bruts et nets de ceux qui travaillent ou créent du travail.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628857" ordre_absolu_seance="152" id_acteur="PA794734" id_mandat="PM843146" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649182" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Michel Guiniot</nom>
+            <id>794734</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5020.50">Ne touchez pas aux retraités, madame la ministre !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628858" ordre_absolu_seance="153" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649183" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5027.46">La parole est à Mme Emmanuelle Hoffman.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628859" ordre_absolu_seance="154" id_acteur="PA841709" id_mandat="PM849151" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649184" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Emmanuelle Hoffman (EPR)</nom>
+            <id>841709</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5033.73">Depuis 2017, sous l’impulsion du président de la République, le gouvernement a pris d’importantes mesures visant à promouvoir le partage de la valeur et l’égalité salariale entre femmes et hommes. Nous saluons ces avancées qui témoignent d’une forte volonté de justice sociale.<br/>Pour ce qui est du premier point, après la loi dite Pacte du 22 mai 2019, qui a facilité les accords d’intéressement ou de participation au sein des entreprises, est venue la loi du 29 novembre 2023, prévoyant une expérimentation ambitieuse : depuis le 1<exposant>er</exposant> janvier 2025, les entreprises comptant entre onze et quarante-neuf salariés sont tenues d’instaurer un dispositif de partage de la valeur. Il s’agit là d’un progrès notable vers l’extension de ce dispositif aux petites structures ; cependant, beaucoup de PME se heurtent à des difficultés pratiques. Quelles mesures concrètes le gouvernement envisage-t-il pour les accompagner efficacement, afin que l’expérimentation soit un succès ?<br/>Concernant le second point, la création en 2019 de l’index de l’égalité professionnelle a permis aux entreprises comptant plus de cinquante salariés d’évaluer et de réduire leurs écarts de rémunération, d’autant qu’il leur faut désormais, sous peine de sanctions financières, atteindre un score minimal. En dépit de ces efforts, qu’il convient de saluer, l’écart salarial moyen reste préoccupant – à poste équivalent, il était encore de 8,5 % en 2024 –, d’autant que les petites structures, n’étant pas soumises à l’index, continuent d’échapper à ces exigences. Alors que nous approchons de la journée internationale du 8 mars, que prévoit le gouvernement en vue de réduire davantage les écarts de salaires entre hommes et femmes, en particulier dans les petites entreprises ? Comment comptez-vous transposer la directive européenne du 10 mai 2023, qui vise à la transparence salariale, de manière à en maximiser l’impact ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628862" ordre_absolu_seance="157" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649187" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5133.58">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628863" ordre_absolu_seance="158" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649188" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5165.79">Les questions posées par Mme la députée concernent deux sujets distincts : ai-je droit, pour y répondre, à deux fois deux minutes ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628864" ordre_absolu_seance="159" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649189" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5177.50">Seulement à deux fois une minute, madame la ministre ! <italique>(Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628865" ordre_absolu_seance="160" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649190" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5195.15">Mon ministère a travaillé avec les partenaires sociaux en vue de communiquer et de mieux faire comprendre les nouvelles possibilités et obligations, au sujet des accords d’intéressement ou de participation, dans les PME, sous-dotées en la matière. Il s’agit d’actions très concrètes : foires aux questions, <italique>flyers</italique>, sensibilisation des branches. Un portail internet, Mon intéressement pas à pas, a été créé, puis enrichi de manière à intégrer en particulier les critères liés à la responsabilité sociale des entreprises (RSE) et permettre aux PME de continuer à s’approprier ce sujet ; nous devons aussi poursuivre notre travail avec les chambres de métiers et de l’artisanat, ainsi que les chambres consulaires.<br/>En matière d’égalité salariale, la marche sera encore longue : l’écart entre femmes et hommes atteint 22 %. Il est vrai que ce chiffre tombe à 14 % si l’on tient compte de la quotité de travail – 25 % des femmes travaillent à temps partiel – et même à 4 % à emploi et expérience égaux, mais après une baisse continue, il stagne depuis quelques années. L’index dont vous avez fait mention a permis d’infuser dans les entreprises concernées une culture de l’égalité professionnelle, d’amener à corriger un certain nombre de choses : je pense aux retours de congé maternité. Ce n’est pas suffisant ; nous avons engagé une concertation avec les partenaires sociaux au sujet de la transposition de la directive, qui doit être effectuée avant juin 2026 – nous aimerions que ce soit avant la fin de l’année. Ce texte nous aidera car il est très précis s’agissant des fourchettes de salaire, types de poste et autres indications.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628867" ordre_absolu_seance="162" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649192" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5308.01">La parole est à M. Bérenger Cernon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2628868" ordre_absolu_seance="163" id_acteur="PA842037" id_mandat="PM843578" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649193" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bérenger Cernon (LFI-NFP)</nom>
+            <id>842037</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5313.54">Le sujet de ce débat est important, mais ses termes mal posés : si nous valorisons certes trop peu le travail, il convient de s’interroger sur la manière de le valoriser, le sens à lui donner. Se contenter d’évoquer la France qui travaille revient à opposer deux France : « les gens qui réussissent et ceux qui ne sont rien ». Quelle valorisation du travail prônez-vous lorsque vous annoncez que les bénéficiaires du RSA devront en contrepartie travailler gratuitement, que vous refusez d’augmenter le smic, les pensions de retraite, que vous confisquez deux ans de vie en bonne santé à ceux qui ont trimé toute une carrière ?<br/>J’aurais aimé que nous discutions des vrais outils de valorisation du travail : la semaine de 32 heures, le smic à 1 600 euros, la retraite à 60 ans, l’augmentation des salaires, des pensions, des allocations chômage. La France vient une nouvelle fois de battre des records en matière de versements de dividendes ; en dix ans, les cent plus grandes entreprises françaises ont augmenté de 66 % le salaire de leur PDG, employé en dividendes et rachats d’actions 71 % de leurs bénéfices.<br/>Dans le même temps, la part consacrée à la rémunération dans la valeur ajoutée diminue. Vous prétendez valoriser le travail mais c’est la précarité qui explose : la France compte 4,3 millions de travailleurs pauvres et 1 million de travailleurs très pauvres. La politique actuelle ne valorise pas la France qui travaille, elle l’épuise ! Ce constat est, en réalité, au cœur d’un rapport de force permanent entre le patronat, les actionnaires et les salariés dans la répartition des richesses. Le patronat, plus que jamais décomplexé, gave les actionnaires au détriment des salariés, alors que ce sont eux qui produisent les richesses. La répartition des richesses doit s’inverser et se faire au profit des travailleurs, à travers le salaire et les cotisations sociales – car, oui, les cotisations sociales, c’est du salaire ! Sans salariés, sans travailleurs, il n’y a ni création de richesses ni, par conséquent, de bénéfices.<br/>Nous voulons une autre politique de l’emploi : une politique qui accompagne au lieu de punir, qui sécurise au lieu de précariser. Nous voulons des emplois qui permettent de vivre et non plus de survivre. Valoriser la France qui travaille, c’est, avant tout, reconnaître sa dignité. <italique>(Mme Ersilia Soudais applaudit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628793" ordre_absolu_seance="167" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649284" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5376.86">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628794" ordre_absolu_seance="168" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649285" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5438.32">Valoriser la France qui travaille, c’est partir de chiffres et de la réalité plutôt que de simples postures. L’expérimentation menée actuellement dans une cinquantaine de départements a permis de faire sortir du RSA 42 % des bénéficiaires !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628795" ordre_absolu_seance="169" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649286" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5459.41">Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628796" ordre_absolu_seance="170" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649287" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5460.44">Ce n’est pas se payer de mots que de le souligner. Vous dites que les retraites n’ont pas été revalorisées, mais les pensions ont été augmentées en janvier 2024 de plus de 5 %,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628797" ordre_absolu_seance="171" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649288" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5470.39">Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628798" ordre_absolu_seance="172" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649289" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5470.69">…puis de près de 1,5 % en janvier 2025. Vous avez également évoqué le smic : je rappelle qu’au 1<exposant>er</exposant> novembre 2024, il avait bénéficié d’un coup de pouce de 2 %. <italique>(M. Bérenger Cernon proteste.)</italique><br/>Enfin, en matière de valeur ajoutée, je vous invite à examiner la répartition entre le capital et le travail : elle est stable depuis 1984.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628800" ordre_absolu_seance="174" id_acteur="PA842037" id_mandat="PM843578" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649291" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bérenger Cernon</nom>
+            <id>842037</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5484.14">Mais non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628801" ordre_absolu_seance="175" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649292" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5485.51">Si, reprenez les chiffres ! Cela ne veut pas dire qu’il ne faut pas valoriser le travail. Néanmoins, ce n’est vraiment pas avec vos réponses, vos postures que vous aiderez les travailleurs, je vous l’assure.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628802" ordre_absolu_seance="176" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649293" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5498.40">Eh oui ! Il ne faut pas inventer des chiffres !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628803" ordre_absolu_seance="177" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649294" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5504.96">La parole est à Mme Ersilia Soudais.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628804" ordre_absolu_seance="178" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649295" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais (LFI-NFP)</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5511.80">Je m’interroge sincèrement sur l’intitulé même de notre débat de ce soir : « Valoriser la France qui travaille ». J’y perçois, en effet, un sous-entendu raciste qui me met mal à l’aise. <italique>(M. Laurent Croizier rit.)</italique> Il faudrait valoriser les Français qui travaillent, par opposition aux vilains étrangers qui profiteraient des allocations. J’y vois également une attaque, à peine voilée, à l’encontre des chômeurs. Pourtant, les véritables assistés, ce sont non pas les étrangers ou les chômeurs, contrairement à ce que ne cessent de marteler la droite et l’extrême droite, mais les ultrariches. Chacun pourrait vivre décemment de son travail si le capital ne s’accaparait pas tout.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628805" ordre_absolu_seance="179" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649296" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5542.88">C’est lunaire !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628806" ordre_absolu_seance="180" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649297" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5551.06">Pour valoriser les travailleuses et les travailleurs, il faudrait commencer par augmenter les salaires et, pour ce faire, prendre l’argent là où il se trouve, c’est-à-dire chez les ultrariches. Cependant, la niche parlementaire du groupe Écologiste et social nous a montré à quel point vous n’y êtes pas prêts. Certains ont même eu le culot de dire qu’il faudrait davantage de Bernard Arnault dans notre pays, ce qui est en fait une insulte à l’intelligence.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628807" ordre_absolu_seance="181" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649298" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5577.90">Ils ont raison !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628808" ordre_absolu_seance="182" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649299" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5578.63">Davantage de Bernard Arnault, ce serait davantage de personnes précaires : c’est mathématique.<br/>Par ailleurs, à l’approche du 8 mars, il est important de souligner que le travail des femmes est particulièrement peu valorisé. Les derniers chiffres de l’Insee montrent ainsi qu’un homme cadre gagnerait 15 % de plus qu’une femme ayant les mêmes responsabilités. Autre preuve du manque de considération à l’égard du travail des femmes, les métiers féminisés sont considérés, à tort, comme étant faciles. C’est pourquoi nous proposons que la pénibilité de leurs métiers soit reconnue dans le code du travail.<br/>En définitive, valoriser les travailleuses et les travailleurs, c’est agir pour toujours plus d’égalité, à contre-courant de la politique menée par les différents gouvernements macronistes. Cette valorisation ne suppose-t-elle pas, madame la ministre, de commencer par la démission du gouvernement Bayrou ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628811" ordre_absolu_seance="185" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649302" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5619.69">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628812" ordre_absolu_seance="186" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649303" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5643.46">Je ne sais pas quoi répondre parce qu’il y a tellement…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628813" ordre_absolu_seance="187" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649304" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5645.63">De n’importe quoi !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628814" ordre_absolu_seance="188" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649305" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5647.11">…de réflexions. Pour commencer, ce n’est pas moi qui ai choisi le titre du débat,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628814" ordre_absolu_seance="189" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649347" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5652.77">Rien ne vous empêche de le remettre en cause !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628814" ordre_absolu_seance="190" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649331" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5653.66">…mais l’un des groupes de cette assemblée. Je suis ici pour répondre aux différentes questions.<br/>En ce qui concerne l’augmentation du smic, rappelons que la France est l’un des pays de l’Union européenne où le salaire minimum est le plus élevé, rapporté au salaire médian : elle se classe au quatrième ou au cinquième rang, en valeur absolue, par rapport aux vingt-sept pays de l’Union.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628816" ordre_absolu_seance="192" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649307" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5668.23">À vous écouter, c’est le paradis !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628817" ordre_absolu_seance="193" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649308" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5676.28">Le smic représente aujourd’hui 60 % du salaire médian. Le vrai sujet, c’est l’écart entre le salaire brut et le salaire net, qui explique que le coût du travail soit très élevé en France – je vous invite, si vous vous intéressez à ce sujet, à consulter les études statistiques sur le financement de la protection sociale. Nous avons donc un coût du travail très élevé et un salaire net très bas. Or, en augmentant le smic, vous augmenterez encore le coût du travail, tandis que le salaire net restera faible du fait des cotisations salariales. Il convient plutôt de réfléchir à la manière de financer la protection sociale, autrement que par le travail.<br/>Nous pouvons nous rejoindre sur la question de l’égalité salariale. Les femmes sont pénalisées parce qu’elles sont surreprésentées au sein des métiers mal payés ; elles font également largement partie des personnes qui occupent un emploi à temps partiel subi : 80 % sont des femmes. À ce titre, l’index de l’égalité professionnelle entre les femmes et les hommes – index Pénicaud – a été une bonne initiative, qu’il faut désormais poursuivre avec la transposition de la directive européenne, qui permettra de changer considérablement la transparence en matière de culture salariale dans notre pays.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628819" ordre_absolu_seance="195" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649310" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5759.01">La parole est à M. Pierrick Courbon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628820" ordre_absolu_seance="196" id_acteur="PA841295" id_mandat="PM842882" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649311" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierrick Courbon (SOC)</nom>
+            <id>841295</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5764.03">Le Comité de suivi de la négociation salariale de branches avec les partenaires sociaux s’est réuni dernièrement pour dresser un bilan des négociations salariales dans les 171 principales branches professionnelles du régime général. Ce travail a plus particulièrement porté sur la conformité des minima de ces branches au smic. Comme vous le déclariez vous-même à l’issue de cette réunion, il s’agit là d’un « enjeu majeur en matière de pouvoir d’achat et de déroulement de carrière pour les salariés mais aussi d’attractivité des secteurs concernés ».<br/>Constat a pu être fait qu’un nombre élevé de branches affiche des salaires minimums inférieurs au smic. Plusieurs mois après la dernière revalorisation du salaire minimum, 68 des 171 branches comportent toujours un ou plusieurs minima conventionnels inférieurs au smic – elles étaient 94 en novembre 2024. En outre, cinq ou six branches continuent d’afficher des minima structurellement inférieurs au smic. Ce n’est ni normal ni acceptable.<br/>En 2023, puis en 2024, le gouvernement avait indiqué que les branches qui ne seraient pas en conformité feraient l’objet d’un suivi rapproché, évoquant à demi-mot la possible conditionnalité des aides publiques et envisageant de légiférer pour calculer les exonérations de cotisations patronales sur la base des minima de branches et non plus du smic. Cette conditionnalité des allégements pour les branches non conformes reste de l’affichage. La mesure avait bien été inscrite dans le PLFSS pour 2025, notamment à la suite de l’adoption d’un amendement du groupe socialiste. Toutefois, elle n’a pas survécu au 49.3. Pourquoi l’avez-vous supprimée et comptez-vous agir cette année ?<br/>Valoriser la France qui travaille, c’est aussi garantir que chaque salarié vive dignement de son travail et donc, plus largement, lutter contre la smicardisation et les trappes à bas salaires.<br/>Je termine en rappelant que le problème n’est pas que le smic soit indexé sur les prix, contrairement à ce qu’on a pu entendre ce soir, mais que les autres salaires ne le soient pas. Aussi convoquerez-vous cette année une conférence sur le travail, qui abordera sans tabou la question des rémunérations et des dynamiques salariales ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628825" ordre_absolu_seance="201" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649316" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5863.05">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628826" ordre_absolu_seance="202" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649317" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5890.19">C’est une question cruciale car nous pensons que le dialogue social doit jouer un rôle important dans la négociation salariale, dans la refonte des classifications et pour tous ces points fondamentaux pour les travailleurs de notre pays.<br/>L’indexation du smic sur l’inflation, ces dernières années, a permis un rattrapage. Actuellement, 6 branches sur les 171 branches professionnelles, vous l’avez rappelé, sont structurellement non conformes, en raison de blocages. J’ai souhaité les rencontrer, avec la direction générale du travail. Nous avons ainsi rencontré les représentants de la branche du caoutchouc, qui fait partie de ces 6 branches, dont les minima restaient inférieurs au smic depuis mai 2023. Cette branche a finalement signé, il y a quelques jours, un accord sur les salaires. Nous continuerons de discuter avec les autres branches. Nous disposons de différents leviers pour agir sur elles, tels que les placements en commission mixte paritaire ou encore la possibilité d’utiliser la faiblesse du nombre d’accords dans une branche comme un élément d’appréciation de l’atonie conventionnelle.<br/>Il y a, bien sûr, la question des salaires. L’une des raisons qui expliquent le tassement des grilles salariales et les difficultés à négocier, c’est que de nombreuses branches n’ont pas non plus révisé leurs grilles de classification depuis un moment. Nous devons donc aborder tous ces sujets.<br/>Enfin, la conditionnalité des exonérations de cotisations patronales sur la base des minima conventionnels a fait l’objet d’une discussion en commission mixte paritaire. Un compromis a dû être fait avec ceux qui étaient favorables aux allégements de charges, conformément aux propositions émises par MM. Bozio et Wasmer. C’est pourquoi cette disposition a été supprimée dans la version finale du PLFSS, de sorte que cet outil n’est plus à notre disposition.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628830" ordre_absolu_seance="206" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649321" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6021.06">La parole est à M. Gérard Leseul.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628831" ordre_absolu_seance="207" id_acteur="PA774958" id_mandat="PM843389" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649322" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Gérard Leseul (SOC)</nom>
+            <id>774958</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6026.66">Le travail est au cœur de notre pacte social et figure même dans le préambule de la Constitution de 1946, rappelé dans celui de la Constitution de 1958. Or la valeur du travail est à la peine, avec les conséquences sociales, politiques et la colère populaire que l’on connaît. Nos concitoyens ont des difficultés à assumer le paiement de leur logement et des charges de chauffage, l’alimentation de toute la famille et la scolarité des enfants – je ne parle même pas des mobilités ni des loisirs.<br/>S’interroger sur la valorisation du travail pose notamment la question des bas salaires, en particulier dans les services – le sanitaire, le social, l’entretien –, implique qu’on examine des sujets tels que la valeur des services rendus, la fixation du salaire minimum, les inégalités et les échelles de salaires au sein des entreprises, enfin qu’on réaffirme, plus globalement, le besoin de régulation, c’est-à-dire de l’intervention de l’État.<br/>Je sais que vous avez travaillé, auditionné et réfléchi sur le travail dans toutes ses acceptions, symboliques, économiques et dialectiques et j’ai de l’estime pour la réflexion préalable à la mission que vous avez menée. Néanmoins, j’ai été déçu de vous entendre annoncer comme une victoire, à l’automne, l’anticipation au 1<exposant>er</exposant> novembre de la revalorisation du smic initialement prévue au 1<exposant>er</exposant> janvier. Pourtant, vous déclariez, quelques semaines plus tôt : « Le travail, c’est un lieu de construction de l’estime de soi et du lien social. C’est un moyen d’une vie digne et décente. Quelques convictions animeront donc ma feuille de route. D’abord, celle que le travail doit mieux payer. Le smic peut être un salaire d’entrée dans la vie active, mais ne doit pas être un salaire à vie. »<br/>Mes questions seront donc très simples : quelles mesures envisagez-vous afin de revaloriser le smic, sans abîmer nos contributions sociales ? Quelles mesures concrètes proposerez-vous afin de désmicardiser la France, tout en évitant les stigmatisations que nous entendons trop souvent, du style : « il faut se former, il faut progresser » ? Que proposerez-vous aux partenaires sociaux pour lutter contre le poison social que constituent ces carrières entières rémunérées au smic, sans réelle évolution ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628835" ordre_absolu_seance="211" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649326" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6148.82">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628836" ordre_absolu_seance="212" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649327" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6158.60">Le vrai problème, c’est que le smic, je le répète, représente 60 % du salaire médian et 50 % du salaire moyen. Nous assistons depuis vingt-cinq ans à une forme de paupérisation générale. Au début des années 2000, le PIB par habitant de la France était équivalent à celui des États-Unis ; il décroche désormais de 25 %. Il faut donc se poser des questions fondamentales sur les conditions de la création de richesses. Ne voir ce sujet qu’au prisme du smic serait une erreur. Je maintiens par ailleurs que le smic peut être un salaire d’entrée dans le monde du travail, mais pas un salaire à vie. Or il est vrai qu’actuellement un tiers des personnes qui sont rémunérées au smic le restent pendant des années et des années.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628837" ordre_absolu_seance="213" id_acteur="PA774958" id_mandat="PM843389" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649328" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Gérard Leseul</nom>
+            <id>774958</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6215.05">Cela relève de votre responsabilité !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628838" ordre_absolu_seance="214" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649329" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6217.50">Il y a aussi des effets de seuil. Vous étiez là quand j’ai rappelé les chiffres concernant une femme payée au smic, qui élève seule ses enfants et qui est locataire : il faudrait que son employeur l’augmente de 750 euros pour qu’elle voie son revenu disponible augmenter de 100 euros. Il est économiquement impossible à l’employeur de l’augmenter d’un tel montant, pour qu’elle ne perçoive en définitive que 100 euros de plus ; le décalage – la déconnexion même – est beaucoup trop grand. C’est pourquoi je pense qu’augmenter le smic est une fausse bonne solution, qui permet de se donner bonne conscience, mais qui ne réglera pas le problème. Le vrai problème, c’est l’écart, inégalé, entre le salaire brut et le salaire net, qui n’existe pas dans d’autres pays – je pense notamment aux pays d’Europe du Nord ou à l’Allemagne qui ont, comme nous, une tradition d’ambition sociale et de compromis social. Il revient aux partis socio-démocrates d’examiner ces questions de l’écart entre le brut et le net et du poids du travail dans le financement de la protection sociale. C’est fondamental.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2628839" ordre_absolu_seance="215" id_acteur="PA774958" id_mandat="PM843389" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649330" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Gérard Leseul</nom>
+            <id>774958</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6294.56">Je n’ai pas le droit de vous répondre, mais j’espère que nous en reparlerons.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628901" ordre_absolu_seance="216" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649762" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6296.78">La parole est à Mme Estelle Mercier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628902" ordre_absolu_seance="217" id_acteur="PA841463" id_mandat="PM843047" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649763" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Estelle Mercier (SOC)</nom>
+            <id>841463</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6300.06">En 2023, on a compté pas moins de 759 accidents mortels au travail. Leur nombre ne cesse de grossir : on en avait recensé 530 en 2017, soit une augmentation de 43 %. La France est mauvaise élève en Europe : le taux d’accidents du travail graves et mortels y est deux fois plus élevé que la moyenne – quatre fois supérieur à celui de l’Allemagne.<br/>Ces mauvais résultats nous obligent à réfléchir aux moyens dédiés au contrôle, à la recherche, à la prévention des accidents du travail et aux raisons de cette hausse constatée depuis 2017.<br/>Sur les moyens dédiés à la prévention et à la recherche, je vous avais alertée, dès cet automne, sur le non-respect de l’accord national interprofessionnel de 2023, aux termes duquel les partenaires sociaux avaient estimé nécessaire d’affecter 100 millions d’euros supplémentaires, chaque année, à la prévention. Or le nouveau fonds d’investissement dans la prévention de l’usure professionnelle (Fipu)<italique> </italique>ne répond pas à cet objectif, quand il aurait été facile de prélever ces 100 millions sur les excédents, importants, de la branche accidents du travail et maladies professionnelles (AT-MP).<br/>Quant aux raisons de cette hausse, on ne peut que s’interroger sur les conséquences de la suppression des comités d’hygiène, de sécurité et des conditions de travail (CHSCT) par les ordonnances Macron de 2017.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628906" ordre_absolu_seance="221" id_acteur="PA841295" id_mandat="PM842882" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649767" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierrick Courbon</nom>
+            <id>841295</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6338.91">Elle a raison !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628907" ordre_absolu_seance="222" id_acteur="PA841463" id_mandat="PM843047" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649768" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Estelle Mercier</nom>
+            <id>841463</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6380.64">Qui est mieux placé que les salariés, les représentants du personnel ou les syndicats, pour prévenir les accidents dans les entreprises ? Or, depuis la fusion des instances et la suppression des CHSCT, on constate une diminution du nombre des comités dédiés à la santé et à la sécurité ainsi qu’une baisse du temps généralement consacré à ces questions, diluées dans d’autres questions : leur part est tombée, entre 2017 et 2022, de 59 à 35 %. Force est donc de constater que les capacités d’agir de l’ensemble des acteurs de la prévention sont considérablement affaiblies.<br/>Aujourd’hui, en France, deux personnes meurent chaque jour dans un accident du travail. Que comptez-vous faire, madame la ministre, pour mettre fin à cette hécatombe silencieuse ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628909" ordre_absolu_seance="224" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649770" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6425.06">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628910" ordre_absolu_seance="225" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649771" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6435.23">Nous avons en effet déploré 810 morts au travail, en 2023, parmi les salariés du régime général. Ce sont 810 morts de trop. Nous devons cependant faire attention aux comparaisons avec d’autres pays européens, puisque les trajets professionnels et les malaises n’y sont pas comptabilisés de la même façon – cela ne relativise cependant en rien le chiffre français.<br/>Depuis ma nomination, en septembre dernier, j’ai réuni le Conseil national d’orientation des conditions de travail. À cette occasion, j’ai demandé à Bernard Thibault et Dominique Carlac’h, coprésidents du Comité de suivi de la charte sociale de Paris 2024, de créer un groupe de contact. Les grands chantiers des Jeux olympiques, où aucun mort n’a été à déplorer, ont en effet montré qu’il était possible de diviser par quatre l’accidentologie : ce groupe devra en tirer les enseignements, pour les appliquer aux dix branches les plus gravement accidentogènes.<br/>Nous allons également inciter les donneurs d’ordre publics à intégrer, dans leur politique d’achat responsable, l’attention aux démarches de leurs prestataires en matière de prévention des risques professionnels.<br/>Nous travaillerons aussi à une coopération renforcée, en matière d’enquête sur les accidents graves et mortels, entre les services judiciaires et l’inspection du travail.<br/>Nous ferons enfin jouer, plus encore, le levier de la formation, par le biais de l’obligation, pour tout projet de certification professionnelle, de prendre en compte les compétences en matière de santé et de sécurité au travail.<br/>Les conclusions de cette réunion du Conseil national d’orientation des conditions de travail ont été saluées par les partenaires sociaux et les syndicats en particulier.<br/>Nous devons, pour conclure, accélérer au sujet du Fipu, que huit branches ont commencé à s’approprier : ce sont 200 millions d’euros que l’État, chaque année, met à leur disposition pour aménager les postes de travail et lutter contre l’usure professionnelle.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628917" ordre_absolu_seance="232" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649778" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6470.44">La parole est à M. Lionel Vuibert.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628918" ordre_absolu_seance="233" id_acteur="PA793194" id_mandat="PM853806" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649779" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Lionel Vuibert (NI)</nom>
+            <id>793194</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6571.94">Il faut soutenir la France qui crée de la valeur, qui innove, qui fait tourner nos usines et nos ateliers.<br/>Le travail, pourtant, reste trop lourdement taxé.<br/>Ma vie professionnelle, passée dans l’industrie, m’a fait également prendre conscience qu’il n’est pas assez valorisé par rapport à l’inactivité. Le système d’allocations et de prestations sociales, bien que nécessaire, n’incite pas toujours assez à retrouver un emploi. Cela conduit à des difficultés de recrutement, notamment dans les secteurs en tension où des entreprises, faute de candidats motivés, peinent à embaucher.<br/>Au Danemark, le modèle dit de flexisécurité combine une flexibilité forte pour les entreprises, une protection solide pour les salariés et des incitations strictes à la recherche d’emploi. Ce système assure une indemnisation du chômage, en moyenne, à 80 % du salaire. Les demandeurs d’emploi, en contrepartie, doivent attester des démarches qu’ils entreprennent pour retrouver un emploi, faute de quoi ils s’exposent à des sanctions, appliquées quatre fois plus fréquemment qu’en France, malgré un taux de chômage presque deux fois moins élevé.<br/>Depuis 2017, des avancées ont permis de rendre du pouvoir d’achat aux Français. La baisse de l’impôt sur le revenu, la suppression de la taxe d’habitation, les réformes en faveur de l’investissement et de la croissance vont dans le bon sens. Nous devons entretenir cette dynamique, en allégeant la charge qui pèse sur ceux qui produisent et en conditionnant mieux les aides à une réelle recherche d’emploi. La meilleure politique en faveur du pouvoir d’achat ne consiste en effet pas à empiler les aides et les allocations temporaires, mais à récompenser l’effort et l’initiative. C’est ainsi que nous retrouverons une économie dynamique, où chacun pourra vivre dignement des fruits de son travail.<br/>Ma question est simple, madame la ministre : comment pouvons-nous, plus encore, redonner au travail sa juste valeur, et récompenser comme ils le méritent ceux qui travaillent ? Et pourquoi ne pas s’inspirer de ce qui fonctionne chez nos voisins ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628924" ordre_absolu_seance="239" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649785" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6687.70">La parole est à Mme la ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628925" ordre_absolu_seance="240" id_acteur="PA795050" id_mandat="-1" id_nomination_oe="PM855880" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3649786" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Astrid Panosyan-Bouvet</nom>
+            <id>795050</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6706.11">Au Danemark, c’est 20 % de la protection sociale qui est financée par les cotisations des employeurs et des employés ; en France, cette part est de 55 %. C’est là une vraie difficulté, sur laquelle j’appelle l’attention, notamment, de la gauche de cet hémicycle : cela pèse sur le coût du travail et sur la compétitivité, mais aussi sur le pouvoir d’achat. Le travail ne paye pas assez. Nous devons donc tous nous pencher, avec courage, sur la question du financement de la protection sociale et regarder ce qui se fait dans les pays qui, comme le Danemark, ont une réelle ambition en cette matière.<br/>Le service public de l’emploi doit également être amélioré. C’est le sens de la réforme de France Travail, qui tend à orienter les bénéficiaires du RSA comme les demandeurs d’emploi vers des formations, des formations préalables à l’embauche ou des immersions professionnelles. Nous développons ainsi une démarche de rapprochement du service public de l’emploi, des entreprises et des offres de formation, tout au long de la recherche d’emploi.<br/>Ce sont là les deux sujets fondamentaux : faire en sorte que le travail paye – ce qui incitera plus au travail – et aider les demandeurs d’emploi à trouver plus rapidement un travail en lien avec les besoins des entreprises.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2628928" ordre_absolu_seance="243" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649789" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6747.27">Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="2628930" ordre_absolu_seance="245" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3649791" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2628931" ordre_absolu_seance="246" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3649792" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6795.32">Prochaine séance, demain, à neuf heures :<br/> Discussion de la proposition de loi pour un démarchage téléphonique consenti et une protection renforcée des consommateurs contre les abus ;<br/>Discussion de la proposition de loi relative à l’organisation et aux missions des personnels de santé professionnels et volontaires des services d’incendie et de secours ;<br/>Discussion de la proposition de loi visant à endiguer la prolifération du frelon asiatique et à préserver la filière apicole ;<br/>Discussion de la proposition de loi visant à instaurer un dispositif de sanction contraventionnelle pour prévenir le développement des vignes non cultivées qui représentent une menace sanitaire pour l’ensemble du vignoble français ;<br/>Discussion de la proposition de loi visant à simplifier la sortie de l’indivision successorale ;<br/>Discussion de la proposition de loi visant à renforcer l’effectivité des droits voisins des éditeurs et des agences de presse ;<br/>Discussion de la proposition de loi visant à simplifier et à réorienter la politique familiale vers le premier enfant.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2628933" ordre_absolu_seance="248" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3649794" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures dix.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2628934" ordre_absolu_seance="249" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3649795" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

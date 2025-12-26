@@ -1,0 +1,1132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N070</uid>
+  <seanceRef>RUANR5L17S2025IDS28937</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250116090000000</dateSeance>
+    <dateSeanceJour>jeudi 16 janvier 2025</dateSeanceJour>
+    <numSeanceJour>1</numSeanceJour>
+    <numSeance>70</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250070</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-01-26T11:51:10.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3594372">Présidence de Mme Clémence Guetté</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3594376">
+          <intitule>Évaluation de la loi confortant le respect des principes de la République</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3594379">Mme Laure Miller, rapporteure</para>
+        <para id_syceron="3594389">M. Antoine Villedieu, rapporteur</para>
+        <para id_syceron="3594399">M. Bastien Lachaud, rapporteur</para>
+        <para id_syceron="3594776">Mme Constance Le Grip (EPR)</para>
+        <para id_syceron="3594785">Mme Émeline K/Bidi (GDR)</para>
+        <para id_syceron="3595199">M. Jérôme Guedj (SOC)</para>
+        <para id_syceron="3595206">Mme Léa Balage El Mariky (EcoS)</para>
+        <para id_syceron="3595216">Mme Delphine Lingemann (Dem)</para>
+        <para id_syceron="3595260">M. Jean Moulliere (HOR)</para>
+        <para id_syceron="3595267">Mme Gabrielle Cathala (LFI-NFP)</para>
+        <para id_syceron="3595274">M. Olivier Fayssat (UDR)</para>
+        <para id_syceron="3595011">M. Roger Chudeau (RN)</para>
+        <para id_syceron="3595028">M. François-Noël Buffet, ministre auprès du ministre d’État, ministre de l’intérieur</para>
+        <para id_syceron="3595059">Mme Graziella Melchior (EPR)</para>
+        <para id_syceron="3595064">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3595506">M. Charles Rodwell (EPR)</para>
+        <para id_syceron="3595509">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3595512">Mme Ersilia Soudais (LFI-NFP)</para>
+        <para id_syceron="3595515">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3595518">M. Jean-François Coulomme (LFI-NFP)</para>
+        <para id_syceron="3595524">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3595531">M. Pierrick Courbon (SOC)</para>
+        <para id_syceron="3595534">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3595537">M. Jérôme Guedj (SOC)</para>
+        <para id_syceron="3595541">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3595545">M. Xavier Breton (DR)</para>
+        <para id_syceron="3595550">M. François-Noël Buffet, ministre</para>
+        <presidentSeance id_syceron="3595555">Présidence de Mme Naïma Moutchou</presidentSeance>
+        <para id_syceron="3595557">M. Pouria Amirshahi (EcoS)</para>
+        <para id_syceron="3595563">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3595567">Mme Sabrina Sebaihi (EcoS)</para>
+        <para id_syceron="3595574">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3596163">Mme Delphine Lingemann (Dem)</para>
+        <para id_syceron="3596166">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3596174">M. Roger Chudeau (RN)</para>
+        <para id_syceron="3596179">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3596183">M. Bruno Clavet (RN)</para>
+        <para id_syceron="3596188">M. François-Noël Buffet, ministre</para>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3596195">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Première séance du jeudi 16 janvier 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2593762" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3594372" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Clémence Guetté<br/> vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2593763" ordre_absolu_seance="2" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3594373" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="920.68">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2593764" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3594374" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à neuf heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2593766" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3594376" valeur="">
+      <orateurs/>
+      <texte>Évaluation de la loi confortant le respect des principes de la République</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2593767" ordre_absolu_seance="6" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3594377" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="923.39">L’ordre du jour appelle le débat sur le thème : « L’évaluation de la loi confortant le respect des principes de la République », demandé par le groupe Ensemble pour la République dans le cadre de sa séance thématique. Conformément à l’organisation arrêtée par la conférence des présidents, nous entendrons d’abord les rapporteurs – qui ont rédigé une note mise en ligne sur le site internet de l’Assemblée nationale –, puis les orateurs des groupes et, enfin, le gouvernement. Nous procéderons ensuite à une session de questions-réponses.<br/>La parole est à Mme Laure Miller, rapporteure désignée par la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2593769" ordre_absolu_seance="8" id_acteur="PA817203" id_mandat="PM842978" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3594379" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laure Miller</nom>
+            <id>817203</id>
+            <qualite>rapporteure</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="977.34">Nous sommes réunis ce matin pour un débat sur l’évaluation de la loi du 24 août 2021 confortant le respect des principes de la République. Même si je regrette le caractère trop limité des auditions que nous avons pu conduire, je crois ce temps utile pour évoquer le sujet du séparatisme, pour vérifier si la loi a atteint son objectif et pour nous demander si d’autres sujets non traités par la loi méritent l’attention et l’intervention du législateur et de l’exécutif en ce début d’année 2025.<br/>Cette loi se voulait ambitieuse : elle touche à plusieurs pans de la société concernés par le séparatisme. Plusieurs dispositions concernent les associations, comme le contrat d’engagement républicain (CER) ou la procédure de dissolution renforcée. La loi vise aussi à lutter contre les discours de haine et les contenus illicites en ligne. Elle renforce la transparence des conditions de l’exercice du culte comme le contrôle de son financement. Enfin, elle renforce la neutralité dans le service public. C’est sur ce dernier point que nous nous sommes plus particulièrement penchés, singulièrement s’agissant de l’école.<br/>Eu égard au nombre d’atteintes à la laïcité dans les établissements scolaires, il était indispensable d’outiller l’éducation nationale. Conseil des sages de la laïcité, vade-mecum de la laïcité, formation obligatoire de tous les agents publics ; tout cela a permis de renforcer l’accompagnement des agents dans l’application du principe de laïcité. L’augmentation des décisions d’octroi de la protection fonctionnelle démontre également une prise de conscience et une réactivité accrue de l’administration quant à la protection des agents. Grâce aux mesures de formation et d’encadrement et à la création du délit de séparatisme, cette loi a permis d’installer une culture de la vigilance et du dialogue dans l’éducation nationale.<br/>Aussi apparaît-il opportun de prendre des mesures pour que cette culture gagne davantage le reste de la fonction publique. Sur ce point, je rejoins nos collègues sénateurs qui ont émis le souhait de sensibiliser davantage les collectivités territoriales à leur obligation de nomination d’un référent laïcité et souligné la nécessité de recenser de façon exhaustive les nominations de ces référents sur le territoire. Je fais également mienne l’idée de former un conseil des sages de la laïcité pour chaque fonction publique, dans la mesure où son fonctionnement au sein de l’éducation nationale – nous avons auditionné ses membres – mérite d’être salué.<br/>Nos auditions nous ont permis de penser qu’il serait particulièrement utile de pouvoir faire remonter l’ensemble des sanctions émises dans chaque établissement scolaire pour obtenir une vision globale et exhaustive des incivilités et atteintes envers le personnel de l’éducation nationale. Il serait tout aussi indispensable d’améliorer encore le dialogue entre les professeurs et l’administration pour que chaque signalement soit suivi d’effet et que chaque professeur en ait connaissance.<br/>Mais ce que nous enseignent tant les auditions que le débat dans la sphère publique, c’est que la laïcité a été dévoyée et qu’elle n’incarne plus la courroie centrale de l’unité nationale. Je crois donc que nous devons être nombreux à défendre une conception authentique de la laïcité, et tout aussi nombreux à dénoncer les deux discours qui lui nuisent. Le premier est celui des dirigeants de l’extrême droite, qui, sous couvert de défense de la laïcité, dessinent une France qui, si on applique leur programme, finira par accorder aux séparatistes une sorte de victoire symbolique en abandonnant les principes au nom desquels nous estimons les combattre. Le second est le discours de la France insoumise qui – on le voit dans l’analyse du rapporteur issu de ses rangs – nie tout séparatisme. Comment peut-on écrire sérieusement, quelques jours après les commémorations des attaques de <italique>Charlie Hebdo</italique> et de l’Hyper Cacher, que « les auditions menées n’ont pas permis de démontrer l’existence du phénomène ’’séparatiste’’ qu’il s’agirait de combattre » ? Si le séparatisme islamiste était une invention, nous n’aurions pas à pleurer des morts ce mois-ci, pas plus qu’à pleurer Samuel Paty et Dominique Bernard. Si ce séparatisme était le fruit de notre imagination, le proviseur du lycée Maurice-Ravel à Paris, menacé de mort, n’aurait pas été contraint de partir, et cette professeure à Narbonne n’aurait pas été menacée de mort début décembre ! Comment peut-on parler de « focalisation supposément laïque sur le corps et l’habillement des jeunes filles » alors que la pression familiale et religieuse contraint – je le vois dans mon territoire – des jeunes filles de 11 ou 12 ans à porter le voile et que notre devoir est de préserver leur liberté, comme de faire respecter l’égalité entre les femmes et les hommes ?<br/>On le voit bien : en 2025, alors que les difficultés, d’ailleurs partagées par d’autres pays autour de nous, sont nombreuses – intégration, lutte contre les discriminations, tentation du repli sur soi, mutation du paysage religieux –, la laïcité a besoin d’être de nouveau éclairée et revivifiée.<br/>À sa naissance en 1905, dans un contexte où elle devait s’affirmer face à la religion catholique, la laïcité était une laïcité de combat. Elle est ensuite devenue pendant plusieurs décennies une laïcité apaisée. À notre époque, elle redevient une laïcité de combat, qui doit faire respecter la diversité tout en garantissant l’unité nationale. Ce combat vise à permettre à chacun de se sentir suffisamment serein quant à sa différence pour ne pas vouloir en faire un étendard, et ainsi de faire société.<br/>Oui, le séparatisme est une réalité fortement inquiétante. La loi confortant les principes de la République était-elle une réponse suffisante ? Rien ne doit être tabou en la matière, et la mission d’évaluation conduite par l’Inspection générale de l’administration (IGA) à la demande du ministère de l’intérieur nous permettra d’obtenir davantage de chiffres et de précisions quant à la bonne application de cette loi. En tout cas, il est indispensable d’en réaffirmer les grands principes et de la faire mieux appliquer par les services déconcentrés de l’État ainsi que par les collectivités territoriales. Il est surtout indispensable de réaffirmer cet universalisme français que nous avons su dessiner et faire évoluer, et qui nous permet de résister mieux que d’autres au séparatisme et à toutes les formes de communautarisme. La laïcité est une chance autant qu’une nécessité ; soyons fiers de la défendre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2593778" ordre_absolu_seance="17" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3594388" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1264.14">La parole est à M. Antoine Villedieu, rapporteur désigné par la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2593779" ordre_absolu_seance="18" id_acteur="PA794946" id_mandat="PM843311" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3594389" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Villedieu</nom>
+            <id>794946</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1291.46">« Ce à quoi nous devons nous attaquer, c’est le séparatisme islamiste. C’est un projet conscient, théorisé, politico-religieux, qui se concrétise par des écarts répétés avec les valeurs de la République, qui se traduit souvent par la constitution d’une contre-société […]. C’est l’endoctrinement et, par celui-ci, la négation de nos principes […]. » Ces mots, vous pourriez croire qu’ils viennent des rangs du Rassemblement national. Eh bien non. Ces mots ne sont pas les nôtres, mais ceux d’Emmanuel Macron, prononcés lors du discours aux Mureaux en octobre 2020. Mais que reste-t-il à présent de ces déclarations si ambitieuses ? Rien, ou si peu. Comme souvent avec le gouvernement, les discours sont flamboyants, mais les actes s’effacent devant la réalité.<br/>La loi censée protéger notre République du séparatisme n’a pas été à la hauteur. Elle n’a pas frappé là où il le fallait : sur les réseaux, les financements opaques et les acteurs de cette idéologie. Non, cette loi a préféré multiplier les contraintes pour ceux qui respectent déjà nos valeurs républicaines. Le gouvernement, au lieu de se concentrer sur les véritables lieux de radicalisation, s’égare dans des démarches bureaucratiques stériles.<br/>Pendant ce temps, on voit prospérer des écoles clandestines, des lieux où l’on enseigne l’obscurantisme, où l’on conditionne des esprits à rejeter la liberté, l’égalité et la fraternité. Ces établissements sont des foyers d’endoctrinement. Et que fait l’État ? Des contrôles épars, des fermetures exceptionnelles. Une action bien timide face à une menace croissante. Il est désormais évident que l’école est une cible prioritaire pour le fondamentalisme islamiste. L’assassinat de Samuel Paty, dont nous portons encore la douleur, en est le rappel le plus tragique. Plutôt que de cibler ces foyers d’endoctrinement, la loi dont nous débattons s’en est prise à des familles respectueuses des lois. Des milliers de parents qui choisissent l’instruction en famille pour des raisons légitimes se retrouvent stigmatisés, harcelés. Ces familles doivent désormais se justifier pour répondre à des règles absurdes. Et tout cela, pourquoi ? Parce que l’État est incapable de surveiller les individus qui détournent l’instruction à domicile pour échapper à l’école de la République.<br/>Camus nous a prévenus : « Mal nommer un objet, c’est ajouter au malheur de ce monde. » C’est précisément ce que fait cette loi. Elle rate sa cible ; elle ne lutte pas contre le séparatisme, mais crée de l’injustice.<br/>Quant aux enseignants, que cette loi prétendait protéger, ils continuent de subir seuls des pressions, des contestations violentes, des remises en cause incessantes. Un sondage Ifop révèle que près d’un professeur sur deux choisit de s’autocensurer par peur des représailles. Oui, des professeurs de la République française, dans leur propre classe, ont peur d’enseigner la laïcité, d’aborder le fait religieux, d’encourager l’esprit critique.<br/>Et parlons de ce fameux contrat d’engagement républicain, présenté comme une mesure phare. Qu’a-t-il produit, concrètement ? Quatre subventions seulement retirées en plusieurs années. Voilà toute l’efficacité de ce dispositif !<br/>Pendant ce temps, les financements étrangers continuent d’affluer vers des associations opaques. Des fonds venus de régimes théocratiques financent des lieux où l’on prêche la haine et le rejet de nos valeurs. Et qu’a prévu cette loi pour y répondre ? Des sanctions faibles, dérisoires. Pas de confiscation de biens, pas de dissolution immédiate des structures.<br/>La République, si elle veut survivre, ne peut reculer ni transiger sur ses principes. Nos efforts doivent se concentrer sur les véritables foyers du séparatisme. Nous devons renforcer les contrôles sur les établissements clandestins et les lieux de culte qui propagent des idéologies contraires à nos valeurs. Nous devons exiger une transparence totale des financements des associations et agir rapidement lorsque ces financements servent à alimenter la haine.<br/>L’État doit agir avec précision. Cette loi, telle qu’elle existe aujourd’hui, n’est pas un rempart contre le séparatisme, mais un aveu d’impuissance. C’est la démonstration que le macronisme préfère les effets d’annonce à l’action réelle. Monsieur le ministre auprès du ministre de l’intérieur, il est temps de changer de cap, d’agir avec courage et détermination, car si nous n’agissons pas maintenant, ce sont nos libertés, notre unité nationale et la République qui en paieront le prix. <italique>(Applaudissements sur les bancs des groupes RN et UDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2593788" ordre_absolu_seance="27" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3594398" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1576.14">La parole est à M. Bastien Lachaud, rapporteur désigné par la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2593789" ordre_absolu_seance="28" id_acteur="PA720846" id_mandat="PM840441" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3594399" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud</nom>
+            <id>720846</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1601.43">La loi « séparatisme » de 2021 a amplifié une profonde fracture que le gouvernement cherche à creuser au sein du peuple français. Elle attise la haine raciste et islamophobe ; elle n’a pas d’autre objectif et pas d’autre objet. En ce sens, je ne peux que constater et déplorer sa pleine réussite. Notre peuple a été fracturé. Des millions de nos concitoyens, femmes, hommes, enfants, ont été stigmatisés, suspectés, accusés, humiliés, liés au terrorisme en raison de leur religion ou de leurs origines réelles ou supposées. Ils ne demandent pourtant rien d’autre que de vivre en paix. La xénophobie a été attisée et légitimée au plus haut sommet de l’État, un boulevard a été tracé à l’extrême droite et à ses idées.<br/>Sur le supposé séparatisme islamiste qui, selon les défenseurs de la loi, était un phénomène d’une telle ampleur qu’il justifiait une loi liberticide de plus de cent articles, les services de l’État sont dans l’incapacité de produire des chiffres probants. Malgré la très grande attention que le gouvernement lui porte, le phénomène est si marginal qu’il n’y a presque rien à observer. Dans l’éducation nationale, on se gargarise d’avoir trouvé exactement 6 589 supposées atteintes à la laïcité, sur 12 millions d’élèves scolarisés et sur 365 jours !<br/>Et encore, on ne sait même pas précisément ce qu’on entend par « atteinte à la laïcité ». Je rappelle qu’il y a trois ans, les jeunes filles étaient sommées de se couvrir davantage à l’école. <italique>Crop tops</italique>, bermudas trop courts – quoiqu’aussi longs que ceux de leurs camarades masculins, jugés, eux, décents –, décolletés trop larges… L’année suivante, le ministre de l’éducation nationale Gabriel Attal a bâti sa carrière sur le problème inverse : les jupes des filles seraient cette fois-ci trop longues, les kimonos proscrits – trop couvrants, érigés en signe ostentatoire de religion –, les tuniques interdites, les décolletés trop courts. Les jeunes filles, une fois encore, voient l’attention publique se porter sur leur corps, et se voient soumettre à des injonctions contradictoires. Le résultat de cette écœurante polémique, c’est que les jeunes filles musulmanes sont stigmatisées et humiliées. Elles comprennent très bien qu’elles ne sont pas les bienvenues à l’école publique ; elles intègrent très bien la violence islamophobe et raciste qui s’ajoute à la violence patriarcale, à rebours du discours de liberté et d’émancipation que l’institution devrait tenir sur l’égalité entre filles et garçons. Pour une loi qui prétendait renforcer la République, le texte produit tout le contraire.<br/>Qui plus est, pendant que les ministres débattent de la longueur républicaine de la jupe, ils laissent faire, voire encouragent, les cabales menées par l’extrême droite contre les enseignants et leurs cours. L’éducation à la vie affective, relationnelle et sexuelle a fait très récemment l’objet d’une telle cabale : distribution de tracts, intimidation d’enseignants, propagation de mensonges éhontés, le tout avec le soutien du gouvernement. La pression est telle que des professeurs doivent renoncer à des sorties scolaires. La liberté pédagogique est bafouée.<br/>Si l’instruction en famille est présentée comme un terreau du séparatisme, personne n’a été capable de donner ne serait-ce qu’un seul cas. En revanche, depuis la fin de cette liberté, les familles qui instruisent leurs enfants connaissent un véritable parcours du combattant, même pour les enfants atteints d’une maladie ou d’un handicap, ou qui développent une pratique artistique ou sportive intensive. Des familles sont déboutées à Créteil, mais acceptées dans l’académie d’Aix-Marseille, et doivent donc déménager. Les taux de refus disparates entre les départements montrent bien une application arbitraire et opaque de la loi, dont les premières victimes sont les enfants qui, eux non plus, n’ont rien demandé et n’ont aucune velléité séparatiste.<br/>Concernant les associations, le contrat d’engagement républicain n’a rien apporté à la défense de la République. En revanche, il a produit une très grave restriction des libertés publiques. Les cas de contentieux liés au contrat d’engagement républicain sont marginaux et ne concernent aucune association religieuse. Les véritables cibles sont, comme toujours, les associations de défense de l’environnement, des droits humains et des droits des femmes. La lutte contre un supposé séparatisme n’est qu’un vague prétexte à une persécution politique gravement attentatoire à la liberté d’association, au moyen d’une loi antirépublicaine et liberticide unanimement dénoncée par le monde associatif.<br/>Quant aux épouvantails brandis pour justifier péniblement cette loi, la répression de professionnels de santé qui établiraient des certificats de virginité ou la sanction de cas de polygamie, il est évident que personne n’a pu en reparler, car bien entendu cela n’existe pas en dehors des fantasmes de l’extrême droite qui propage sa haine raciste.<br/>En revanche, les véritables causes de la fracturation de notre République ne sont pas traitées par cette loi. Toutes nos auditions l’ont mis en évidence. Rien n’a été fait pour lutter contre le séparatisme d’extrême droite, qui prospère en toute impunité dans notre pays en faisant usage de violence verbale et physique et en montant des cabales contre des enseignants, des élus ou des associations. La puissance publique laisse faire, voire encourage ces actions.<br/>Rien n’a été fait non plus contre le séparatisme des riches, qui est même organisé et soutenu par le gouvernement. C’est peu de dire qu’il ne lutte pas contre lui, alors qu’il organise l’appauvrissement de l’État et la destruction méthodique des services publics, le seul bien de ceux qui n’ont rien : la santé, l’éducation, le logement.<br/>Le bilan de cette loi est donc accablant : le racisme et la xénophobie sont étalés sur la place publique et encouragés, les libertés publiques sont bafouées, un débat répugnant est infligé à la société tout entière. Il est évident que cette loi ne pouvait que produire l’inverse de l’effet annoncé : sabrer encore un peu plus les principes républicains et l’unité de la nation. <italique>(Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2593850" ordre_absolu_seance="38" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3594775" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1695.63">Nous allons à présent entendre les orateurs des groupes. La parole est à Mme Constance Le Grip.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2593851" ordre_absolu_seance="39" id_acteur="PA345722" id_mandat="PM843650" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3594776" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Constance Le Grip (EPR)</nom>
+            <id>345722</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1941.39">Il y a quelques jours, nous nous souvenions avec une grande émotion des attentats terroristes islamistes perpétrés sur le sol français. Il y a dix ans déjà, furent commis l’attentat terroriste contre la rédaction de<italique> Charlie Hebdo</italique>, le lâche assassinat de la jeune policière municipale Clarissa Jean-Philippe sur le territoire de la commune de Montrouge dans les Hauts-de-Seine, l’exécution sur un trottoir parisien du policier Ahmed Merabet et la tuerie islamiste et antisémite de l’Hyper Cacher, où quatre otages furent exécutés parce qu’ils étaient juifs. Nous avons dans notre mémoire encore très vif le souvenir de Samuel Paty, égorgé parce qu’il était enseignant de la République, hussard de la République, et de Dominique Bernard. Que leur souvenir demeure.<br/>Ces tragédies nous rappellent avec force l’intensité de la haine et de la volonté de destruction qui s’exercent à l’encontre de notre République, de nos valeurs et de nos principes républicains, tels que la liberté d’expression, l’autorité républicaine, la tolérance, l’humanisme, l’instruction, la laïcité. C’est chaque fois l’esprit des Lumières, l’esprit français, la République, qui sont visés.<br/>Cependant, le terrorisme islamiste n’est pas le seul à s’en prendre aux principes et valeurs républicains et à celles et ceux qui les incarnent. Comme le président de la République l’avait fort bien identifié dans un discours prononcé aux Mureaux en octobre 2020, c’est aussi le fait du séparatisme islamiste qui affirme que ses propres lois sont supérieures aux lois de la République et qui procède ainsi par assignation identitaire et communautaire, tournant le dos à l’universalisme républicain.<br/>La loi confortant le respect des principes de la République promulguée en août 2021 illustre la volonté de notre nation de défendre et renforcer les principes et les valeurs qui sont au cœur du pacte républicain. Proposée par les ministres Gérald Darmanin, Éric Dupond-Moretti, Jean-Michel Blanquer et Marlène Schiappa, elle a renforcé les instruments existants et doté notre État d’outils nouveaux, depuis le contrat d’engagement républicain pour les associations subventionnées jusqu’au déféré laïcité, en passant par l’élargissement de la possibilité de fermer des lieux de culte, le renforcement de la laïcité dans les services publics, à commencer par celui de l’éducation nationale, le contrôle des financements étrangers et de nombreux autres moyens dont, c’est vrai, le contrôle plus strict de l’instruction en famille.<br/>Cependant, une loi ne vit que par son application. Monsieur le ministre, nous avons besoin de disposer d’un bilan, d’une évaluation précise et chiffrée de l’application de cette loi. Un an après sa promulgation, celle qui était alors secrétaire d’État chargée de la citoyenneté, Mme Backès, avait présenté un premier bilan qui montrait des résultats concrets, encourageants : plus de 26 000 contrôles avaient été effectués, 836 établissements divers avaient été fermés, près de 56 millions d’euros avaient été récupérés à la suite de sanctions administratives. Le Sénat a publié en mars 2024 un rapport rédigé par Jacqueline Eustache-Brinio et Dominique Vérien qui présentait un bilan mitigé, dirai-je, mentionnant de réelles avancées, des réussites incontestables, mais appelant également l’attention sur la nécessité d’aller plus loin et d’approfondir le déploiement de certains dispositifs.<br/>Les différents constats, encore partiels, appellent de notre part un sursaut collectif, républicain, pour préserver cette loi essentielle et faire en sorte qu’elle soit réellement et pleinement appliquée. Nous connaissons l’engagement du ministre de l’intérieur, Bruno Retailleau, et de tous les personnels placés sous son autorité, dans le combat pour les valeurs républicaines et pour l’application de tous les dispositifs proposés par cette loi « séparatisme ». Un rapport d’étape a été commandé à l’Inspection générale de l’administration dont les conclusions seront rendues publiques. Elles réaliseront, je l’espère, de manière transparente et précise, l’évaluation de l’application de cette loi, et indiqueront également des compléments et des améliorations possibles – pourquoi pas ? En tout cas, s’il en est besoin, nous sommes prêts. Nous avons déjà des idées ; certains d’entre nous ont déjà déposé des propositions de loi. Il y aura peut-être matière à aller plus loin.<br/>Je voudrais également souligner à quel point le groupe Ensemble pour la République, au nom duquel je m’exprime, et son président, Gabriel Attal, ont toujours été fermement engagés dans la lutte contre tous les séparatismes et pour les valeurs de la République. Cela a été évoqué, lorsqu’il était ministre de l’éducation nationale, Gabriel Attal avait pris des mesures très fortes et claires condamnant le port de l’abaya et du <italique>qamis</italique>.<br/>L’année 2025 marque les 120 ans de la grande loi sur la laïcité et la séparation des Églises et de l’État de 1905 que nous célébrerons le 9 décembre. Nous espérons que cet anniversaire sera l’occasion de revivifier ensemble le pacte républicain, cette promesse républicaine d’émancipation, de liberté, de confiance et de laïcité pour chacun et chacune d’entre nous. En tout cas, monsieur le ministre, vous trouverez le groupe Ensemble pour la République fermement décidé, à vos côtés, avec les personnels des ministères de l’éducation nationale et de l’intérieur, avec tout l’État, à aller encore plus loin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2593859" ordre_absolu_seance="47" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3594784" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1956.54">J’invite chacun à respecter son temps de parole. Je rappelle que les orateurs des groupes disposent de cinq minutes. Je serai plus sévère au moment des questions, dont la durée, comme celle des réponses, est limitée à deux minutes.<br/> La parole est à Mme Émeline K/Bidi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2593860" ordre_absolu_seance="48" id_acteur="PA795998" id_mandat="PM843737" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3594785" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Émeline K/Bidi (GDR)</nom>
+            <id>795998</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2313.71">Lors du discours qu’il a prononcé aux Mureaux, le 2 octobre 2020, Emmanuel Macron annonçait un projet de loi visant à « renforcer la laïcité et consolider les principes républicains ». Il reconnaissait les défaillances de l’État dans plusieurs domaines tels que les services publics, la politique de la ville, le logement, la mixité sociale ou l’éducation et admettait l’abandon de certains quartiers « où la promesse de la République n’a plus été tenue ». Ce discours appelait des actions tangibles, éloignées des polémiques stériles et des stratégies d’affichage qui ont jalonné l’examen d’une réforme axée sur la répression.<br/>Près de trois ans et demi après la promulgation de la loi du 24 août 2021, les inquiétudes persistent – c’est l’objet de ce débat. Un rapport sénatorial du 6 mars 2024 dresse un bilan plutôt sévère de cette loi, soulignant, en particulier, « une dégradation des relations avec le secteur associatif ».<br/>Lors des débats sur le projet de loi, le groupe de la Gauche démocrate et républicaine avait alerté sur l’inutilité, voire la dangerosité de ses principales dispositions. Nous déplorions l’absence de mesures sociales qui avaient pourtant été promises par le président de la République. Nous nous étions opposés à une loi symptomatique de votre obsession identitaire et caractéristique de l’instrumentalisation de la laïcité à des fins politiciennes. Nous n’avons eu de cesse de rappeler que la laïcité voulue par Aristide Briand et Jean Jaurès n’est en aucun cas une négation de la religion, mais bien un élément de concorde indispensable à la cohésion nationale.<br/>Plus de trois ans après l’entrée en vigueur de la loi, comme nous l’avions annoncé, force est de constater que certaines de ses dispositions, en fragilisant les libertés publiques, affaiblissent dangereusement les principes républicains censés se trouver confortés. Le contrat d’engagement républicain illustre parfaitement ces dérives. Il s’apparente surtout à un contrat de défiance, de suspicion et de contrôle envers les associations. Nous vous avions mis en garde contre la dangerosité de ce dispositif, étant donné la marge d’appréciation subjective laissée à l’administration pour juger du respect d’un tel contrat et du pouvoir qui lui est octroyé de refuser ou de retirer rétroactivement des subventions au mépris des droits acquis. La crainte de voir se dessiner une lecture idéologique des obligations formulées en fonction de l’orientation politique des collectivités territoriales n’était pas infondée. L’affaire Alternatiba a parfaitement démontré les risques de remise en cause de l’engagement militant pourtant protégé par la Cour européenne des droits de l’homme (CEDH). Les entraves à l’action associative se sont multipliées. Le mouvement associatif dans son ensemble dénonce les dérives du CER, utilisé pour contrôler et limiter la liberté d’expression des associations.<br/>Ces dérives ont été mises en lumière par le Comité des droits de l’homme de l’ONU le 3 décembre 2024. Le Comité s’est dit « préoccupé » par ce contrat d’engagement républicain et a demandé à la France de « revoir la loi du 24 août 2021 confortant le respect des principes de la République afin de veiller à ce qu’elle ne puisse pas être utilisée pour restreindre indûment la liberté d’association des organisations de la société civile, y compris celles promouvant la liberté de croyance et la non-discrimination. » Le Comité considère également que la France devrait « veiller à ce que cette loi ne puisse pas être détournée de l’objectif annoncé pour porter atteinte à la liberté d’association des associations ayant un but politique, dont les mouvements écologistes, et veiller à ce que le "contrat d’engagement républicain" ne puisse pas être appliqué de façon arbitraire pour retirer des subventions publiques à des associations considérées comme n’étant pas conformes à l’"engagement républicain" ». Enfin, il souligne que la France devrait « garantir l’accès à des voies de recours efficaces aux organisations auxquelles de telles mesures pourraient être imposées ».<br/>Le débat que nous avons n’est donc pas inutile, car il reste beaucoup à faire pour perfectionner cette loi, à supposer qu’elle fût nécessaire. Nous partageons pleinement les recommandations du Comité des droits de l’homme et nous réaffirmons que la liberté d’association, pilier de la République, ne saurait en aucun cas être entravée par le contrat d’engagement républicain. Comme nous l’avions déploré lors des débats sur ce texte, force est de constater que la loi confortant le respect des principes de la République s’avère davantage être un instrument de contrainte et de restriction qu’une garantie des libertés fondamentales.<br/>Comme il me reste un peu de temps, je vous dirai un mot de l’application de cette loi en outre-mer, notamment à La Réunion, où je suis élue. Cette loi ne tient absolument pas compte des particularités de notre territoire, où la laïcité prend parfois des formes que la France hexagonale ne connaît pas. Nous avons suffisamment de problèmes, et il vaudrait mieux régler ceux qui existent au lieu d’en créer d’autres. Vous avez beaucoup parlé, dans les gouvernements précédents, de « réflexe outre-mer », d’application différenciée de la loi, de spécificité régionale. Cette loi est l’exemple type d’une loi qui n’aurait jamais dû s’appliquer chez nous, à supposer qu’elle ait présenté un intérêt en France hexagonale. <italique>(Applaudissements sur les bancs des groupes LFI-NFP et EcoS.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2593820" ordre_absolu_seance="55" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595198" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2611.76">La parole est à M. Jérôme Guedj.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2593821" ordre_absolu_seance="56" id_acteur="PA1567" id_mandat="PM843572" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595199" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jérôme Guedj (SOC)</nom>
+            <id>1567</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2627.34">Comme cela a été dit, l’évaluation de l’application de cette loi nous invite à inscrire nos questionnements, nos exigences et nos attentes dans le contexte des 120 ans de la loi du 9 décembre 1905. J’espère que nous célébrerons dignement cet anniversaire, car le travail du législateur de l’époque et le compromis patiemment et méticuleusement construit par Aristide Briand peuvent être source d’inspiration pour nous tous, à l’Assemblée comme au Sénat. Les positions initialement antagonistes n’ont pas empêché la construction de cette loi de concorde nationale et de paix civile. J’en profite pour dire solennellement que je regrette le rejet de la proposition de création à l’Assemblée nationale d’un groupe d’étude sur la laïcité, notamment à l’occasion du cent-vingtième anniversaire de cette loi. Il est encore temps de rattraper ce manque.<br/>Je centrerai mon propos sur certaines mesures relatives à la laïcité. Cette loi a pris le risque de toucher à la loi de 1905 – ce qui doit n’être fait que d’une main tremblante – en la modifiant sur un sujet qui me tient à cœur : les outils dont se dote la puissance publique pour faire vivre le point d’équilibre qui figure dans cette loi, au service d’une politique publique de la laïcité. Lors d’une précédente semaine de contrôle consacrée au bilan de cette politique, j’avais déjà questionné une ministre figurant parmi vos prédécesseurs, monsieur le ministre.<br/>Je pense en particulier aux articles consacrés à un terme qui effraie parfois : la police des cultes, dite aussi police de la laïcité. En complément des articles 1<exposant>er</exposant> et 2 qui prescrivent des principes, le législateur de 1905 a eu la sagesse de se donner les moyens juridiques de consacrer la liberté de croire et de ne pas croire, sans pression. Le propre de la laïcité est précisément de consacrer cette liberté sans pression. Ainsi, l’article 31 de la loi initiale de 1905 prévoyait cette garantie en punissant ceux qui, « soit par voies de fait, violences ou menaces contre un individu, soit en lui faisant craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille et sa fortune, l’auront déterminé à exercer ou à s’abstenir d’exercer un culte, à faire partie ou à cesser de faire partie d’une association cultuelle […]. »<br/>Tout se cristallise dans ces mots. En 2021, le choix a été fait de toiletter l’article qui ne s’appuyait plus sur des motifs juridiques. Or depuis, pas un seul ministre de l’intérieur ni un seul garde des sceaux n’a pris soin de rappeler son existence dans une circulaire pénale. Concrètement, cet article, qui punit le prosélytisme ou la stigmatisation d’une personne exprimant son culte, permet de sanctionner, avant même une voie de fait, une violence ou une agression, quelqu’un qui s’en prendrait à une jeune fille portant le voile dans la rue. Une telle stigmatisation est une atteinte à la laïcité. En même temps – telle est la magie de l’équilibre de la loi de 1905 –, cet article permet aussi de sanctionner une personne qui obligerait la même jeune fille à porter le voile, en exerçant une pression familiale, professionnelle ou autre. Je nous invite collectivement à faire vivre cette politique publique de la laïcité et ses outils juridiques, grâce à des circulaires et à une formation des magistrats et des policiers. Après 2021, année où il a été créé, le comité interministériel de la laïcité ne s’est réuni ni en 2022, ni en 2023, ni en 2024. Si nous ne sommes pas capables de faire vivre la politique publique de la laïcité, alors nous ne serons pas efficaces.<br/>Enfin, j’ai été meurtri par les propos entendus tout à l’heure. Pas plus que l’antisémitisme n’est résiduel dans notre pays, le séparatisme islamiste n’est marginal. Il a tué – il a tué dans notre pays. Une semaine après les hommages à <italique>Charlie</italique>, à l’Hyper Cacher et à Clarissa Jean-Philippe, dix ans après le Bataclan et cinq ans après la mort de Samuel Paty, ayons la lucidité d’ouvrir les yeux. Ce n’est pas de l’islamophobie ; il y a du racisme et de la discrimination envers les musulmans, mais ce n’est pas rendre service à la concorde républicaine que se voiler la face sur la réalité de la menace séparatiste. <italique>(M. Arnaud Simion applaudit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2593826" ordre_absolu_seance="61" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595204" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2980.33">Mes chers collègues, je vous invite à nouveau à être attentifs à votre temps de parole.<br/>La parole est à Mme Léa Balage El Mariky.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2593828" ordre_absolu_seance="63" id_acteur="PA841701" id_mandat="PM843269" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595206" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Léa Balage El Mariky (EcoS)</nom>
+            <id>841701</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3003.60">L’évaluation de la loi du 24 août 2021 confortant le respect des principes de la République a commencé dès son adoption. Cette loi ne confortait ni la liberté ni l’égalité, et encore moins la fraternité, mais uniquement la certitude des esprits étriqués qui pensent qu’il faut exclure pour renforcer le vivre-ensemble.<br/>Cette loi bousculait un édifice républicain en modifiant les lois fondatrices de nos libertés publiques et politiques : la liberté de la presse, l’instruction primaire obligatoire, la séparation des Églises et de l’État, et l’exercice public des cultes. Elle l’a fait en brossant le portrait d’un ennemi de l’intérieur, attisant à chaque fois un peu plus la haine et la suspicion.<br/>Le sort réservé aux associations prouve la dangerosité et l’inutilité de cette loi. Mon premier mandat ayant été celui d’adjointe à la mairie du 18<exposant>e</exposant><exposant> </exposant>arrondissement, chargée, notamment, de la vie associative, je peux témoigner de l’instabilité qu’elle a provoquée.<br/>La III<exposant>e</exposant> République nous a légué une immense liberté : celle de s’associer librement, sans contrôle préalable, sur simple déclaration en préfecture. Aujourd’hui, plus de 1 million d’associations contribuent, bien plus que la loi de 2021, à conforter les principes de la République. Bien sûr, cette liberté n’est pas absolue. Dès l’origine, la loi de 1901 a posé le principe selon lequel une association ne pouvait être fondée sur une cause ou en vue d’un objet illicites. Il n’y avait pas de trou dans la raquette.<br/>Loin de prendre appui sur le riche tissu associatif que nous avons la chance de connaître, la loi de 2021 a fait le choix de placer les associations sous étroite surveillance, en conditionnant les subventions publiques dont elles dépendent à la signature d’un contrat d’engagement républicain. Il est exigé du monde associatif qu’il s’engage à respecter les principes de liberté, d’égalité, de fraternité et de dignité de la personne. Il doit aussi respecter les symboles de la République, ne pas remettre en cause son caractère laïque et s’abstenir de toute atteinte à l’ordre public.<br/>Alors qu’il a été présenté comme un objet de lutte contre les séparatismes, ce contrat ne répond absolument pas au problème. Il s’en prend notamment à des associations féministes, de défense de l’environnement et de nos libertés, ou encore d’éducation populaire.<br/>Voici quelques exemples. En février 2022, le maire de Chalon-sur-Saône a voulu interdire l’installation d’un stand du Planning familial, parce que l’une des femmes figurant sur l’affiche était voilée. En septembre 2022, le préfet de la Vienne a ordonné à la ville et à la métropole de Poitiers de retirer une subvention accordée à l’association Alternatiba pour un atelier sur la désobéissance civile, jugé contraire aux valeurs de la République – l’association a gagné contre le préfet. Le 20 février dernier, l’atelier populaire d’urbanisme de Lille s’est vu retirer une subvention de 38 000 euros pour non-respect du contrat d’engagement républicain, car l’un des salariés s’était indigné de l’expulsion de familles de gens du voyage sur une aire d’accueil. Enfin, la région Nouvelle-Aquitaine a refusé une subvention à la compagnie Arlette Moreau, au motif qu’un spectacle satirique tournait en ridicule le préfet de cette région.<br/>Ces exemples ne viennent pas de l’administration, qui n’a pas pu répondre précisément à la question de l’application de ce contrat. Nous ne savons rien de son efficacité pour lutter contre le séparatisme ni du coût en recours perdus pour l’État, tant son application est disproportionnée. L’évaluation de cette loi me vient des principaux concernés, les élus locaux et les associations. Voici ce que nous constatons : une fragilisation de la libre administration des collectivités territoriales, entravées dans leur exercice délibératif souverain en vue de l’octroi d’une subvention ; l’augmentation du climat de défiance vis-à-vis des associations qui sont menacées, comme la Ligue des droits de l’homme, mise sous pression par le ministre de l’intérieur, Gérald Darmanin ; et une lente dérive vers l’idée que les associations sont des contre-pouvoirs dangereux pour notre République.<br/>Le Comité des droits de l’homme de l’ONU ne s’y est pas trompé. Le 8 novembre dernier, il a expressément demandé la révision de la loi de 2021, afin de s’assurer que le contrat d’engagement républicain ne puisse pas être appliqué de façon arbitraire. Le Haut Conseil à la vie associative est allé dans le même sens. Monsieur le ministre, comment pouvez-vous dire que fragiliser les associations, c’est renforcer le vivre-ensemble ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2593837" ordre_absolu_seance="72" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595215" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3272.62">La parole est à Mme Delphine Lingemann.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2593838" ordre_absolu_seance="73" id_acteur="PA794702" id_mandat="PM843248" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595216" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Lingemann (Dem)</nom>
+            <id>794702</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3306.54">La laïcité est un pilier fondamental de notre République : elle garantit la liberté de conscience et l’égalité de tous les citoyens devant la loi, sans distinction d’origine, de religion ou de conviction. Alors que nous examinons la loi confortant le respect des principes de la République, il me semble essentiel de souligner l’importance de la laïcité, notamment pour notre jeunesse.<br/>En 2020, dans son discours des Mureaux, le président de la République a insisté sur le rôle de l’école comme creuset républicain. Pilier de notre République, la laïcité trouve son expression la plus forte dans nos écoles. Jules Ferry ne s’y trompait pas quand, dans sa lettre aux instituteurs du 17 novembre 1883, à propos de l’application de la deuxième loi Ferry, votée deux ans plus tôt par le Parlement, il écrivait aux professeurs : « En vous dispensant de l’enseignement religieux, on n’a pas songé à vous décharger de l’enseignement moral ; c’eût été vous enlever ce qui fait la dignité de votre profession ».<br/>Plus que jamais, c’est à l’école que la laïcité doit trouver son relais le plus important. La loi confortant le respect des principes républicains a significativement renforcé le principe de laïcité dans nos établissements scolaires. L’instauration de référents laïcité dans chaque administration publique, y compris les écoles et les universités, a permis d’apporter un soutien concret aux personnels éducatifs. À la suite de cette loi, le plan « laïcité dans les écoles » a été renforcé par des sanctions systématiques et graduées visant les comportements qui ne la respectent pas.<br/>Cependant, nous devons rester vigilants et continuer à accompagner les équipes éducatives dans la mise en œuvre de ces dispositifs. La laïcité est un combat de tous les jours. À cet égard, la journée de la laïcité, institutionnalisée le 9 décembre depuis 2015, constitue une opportunité singulière de renforcer l’éducation des jeunes. C’est dans cette perspective que j’ai récemment déposé une proposition de loi visant à instaurer une cérémonie républicaine qui aurait lieu ce même jour dans tous les établissements scolaires – écoles, collèges et lycées, publics comme privés – du territoire. Célébrer la laïcité, c’est permettre à chacun de renforcer son sentiment d’appartenance à la nation et c’est encourager les jeunes à se sentir pleinement partie prenante de notre communauté nationale.<br/>Dans l’enseignement supérieur, la question de la laïcité demeure un enjeu majeur. Toutefois, il me semble important de garder à l’esprit que la laïcité à l’université s’inscrit dans une perspective radicalement différente de celle de l’enseignement primaire et secondaire. Le respect des principes républicains doit être concilié finement avec la liberté individuelle et académique, ainsi que la diversité des opinions. Comme l’a précisé Jérôme Guedj, il s’agit de trouver le point d’équilibre. Depuis une dizaine d’années, la publication d’un guide de la laïcité par France Universités montre que les situations traitées par les responsables des universités peuvent s’avérer très complexes. L’absence de travaux spécifiques et de rapports parlementaires traitant de la laïcité dans nos universités constitue une lacune qu’il nous faut impérativement combler.<br/>La loi confortant le respect des principes de la République a aussi voulu agir dans le champ des associations. Ses résultats sont tangibles : plus de 25 000 opérations de contrôle ont été menées, aboutissant à plus de 800 dissolutions d’associations. Ces actions démontrent notre détermination à lutter contre les dérives séparatistes ou communautaristes. La loi a également mis en place un contrat d’engagement républicain, par lequel les associations ou fondations qui demandent une subvention publique s’engagent à respecter le caractère laïque et les principes de la République. En cas de violation de cette obligation, la subvention doit être remboursée.<br/>Bien que ce contrat constitue une avancée en matière de formalisation de l’adhésion aux valeurs républicaines, son efficacité dépend de l’intégration de son contenu aux pratiques quotidiennes des associations. Au-delà de la formalité administrative, sa signature doit entraîner un engagement actif, des actions concrètes visant à transformer cette obligation légale en un véritable outil de promotion des valeurs républicaines. Afin d’y parvenir, nous pourrions envisager, au sein du tissu associatif, des mécanismes de suivi, de formation et de sensibilisation continues.<br/>Enfin, nous ne pouvons ignorer le défi majeur que représentent les réseaux sociaux, en cause, selon les données du ministère de l’éducation nationale, dans près de 20 % des signalements d’atteinte aux valeurs de la République, car ils peuvent être à la fois terreau et vecteur de ces dérives.<br/>La loi confortant le respect des principes de la République a indéniablement renforcé notre arsenal juridique en vue de défendre la laïcité à la française. Cependant, notre tâche n’est pas achevée : il nous faut poursuivre nos efforts, adapter nos outils de promotion et de défense des valeurs auxquelles nous tenons tant. <italique>(Mme Constance Le Grip applaudit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2593870" ordre_absolu_seance="82" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595259" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3627.99">La parole est à M. Jean Moulliere.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2593871" ordre_absolu_seance="83" id_acteur="PA794466" id_mandat="PM849654" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595260" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean Moulliere (HOR)</nom>
+            <id>794466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3652.71">Notre assemblée en revient à un texte particulièrement important pour notre pays : la loi confortant le respect des principes de la République, communément appelée loi séparatisme, a marqué une étape en clarifiant ce que notre société ne souhaitait plus tolérer. Dans la continuité du discours prononcé le 2 octobre 2020 par le président de la République, elle a répondu aux replis communautaires, à la montée de l’islamisme radical, en renforçant le respect des principes républicains et modifiant la loi sur les cultes.<br/>Premièrement, ce texte a réaffirmé la neutralité des services publics en transposant dans la loi ce qu’avait dégagé la jurisprudence : les organismes de droit privé chargés de l’exécution d’un service public sont soumis, pour les activités concernées, aux principes de laïcité et de neutralité du service public. Il créait également, en vue d’une meilleure protection des agents publics, le délit de séparatisme.<br/>Deuxièmement, il a renforcé le contrôle et l’encadrement des associations. La liberté d’association constitue depuis 1901 un pilier de notre pays, d’autant plus que sa valeur constitutionnelle a été reconnue en 1971 ; si nous constatons à la fois l’importance de ces organisations pour la société et l’aide qu’elles apportent à chacun d’entre nous, il est primordial, quelle que soit la cause qu’elles servent, de réaffirmer en leur sein les principes de la République. Tel est précisément l’objet du contrat d’engagement républicain, qui vise à prévenir des dérives – sectarisme, séparatisme, extrémisme –incompatibles avec l’intérêt général.<br/>Troisièmement, il a explicité des critères permettant d’encadrer davantage l’instruction en famille, des dérives ayant, là encore, été trop longtemps constatées. Afin de prévenir efficacement le séparatisme, il fallait des conditions plus restrictives – avec pour seule boussole l’intérêt de l’enfant. Le groupe Horizons &amp; indépendants est conscient des interrogations suscitées par cette partie du texte : nombreux sont les parlementaires – j’en fais partie – régulièrement sollicités par des citoyens ne pouvant plus instruire leurs enfants dans le cadre familial, en dépit d’un projet pédagogique réfléchi et cohérent qui, dans d’autres académies, aurait été accepté. Aussi notre groupe estime-t-il pertinent et même nécessaire de clarifier ces dispositions, afin que chacun comprenne ce qui est demandé et que l’administration l’applique de manière uniforme, équitable, dans l’ensemble du territoire. S’il faut des garde-fous, qui existent désormais, il importe également, je le répète, de s’adapter en fonction de ce qui convient le mieux à l’enfant.<br/>Quatrièmement, la loi du 24 août 2021 contribue au respect de l’égalité entre femmes et hommes. La manière dont une société traite les femmes reflète ses valeurs : ainsi le texte permet-il de lutter contre des pratiques inacceptables, telles que les mariages forcés, et interdit-il la délivrance de certificats de virginité, grave atteinte à la liberté, à la dignité des jeunes filles. Le texte lutte également contre la haine en ligne, par exemple en instaurant un délit de mise en danger de la vie d’autrui par diffusion d’informations relatives à sa vie privée, familiale ou professionnelle. Internet et l’intelligence artificielle étant désormais omniprésents, il devient impératif de protéger les valeurs républicaines au sein de l’espace numérique, où séparatisme, communautarisme et intégrisme peuvent facilement se propager.<br/>Au total, c’est un bilan positif que je souhaite, au nom du groupe Horizons et indépendants, saluer. Grâce à cette loi, plus de 26 000 opérations de contrôle ont été menées, près de 900 établissements fermés. Son utilité ne fait aucun doute : elle sert la République en combattant, de manière juste et équilibrée, des valeurs contraires à celle-ci. Nous tenons toutefois à rappeler les conclusions des travaux des sénatrices Jacqueline Eustache-Brinio et Dominique Vérien : si ce texte essentiel constitue une avancée majeure, il demeure perfectible. Tout en appelant à ce qu’il soit appliqué de manière plus rigoureuse et étendue, notre groupe a donc bon espoir de le voir encore renforcé, grâce à l’engagement de toutes les personnes concernées sur ces bancs. <italique>(Mme Constance Le Grip applaudit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2593877" ordre_absolu_seance="89" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595266" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3955.84">La parole est à Mme Gabrielle Cathala.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2593878" ordre_absolu_seance="90" id_acteur="PA842187" id_mandat="PM843704" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595267" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Gabrielle Cathala (LFI-NFP)</nom>
+            <id>842187</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3969.13">L’intitulé de la loi du 24 août 2021 fait partie de ces antiphrases dont la langue macroniste a le secret : loin de conforter par aucune de ses mesures les principes de la République – libertés individuelles et collectives, égalité, fraternité, laïcité, démocratie, caractère indivisible, vocation sociale –, elle les méconnaît et les bafoue ouvertement. Au sein de la trentaine de lois liberticides adoptées depuis 2017, elle se distingue par son objectif – susciter avant l’élection présidentielle de 2022 un climat nauséabond, un déversoir de haine islamophobe, en vertu de votre habituel jeu de dupes avec l’extrême droite – et par la valeur constitutionnelle des principes auxquels elle s’attaque, établis par la loi du 1<exposant>er</exposant> juillet 1901 relative au contrat d’association, mais surtout par la grande loi de liberté de 1905, qui organise la séparation des Églises et de l’État.<br/>La loi « séparatisme » n’a fait que nuire aux libertés associatives. Elle impose aux associations qui reçoivent des subventions un contrat d’engagement républicain servant à les mettre au pas, dénoncé par l’ensemble du mouvement associatif, car il menace les organisations dont les activités militantes dérangent. En 2022, à Chalon-sur-Saône, le maire a retiré au Planning familial l’autorisation de tenir un stand consacré à l’égalité femmes-hommes au motif que l’affiche, où figuraient six femmes dont une voilée, relevait des « moyens de propager une idéologie contrevenant » aux principes républicains. Quelques mois plus tard, l’association écologiste Alternatiba Poitiers se voyait retirer ses subventions pour avoir organisé un atelier portant sur la désobéissance civile, action pacifique que l’irréversible changement climatique rend nécessaire dans toutes les démocraties du monde. Ce fut ensuite le tour de la Ligue des droits de l’homme, directement menacée par M. Darmanin d’être privée de subventions : elle avait documenté violences policières et mensonges de l’État lors de sa gestion des manifestations contre la réforme des retraites et à Sainte-Soline.<br/>À la surveillance s’ajoute la répression, d’où l’élargissement des motifs de dissolution administrative. C’est grâce à cette loi scélérate que M. Darmanin a pu tenter de dissoudre les Soulèvements de la Terre ! Pour justifier son annulation de cette décision, le Conseil d’État a rappelé « la gravité de l’atteinte portée par une mesure de dissolution à la liberté d’association ». Depuis, des militants écologistes sont mutilés à vie et quatre mégabassines agricoles, dont celle de Sainte-Soline, déclarées illégales par la cour d’appel de Bordeaux. Quant à M. Darmanin, sa brutalité et sa méconnaissance des libertés fondamentales ont été récompensées : le voilà ministre de la justice. La dérive inquiète jusqu’au Comité des droits de l’homme, organe de surveillance des Nations unies, qui, dans ses <italique>Observations finales concernant le sixième rapport périodique de la France</italique>, se dit « vivement préoccupé » et demande que les dispositions ayant trait aux associations soient revues.<br/>L’autre versant de la loi « séparatisme » consiste à s’attaquer à la laïcité française, fondée, je le répète, par une grande loi de liberté permettant à chacun de croire ou ne pas croire et laissant aux personnes privées la liberté d’organiser leur culte, tant qu’il ne trouble pas l’ordre public. Vous aimez tant les concordats qu’il ne vous suffit pas de défendre celui d’Alsace-Moselle : vous en étendez l’application de fait aux musulmans de France, vous improvisant organisateurs d’un culte. Ce faisant, vous combattez non en faveur de la laïcité, que vous concevez à géométrie variable, mais contre nos compatriotes de confession musulmane. Lors de l’examen de la future loi « séparatisme », vous avez fait rejeter toutes nos propositions visant à conforter la loi de 1905 : abrogation du concordat d’Alsace-Moselle et des dérogations outre-mer, suppression des avantages fiscaux – 200 millions d’euros d’argent public par an ! – accordés aux cultes, ainsi que de la modification introduite dans le texte de 1905 par le régime de Vichy.<br/>Vous vous êtes opposés à un meilleur contrôle de l’enseignement privé. Que dire de votre inertie alors que le privé sous contrat absorbe au moins 12 milliards par an – de l’argent public, là encore –, alors que des établissements séparatistes comme Stanislas, où toutes les obligations de la loi Debré du 31 janvier 1959 sont violées, la liberté de conscience piétinée, où règnent le sexisme et l’homophobie, conservent leur contrat d’association avec l’État ? Vous êtes plus consciencieux lorsqu’il s’agit de couper les vivres aux lycées musulmans. Comme pour tout le reste, c’est la règle du « deux poids, deux mesures ». Quant à la présence d’élus à des cérémonies religieuses, vous n’y voyez rien à redire : M. Macron a pu tranquillement assister à une messe à Notre-Dame de Paris, en totale violation du principe de laïcité. En revanche, les musulmanes qui choisissent d’accompagner leurs enfants lors d’une sortie scolaire, bien qu’elles ne soient pas des agents publics et n’aient donc pas à respecter le principe de neutralité, continuent d’être montrées du doigt par M. Retailleau.<br/>Voilà ce qu’est finalement votre loi : l’expression de votre haine des musulmans et des opposants politiques, caricaturés respectivement comme islamistes et comme gauchistes. Lorsque vous dissolvez des associations et groupements écologistes, antifascistes, antiracistes, vous pensez, vous agissez de concert avec l’extrême droite, laquelle applaudit votre action et se félicite de votre dérive autoritaire depuis sept ans, car c’est elle qui en tire profit. Votre vision du monde n’a plus grand-chose de républicain : la République, c’est la liberté, l’égalité, la fraternité, non l’autoritarisme, l’arbitraire, la discrimination et l’exclusion. <italique>(Applaudissements sur les bancs du groupe LFI-NFP. – M. Bastien Lachaud, rapporteur, applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2593884" ordre_absolu_seance="96" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595273" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4012.33">La parole est à M. Olivier Fayssat.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2593885" ordre_absolu_seance="97" id_acteur="PA840773" id_mandat="PM842456" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595274" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Olivier Fayssat (UDR)</nom>
+            <id>840773</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4296.22">Cette loi, adoptée il y a trois ans, devait empêcher qu’il y ait un jour un second Samuel Paty. Malheureusement, celui-ci s’appelle Dominique Bernard, assassiné le 13 octobre 2023.<br/>Dans mon pays, les citoyens n’ont pas à trembler parce qu’une lâcheté politique paralysante empêche d’appliquer les règles. Dans mon pays, la loi n’est pas une vague injonction morale mais un rempart solide, un bouclier réel contre ceux qui menacent nos valeurs et nos vies. Pourtant, ce qui nous reste aujourd’hui entre les mains, c’est un texte inefficace, une machine administrative vide de sens, minée par un laxisme que certains de nos collègues refusent toujours de regarder en face.<br/>Née dans l’urgence, dans l’émotion des drames, cette loi promettait monts et merveilles – protéger nos agents publics, renforcer la laïcité, désarmer les séparatismes. Il n’est sorti de cette fanfare qu’un colosse aux pieds d’argile. Prenons le contrat d’engagement républicain : en théorie, un outil efficace, manifestant l’exigence de l’État que les associations respectent nos principes fondamentaux ; dans les faits, une case cochée sur un formulaire Cerfa. Pas de contrôle effectif, pas de suivi rigoureux, très peu de retraits de subventions, pendant que les associations suspectées de séparatisme se dissimulent habilement. Nous savons pourquoi : à force de se vautrer dans un laxisme bien-pensant, certains ici ont abandonné l’idée même de protection. Je pense à cette gauche dont l’ancienne majorité présidentielle est l’otage, et qui a troqué le pragmatisme contre une idéologie désarmante. Elle est complice de cet échec !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2593888" ordre_absolu_seance="100" id_acteur="PA841091" id_mandat="PM842705" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595277" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Simion</nom>
+            <id>841091</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4338.91">C’est ça, oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2593889" ordre_absolu_seance="101" id_acteur="PA840773" id_mandat="PM842456" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595278" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Olivier Fayssat</nom>
+            <id>840773</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4398.83">Combien de fois aurons-nous entendu ce refrain plaintif : « Ne stigmatisons pas ! Ne divisons pas ! » Or, tandis que nous reculons devant les vrais enjeux, ce sont les séparatistes qui avancent. Cette complaisance équivaut à un permis de s’attaquer à notre nation, notre cohésion, notre vivre-ensemble. Les chiffres parlent d’eux-mêmes : en trois ans, seulement dix-huit lieux de culte fermés, alors que les discours de haine continuent de prospérer, 10 % des agents publics formés au sujet du principe de laïcité, et quelques dissolutions – encore les associations concernées ne faisaient-elles pas partie des principales cibles du législateur. Il y a là une imposture, une mascarade, la façade républicaine d’un système qui ne protège plus rien ni personne.<br/>Permettez-moi de rappeler un vieux principe de droit, qui n’est pas pris en compte dans l’application de la loi : ce n’est pas la gravité de la peine qui importe, mais la certitude qu’elle sera appliquée. Certes, tout n’est pas à jeter dans la loi ! Néanmoins, les quelques mesures qui auraient pu être efficaces ont souffert d’un manque de détermination et de fermeté, récurrent chez ceux qui nous gouvernent depuis quelques années.<br/>Que dire également des mesurettes qui font les gros titres mais laissent le terrain inchangé ? Si la clause antiputsch, qui vise à empêcher les prises de contrôle extrémistes des associations cultuelles, est une bonne idée, elle ne l’est que sur le papier. En effet, aucune dérive majeure n’a été empêchée en pratique. Les règles administratives qui ont été renforcées afin de contrôler les associations cultuelles se traduisent en réalité par des procédures kafkaïennes pour celles qui respectent la loi depuis toujours et font apparaître des lacunes béantes quand il s’agit de traquer celles qui s’y soustraient.<br/>Pendant ce temps, les Français s’interrogent : à quoi bon de telles lois si elles ne changent rien ? Pourquoi tolérons-nous que des idéologies hostiles à la République continuent de s’enraciner dans les territoires ? Tout simplement parce que certains, ici, refusent de nommer les choses ; parce qu’au lieu d’agir, on se contente de gesticuler ; parce que la priorité n’a jamais été de protéger la nation, mais de ménager des susceptibilités au nom d’un universalisme mal compris.<br/>Soyons clairs : il n’y a pas de compromis à faire avec ceux qui rejettent nos valeurs. La République est une exigence, pas une option. Et tant que nous accepterons des lois faibles, tant que nous céderons au laxisme, ce ne sont pas les séparatistes qui s’adapteront à nos règles, mais bien la République qui se verra attaquée de l’intérieur.<br/>C’est pourquoi il est temps d’arrêter de tergiverser. Alors qu’il devait constituer un bouclier, ce texte n’est qu’un écran de fumée. Les Français, nos agents publics, nos professeurs méritent mieux. Notre République mérite mieux. La France mérite mieux. Parce qu’à la fin, ce ne sont pas des formulaires qui sauveront la nation. <italique>(Applaudissements sur les bancs du groupe RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2593919" ordre_absolu_seance="107" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595010" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4570.69">La parole est à M. Roger Chudeau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2593920" ordre_absolu_seance="108" id_acteur="PA794198" id_mandat="PM842876" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595011" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Roger Chudeau (RN)</nom>
+            <id>794198</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4594.69">Le projet de loi confortant le respect des principes de la République a été présenté lors du Conseil des ministres du 9 décembre 2020. Selon le communiqué de presse d’alors, « Il apporte des réponses au repli identitaire et au développement de l’islam radical […]. Il vise d’abord à garantir le respect des lois et principes de la République dans tous les domaines exposés à des risques d’emprise séparatiste ».<br/>L’intention était louable. Il serait mis fin au déni, à l’aveuglement, au somnambulisme de nos dirigeants face au péril majeur auquel se trouve confrontée la République : l’islam radical, la montée en puissance de celui-ci dans des pans entiers du territoire et dans des secteurs entiers de nos services publics. C’était enfin une réaction, un sursaut.<br/>Toutefois, après trois années ponctuées d’attentats, après la montée en puissance d’un antisémitisme décomplexé, après tant de déclarations haineuses appelant à la guerre civile et à l’intifada, après la recrudescence d’influenceurs islamistes, la question qui se pose est la suivante : où en sommes-nous ? Qui peut affirmer raisonnablement que le repli identitaire a été stoppé, que l’islam radical a été contenu et que la loi a garanti quoi que ce soit en matière de lutte contre l’emprise séparatiste à l’école, à l’hôpital, dans le sport ou sur les réseaux sociaux ? D’ailleurs, dans son rapport du 6 mars 2024, le Sénat se montre sévère, puisqu’il estime que la loi n’a que « marginalement » contribué à garantir le respect des principes de la République et qu’elle n’a que « peu favorisé » la lutte contre le séparatisme.<br/>Prenons quelques exemples qui poussent à s’interroger. En vertu de l’article 3 de la loi, les administrations de l’État et les collectivités territoriales sont tenues de désigner un référent laïcité. La belle affaire ! Premièrement, la plupart des collectivités n’ont pas la moindre idée de ce que c’est ; deuxièmement, le seul ministère à s’être doté de 14 000 référents – le ministère de l’éducation nationale – est celui-là même qui voit exploser en son sein des atteintes à la laïcité.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2593924" ordre_absolu_seance="112" id_acteur="PA720846" id_mandat="PM840441" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595015" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bastien Lachaud</nom>
+            <id>720846</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4682.05">C’est faux !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2593925" ordre_absolu_seance="113" id_acteur="PA794198" id_mandat="PM842876" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595016" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Roger Chudeau</nom>
+            <id>794198</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4711.16">Par conséquent, le référent laïcité ne sert à rien !<br/>L’article 9 crée un délit de séparatisme. Très bien ! En réalité, combien de signalements, de plaintes, d’instructions et de procès ont-ils mené à une condamnation ? Cinq, en trois ans !<br/>L’article 431-1 du code pénal institue un délit spécifique d’entrave de l’exercice de la fonction d’enseignant. Magnifique ! Toutefois, combien de plaintes et de dénonciations sont-elles déposées, au titre de l’article 40 de ce même code, par les rectorats et les chefs d’établissements et combien d’amendes ou de condamnations sont-elles prononcées ? Personne ne le sait : la réponse est sans doute proche de zéro.<br/>L’article 36 de la loi modifie l’article 223-1 du code pénal et prévoit la création d’un délit relatif à la divulgation d’informations personnelles pouvant conduire à des violences – ce que les Anglo-Saxons appellent <italique>doxing</italique>. Même question, même réponse : pas de poursuites.<br/>En conclusion, sur le plan répressif, la loi n’est tout simplement pas appliquée.<br/>Venons-en à l’article 12, qui instaure le contrat d’engagement républicain. Il s’agit, encore une fois, d’une magnifique idée. Toutefois, qui y souscrit ? Comment cette mesure est-elle contrôlée ? Le Sénat évoque à ce sujet une « coquille vide ».<br/>L’article 74 prévoit la fermeture temporaire des lieux de culte – donc des mosquées –, dans lesquels sont prêchés des discours antifrançais ou antirépublicains. Pourquoi une fermeture temporaire et non pas définitive ?<br/>Aucun de ces articles n’aura eu de véritable prise sur le réel. Il s’agit en réalité d’une loi typiquement macronienne, performative, de l’ordre de la pensée et de la formule magiques : une forme d’abracadabra, pour dire « Deviens ce que je proclame ! »<br/>Enfin, la loi comporte des articles clairement contre-productifs, voire attentatoires aux libertés : les articles 49 et suivants, qui modifient radicalement le régime de l’instruction en famille. Souvenons-nous que l’objet central de la loi était la lutte contre le séparatisme et l’islamisme radical. Cependant, quel est le rapport avec l’instruction en famille ? Sur quels fondements, quelles études ou quelles enquêtes une corrélation a-t-elle été établie entre les deux ? Aucun, puisqu’il n’existe aucune corrélation. D’ailleurs, il n’y a que 2 % de refus de dérogation à la loi pour séparatisme avéré – c’est dire si le sujet est extérieur à la question éducative !<br/>L’article 49 porte donc sérieusement atteinte à la liberté d’enseigner, pourtant de portée constitutionnelle, en remplaçant le régime de déclaration par un régime d’autorisation préalable. Tout se joue alors sur le quatrième motif de dérogation, dont la formulation est si léonine qu’elle donne lieu aux interprétations les plus diverses dans les administrations académiques : le nombre de dérogations accordées va du simple au quadruple d’une académie à l’autre. Cette disparité constitue une inégalité – vous en conviendrez. Elle présente les caractéristiques de l’arbitraire, auquel s’ajoute une opacité dénoncée par les très nombreuses associations qui défendent le droit à l’instruction en famille.<br/>Au bout du compte, il s’agit d’une loi brouillonne, bavarde, performative, parfois injuste. Il semble nécessaire de la réécrire, au moins partiellement, afin de lui redonner une portée et une efficacité qui lui font grandement défaut. Le groupe Rassemblement national se tient évidemment à votre disposition, monsieur le ministre, dans l’hypothèse où vous seriez disposé à entreprendre ce travail législatif. <italique>(Applaudissements sur les bancs du groupe RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2593936" ordre_absolu_seance="124" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595027" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4902.57">La parole est à M. le ministre auprès du ministre d’État, ministre de l’intérieur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2593937" ordre_absolu_seance="125" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595028" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre auprès du ministre d’État, ministre de l’intérieur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="4935.42">Évaluer la mise en œuvre de la loi est une mission essentielle du Parlement – nous y sommes. Lorsque cette évaluation porte sur un sujet aussi essentiel que le respect des principes de la République, dont la loi du 24 août 2021 entend conforter la défense, elle nous oblige encore davantage.<br/>Comme je l’avais indiqué dans d’autres circonstances, en tant que président de la commission des lois du Sénat, lors des débats qui avaient précédé son adoption, si cette loi ne règle pas tout et n’aborde pas tous les sujets, elle établit de nouveaux remparts dans la défense de nos valeurs républicaines, dans le combat pour la laïcité et contre le séparatisme.<br/>Car oui, la laïcité est un combat, qui se mène tout le temps et partout : aucun domaine de la vie collective n’échappe au fait religieux ; aucun service public n’est préservé des revendications identitaires. Les interventions qui ont précédé en ont apporté des témoignages : à l’hôpital, à l’université, dans les entreprises, les exigences se font de plus en plus pressantes. Et à l’école, elles se font de plus en plus violentes.<br/>Ce combat, nous le mènerons par la force de nos lois. Depuis plusieurs années, nous avons renforcé notre arsenal législatif. En 2016, deux lois ont été adoptées qui contenaient chacune des dispositions relatives à la laïcité : l’une dans les services publics, l’autre dans les entreprises. Et à la suite du discours des Mureaux prononcé par le président de la République, la France a souhaité se doter d’une stratégie globale et offensive afin de combattre le séparatisme, ce faux nez du rejet de la laïcité. Grâce à la loi confortant le respect des principes de la République, nous disposons d’instruments efficaces pour répondre concrètement à ces atteintes.<br/>Plusieurs des rapporteurs qui se sont exprimés ont mis en doute l’impact de la loi. Si elle n’a pas tout réglé, comme je l’ai souligné, certains de ses résultats peuvent être rappelés. Le premier d’entre eux a été de garder le courage de voir. Voir que les atteintes à la République et à la laïcité existent et qu’elles sont de plus en plus nombreuses. Voir aussi qu’elles ne sont pas toutes signalées, tant s’en faut. J’ai en mémoire ce chiffre inquiétant tiré d’une étude de l’Ifop : en décembre 2022, près de la moitié des enseignants admettaient ne pas avoir signalé à leur administration la dernière atteinte à la laïcité à laquelle ils avaient été confrontés. Je l’ai moi-même constaté dans le cadre d’un rapport que j’ai publié au Sénat avec le président de la commission de la culture, Laurent Lafon, relatif au signalement et au traitement des pressions, menaces et agressions dont les enseignants sont victimes.<br/>Garder le courage de voir, c’est aussi retrouver le courage de dire. Dire que la République est notre bien commun et qu’il n’est pas négociable. Non seulement pour l’État, bien sûr, qui doit veiller dans les services publics à une stricte neutralité et qui doit permettre à chacun de croire ou de ne pas croire et de pratiquer son culte, mais aussi et surtout pour les citoyens, qui doivent reconnaître qu’à chaque sphère correspond un principe régulateur propre : la liberté dans la sphère privée, la neutralité dans la sphère publique, la discrétion dans la sphère civile. L’histoire de la civilisation française, c’est celle de la querelle réglée entre le pouvoir politique et le pouvoir religieux.<br/>Cette querelle, que l’on croyait réglée, ressurgit aujourd’hui parce que la République est fragilisée : la nation est fracturée, les affirmations communautaires s’y développent comme autant d’archipels identitaires d’origines, de religions ou de croyances. Ces entorses à la promesse républicaine se manifestent par une remise en cause de plus en plus fréquente de la laïcité, souvent de façon insidieuse. Les assassinats de Samuel Paty et de Dominique Bernard nous rappellent que les attaques contre la République prennent également des formes ultraviolentes. Souvenons-nous, dans nos débats, que Samuel Paty et Dominique Bernard ont été assassinés précisément parce qu’ils enseignaient à nos enfants la laïcité contre les communautarismes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2593944" ordre_absolu_seance="132" id_acteur="PA1567" id_mandat="PM843572" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595035" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jérôme Guedj</nom>
+            <id>1567</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5144.16">Et la liberté !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2593945" ordre_absolu_seance="133" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595036" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5205.22">Le meilleur antidote contre ce poison communautariste, c’est la nation. La nation protectrice des libertés des femmes, des droits de tous et des choix de chacun. La nation fédératrice, unie sous son drapeau, rassemblée autour de ses principes républicains, comme la laïcité qui dessine notre espace commun. La nation éducatrice aussi, car l’histoire nous l’a enseigné : c’est dans l’ignorance que, toujours, surgit le mal. Et la nation – notre nation à tous, par-delà nos différences –, ce n’est pas négociable.<br/>C’est la promesse républicaine, celle que l’école enseigne, celle à laquelle Samuel Paty croyait, d’une communauté qui transcende toutes les autres, d’une fraternité civique qui ne repose ni sur la couleur de peau ni sur l’origine ou la religion mais bien sur un projet collectif qui puise sa sève dans les siècles d’histoire de notre grand pays et dans les idées que notre nation a offertes au monde. Ce sont d’ailleurs les mots d’Ernest Renan : « La nation, comme l’individu, est l’aboutissement d’un long passé d’efforts, de sacrifices et de dévouements. »<br/>La loi du 24 août 2021 réaffirme ces principes ; elle œuvre à les rappeler, à les partager et à refuser les accommodements qui deviennent des compromis, à rejeter les compromis qui conduisent aux compromissions.<br/>Dans les services publics, ce texte a permis la constitution d’un réseau de référents laïcité dont le rôle est déterminant pour la diffusion d’une culture de celle-ci dans les administrations. À ce jour, près de 17 000 référents laïcité ont été désignés, alors qu’on n’en comptait que quelques centaines avant l’adoption de la loi. Et il ne s’agit là que des chiffres relatifs à la fonction publique d’État et à la fonction publique hospitalière, puisque nous ne disposons pas, à ce stade, de chiffres consolidés s’agissant de la fonction publique territoriale.<br/>Ces référents laïcité ont permis de faire remonter 5 049 signalements pour la période de 2022 et 2023, dont 4 710 pour le seul ministère de l’éducation nationale. Ces signalements concernent essentiellement le port de signes religieux, la pratique religieuse sur le lieu de travail, le prosélytisme ou des discriminations commises par des agents publics à l’égard d’usagers. Ils ont pu généralement être réglés par le dialogue et le rappel du cadre juridique, ce qui explique, en définitive, le faible nombre de sanctions prononcées.<br/>Par ailleurs, 730 000 agents publics ont d’ores et déjà été formés au principe de laïcité – la loi a rendu cette formation obligatoire. Enfin, une journée nationale de la laïcité a été instituée le 9 décembre de chaque année pour rappeler le rôle cardinal de ce principe.<br/>Mais le texte ne fait pas que sensibiliser ou prévenir. Il comporte aussi un volet important d’obligations, notamment de transparence, et de sanctions. Il s’agit, en premier lieu, du délit de séparatisme qui punit de cinq ans d’emprisonnement et de 75 000 euros d’amende le fait d’user de menaces, de violences ou d’intimidation à l’égard de toute personne participant à l’exécution d’une mission de service public, afin d’obtenir pour soi-même ou pour autrui une exemption totale ou partielle, ou une application différenciée des règles régissant le fonctionnement de ce service. La République ne peut en aucun cas se segmenter.<br/>Selon les chiffres de la direction des affaires criminelles et des grâces, cinq personnes ont été jugées et condamnées pour ce délit en 2022, et neuf en 2023, pour une durée moyenne de cinq mois d’emprisonnement avec sursis. Le déféré laïcité, également créé par le texte, a comblé un véritable vide juridique et a mis en échec à deux reprises des décisions de collectivités territoriales portant gravement atteinte aux principes de laïcité et de neutralité des services publics. Il a ainsi permis, pour ne citer qu’un exemple, d’obtenir la suspension par le juge administratif d’une délibération du conseil municipal de la ville de Grenoble visant à modifier le règlement intérieur des piscines municipales pour y introduire le port du maillot de bain intégral, dit burkini, dans un contexte de revendication de nature religieuse.<br/>La loi a aussi créé les outils permettant de mettre fin au financement public d’associations qui s’inscrivent en rupture avec les valeurs de la République. C’est le sens du contrat d’engagement républicain qui oblige désormais les associations sollicitant des subventions de l’État ou des collectivités territoriales à s’engager à respecter ces valeurs et qui conduit également à leur retirer ces subventions s’il s’avère qu’elles ne les respectent pas.<br/>Il s’agit d’un levier puissant puisque les subventions publiques représentent 20 % du budget cumulé des associations et que 61 % d’entre elles perçoivent au moins un financement public. Dans le même ordre d’idée, le texte a permis de porter des coups sévères aux canaux de financement du séparatisme grâce à un meilleur contrôle de ceux-ci. Depuis l’entrée en vigueur de la loi, 220 suspensions administratives de fonds de dotation ont été prononcées – soit une multiplication par plus de dix par rapport aux trois années précédentes –, et un financement en provenance de l’étranger a fait l’objet d’une opposition du ministre.<br/>La loi a enfin facilité les dissolutions d’associations ou de groupements de fait. Depuis son entrée en vigueur, vingt-huit entités ont pu être dissoutes grâce aux modifications qu’elle a introduites : seize appartenant à la mouvance d’ultradroite, deux à la mouvance d’ultragauche, deux à la mouvance complotiste, six à la mouvance islamiste et deux à la mouvance indigéniste raciste.<br/>Ces chiffres apportent un démenti formel à celles et ceux qui, sur certains bancs, reprochent à la loi et aux pouvoirs de n’être focalisés que sur la menace islamiste. Celle-ci est réelle, certes, et nous la prenons en compte, mais nous faisons aussi barrage à toutes les autres formes de séparatisme et de remise en cause violente de la République. Je le répète car telle est ma conviction : la République, ce bien commun, est la même pour tous.<br/>Au-delà de ces chiffres, je le souligne, ce texte a eu un effet dissuasif certain. En effet, avant même sa promulgation, plusieurs lieux de culte ont modifié leurs comportements, de crainte d’être concernés par les nouvelles dispositions légales. Nous avons observé une plus forte implication des instances gestionnaires dans la maîtrise des propos, théories ou idées diffusés directement ou en lien avec le lieu de culte. Ainsi, plusieurs procédures engagées par les services de l’État, comme la fermeture administrative de la mosquée de Brive-la-Gaillarde ou plus récemment de celle des Bleuets à Marseille, ont été abandonnées après la prise de mesures correctrices par les instances gestionnaires pour se mettre en conformité avec la loi, en particulier le licenciement ou la démission de l’imam tenant les propos litigieux. Le dispositif actuel a donc démontré son efficacité et son utilité dans de nombreux cas, d’autant qu’il s’inscrit dans une stratégie plus large de lutte contre le séparatisme, menée sur le terrain notamment dans le cadre des cellules départementales de lutte contre l’islamisme et le repli communautaire (Clir).<br/>Depuis l’entrée en vigueur de la loi, 8 686 opérations de contrôles ont été menées, 673 établissements ont été fermés de manière temporaire ou définitive, un peu plus de 15 millions d’euros ont été redressés ou recouvrés et 592 signalements ont été effectués à l’autorité judiciaire au titre de l’article 40 du code de procédure pénale. Toutes ces mesures n’ont pas été prises uniquement sur le fondement du texte, mais elles témoignent de la forte mobilisation des services de l’État pour lutter contre le séparatisme.<br/>J’en viens à mon deuxième point. J’ai conscience que ce bilan n’est encore que parcellaire et je partage l’avis exprimé par plusieurs orateurs sur le travail important qui demeure pour réarmer la République. Je ne conteste évidemment pas les conclusions de la commission des lois du Sénat, vous vous en doutez bien. Je le sais d’autant plus que j’avais souligné ces insuffisances lors des débats qui avaient précédé l’adoption du texte et que, encore récemment, le Sénat, dans un rapport d’information du 6 mars 2024, en a lui-même souligné les limites, notamment un cadre juridique et administratif inachevé, une mobilisation encore inégale des acteurs au sein des administrations de l’État et des collectivités locales, ainsi qu’un recours encore peu fréquent aux outils créés par la loi. Ces différents constats reflètent pour partie un manque d’acculturation interministérielle à la réalité de la menace, auquel il nous faut remédier.<br/>Le séparatisme islamiste est un phénomène insidieux : il vise à faire prévaloir des règles particulières, principalement de nature religieuse, sur les principes et les valeurs de la République. Il est une menace pour la République et pour les Français de culture, de tradition ou de confession musulmane eux-mêmes car il tend à les enfermer dans une pratique rigoriste de leur religion, parfois sous la menace et l’intimidation. Bien sûr, le séparatisme n’est pas que religieux, il n’est pas seulement la conséquence de l’islam politique, même si c’est aujourd’hui la principale menace. Il est protéiforme, prend de multiples visages, y compris celui de certaines formes d’extrémisme politique, qu’il soit de droite ou de gauche – aucun de ces visages n’est acceptable. Les intégrismes n’ont pas leur place dans notre République car ils en sont la négation même.<br/>Quelle que soit la forme qu’il prenne, le séparatisme constitue une menace particulièrement grave pour notre société et notre cohésion nationale, qui est un bien supérieur, et appelle donc de notre part une vigilance absolue. Le gouvernement en est bien conscient puisqu’il a confié à l’Inspection générale de l’administration le 4 décembre dernier – avant ma prise de fonction – une mission afin d’évaluer le niveau de connaissance et de compréhension du phénomène séparatiste par les services de l’État ainsi que la pertinence et l’efficacité des dispositifs pour y faire face, de dresser le bilan de la mise en œuvre des outils créés par le texte et, enfin, de formuler des propositions, dont je ne suis pas encore capable de vous dire si elles auront un caractère législatif ou réglementaire. Cette mission rendra ses conclusions au premier semestre. Elles seront évidemment communiquées à la représentation nationale.<br/>J’en arrive à mon troisième et dernier point. Plus de trois ans après l’adoption du texte, force est de constater que le phénomène séparatiste n’a rien perdu de son actualité, bien au contraire. Dans les établissements scolaires, périscolaires et universitaires, dans les services publics de manière générale, les actes de mise en cause directe ou indirecte des principes républicains continuent d’augmenter. Dans les associations, les clubs de sport ou les entreprises, les revendications identitaires progressent également. L’économie communautaire continue, elle aussi, à se développer. Surtout, à ces formes de remise en cause des valeurs républicaines, s’ajoutent parfois des phénomènes plus diffus, plus discrets, plus insidieux. La rupture par l’État du contrat avec le lycée Averroès de Lille l’an dernier, ou l’expulsion de l’imam Iquioussen, toutes deux confirmées par la justice administrative, sont à cet égard deux exemples édifiants.<br/>La France est une nation singulière dans l’histoire du monde. Pour nous, la République n’est pas qu’une organisation des pouvoirs, c’est d’abord la communauté qui transcende toutes les autres ; la fraternité n’est ni ethnique, ni religieuse, mais civique ; la laïcité ne se réduit ni à la liberté de conscience et de culte, ni à la séparation des Églises et de l’État, elle est « le pilier de l’identité collective française contemporaine, [qui] organise notre rapport à la liberté et à l’égalité, et […] contribue à définir notre citoyenneté, notre commun », pour reprendre les mots de Laurent Bouvet.<br/>C’est par la laïcité que la fraternité républicaine – inscrite au-dessus de vous, madame la présidente –, une fraternité civique, s’exprime, et c’est cette fraternité que nous devons protéger. Le combat pour la laïcité et pour la République est avant tout un combat culturel, civilisationnel : c’est un combat par les symboles, un combat fraternel pour le respect des croyances de chacun, mais aussi un combat républicain pour défendre la force et la vigueur de ce qui nous réunit, plutôt que ce qui nous sépare. C’est la raison pour laquelle le gouvernement souhaite insuffler une nouvelle dynamique à la politique de lutte contre le séparatisme.<br/>Chacun, dans cet hémicycle, peut être fier de contribuer à la défense de la République, même s’il y a parfois des appréhensions différentes. Si la loi n’est pas parfaite, si elle encore insuffisamment évaluée – vous avez eu raison de le relever –, si elle peut être mieux appropriée, elle nous a permis, collectivement, malgré tout, un sursaut. Avec le ministre de l’intérieur, mon collègue Bruno Retailleau, j’aurai à cœur de vous présenter un bilan non seulement précis – j’en ai parlé tout à l’heure –, mais aussi exhaustif. Nous veillerons également à renforcer l’arsenal juridique utile à la préservation de nos principes et à leur respect. Je vous remercie pour votre aimable écoute. <italique>(Applaudissements sur les bancs des groupes EPR, DR, Dem et HOR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2593906" ordre_absolu_seance="154" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595057" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6057.31">Nous en venons maintenant aux questions. Je vous rappelle que leur durée, ainsi que celle des réponses, est limitée à deux minutes, sans droit de réplique. Je ferai appliquer cette règle scrupuleusement.<br/>La parole est à Mme Graziella Melchior.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2593908" ordre_absolu_seance="156" id_acteur="PA719338" id_mandat="PM842654" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595059" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Graziella Melchior (EPR)</nom>
+            <id>719338</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6082.30">La loi que nous évaluons aujourd’hui est venue modifier dans son article 49 la procédure de mise en place de l’instruction en famille. Le régime de déclaration a été remplacé par une demande d’autorisation que doivent formuler les familles auprès des académies. Lors de l’examen du projet de loi, il nous avait été indiqué que certains enfants pourraient courir le risque, lorsqu’ils étaient scolarisés à domicile, de se voir transmettre une instruction et des valeurs contraires à la République. Bien entendu, sur les 50 000 à 60 000 familles concernées, ceux-ci ne représentaient qu’une infime proportion. Aussi, après de longs débats, avons-nous voté en faveur de l’autorisation préalable de l’État.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2593909" ordre_absolu_seance="157" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595060" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Xavier Breton</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6118.82">C’est une erreur !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2593910" ordre_absolu_seance="158" id_acteur="PA719338" id_mandat="PM842654" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595061" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Graziella Melchior</nom>
+            <id>719338</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6119.04">Toutefois, nous avions obtenu l’engagement du ministre de l’éducation nationale Jean-Michel Blanquer que les éventuels refus ne concerneraient que des situations dans lesquelles l’enfant pourrait être séparé ou éloigné des principes républicains. Or il semble que l’esprit de la loi, telle qu’elle a été votée, n’est pas compris de la même manière selon les académies. La loi précise les quatre motifs fondant la demande d’autorisation des familles : la santé de l’enfant, la pratique intensive d’activités sportives ou artistiques, l’itinérance en France des personnes responsables et l’existence d’une situation propre à l’enfant motivant le projet éducatif.<br/>C’est sur ce dernier point que les difficultés apparaissent. En effet, des familles ayant fait ce choix et qui respectent pleinement nos valeurs se voient opposer des refus injustifiés et au minimum des démarches administratives d’une grande complexité, ne tenant pas compte des besoins spécifiques de chaque enfant. Monsieur le ministre, afin que soient respectés le droit et l’esprit de la loi telle que nous l’avons votée, de quelle manière pourriez-vous travailler avec la ministre de l’éducation nationale pour que seuls les enfants sur lesquels pèse un risque de séparatisme soient ciblés et que le choix de l’instruction à domicile par les autres familles soit respecté ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2593912" ordre_absolu_seance="160" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595063" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6186.96">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2593913" ordre_absolu_seance="161" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595064" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6200.19">La question est pertinente. Elle avait été posée à l’occasion des débats sur le texte au Sénat. Je le rappelle, le passage d’un dispositif déclaratif à un dispositif d’autorisation avait suscité des interrogations sur le fond, en lien avec le respect de la liberté d’instruction à domicile – des familles le réclamaient, parfois légitimement. La question sur le fond était celle du contrôle, qui était insuffisant et, dans tous les cas, pas assez pertinent.<br/>Le texte voté en 2021 a institué le principe d’autorisation préalable. Nous ne disposons pas encore suffisamment d’éléments d’analyse et d’expertise ; il revient à l’Inspection générale de l’administration de nous les fournir dans le cadre de la mission qui lui a été confiée. Je ne peux donc pas répondre précisément à votre question, mais nous suivons de très près ce sujet important avec les services du ministère de l’éducation nationale. Il convient de trouver le moyen juridique de circonscrire le régime d’autorisation préalable aux seuls cas problématiques, sans embêter – si je puis me permettre ce terme – les autres familles. Nous allons travailler dans ce sens.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594032" ordre_absolu_seance="163" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595505" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6277.43">La parole est à M. Charles Rodwell.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594033" ordre_absolu_seance="164" id_acteur="PA795528" id_mandat="PM843455" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595506" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Charles Rodwell (EPR)</nom>
+            <id>795528</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6282.93">Depuis 2017, nous avons défendu de nombreuses mesures pour lutter contre le séparatisme, en particulier religieux, notamment à travers la loi confortant le respect des principes de la République dont nous débattons aujourd’hui. Nos collectivités et nos élus locaux sont au cœur des combats contre le séparatisme en général et l’islamisme en particulier. Une immense majorité d’entre eux mènent chaque jour courageusement le combat contre le séparatisme, en veillant à une application stricte du principe de laïcité dans leurs services publics et en refusant toute compromission avec l’islamisme. Néanmoins, ces élus sont parfois démunis et manquent souvent de moyens, notamment techniques, pour mener à bien ce combat. Je pense particulièrement au suivi de certains de leurs agents ou d’associations radicalisées, actives dans leur commune. C’est l’objet de ma première question : dans le prolongement de la loi de 2021 dont nous débattons, quelles mesures comptez-vous prendre pour renforcer la coopération entre l’État et les élus en matière de lutte contre le séparatisme, notamment au moyen de notre arsenal juridique et législatif ?<br/>Par ailleurs, si l’immense majorité des maires et des élus mènent le combat pour la République et la laïcité, d’autres ont fait le choix du communautarisme et de la compromission avec le séparatisme, en fermant les yeux sur certaines pratiques ou pire, en soutenant des associations et des projets séparatistes. Les exemples sont malheureusement de plus en plus nombreux et particulièrement graves, car le communautarisme pratiqué tend à s’étendre à d’autres communes qui, elles, respectent les lois de la République. Il est temps, selon nous, de mettre un terme à ces pratiques qui placent des milliers de nos concitoyens en insécurité. À cet égard, quelles mesures comptez-vous prendre pour renforcer le pouvoir de contrôle ou de sanction de l’État envers ces élus ? Êtes-vous prêt à aller jusqu’à la mise sous tutelle d’une collectivité par le préfet pour les cas les plus graves ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594035" ordre_absolu_seance="166" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595508" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6363.06">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594036" ordre_absolu_seance="167" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595509" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6399.69">Votre question pertinente illustre le fait qu’une grande partie des élus locaux ne s’est pas encore approprié la loi de 2021 et n’en a encore qu’une connaissance assez légère – le terme n’est pas péjoratif. Ils ne la connaissent pas très bien et surtout, ils ne savent pas comment l’utiliser. C’est le préfet qui constitue en réalité le point d’ancrage : il nomme ses délégués et dispose d’un outil juridique avec le déféré laïcité, qui lui permet de saisir la juridiction administrative lorsqu’il a connaissance d’un problème. Cependant, il convient de fluidifier le dialogue entre le préfet et les élus. La proposition de loi portant création d’un statut de l’élu local, adoptée par la Haute Assemblée et qui sera présentée dans cette assemblée dans les meilleurs délais, prévoit de donner au maire des moyens supplémentaires pour agir beaucoup plus efficacement dans certaines circonstances.<br/>Tout le monde ne maîtrise donc pas encore tout à fait les différents leviers d’action, mais il faut saluer les efforts accomplis, notamment de la part des préfets qui essaient de sensibiliser les élus locaux avec l’aide des associations des maires des différents départements. Nous ne sommes donc pas démunis, mais si nous en avons la volonté, les moyens peuvent être renforcés : la discussion du texte sur le statut de l’élu en sera l’occasion. D’ores et déjà, nos élus locaux peuvent et doivent se tourner vers le système judiciaire et plus encore vers le préfet, qui demeure leur interlocuteur privilégié.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594038" ordre_absolu_seance="169" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595511" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6505.53">La parole est à Mme Ersilia Soudais.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594039" ordre_absolu_seance="170" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595512" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais (LFI-NFP)</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6511.36">Ces dernières années, notamment sous la présidence Macron, la France a connu un grave recul des libertés individuelles et collectives. La loi censée conforter le respect des principes de la République s’inscrit, contrairement à ce que son nom suppose, dans une remise en question de nombre de ces principes. La notion de séparatisme qui est la pierre angulaire de ce texte est problématique. Elle est utilisée pour cibler des populations spécifiques, en particulier la population de confession musulmane. Ce n’est d’ailleurs pas pour rien que cette loi a été adoptée en 2021, quelques mois après la scandaleuse dissolution du Collectif contre l’islamophobie en France (CCIF). Cette nouvelle forme d’inquisition ne permet pas de lutter contre le séparatisme mais alimente au contraire une défiance de plus en plus grande.<br/>Parmi les autres dispositifs introduits dans cette loi, le contrat d’engagement républicain oblige les associations qui demandent une subvention à s’engager à respecter les principes républicains. Là aussi, sous prétexte de lutte pour le respect des principes de la République, il s’agit d’une restriction des libertés. L’État remet en question l’autonomie du monde associatif. Pour vous donner un exemple concret, le préfet de la Vienne avait demandé en 2022 à la ville de Poitiers de retirer une partie de la subvention accordée à Alternatiba car cette association n’aurait pas respecté le fameux contrat d’engagement républicain. En plus d’être utilisée pour stigmatiser les personnes de confession musulmane, cette loi l’est donc aussi pour museler, en l’occurrence, le mouvement social et écologiste. Il faut abroger cette loi antirépublicaine. Que comptez-vous faire, en revanche, pour lutter contre les vrais ennemis de la République et par là même, contre le séparatisme de ceux qui promeuvent dans la presse « bolloréenne » la guerre de civilisation, ou encore contre le séparatisme des ultrariches qui n’ont de cesse de remettre en question les principes inscrits dans la devise de notre République – la liberté, l’égalité et la fraternité ? <italique>(Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594041" ordre_absolu_seance="172" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595514" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6614.94">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594042" ordre_absolu_seance="173" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595515" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6624.17">Je ne veux pas rentrer dans des polémiques inutiles. La loi de 2021 a permis une clarification, singulièrement sur le plan du financement des différentes associations à caractère cultuel, dont un certain nombre, comme je l’ai dit il y a un instant, se sont mises en conformité avec la loi et ont rendu leur activité parfaitement transparente. Il ne faut pas non plus généraliser, en considérant que ce texte aurait vocation à lutter contre tous nos compatriotes musulmans. Notre sujet de préoccupation est l’islam radical, dont l’objectif est de combattre notre République et ses valeurs, et de tenter d’imposer les siennes. Notre seule volonté est de défendre nos propres principes. Contrairement à ce que laissent supposer vos propos un peu excessifs, nous voulons combattre toutes les sources du séparatisme et ne jamais varier s’agissant des valeurs que nous voulons protéger, car elles font nation. Le gouvernement et moi-même insistons beaucoup sur ce point : le vrai socle commun, celui qui doit être défendu, c’est celui-là ! Il ne peut y avoir de faiblesse à l’égard de ceux qui poursuivent l’objectif de bousculer, de renverser et de nuire à la République et à la nation, quels qu’ils soient et d’où qu’ils viennent.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594043" ordre_absolu_seance="174" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595516" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6712.87">Ce n’est pas ce que vous faites !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594044" ordre_absolu_seance="175" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595517" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6714.60">La parole est à M. Jean-François Coulomme.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594045" ordre_absolu_seance="176" id_acteur="PA795136" id_mandat="PM843353" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595518" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-François Coulomme (LFI-NFP)</nom>
+            <id>795136</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6719.46">Les six principes fondamentaux de la laïcité rappelés par le Conseil constitutionnel dans une décision de 2013 sont la non-reconnaissance des cultes, le respect de toutes les croyances et convictions, l’égalité de tous les citoyens et citoyennes devant la loi sans distinction de religion, le libre exercice des cultes et le principe selon lequel l’État ne salarie aucun culte. Ainsi, votre loi « séparatisme » est d’une très grande hypocrisie au vu des actes et pratiques de ses propres promoteurs. Marseille, septembre 2023 : M. Macron, président de la République, assiste à l’office religieux du pape François. Élysée, décembre 2023 : M. Macron, toujours lui, fête Hanoukka.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594046" ordre_absolu_seance="177" id_acteur="PA1567" id_mandat="PM843572" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595519" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jérôme Guedj</nom>
+            <id>1567</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6754.92">C’était une bêtise !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594047" ordre_absolu_seance="178" id_acteur="PA345722" id_mandat="PM843650" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595520" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Constance Le Grip</nom>
+            <id>345722</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6755.64">Mais non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594048" ordre_absolu_seance="179" id_acteur="PA795136" id_mandat="PM843353" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595521" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-François Coulomme</nom>
+            <id>795136</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6755.76">Au sommet même de la République, la neutralité de l’État autant que la non-reconnaissance des cultes sont bafouées. Nice, tous les ans : M. Estrosi, maire de la ville, et M. Ciotti, député, adressent leurs vœux annuels à la Vierge Marie, avant une messe présidée par le vicaire en leur présence. Nice, décembre 2024 : M. Estrosi, toujours lui, en tant que maire et avec les moyens de la ville, célèbre la fête juive Hanoukka, coiffé d’une kippa. À Chambéry, maires et préfets joignent à leur invitation pour la cérémonie du 8 mai 2024 la mention suivante : « Les cérémonies seront précédées d’un office religieux en la cathédrale de Chambéry. » Chambéry, le 11 novembre 2024 : même invitation à la cathédrale, même ignorance des dizaines de milliers de soldats, musulmans, juifs ou athées, qui furent sacrifiés sur le champ de bataille.<br/>D’une main, vous stigmatisez par cette loi certains cultes ; de l’autre, les représentants du peuple comme leurs élus enfreignent allègrement l’un des principes les plus fondamentaux d’un État laïque, celui de la neutralité des agents de l’État. Avec cette loi, vous étendez les restrictions appliquées à la liberté d’expression religieuse, ce qui est l’exact inverse de ce que prévoit et garantit notre belle loi de 1905. Dans le même temps, existe une sorte d’immunité totale pour les autorités publiques qui ont pourtant une obligation de neutralité. Que comptez-vous faire quant à ce traitement de l’exécutif, différencié et factuellement séparatiste, à l’égard des religions, entre stigmatisation de l’islam… <italique>(Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur. – Les députés du groupe LFI-NFP applaudissent ce dernier.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594050" ordre_absolu_seance="181" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595523" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6818.54">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594051" ordre_absolu_seance="182" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595524" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6851.14">Il ne faut pas tout confondre ni tout mélanger. <italique>(Exclamations et rires sur les bancs des groupes LFI-NFP et EcoS.)</italique> Vos propos entretiennent en effet, volontairement ou insidieusement, une sorte de salmigondis à propos de la laïcité. La République institue la liberté des cultes et la liberté de croire ou de ne pas croire. En aucun cas, elle n’interdit à un élu de la République, quel qu’il soit, de participer à toute cérémonie à laquelle il souhaiterait participer, dès lors qu’il respecte l’exercice et les devoirs de sa fonction. J’ai en tête un exemple : dans une grande ville de France, au début du mois de septembre, se déroule le Vœu des échevins. À l’occasion de cette cérémonie historique, les élus présents assistent à une célébration. Ils sont dans leur rôle et demeurent respectueux de la neutralité. Jusqu’à présent, tous les maires de la ville avaient participé à cette cérémonie. Ce n’est pas le cas du maire actuel, en vertu des principes que vous avez rappelés, mais ce même maire, à l’issue de la célébration, prononce un discours politique sur l’esplanade de la cathédrale et de la basilique. En l’espèce, où est le respect de la laïcité ? Il faut que tout le monde soit traité de la même manière.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594052" ordre_absolu_seance="183" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595525" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6858.09">Là, on est bien d’accord !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594053" ordre_absolu_seance="184" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595526" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6922.74">Il n’est pas interdit – je l’ai fait moi-même quand j’étais en fonction dans ma commune – de partager un instant, y compris avec la communauté musulmane ou avec la communauté juive qui est d’ailleurs une des rares à élever une prière pour la République.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594054" ordre_absolu_seance="185" id_acteur="PA1567" id_mandat="PM843572" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595527" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jérôme Guedj</nom>
+            <id>1567</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6939.15">Ce n’était pas opportun !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594055" ordre_absolu_seance="186" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595528" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6940.33">Il faut simplement garder de la mesure en tout. En la circonstance, il ne faut pas stigmatiser les célébrations que vous avez évoquées. Notre histoire fait partie de notre patrimoine collectif mais elle oblige chacun des élus au respect de tous les cultes sans exception et à une forme de neutralité dans les propos tenus.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594056" ordre_absolu_seance="187" id_acteur="PA1567" id_mandat="PM843572" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595529" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jérôme Guedj</nom>
+            <id>1567</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6962.95">Mais c’est mieux de s’abstenir de s’exprimer dans un lieu de culte !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594057" ordre_absolu_seance="188" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595530" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6967.35">La parole est à M. Pierrick Courbon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2594058" ordre_absolu_seance="189" id_acteur="PA841295" id_mandat="PM842882" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595531" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierrick Courbon (SOC)</nom>
+            <id>841295</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6971.55">Dans le cadre de ce débat, je souhaite revenir sur les mesures visant à conforter le contrôle des associations, notamment à travers le fameux contrat d’engagement républicain évoqué par divers orateurs. D’emblée, la Défenseure des droits avait appelé à s’assurer du caractère nécessaire et proportionné des mesures envisagées dans la loi, notamment au regard du risque réel d’atteinte aux libertés associatives. Aujourd’hui, le caractère disproportionné du CER ne fait plus aucun doute. Il jette en effet une suspicion généralisée sur le monde associatif, en présupposant que les associations ne respecteraient pas <italique>a priori </italique>les valeurs républicaines, alors que seule une poignée de cas de refus ou de retrait de subventions a été jusqu’à présent recensée et que chaque refus de subvention a débouché sur des recours juridiques qui ont systématiquement donné raison aux associations.<br/>Le CER est en outre inadapté à l’objectif affiché de lutte contre les séparatismes, puisque dans les faits, il est surtout mobilisé contre des structures lanceuses d’alerte ou de désobéissance civile, mais aussi de défense de l’environnement, voire d’éducation populaire. Dans la note introductive à nos débats, les rapporteurs eux-mêmes ont relevé que « les contentieux connus liés au respect du CER ne concernaient pas des associations liées à des mouvements religieux ». Le CER vient ajouter de la complexité administrative et écorner un peu plus l’indispensable lien de confiance qui devrait pourtant exister entre les pouvoirs publics et les associations. En bref, tout à son obsession de vouloir lutter contre un séparatisme parfois réel mais plus souvent largement fantasmé, l’ex-majorité parlementaire a seulement réussi à mettre un peu plus en difficulté ce maillon indispensable de notre cohésion sociale qu’est le mouvement associatif, en introduisant un instrument de sa fragilisation. C’est pourquoi plusieurs pistes sérieuses ont été proposées ; je les fais miennes. Pour corriger le tir, il faut non seulement renoncer au terme de « contrat », parfaitement inapproprié puisque seule une des deux parties est tenue à des engagements, et surtout envisager d’abroger le CER pour lui substituer une charte d’engagement réciproque construite entre l’État, les collectivités et le monde associatif, ainsi que le préconise le Conseil économique, social et environnemental (Cese).</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2593989" ordre_absolu_seance="191" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595533" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7004.11">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2593990" ordre_absolu_seance="192" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595534" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7098.43">Permettez-moi de faire quelques observations sur ce point particulier. Si on fait le bilan, les difficultés ne sont pas si nombreuses. Les chiffres qui nous parviennent – puisqu’il s’agit d’un problème quantitatif, nous sommes bien d’accord – ne montrent pas que ce contrat, dont le Conseil constitutionnel a d’ailleurs validé le principe, poserait des difficultés. La question tient sans doute plutôt à la manière dont il est appliqué, qu’il faut peut-être harmoniser tout comme la manière d’appréhender les choses.<br/>Je ne crois pas qu’il faille rejeter le CER, qui a permis des avancées et constitue un élément positif du texte. Encore faut-il que les élus et les associations bénéficiaires de subventions, qui ont à signer ce contrat, se l’approprient et le valorisent. En tout cas, nous ne disposons pas d’éléments montrant clairement qu’il poserait autant de problèmes que cela. À l’issue de l’inspection qui est menée, nous verrons si ce que vous dites est confirmé, mais nous n’avons pas de tels retours au moment où nous parlons. En revanche, soyons vigilants et harmonisons les manières de faire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2593992" ordre_absolu_seance="194" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595536" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7175.61">La parole est à M. Jérôme Guedj.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2593993" ordre_absolu_seance="195" id_acteur="PA1567" id_mandat="PM843572" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595537" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jérôme Guedj (SOC)</nom>
+            <id>1567</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7181.76">Je ne peux m’empêcher de vous donner mon sentiment à propos de la prise de parole par des élus dans les lieux de culte : mieux vaut s’en abstenir. Beaucoup le font pour l’Aïd dans une mosquée ou pour Kippour dans une synagogue ; j’en connais très peu, voire aucun, qui prenne la parole dans une église ou une cathédrale à l’occasion du sermon de Noël ou de la messe de Pâques. Je pense donc que s’en abstenir – je ne sais s’il faut l’interdire par la loi, on pourrait d’ailleurs s’appuyer sur certains articles de la loi de 1905 – constituerait une bonne pratique de la part des élus.<br/>Je vous demande ensuite de répondre à deux questions que j’avais soulevées lors de la discussion générale et auxquelles vous n’avez pas répondu. Depuis sa création en juillet 2021, le comité interministériel de la laïcité ne s’est réuni que deux fois, en juillet et le 9 décembre 2021. Ce comité, censé être un outil de coordination des politiques publiques en matière de laïcité, se réunira-t-il enfin ? Il ne l’a fait ni en 2022, ni en 2023, ni en 2024. Comment accroître le crédit de la parole publique du gouvernement sur ce sujet sans un tel lieu ? Nous le considérons comme pertinent et souhaitons voir son rôle renforcé. Nous proposons d’ailleurs d’aller plus loin en créant un Défenseur de la laïcité, inscrit dans la Constitution sur le modèle du Défenseur des droits, au service d’une politique publique de promotion de ce principe.<br/>La deuxième question que je vous avais posée concerne les fameux articles 31 et 81 de la loi. Pourquoi n’y a-t-il eu aucune circulaire de la Chancellerie auprès des parquets pour rappeler la possibilité d’utiliser ces articles en vue de sanctionner les atteintes à la laïcité, pas plus que les policiers n’ont été formés pour recueillir ce type de plaintes ? On peut pourtant sanctionner de telles atteintes indépendamment des voies de fait, des violences ou des injures. Le simple fait de menacer une personne doit être sanctionné.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2593996" ordre_absolu_seance="198" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595540" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7220.47">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2593997" ordre_absolu_seance="199" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595541" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7312.34">Ma réponse sera simple : je suis en tout point d’accord avec vous – je ne peux pas faire mieux. <italique>(Sourires.)</italique> Qu’un élu ne doive pas tenir un discours politique au sein d’un lieu de culte, je partage ce point de vue, sauf circonstance exceptionnelle. Ce n’est ni le lieu, ni le moment, il peut le faire bien ailleurs.<br/>Le précédent gouvernement avait pris l’engagement de réunir le comité que vous évoquez en 2024 ; cela n’a pas été le cas ; il faut le faire. Nous le ferons dans le courant de l’année 2025. Les dates anniversaires y invitent et c’est souhaitable sur le fond.<br/>Quant à l’article 31, je n’ai pas de réponse toute faite. Il faut nous poser la question : nous interrogerons le garde des sceaux dans le cadre de cette inspection générale afin de disposer d’éléments permettant de vous donner une réponse sérieuse, faute desquels je ne peux vous répondre précisément.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594000" ordre_absolu_seance="202" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595544" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7367.23">La parole est à M. Xavier Breton.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594001" ordre_absolu_seance="203" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595545" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Xavier Breton (DR)</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7386.93">J’aimerais revenir sur l’instruction en famille. Si l’instruction est obligatoire depuis la loi Ferry de 1882, la liberté de choisir la méthode d’instruction est reconnue aux parents. La liberté de l’enseignement constitue même un principe fondamental reconnu par les lois de la République ainsi qu’en a décidé le Conseil constitutionnel en 1977.<br/>Or la loi dont nous débattons aujourd’hui remet en cause cette liberté puisqu’on passe d’un régime de déclaration à un régime d’autorisation. C’est une atteinte à la liberté, qui devient l’exception et non plus la règle.<br/>Les motifs allégués à l’époque de cette modification tenaient au risque de communautarisme et de séparatisme. Or aucun élément fiable et documenté ne permet d’identifier des risques de telles dérives pour l’immense majorité des enfants qui suivent l’instruction en famille. Celle-ci leur permet au contraire d’obtenir des résultats scolaires supérieurs à ceux des élèves scolarisés en établissements, parce que, très majoritairement, les parents s’appliquent à instruire leurs enfants en construisant un projet éducatif, pédagogique et familial adapté à chacun d’eux, et cela dans le respect des exigences de la loi.<br/>Ma question devrait s’adresser à la ministre de l’éducation nationale, mais comme cette disposition constitue une sorte de cavalier dans le texte initial, je vous la pose, monsieur le ministre auprès du ministre de l’intérieur, en vous demandant de bien vouloir la relayer, car nous attendons des éléments objectifs de la part de l’éducation nationale : quel est le nombre de cas répondant explicitement aux critères inscrits dans une loi visant à lutter contre l’islamisme radical ? Combien y a-t-il d’autorisations enregistrées, de refus, avant et après recours ? Quelle est la répartition de ces chiffres par académie – puisqu’un certain arbitraire existe parfois dans les décisions ? Quel est le nombre de contrôles effectués par les autorités académiques ? Nous demandons ces chiffres au ministère et nous comptons sur votre soutien.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594005" ordre_absolu_seance="207" id_acteur="PA795310" id_mandat="PM840453" id_nomination_oe="0" id_nomination_op="PM846633" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595549" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795310</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7468.76">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594006" ordre_absolu_seance="208" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595550" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7516.26">Voici quelques éléments précis pour répondre à votre question. Pour les enfants inscrits dans les familles en 2021 et 2022, un régime dérogatoire a été prévu dans le texte : une autorisation leur a été accordée de plein droit, sans qu’ils aient à justifier d’un motif, pour les années scolaires 2023-2024 et 2024-2025, lorsque les résultats du contrôle pédagogique annuel au titre de l’année scolaire 2021-2022 ont été jugés suffisants. Sur les 47 802 autorisations délivrées en 2023-2024, 29 633 enfants faisaient l’objet d’une autorisation de plein droit.<br/>Ce régime s’est éteint à la fin de l’année scolaire 2023-2024. Par conséquent, à partir de l’année scolaire 2024-2025, toutes les demandes d’autorisation d’instruction en famille sont fondées sur l’un des quatre motifs prévus par le code de l’éducation, en l’occurrence l’article 131-5. Le régime prévu commence à produire ses effets depuis la rentrée scolaire de 2024. D’après le tableau que j’ai sous les yeux, l’évolution du nombre d’enfants instruits dans les familles est la suivante : en 2021-2022, ils étaient 72 369, contre 47 802 en 2023-2024 et 30 644 d’après les chiffres de novembre 2024 – soit une baisse de 36 %.<br/>Voilà les chiffres dont je peux vous faire part ; le ministre de l’éducation nationale vous donnera beaucoup plus de détails que je ne peux le faire, mais ils indiquent déjà une orientation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594009" ordre_absolu_seance="211" id_acteur="PA330008" id_mandat="PM842366" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595553" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Xavier Breton</nom>
+            <id>330008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7576.79">Oui, on voit bien l’atteinte à la liberté dans ces chiffres !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594010" ordre_absolu_seance="212" code_grammaire="CHGT_PRES_1_1" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3595554" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(À dix heures cinquante, Mme Naïma Moutchou remplace Mme Clémence Guetté au fauteuil de la présidence.)</italique>
+        </texte>
+      </paragraphe>
+      <changementPresidence valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594011" ordre_absolu_seance="213" code_grammaire="CHGT_PRES_2_2" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3595555" valeur="">
+        <orateurs/>
+        <texte>Présidence de Mme Naïma Moutchou<br/> Vice-Présidente</texte>
+      </changementPresidence>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594012" ordre_absolu_seance="214" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595556" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7613.76">Bonjour à tous. La parole est à M. Pouria Amirshahi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594013" ordre_absolu_seance="215" id_acteur="PA610968" id_mandat="PM840381" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595557" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pouria Amirshahi (EcoS)</nom>
+            <id>610968</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7623.11">En matière de lutte contre l’islamisme radical, la peur n’a jamais été bonne conseillère. Trop souvent ce sont les libertés publiques et les droits fondamentaux qui en ont fait les frais. Nous l’avons constaté dès la déclaration de l’état d’urgence en 2015 et depuis lors. Aujourd’hui encore, le même réflexe sécuritaire frappe les forces vives de notre société, les associations, toutes les associations non comme des victimes collatérales, mais comme des cibles directes d’une obsession de contrôle.<br/>Tous les témoignages que de nombreuses associations nous font parvenir font état de cette dérive. Or une démocratie fatiguée comme la nôtre a plus que jamais besoin des associations, qui contribuent à sa vitalité, en œuvrant chaque jour dans le domaine de la solidarité, de l’environnement, des luttes sociales ou de l’interculturalité. Je suis certain, en outre, que dans un contexte d’affaiblissement, voire d’affaissement du pays sous les coups de boutoir de la réaction, ce sont aussi les associations qui nous permettront de nous en tirer.<br/>Le contrat d’engagement républicain illustre parfaitement cet emballement sécuritaire : outil flou, juridiquement bancal, il instaure un climat de défiance généralisée, sans même atteindre son objectif déclaré puisqu’il a conduit à mettre en cause le Planning familial, Alternatiba, la Maison de l’environnement et des solidarités, et même la Ligue des droits de l’homme. En réalité, ce dispositif n’a servi qu’à nourrir volontairement la psychose contre certains de nos compatriotes.<br/>Le Sénat lui-même – dont vous êtes issu, monsieur le ministre – a souligné dans un rapport très récent que les associations concernées sont davantage militantes que réellement séparatistes. D’ailleurs, les faits parlent d’eux-mêmes : quatre cas de retrait ont été recensés pour 1,63 million d’associations, dont 60 % sont subventionnées.<br/>Or les conséquences sont graves : autocensure des associations et détérioration du lien entre les pouvoirs publics et le tissu associatif. J’appelle donc à l’abrogation du contrat d’engagement républicain et j’aimerais recevoir une réponse claire à ce sujet.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594018" ordre_absolu_seance="220" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595562" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7669.57">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594019" ordre_absolu_seance="221" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595563" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7752.70">Quant à l’appel à l’abrogation que vous lancez, à ce stade, la réponse est négative, comme vous vous en doutez.<br/>En revanche, la question de fond que vous posez atteste à l’évidence que les problèmes ne sont pas aussi nombreux que vous le dénoncez. Ce qui a été fait au Sénat est important, je n’en disconviens pas, et le travail réalisé ici n’est pas négligeable non plus, fût-ce dans les circonstances assez particulières évoquées par les rapporteurs, mais je compte sur l’Inspection générale pour évaluer précisément ce qu’il en est. Ce n’est pas mon style de dire que tout est bien ou mauvais et d’appeler à tout garder ou tout jeter, par principe. Je crois au contraire que l’évaluation est absolument nécessaire et l’acculturation à ce contrat tout à fait fondamentale. L’usage qu’on en fait et la manière de le valoriser doivent sans doute évoluer, mais le contrat lui-même n’est pas inutile puisqu’il a déjà produit des effets positifs.<br/>Procédons donc à cette évaluation, de façon objective, en nous gardant tant du « non, par principe » que du « oui, par discipline ».</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594022" ordre_absolu_seance="224" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595566" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7829.34">La parole est à Mme Sabrina Sebaihi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594023" ordre_absolu_seance="225" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595567" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi (EcoS)</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7833.79">La loi dite séparatisme a contribué aux débats nauséabonds et à la multiplication des atteintes aux personnes du fait de leur religion, souvent au prétexte d’un dévoiement infect du principe de laïcité.<br/>Sous couvert de cette notion floue, le séparatisme, tout est bon depuis plusieurs années pour taper sur une confession en particulier, l’islam. « Je propose d’interdire aux femmes musulmanes qui portent le voile de faire des études supérieures. » « Interdiction aux femmes voilées d’être accompagnatrices scolaires. » Ces propos n’ont pas été tenus par Pascal Praud, mais par le ministre de l’intérieur, perfusé aux déclarations choc sur les plateaux de télévision.<br/>Heureusement que le ridicule ne tue pas : sous couvert de laïcité, la Fédération française de football a été jusqu’à interdire aux sportifs le port des collants, censés être un signe de l’islam. La Fédération de basket a, quant à elle, mis des sportives sur la touche au simple motif de port du foulard – c’est donc cela l’émancipation des femmes ! Nous avons enfin été le seul des trente-huit pays européens en compétition à interdire les couvre-chefs religieux lors des Jeux olympiques – triste exception française ! Le sport comme l’école sont ainsi devenus vos terrains de jeu favoris pour contrôler le corps des femmes et les habits qu’elles portent, quitte à jeter en pâture les musulmans de ce pays.<br/>Inefficace dans son application et dangereuse dans son esprit, la loi « séparatisme » aura surtout servi de paravent à l’islamophobie la plus décomplexée ; elle avait d’ailleurs été dénoncée par l’ensemble de la gauche et des associations de défense des droits humains lors de son adoption en 2021. Elle a valu à la France de multiples condamnations pour atteinte aux droits des femmes, notamment musulmanes, le secrétaire général de l’ONU n’hésitant pas à renvoyer dos à dos les pays imposant aux femmes de se couvrir et ceux les sommant de se dévêtir.<br/>La loi contre le séparatisme a malheureusement aussi fourni une occasion de jeter la suspicion sur les établissements d’enseignement musulmans et d’y procéder à des enquêtes, alors même que d’autres, à l’image du lycée Stanislas à Paris, dispensaient allègrement des cours de catéchisme obligatoires entre deux leçons d’homophobie, ce qui est interdit par la loi.<br/>La laïcité, ce n’est pas choisir de ne pas croire, ce n’est pas une religion, pas plus que ce n’est la chasse aux musulmans ; c’est la protection offerte à toutes et tous, qu’ils croient ou ne croient pas, pour exercer leur foi, quelle qu’elle soit. Si l’État ne doit reconnaître aucune religion, il ne doit en méconnaître aucune. Quand respecterez-vous enfin le principe de laïcité ? <italique>(Applaudissements sur les bancs des groupes EcoS et LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594029" ordre_absolu_seance="231" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3595573" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7966.04">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2594030" ordre_absolu_seance="232" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3595574" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="7971.94">Quand respecterons-nous le principe de laïcité ? Nous nous y consacrons totalement : le texte dont nous évaluons les effets en constitue l’un des objets législatifs les plus marquants. Nous sommes tous d’accord pour considérer qu’il n’est pas suffisant à tous égards et qu’il faut continuer d’y travailler. Il n’y a pas lieu de douter une seconde de notre attachement à la laïcité et à sa défense. Ce principe comporte une spécificité : s’il consacre la liberté de chacun de croire ou de ne pas croire – vous l’avez rappelé, à juste titre –, quelle que soit d’ailleurs la religion, une telle liberté ne doit pas mettre à mal les valeurs supérieures, laïques, que défend notre République, d’ailleurs construite sur le principe de laïcité. Produit d’une histoire complexe et déjà séculaire, souvent mal comprise dans d’autres pays du monde, notre laïcité est une spécificité française : la religion, quelle qu’elle soit, reste du domaine privé et n’entre pas dans le domaine public.<br/>Chacun fait ce qu’il veut chez lui mais n’impose rien aux autres dans le domaine public ; c’est un principe absolument fondamental. Et qu’on le veuille ou non, il existe des religions qui, dans leur frange la plus radicale, la plus extrême, mènent des actions puissantes voire mortelles pour défendre une autre conception : elles en font un combat politique. Notre devoir, c’est donc de défendre fortement la laïcité tout en protégeant tous nos compatriotes et ce quels qu’ils soient, qu’ils croient ou qu’ils ne croient pas, quelle que soit leur religion. Nous continuerons de nous battre pour cela.<br/>Sur le point particulier des milieux sportifs, la difficulté que vous pointez mérite en effet une harmonisation. Cela dit, le Conseil d’État s’est prononcé en faveur des règlements qui ont été décidés par les fédérations sportives, leur donnant raison ; il a donc donné tort à ceux qui ont essayé d’inverser le dispositif. C’est quelque chose qui me paraît essentiel : gardons ce cap pour que notre nation reste unie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593952" ordre_absolu_seance="235" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596162" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8112.00">La parole est à Mme Delphine Lingemann.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593953" ordre_absolu_seance="236" id_acteur="PA794702" id_mandat="PM843248" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3596163" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Lingemann (Dem)</nom>
+            <id>794702</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8117.69">J’aimerais revenir sur l’application de la loi confortant le respect des principes de la République dans les universités. Étant moi-même enseignante, je constate une montée des atteintes à ces principes. Or ladite loi instaure, entre autres, la nomination d’un référent laïcité, dont la mission est de coordonner, en concertation avec les autres référents des différentes UFR (unités de formation et de recherche), la mise en œuvre du principe de laïcité, dont le respect doit être garanti. Il doit également rédiger un rapport d’activité annuel qui doit être transmis au comité interministériel de la laïcité dont vous avez parlé tout à l’heure – on l’a dit, il ne s’est pas réuni depuis plusieurs années.<br/>Je voudrais savoir si une synthèse de tous ces rapports d’activité est disponible ; elle pourrait nous éclairer sur l’état de l’application de la loi au sein des universités, et aussi nous donner – à nous, parlementaires – des pistes de travail, à partir de bonnes initiatives dont nous pourrions nous inspirer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593955" ordre_absolu_seance="238" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596165" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8182.69">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593956" ordre_absolu_seance="239" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3596166" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="8188.19">La question que vous posez est essentielle. Les choses sont désormais claires s’agissant de l’enseignement secondaire – en milieu scolaire, il n’y a pas de difficultés particulières ; en milieu universitaire, en revanche, l’application de la loi est plus complexe, compte tenu de la liberté de choix dont disposent, par définition, les étudiants, en espérant qu’ils ne soient pas soumis à la contrainte, mais c’est un autre sujet.<br/>Le rapport que vous évoquez est en cours de préparation et ce n’est pas une manière d’éluder votre question : c’est la réalité ! Dès qu’il sera prêt, il sera sans doute transmis au comité interministériel que nous évoquions tout à l’heure – M. Guedj est parti, dommage –, puis débattu. Il est probable que sur cette base, nous disposerons d’éléments qui nous permettront d’agir.<br/>Je ne veux pas être trop long, mais quand on évoque la question du séparatisme, il ne faut pas se tromper : il vient de partout. La contestation des enseignements, notamment, est un élément identifié et documenté !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593959" ordre_absolu_seance="242" id_acteur="PA794702" id_mandat="PM843248" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596169" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Lingemann</nom>
+            <id>794702</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8212.25">Bien sûr !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593960" ordre_absolu_seance="243" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596170" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="8215.61">Certains disent à leur professeur d’histoire ou de sciences qu’ils ne veulent pas aborder tel ou tel sujet,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593961" ordre_absolu_seance="244" id_acteur="PA794702" id_mandat="PM843248" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596171" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Lingemann</nom>
+            <id>794702</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8220.56">Oui, il y a de l’autocensure !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593962" ordre_absolu_seance="245" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596172" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="8268.77">…et le problème se pose même au cours de sorties culturelles, au théâtre ou ailleurs, où l’on entend des questions comme « qu’est-ce qu’on va voir ? » ou « qui y aura-t-il sur scène ? » C’est un sujet de préoccupation ! Vous avez donc raison : notre vigilance doit aussi se porter sur l’enseignement supérieur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593963" ordre_absolu_seance="246" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596173" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8289.17">La parole est à M. Roger Chudeau.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593964" ordre_absolu_seance="247" id_acteur="PA794198" id_mandat="PM842876" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3596174" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Roger Chudeau (RN)</nom>
+            <id>794198</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8294.44">Ma question a spécifiquement trait à l’article 49 de la loi. Je vous disais précédemment qu’il n’y a en vérité aucun lien de causalité entre éducation dans la famille et séparatisme islamiste. En effet, les islamistes n’ont aucunement l’intention d’éduquer leurs enfants en vase clos ! Il leur suffit de continuer à installer leur emprise sur l’enseignement public. Le ministère constate d’ailleurs que les atteintes à la laïcité sont en constante augmentation.<br/>Encore les chiffres officiels sont-ils sujets à caution : dans son ouvrage <italique>Les Profs ont peur</italique>, Jean-Pierre Obin démontre qu’il faudrait, pour approcher la réalité, affecter aux chiffres officiels un facteur 100. Alors pourquoi voulez-vous que les Frères musulmans ouvrent des écoles islamistes ou instruisent leurs enfants à la maison ? Il leur suffit d’aller dans un établissement public ; c’est tellement plus simple !<br/>L’instruction en famille n’a donc rien à voir là-dedans. Mais regardons plus précisément le passage de la loi concernant le quatrième motif de dérogation permettant l’IEF : « L’existence d’une situation propre à l’enfant motivant le projet éducatif ». La formulation est tellement léonine qu’elle est sujette à de nombreuses et divergentes interprétations. De nombreuses familles, très loin d’être séparatistes, éprouvent un profond sentiment d’injustice. Des centaines de citoyens et des dizaines d’associations ont saisi, qui les parlementaires, qui les tribunaux administratifs, pour mettre fin à cette absurdité. Une loi destinée à protéger la République s’en prend à ses citoyens les plus paisibles, les plus innocents, en leur imposant un parcours kafkaïen s’ils veulent obtenir, pour une seule année, l’autorisation d’instruire leur propre enfant.<br/>Elle installe aussi, insidieusement, un climat de défiance vis-à-vis de la famille, institution centrale de toute société. Il faut donc mettre fin à cette absurdité, je l’ai dit, et je vous demande, monsieur le ministre, si vous pouvez vous engager à revenir sur cette atteinte à la liberté d’éduquer son enfant en annulant purement et simplement les articles 49 et suivants de la loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593968" ordre_absolu_seance="251" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596178" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8353.73">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593969" ordre_absolu_seance="252" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3596179" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="8414.56">Votre question vient compléter celle qui a été posée tout à l’heure par un de vos collègues. Pour ma part, je suis fortement attaché à la liberté de l’enseignement, et le gouvernement aussi. La question de l’instruction à domicile est une question sensible et j’ai reçu, comme beaucoup d’entre vous, de nombreuses associations représentant des familles qui ont de vraies raisons de privilégier ce type d’enseignement, du fait des situations propres à leurs enfants. Le sujet de fond, c’est moins la liberté d’enseigner à domicile que la capacité de l’État à contrôler ce qui s’y passe.<br/>Comme nous le disions tout à l’heure, il faut donc évaluer l’IEF, et la ministre de l’éducation nationale nous transmettra des éléments pour le faire. Surtout, il ne faut pas se priver de la possibilité d’empêcher ou d’interdire certains enseignements à domicile qui n’ont pour vocation que d’échapper à l’école de la République ! Le contrôle doit aussi permettre cela.<br/>Si nous parvenons à nous mettre d’accord pour dire que le socle absolu, c’est la défense de la République et de ses valeurs, nous serons capables de respecter la liberté de chacun mais aussi de sanctionner fortement tout dévoiement de la règle que nous souhaitons voir s’appliquer. Nous regarderons dans le détail ce qu’il en est ; à ce stade, je ne peux vous dire que je vais tout arrêter, parce que ce serait vous mentir.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593972" ordre_absolu_seance="255" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596182" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8504.62">La parole est à M. Bruno Clavet.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593973" ordre_absolu_seance="256" id_acteur="PA840159" id_mandat="PM840345" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3596183" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Clavet (RN)</nom>
+            <id>840159</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8511.23">En 2021, Emmanuel Macron nous a présenté la loi confortant le respect des principes de la République comme la solution contre le séparatisme islamiste. Mais la réalité est tout autre et les Français le vivent chaque jour : cette loi n’a rien changé. Pour preuve, l’idéologie islamiste continue à se répandre et à gangrener nos quartiers, nos écoles et nos associations, tout cela sous le regard passif des pouvoirs publics.<br/>Le texte n’a pas non plus donné à la France les moyens de se défendre sur la scène internationale. Votre gouvernement est par exemple incapable d’expulser l’influenceur algérien multicondamné Doualemn, qui a appelé au meurtre des Français sur les réseaux sociaux. La France est donc devenue un jouet pour ces nations qui profitent de sa faiblesse pour l’humilier, pour humilier tous les Français.<br/>Ainsi, la loi confortant le respect des principes de la République n’a rien conforté, puisque nos valeurs n’ont jamais été autant fragilisées que depuis l’arrivée d’Emmanuel Macron à l’Élysée. Quand allez-vous écouter le Rassemblement national et appliquer ses propositions, soutenues par une majorité de Français, à savoir la dissolution immédiate des associations communautaristes et radicales qui menacent l’unité nationale, avec – il faut bien le dire – le soutien de La France insoumise, le contrôle strict des financements étrangers des lieux de culte, dont les fonds doivent être soumis à une traçabilité totale, l’expulsion immédiate de tous les étrangers prêchant la haine ou impliqués dans des actions séparatistes, la révocation de certains accords, comme celui passé en 1968 avec l’Algérie, qui empêche les expulsions, et enfin, bien sûr, la fin de l’immigration incontrôlée, car chacun sait qu’elle est un facteur direct de développement du séparatisme.<br/>Un État qui recule face à ses ennemis n’est plus un État. Réveillez-vous ou laissez la place à ceux qui auront le courage de défendre les Français !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593977" ordre_absolu_seance="260" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596187" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8564.40">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593978" ordre_absolu_seance="261" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3596188" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="8623.55">Vous vous doutez bien que je ne partage pas vos vues. Mon désaccord porte moins sur certains constats de fond que sur la manière de les exprimer et sur la confusion que vous entretenez. Sur l’immigration et les politiques migratoires, je crois que les choses sont assez claires : il y a d’une part une immigration régulière contenue et choisie et d’autre part une immigration irrégulière qui doit être fermement combattue. Les laissez-passer consulaires constituent une difficulté que nous connaissons tous ; ils impliquent nécessairement de nouer un dialogue très fort, pour ne pas dire ferme, avec les pays d’origine, afin d’ouvrir des négociations en la matière. C’est un problème de fond qui relève certes du ministère de l’intérieur mais aussi de l’ensemble du gouvernement et, singulièrement, du ministère des affaires étrangères, et nous nous engageons à le traiter.<br/>Quant au reste de vos propos, on ne peut pas considérer que ce texte, imparfait soit-il à certains égards, n’a pas apporté des progrès – les chiffres que j’ai évoqués tout à l’heure en témoignent. Les procédures qui devaient être engagées l’ont été et il y a eu d’incontestables succès. Peut-être y a-t-il eu parfois des échecs, mais la loi a aussi eu des effets que l’on mesure moins : les associations elles-mêmes se sont mises en ordre, ont vérifié leurs comptes et se sont conformées aux règles édictées.<br/>Tout n’est donc pas négatif. La fermeté n’exclut pas la lucidité ; il faut donc que nous soyons très fermes, mais nous devons aussi rester lucides pour constater que ce texte a bel et bien un effet politique. Est-il suffisant ? Probablement pas, sur certains points dont il a été question comme l’éducation à domicile, mais nous sommes à la tâche. Quoi qu’il en soit, nous le sommes tous ici, du moins ceux qui sont présents, vu le succès d’estime remporté par ce débat tout à fait remarquable – mais il y a du public et c’est déjà pas mal ! <italique>(Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593981" ordre_absolu_seance="264" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596191" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8704.63">C’est la qualité qui compte, pas la quantité !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593982" ordre_absolu_seance="265" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596192" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="8732.46">Nous sommes tous d’accord pour dire que nous voulons protéger notre système laïc, nos valeurs et notre République, et que notre nation doit faire corps à ce sujet, en utilisant tous les moyens à sa disposition.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="9" id_preparation="2593983" ordre_absolu_seance="266" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596193" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8750.47">Je vous remercie, monsieur le ministre. Le débat est clos.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="9" id_preparation="2593985" ordre_absolu_seance="268" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3596195" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2593986" ordre_absolu_seance="269" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3596196" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8753.25">Prochaine séance, cet après-midi, à quinze heures, sous réserve de la décision de la conférence des présidents qui est convoquée cet après-midi à quatorze heures quarante-cinq :<br/> Discussion et vote sur la motion de censure déposée en application de l’article 49, alinéa 2, de la Constitution.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2593987" ordre_absolu_seance="270" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3596197" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à onze heures quinze.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="9" id_preparation="2593988" ordre_absolu_seance="271" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3596198" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

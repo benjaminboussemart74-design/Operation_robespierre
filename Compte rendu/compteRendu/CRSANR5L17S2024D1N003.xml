@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2024D1N003</uid>
+  <seanceRef>RUANR5L17S2024IDS28557</seanceRef>
+  <sessionRef>SCR5A2024D1</sessionRef>
+  <metadonnees>
+    <dateSeance>20240719213000000</dateSeance>
+    <dateSeanceJour>vendredi 19 juillet 2024</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>3</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session de droit juillet 2024</session>
+    <nomFichierJo>20245003</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2024-07-23T12:28:59.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3511094">Présidence de Mme Yaël Braun-Pivet</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3511098">
+          <intitule>Nomination des trois questeurs et des douze secrétaires de l’Assemblée nationale</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="3511107">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3511125">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3511142">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3511115">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3511158">
+          <intitule>
+            <italique>Suspension et reprise de la séance</italique>
+          </intitule>
+        </titreStruct>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3511170">
+          <intitule>Installation du bureau</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du vendredi 19 juillet 2024</journee>
+      <session>Session de droit juillet 2024</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2537068" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3511094" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Yaël Braun-Pivet</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2537069" ordre_absolu_seance="2" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511095" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="984.81">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2537070" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3511096" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2537072" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3511098" valeur="">
+      <orateurs/>
+      <texte>Nomination des trois questeurs et des douze secrétaires de l’Assemblée nationale</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2537073" ordre_absolu_seance="6" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511099" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="988.13">L’ordre du jour appelle la nomination, éventuellement par scrutin, des trois questeurs et des douze secrétaires de l’Assemblée nationale.<br/>Pour les fonctions de questeur, j’ai reçu quatre candidatures : celle de M. Bruno Bilde, celle de Mme Brigitte Klinkert, celle de Mme Christine Pirès Beaune et celle de Mme Michèle Tabarot.<br/>Le nombre des candidats étant supérieur au nombre de sièges à pourvoir, il y a lieu de procéder à un scrutin. Je rappelle que le scrutin est secret et qu’il n’y a pas de délégations de vote. Au premier et au deuxième tours sont élus, dans l’ordre des suffrages, les candidats ayant obtenu la majorité absolue des suffrages exprimés. Au troisième tour, la majorité relative suffit. En cas d’égalité des suffrages, le candidat le plus âgé est élu.<br/>Le vote se déroule dans les salles voisines de la salle des séances. Des bulletins imprimés sont à votre disposition. Toutefois, les bulletins manuscrits sont valables. Pour être valables, les bulletins doivent être mis dans l’urne sous enveloppe. Je rappelle enfin que seuls sont valables les suffrages exprimés dans les enveloppes ne contenant pas, au total, plus de trois noms.<br/>J’ouvre le scrutin, qui est annoncé dans l’enceinte de l’Assemblée nationale. Je vous propose de le clore dans trente minutes, si cela vous convient, c’est-à-dire à vingt-deux heures cinq. <italique>(Approbations sur divers bancs.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2537078" ordre_absolu_seance="11" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511104" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Roland Lescure</nom>
+            <id>721134</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1021.97">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2537079" ordre_absolu_seance="12" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="DEBAT_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511105" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1062.87">Sa clôture sera annoncée par quatre sonneries.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2537080" ordre_absolu_seance="13" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3511107" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2537081" ordre_absolu_seance="14" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511108" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1066.53">La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2537082" ordre_absolu_seance="15" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3511109" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à vingt et une heures trente-cinq, est reprise à vingt-deux heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2537083" ordre_absolu_seance="16" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511110" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5685.28">La séance est reprise.<br/>Voici les résultats du scrutin pour la nomination des questeurs :<br/> Nombre de votants : 550<br/> Bulletins blancs ou nuls : 3<br/> Nombre de suffrages exprimés : 547<br/> Majorité absolue : 274<br/> Ont obtenu :<br/> M. Bruno Bilde : 158 voix ;<br/> Mme Brigitte Klinkert : 401 voix ;<br/> Mme Christine Pirès Beaune : 460 voix <italique>(Applaudissements)</italique> ;<italique><br/></italique>Mme Michèle Tabarot : 261 voix ;<br/> Autres suffrages : 2.<br/>Mmes Christine Pirès Beaune et Brigitte Klinkert ayant obtenu la majorité absolue des suffrages exprimés, je les proclame questeures de l’Assemblée nationale. <italique>(Applaudissements.)</italique><br/>Il y a lieu de procéder à un deuxième tour de scrutin pour le siège de questeur qui reste à pourvoir. Les deux candidatures restantes sont-elles maintenues ? <italique>(M. Bruno Bilde et Mme Michèle Tabarot acquiescent.)</italique><br/>Nous allons donc procéder immédiatement au deuxième tour du scrutin, pour lequel la majorité absolue des suffrages exprimés reste requise. Le scrutin se déroule dans les salles voisines de la salle des séances ; il est annoncé dans l’enceinte de l’Assemblée nationale et ouvert pour une durée de vingt minutes.</texte>
+        </paragraphe>
+        <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537088" ordre_absolu_seance="21" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3511125" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Suspension et reprise de la séance</italique>
+          </texte>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537089" ordre_absolu_seance="22" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511126" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>721908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="5767.96">La séance est suspendue.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537090" ordre_absolu_seance="23" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3511127" valeur="">
+            <orateurs/>
+            <texte>
+              <italique>(La séance, suspendue à vingt-deux heures cinquante, est reprise à vingt-trois heures cinquante-cinq.)</italique>
+            </texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537091" ordre_absolu_seance="24" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511128" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>721908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9649.73">La séance est reprise.<br/>Voici le résultat du deuxième tour du scrutin pour la nomination des questeurs :<br/>Nombre de votants : 438<br/> Bulletins blancs ou nuls : 42<br/> Suffrages exprimés : 396<br/> Majorité absolue : 199<br/>Ont obtenu :<br/> M. Bruno Bilde : 143 voix ;<br/> Mme Michèle Tabarot : 251 voix <italique>(Applaudissements) </italique>;<italique><br/></italique>Autres suffrages : 2.<br/>Mme Michèle Tabarot ayant obtenu la majorité absolue des suffrages exprimés, je la proclame questeure de l’Assemblée nationale. <italique>(Applaudissements.)</italique><br/>À la suite des scrutins qui viennent d’avoir lieu, ont été nommées, dans cet ordre, questeures de l’Assemblée nationale : Mme Christine Pirès Beaune, Mme Brigitte Klinkert et Mme Michèle Tabarot. <italique>(Applaudissements.) </italique>Il s’agit de trois femmes : je crois que c’est une première dans l’histoire de notre assemblée. <italique>(Mêmes mouvements.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537097" ordre_absolu_seance="30" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511134" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Pierre Cordier</nom>
+                <id>718850</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9667.04">S’il s’était agi de trois hommes, on aurait dit que ce n’est pas normal. Je ne comprends pas !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537098" ordre_absolu_seance="31" id_acteur="PA342196" id_mandat="PM842807" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511135" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Claudia Rouaux</nom>
+                <id>342196</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9697.69">C’est l’évolution, ça compense pour le passé !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2537099" ordre_absolu_seance="32" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511136" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>721908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9711.26">On a pris les commandes, il était temps ! <italique>(Sourires.)</italique><br/>Pour les fonctions de secrétaire, je suis saisie de seize candidatures : M. Gabriel Amard, M. Thibault Bazin, M. Christophe Blanchet, Mme Blandine Brocard, M. Inaki Echaniz, M. Philippe Gosselin, Mme Sandrine Josso, Mme Annaïg Le Meur, Mme Lise Magnier, M. Christophe Naegelen, M. Laurent Panifous, M. Stéphane Peu, M. Sébastien Peytavie, Mme Eva Sas, Mme Sabrina Sebaihi, M. Bertrand Sorre.<br/>J’ai été informée du retrait des candidatures de Mme Edwige Diaz et de Mme Hanane Mansouri.<br/>Le nombre de candidats étant supérieur au nombre de sièges à pourvoir, il y a lieu de procéder à un scrutin. Celui-ci se déroulera à bulletins secrets, sans délégation de vote ; seront élus au premier et deuxième tour, dans l’ordre des suffrages, les candidats qui auront obtenu la majorité absolue des suffrages exprimés ; au troisième tour, les candidats qui auront obtenu la majorité relative. Le scrutin sera dépouillé par les six scrutateurs titulaires et les deux scrutateurs suppléants.<br/>Je rappelle que seuls ces députés sont habilités à surveiller les opérations de vote. En effet, le fait que n’importe quel député ne puisse pas y assister est présenté, sur plusieurs réseaux sociaux, comme un scandale démocratique. C’est faux : selon notre règlement, cette tâche revient bien aux six scrutateurs et aux deux suppléants, tirés au sort. <italique>(Applaudissements.) </italique>La démocratie, c’est l’application de la règle. Merci de vous en souvenir !<br/>J’ouvre le scrutin pour une durée de trente minutes. Il est annoncé dans l’enceinte de l’Assemblée nationale.</texte>
+          </paragraphe>
+          <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537105" ordre_absolu_seance="38" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3511142" valeur="">
+            <orateurs/>
+            <texte>
+              <italique>Suspension et reprise de la séance</italique>
+            </texte>
+            <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537106" ordre_absolu_seance="39" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511143" valeur="" roledebat="president">
+              <orateurs>
+                <orateur>
+                  <nom>Mme la présidente</nom>
+                  <id>721908</id>
+                  <qualite/>
+                </orateur>
+              </orateurs>
+              <texte stime="9809.45">La séance est suspendue.</texte>
+            </paragraphe>
+            <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537107" ordre_absolu_seance="40" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3511144" valeur="">
+              <orateurs/>
+              <texte>
+                <italique>(La séance, suspendue à minuit, est reprise le samedi 20 juillet à une heure trente.)</italique>
+              </texte>
+            </paragraphe>
+            <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537108" ordre_absolu_seance="41" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511145" valeur="" roledebat="president">
+              <orateurs>
+                <orateur>
+                  <nom>Mme la présidente</nom>
+                  <id>721908</id>
+                  <qualite/>
+                </orateur>
+              </orateurs>
+              <texte stime="15241.42">La séance est reprise.</texte>
+            </paragraphe>
+            <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537108" ordre_absolu_seance="42" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="-1" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="3511156" valeur="">
+              <orateurs>
+                <orateur>
+                  <nom>Mme la présidente</nom>
+                  <id>721908</id>
+                  <qualite/>
+                </orateur>
+              </orateurs>
+              <texte stime="15243.23">Voici les résultats du scrutin pour la nomination des secrétaires.<br/>Nombre de votants : 401<br/>Bulletins blancs ou nuls : 1<br/>Suffrages exprimés : 400<br/>Majorité absolue : 201<br/>Ont obtenu :<br/>M. Gabriel Amard : 187 voix ;<br/>M. Thibault Bazin : 191 voix ;<br/>M. Christophe Blanchet : 194 voix ;<br/>Mme Blandine Brocard : 198 voix ;<br/>M. Inaki Echaniz : 195 voix ;<br/>M. Philippe Gosselin : 194 voix ;<br/> Mme Sandrine Josso : 196 voix ;<br/>Mme Annaïg Le Meur : 194 voix ;<br/>Mme Lise Magnier : 194 voix ;<br/>M. Christophe Naegelen : 184 voix ;<br/>M. Laurent Panifous : 185 voix ;<br/>M. Stéphane Peu : 217 voix <italique>(Applaudissements)</italique> ;<br/>M. Sébastien Peytavie : 204 voix <italique>(Applaudissements)</italique> ;<br/>Mme Eva Sas : 192 voix ;<br/>Mme Sabrina Sebaihi : 191 voix ;<br/>M. Bertrand Sorre : 195 voix.</texte>
+            </paragraphe>
+            <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2537110" ordre_absolu_seance="44" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511147" valeur="" roledebat="president">
+              <orateurs>
+                <orateur>
+                  <nom>Mme la présidente</nom>
+                  <id>721908</id>
+                  <qualite/>
+                </orateur>
+              </orateurs>
+              <texte stime="15301.65">M. Stéphane Peu et M. Sébastien Peytavie ayant obtenu la majorité absolue des suffrages exprimés, je les proclame secrétaires de l’Assemblée nationale. <italique>(Applaudissements.)</italique><br/>Il y a lieu de procéder à un deuxième tour de scrutin pour les dix sièges de secrétaire qui restent à pourvoir. Aucun désistement n’étant intervenu, je reste saisie de quatorze candidatures. Nous allons donc procéder immédiatement au deuxième tour de scrutin, ouvert pour une durée de quinze minutes. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/><italique>(Le scrutin est ouvert à une heure trente.)</italique></texte>
+            </paragraphe>
+            <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="5" id_preparation="2537113" ordre_absolu_seance="47" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3511115" valeur="">
+              <orateurs/>
+              <texte>
+                <italique>Suspension et reprise de la séance</italique>
+              </texte>
+              <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2537114" ordre_absolu_seance="48" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511116" valeur="" roledebat="president">
+                <orateurs>
+                  <orateur>
+                    <nom>Mme la présidente</nom>
+                    <id>721908</id>
+                    <qualite/>
+                  </orateur>
+                </orateurs>
+                <texte stime="15338.21">La séance est suspendue.</texte>
+              </paragraphe>
+              <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2537115" ordre_absolu_seance="49" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3511117" valeur="">
+                <orateurs/>
+                <texte>
+                  <italique>(La séance, suspendue à une heure trente, est reprise à trois heures.)</italique>
+                </texte>
+              </paragraphe>
+              <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2537116" ordre_absolu_seance="50" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511118" valeur="" roledebat="president">
+                <orateurs>
+                  <orateur>
+                    <nom>Mme la présidente</nom>
+                    <id>721908</id>
+                    <qualite/>
+                  </orateur>
+                </orateurs>
+                <texte stime="20586.32">La séance est reprise.<br/>Voici les résultats du deuxième tour de scrutin pour la nomination des secrétaires :<br/>Nombre de votants : 386<br/>Bulletins blancs ou nuls : 1<br/>Nombre de suffrages exprimés : 385<br/>Majorité absolue : 193<br/>Ont obtenu :<br/>M. Gabriel Amard : 193 voix <italique>(Applaudissements)</italique> ;<br/>M. Thibault Bazin : 177 voix ;<br/>M. Christophe Blanchet : 178 voix ;<br/>Mme Blandine Brocard : 177 voix ;<br/>M. Inaki Echaniz : 199 voix <italique>(Applaudissements)</italique> ;<br/>M. Philippe Gosselin : 180 voix ;<br/>Mme Sandrine Josso : 180 voix ;<br/>Mme Annaïg Le Meur : 177 voix ;<br/>Mme Lise Magnier : 178 voix ;<br/>M. Christophe Naegelen : 325 voix <italique>(Applaudissements)</italique> ;<br/> M. Laurent Panifous : 329 voix <italique>(Applaudissements)</italique> ;<br/> Mme Eva Sas : 197 voix <italique>(Applaudissements)</italique> ;<br/> Mme Sabrina Sebaihi : 198 voix <italique>(Applaudissements)</italique> ;<br/> M. Bertrand Sorre  : 177 voix.<br/>MM. Gabriel Amar, Inaki Echaniz, Christophe Naegelen et Laurent Panifous, ainsi que Mmes Eva Sas et Sabrina Sebaihi, ayant obtenu la majorité absolue des suffrages exprimés, je les proclame secrétaires de l’Assemblée nationale. <italique>(Vifs applaudissements.)</italique><br/>Il y a lieu de procéder à un troisième tour de scrutin pour les quatre sièges de secrétaire restant à pourvoir. Je vous indique que je suis toujours saisie de huit candidatures et que Mme Farida Amrani, M. Alexis Corbière, Mme Sophie Pantel et Mme Mereana Reid Arbelot m’ont également informée de leur candidature au troisième tour. <italique>(Applaudissements.)</italique><br/>Je rappelle qu’au troisième tour, la majorité relative suffit. En cas d’égalité des suffrages, le plus âgé est élu.<br/>Le scrutin se déroule dans les salles voisines de la salle des séances. Il est annoncé dans l’enceinte de l’Assemblée nationale et ouvert pour une durée de quinze minutes. Il sera donc clos à trois heures quinze. À l’issue du scrutin, les scrutateurs se rendront au cinquième bureau pour procéder au dépouillement.</texte>
+              </paragraphe>
+              <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="7" id_preparation="2537123" ordre_absolu_seance="56" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3511158" valeur="">
+                <orateurs/>
+                <texte>
+                  <italique>Suspension et reprise de la séance</italique>
+                </texte>
+                <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2537124" ordre_absolu_seance="57" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511159" valeur="" roledebat="president">
+                  <orateurs>
+                    <orateur>
+                      <nom>Mme la présidente</nom>
+                      <id>721908</id>
+                      <qualite/>
+                    </orateur>
+                  </orateurs>
+                  <texte stime="20711.53">La séance est suspendue.</texte>
+                </paragraphe>
+                <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2537125" ordre_absolu_seance="58" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3511160" valeur="">
+                  <orateurs/>
+                  <texte>
+                    <italique>(La séance, suspendue à trois heures cinq, est reprise à quatre heures cinq.)</italique>
+                  </texte>
+                </paragraphe>
+                <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2537126" ordre_absolu_seance="59" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511161" valeur="" roledebat="president">
+                  <orateurs>
+                    <orateur>
+                      <nom>Mme la présidente</nom>
+                      <id>721908</id>
+                      <qualite/>
+                    </orateur>
+                  </orateurs>
+                  <texte stime="24623.88">La séance est reprise.<br/>Il est quatre heures du matin ; nous avons fini de constituer le bureau de l’Assemblée nationale.<br/>Voici le résultat du troisième tour de scrutin pour la nomination des secrétaires :<br/> Nombre de votants : 357<br/> Bulletins blancs ou nuls : 5<br/>Suffrages exprimés : 352<br/>Ont obtenu :<br/> Mme Farida Amrani : 170 voix <italique>(Plusieurs députés ayant pris place à la gauche de l’hémicycle applaudissent) </italique>;<italique><br/></italique>M. Thibault Bazin : 8 voix ;<br/> M. Christophe Blanchet : 156 voix ;<br/> Mme Blandine Brocard : 1 voix;<br/> M. Alexis Corbière : 165 voix <italique>(Mêmes mouvements) </italique>;<italique><br/></italique>M. Philippe Gosselin : 160 voix ;<br/> Mme Sandrine Josso : 5 voix ;<br/> Mme Annaïg Le Meur : 4 voix;<br/> Mme Lise Magnier : 168 voix ;<br/> Mme Sophie Pantel : 172 voix <italique>(Mêmes mouvements) </italique>;<italique><br/></italique>Mme Mereana Reid Arbelot : 175 voix <italique>(Mêmes mouvements) </italique>;<italique><br/></italique>M. Bertrand Sorre : 155 voix ;<br/> Autres suffrages : 1 voix.<br/>Mme Farida Amrani, Mme Lise Magnier, Mme Sophie Pantel et Mme Mereana Reid Arbelot ayant obtenu la majorité relative des suffrages exprimés, je les proclame secrétaires de l’Assemblée nationale. <italique>(Applaudissements.)</italique><br/>À la suite des scrutins qui viennent d’avoir lieu,…</texte>
+                </paragraphe>
+                <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2537132" ordre_absolu_seance="65" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511167" valeur="">
+                  <orateurs>
+                    <orateur>
+                      <nom>Mme Mathilde Panot</nom>
+                      <id>720892</id>
+                      <qualite/>
+                    </orateur>
+                  </orateurs>
+                  <texte stime="24675.02">Nous sommes majoritaires au bureau !</texte>
+                </paragraphe>
+                <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2537133" ordre_absolu_seance="66" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511168" valeur="">
+                  <orateurs>
+                    <orateur>
+                      <nom>Mme la présidente</nom>
+                      <id>721908</id>
+                      <qualite/>
+                    </orateur>
+                  </orateurs>
+                  <texte stime="24718.23">…ont été nommés secrétaires de l’Assemblée nationale M. Gabriel Amard, Mme Farida Amrani, M. Inaki Echaniz, Mme Lise Magnier, M. Christophe Naegelen, M. Laurent Panifous, Mme Sophie Pantel, M. Stéphane Peu, M. Sébastien Peytavie, Mme Mereana Reid Arbelot, Mme Eva Sas et Mme Sabrina Sebaihi. <italique>(Applaudissements.)</italique></texte>
+                </paragraphe>
+              </point>
+            </point>
+          </point>
+        </point>
+      </point>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537135" ordre_absolu_seance="68" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3511170" valeur="">
+      <orateurs/>
+      <texte>Installation du bureau</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537136" ordre_absolu_seance="69" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511171" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="24744.28">Je constate que le bureau de l’Assemblée nationale est constitué par les votes successifs auxquels nous avons procédé.<br/>Sa composition sera notifiée au Président de la République, au Premier ministre et au président du Sénat, et publiée au <italique>Journal officiel</italique>.<br/>Il se réunira aujourd’hui, samedi 20 juillet 2024, à seize heures.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537139" ordre_absolu_seance="72" id_acteur="PA720892" id_mandat="PM840420" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511174" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Mathilde Panot</nom>
+            <id>720892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="24754.46">Ils sont minoritaires au bureau !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537140" ordre_absolu_seance="73" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511175" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="24765.15">Madame Panot, souhaitez-vous demander la parole ? Non ? Il s’agissait donc d’une intervention inopinée.<br/>La parole est à M. Benjamin Lucas-Lundy, pour un rappel au règlement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537143" ordre_absolu_seance="75" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511178" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Benjamin Lucas-Lundy</nom>
+            <id>795636</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="24773.10">Il se fonde sur les articles 8, 9 et 10 du règlement de l’Assemblée nationale, qui portent sur la composition de son bureau. Nous nous réjouissons solennellement que l’extrême droite ait enfin été écartée du bureau de l’Assemblée nationale. <italique>(Plusieurs députés ayant pris place à la gauche de l’hémicycle applaudissent.) </italique>En cela, nous nous sommes montrés fidèles au barrage que les Français ont érigé dans les urnes pour la République.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537144" ordre_absolu_seance="76" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511179" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="24785.75">Mon cher collègue, s’agit-il vraiment d’un rappel au règlement ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537145" ordre_absolu_seance="77" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511180" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Benjamin Lucas-Lundy</nom>
+            <id>795636</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="24789.63">J’y viens ; il ne s’agissait que d’un préambule.<br/>Ce bureau aura une lourde responsabilité : il lui faudra tourner la page de la dérive autoritaire dont découle la mauvaise gestion de notre assemblée. Nous espérons que… <italique>(Mme la présidente coupe le micro de l’orateur.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537147" ordre_absolu_seance="79" id_acteur="PA721908" id_mandat="PM843467" id_nomination_oe="0" id_nomination_op="PM845400" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3511182" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="24792.22">Ce n’était pas un rappel au règlement.<br/>La séance est levée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537149" ordre_absolu_seance="81" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3511184" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est levée, le 20 juillet 2024, à quatre heures dix.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2537150" ordre_absolu_seance="82" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3511185" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+        </texte>
+      </paragraphe>
+    </point>
+  </contenu>
+</compteRendu>

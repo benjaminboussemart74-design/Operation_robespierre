@@ -1,0 +1,967 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N237</uid>
+  <seanceRef>RUANR5L17S2025IDS29544</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250612213000000</dateSeance>
+    <dateSeanceJour>jeudi 12 juin 2025</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>237</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250237</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-06-19T18:43:32.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3793854">Présidence de Mme Nadège Abomangoli</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3793853">
+          <intitule>Quelles réponses à la dissémination inquiétante et à la violence exacerbée du crime organisé en France ?</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3789514">M. Jocelyn Dessigny (RN)</para>
+        <para id_syceron="3789521">M. François-Noël Buffet, ministre auprès du ministre d’État, ministre de l’intérieur</para>
+        <para id_syceron="3789529">M. Jocelyn Dessigny (RN)</para>
+        <para id_syceron="3789534">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789544">M. Jocelyn Dessigny</para>
+        <para id_syceron="3789547">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789556">M. Emeric Salmon (RN)</para>
+        <para id_syceron="3789562">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789572">M. Emeric Salmon (RN)</para>
+        <para id_syceron="3789644">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789651">M. Emeric Salmon</para>
+        <para id_syceron="3789653">M. Nicolas Dragon (RN)</para>
+        <para id_syceron="3789657">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789662">M. Nicolas Dragon</para>
+        <para id_syceron="3789665">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789667">M. Eddy Casterman (RN)</para>
+        <para id_syceron="3789674">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789678">Mme Ersilia Soudais (LFI-NFP)</para>
+        <para id_syceron="3789685">M. François-Noël Buffet, ministre</para>
+      </sommaire1>
+      <sommaire3>
+        <titreStruct id_syceron="3789782">
+          <intitule>
+            <italique>Rappel au règlement<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="3789784">M. Emeric Salmon</para>
+      </sommaire3>
+      <sommaire3>
+        <titreStruct id_syceron="3802984">
+          <intitule>
+            <italique>Reprise</italique>
+            <italique> du</italique>
+            <italique> débat<br/></italique>
+          </intitule>
+        </titreStruct>
+        <para id_syceron="3789786">Mme Ersilia Soudais</para>
+        <para id_syceron="3789788">Mme Ayda Hadizadeh (SOC)</para>
+        <para id_syceron="3789794">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789802">Mme Ayda Hadizadeh</para>
+        <para id_syceron="3789805">M. François-Noël Buffet, ministre</para>
+        <para id_syceron="3789808">Mme Ayda Hadizadeh</para>
+        <para id_syceron="3789814">M. François-Noël Buffet, ministre</para>
+      </sommaire3>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3789817">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du jeudi 12 juin 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2725205" ordre_absolu_seance="2" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3793854" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Nadège Abomangoli<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2725205" ordre_absolu_seance="3" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="-1" id_nomination_op="PM846635" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3793855" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="900.99">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2725205" ordre_absolu_seance="4" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3793856" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt</italique>
+          <italique> et</italique>
+          <italique> une</italique>
+          <italique> heures</italique>
+          <italique> trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725205" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3793853" valeur="">
+      <orateurs/>
+      <texte>Quelles réponses à la dissémination inquiétante et à la violence exacerbée du crime organisé en France ?</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725207" ordre_absolu_seance="6" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789512" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="902.53">L’ordre du jour appelle les questions sur le thème : « Quelles réponses à la dissémination inquiétante et à la violence exacerbée du crime organisé en France ? »<br/>Je vous rappelle que la conférence des présidents a fixé à deux minutes la durée maximale de chaque question et de chaque réponse, avec droit de réplique et de contre-réplique.<br/>La parole est à M. Jocelyn Dessigny.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725209" ordre_absolu_seance="9" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789514" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny (RN)</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="912.07">Monsieur le ministre auprès du ministre d’État, ministre de l’intérieur, vous proclamez une guerre contre les trafiquants, mais de quelle guerre parle-t-on si vous refusez d’armer l’État ? Certes, la loi contre le narcotrafic contient des annonces, mais sans moyens, c’est un baroud médiatique, pas une stratégie de combat.<br/>Prenons l’exemple des points de deal. Ce sont des caisses noires quotidiennes pour les réseaux criminels. Pourtant, ils réapparaissent quelques jours seulement après chaque opération de police. Pourquoi ? Parce qu’il n’y a ni harcèlement permanent, ni continuité d’action, ni coordination locale, ni moyens dédiés. Les maires sont seuls, les préfets attendent des instructions, les forces de l’ordre épuisent leurs effectifs pour ne gagner que trois jours de calme.<br/>Côté logistique, même constat : téléphones chiffrés, bunkers de quartier, véhicules relais… Tout cela est connu et documenté, mais les services spécialisés comme Tracfin, l’Office central de lutte contre la corruption et les infractions financières et fiscales (OCLCIFF), les magistrats ou encore les douaniers restent en sous-effectifs, sans renforts ciblés, sans calendrier de déploiement.<br/>Surtout, le gouvernement n’a pas fait le choix de présenter un projet de loi de finances rectificative (PLFR), malgré les nouvelles mesures induites par votre texte. Nous l’avons réclamé, mais vous n’avez pas voulu le faire. Or sans PLFR, il n’y aura pas de moyens financiers suffisants ; sans moyens financiers suffisants, il n’y aura pas d’action et tout cela ne restera que du vent.<br/>Dans ce contexte, ma première question est simple : quelle feuille de route opérationnelle les ministères de l’intérieur et de la justice ont-ils définie pour l’application effective de cette loi ? Pouvez-vous détailler les moyens, le calendrier et les instructions qui seront données aux préfets et aux procureurs ?<br/>Comment comptez-vous tarir le flux des criminels si l’on ne parvient pas à contrôler durablement les points de deal et les circuits logistiques, faute de soutien concret aux acteurs de terrain ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725215" ordre_absolu_seance="15" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789520" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1047.82">La parole est à M. le ministre auprès du ministre d’Etat, ministre de l’intérieur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725216" ordre_absolu_seance="16" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789521" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre auprès du ministre d’État, ministre de l’intérieur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1056.30">Mon temps de réponse est limité, mais je vais tenter de vous expliquer comment les choses s’organisent.<br/>Tout d’abord, les constats formulés ont notamment été documentés à l’occasion d’une commission d’enquête sénatoriale. Elle a permis d’aboutir à la proposition de loi telle qu’elle a été votée par vous-mêmes comme par le Sénat, et sur laquelle le Conseil constitutionnel a rendu aujourd’hui une décision très largement favorable.<br/>Cette loi vise à réorganiser la lutte contre le narcotrafic, du haut jusqu’au bas du spectre. Cela paraît absolument essentiel.<br/>Dès lors que nous avons aligné l’organisation de la lutte contre le narcotrafic sur celle que nous appliquons à la lutte contre le terrorisme, plusieurs dispositifs ont été mis en place. Le parquet national anti-criminalité organisée (Pnaco) a été créé. Un état-major spécifiquement dédié à la lutte contre la criminalité organisée a également été installé il y a quelques semaines.<br/>Cette nouvelle organisation est verticale : les remontées d’informations seront opérées au niveau régional afin d’être traitées au niveau national si nécessaire. À l’échelle locale, des moyens de coordination seront également mis en place entre le préfet, le procureur de la République et les autres services du ministère de l’intérieur contribuant à la remontée de l’information et à la connaissance du terrain.<br/>Vous évoquez les points de deal. Évidemment, ils se situent au bas du spectre du narcotrafic, mais ils font tout de même partie intégrante de la chaîne générale du système, puisque les narcotrafiquants profitent de la vente du quotidien. Cette dernière a d’ailleurs augmenté, de même que les saisies, ce qui atteste déjà de résultats concrets sur ce point.<br/>La coordination et la connaissance des situations de fait sont essentielles pour poursuivre la lutte contre les points de deal existants. À long terme, cela permettra à la fois d’assécher les fournisseurs, de réduire la consommation – nous l’espérons – et d’éviter le remplacement de ces points de deal sur le terrain. Je voudrais rappeler que…<italique> (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725223" ordre_absolu_seance="23" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789528" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1098.12">La parole est à M. Jocelyn Dessigny, pour une seconde question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725224" ordre_absolu_seance="24" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789529" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny (RN)</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1191.67">Monsieur le ministre, vous allez pouvoir poursuivre votre argumentation, mais ce que vous me dites aujourd’hui, ce ne sont que des paroles. Du reste, M. Darmanin nous les a déjà servies. M. Retailleau, quant à lui, n’a pas daigné se préoccuper plus que cela du texte sur le narcotrafic ; il a brillé par son absence, ce que nous avons regretté.<br/>Nous avons soutenu ce texte. Mieux, nous l’avons porté face à La France insoumise, qui a défendu les narcotrafiquants tout au long de son examen. Vos députés étaient absents ; nous étions les seuls à être présents pour le défendre. Nous voulons des résultats en matière de lutte contre le narcotrafic !<br/>Vous ne proposez aujourd’hui que des paroles et de vaines promesses. Vous n’avez pas mobilisé de moyens financiers. Vous n’avez pas prévu de PLFR pour donner des moyens financiers à nos forces de l’ordre, à nos magistrats, à nos préfets. Sans argent ni effectifs supplémentaires, on ne peut pas lutter. Les Français attendent mieux que cela : ils veulent des résultats concrets. Il va falloir mettre la main à la poche, sortir un petit peu plus d’argent et présenter le PLFR que nous vous réclamons. C’est indispensable pour pouvoir appliquer les propositions que vous avez avancées lors des débats portant sur la loi visant à lutter contre le narcotrafic.<br/>Nous avons soutenu ce texte, nous l’avons porté face aux incompétences de La France insoumise et de la gauche qui, elles, ont lutté pour défendre les narcotrafiquants. Nous étions là, nous avons fait le nécessaire ; maintenant, nous attendons des résultats. Qu’avez-vous à nous proposer, monsieur le ministre ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725228" ordre_absolu_seance="28" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789533" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1211.97">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725229" ordre_absolu_seance="29" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789534" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1283.50">Merci d’avoir soutenu le texte que nous avons proposé.<br/>Vous me demandez quels sont les résultats concrets. À la date du 30 avril, 9 047 personnes ont été interpellées, 4 600 personnes ont été placées en garde à vue, 1 449 personnes ont été déférées,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725231" ordre_absolu_seance="31" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789536" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1290.75">Mais non ! Arrêtez avec vos chiffres…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725232" ordre_absolu_seance="32" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789537" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1302.23">…3 000 étrangers en situation irrégulière ont été interpellés, 278 ont été placés en centre de rétention administrative,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725232" ordre_absolu_seance="33" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789629" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1312.29">Non, non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725232" ordre_absolu_seance="34" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789628" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1314.92">…près de 1 000 kilos de stupéfiants ont été saisis, 504 armes ont été saisies<italique> (M. Jocelyn</italique><italique> Dessigny</italique><italique> applaudit</italique><italique> par</italique><italique> dérision)</italique>, 1 549 240 euros ont été saisis en espèces, 3 120 000 euros de biens ont été saisis, 359 véhicules ont été saisis, 614 commerces ont été contrôlés et 103 ont été fermés. Voilà les premiers résultats sur vingt-trois villes seulement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725232" ordre_absolu_seance="35" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789631" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1321.65">Ce sont des résultats comptables, pas de terrain !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725232" ordre_absolu_seance="36" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789630" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1326.99">C’est bien un résultat concret et précis qui répond à votre question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725233" ordre_absolu_seance="37" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789538" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1330.71">Non, ce n’est pas un résultat !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725234" ordre_absolu_seance="38" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789539" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1332.95">Monsieur le député, il vous reste du temps de réplique : vous pouvez laisser M. le ministre répondre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725235" ordre_absolu_seance="39" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789540" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1337.06">Lorsqu’on dit la vérité, évidemment, cela pose toujours des problèmes. Mes propos ne sont pas seulement des mots ; ils décrivent des résultats bien réels.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725235" ordre_absolu_seance="40" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789633" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1347.55">Mais non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725235" ordre_absolu_seance="41" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789632" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1353.40">Ce travail est donc bien mené.<br/>Au début du mois de juillet, une réunion sera organisée autour du premier ministre et de l’état-major interministériel de lutte contre la criminalité organisée. Elle concrétisera un certain nombre d’éléments et engagera à nouveau cette procédure de lutte contre le narcotrafic.<br/>Je vous invite à avoir confiance dans le texte de loi voté. Il sera bientôt publié et dotera la police et la justice de moyens supplémentaires qui lui manquaient jusqu’à présent.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725238" ordre_absolu_seance="44" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789543" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1366.78">La parole est à M. Jocelyn Dessigny.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725239" ordre_absolu_seance="45" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789544" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1372.70">Ce que vous nous dites est un mensonge ; il n’y a pas de moyens financiers supplémentaires affichés pour lutter contre le trafic de drogue. Citez-nous les chiffres ! Dites-nous à quel moment vous allez, dans le PLF, trouver l’argent pour lutter contre le trafic de drogue ! Il n’y a rien dans vos propositions. C’est du vent, ce que vous nous racontez !<br/>Les chiffres que vous citez sont ceux qui ont été remontés par les gendarmeries et les préfectures à votre demande. Ce sont les chiffres du quotidien ; il n’y a rien de nouveau dans tout cela. La proposition de loi que vous avez présentée et que nous avons soutenue…<italique> (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725241" ordre_absolu_seance="47" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789546" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1394.21">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725242" ordre_absolu_seance="48" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789547" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1412.98">Ces données correspondent au résultat des actions menées au quotidien dans les quartiers de reconquête, aux moyens mis en place et aux instructions données…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725243" ordre_absolu_seance="49" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789548" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1421.01">Oui, rien de nouveau !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725244" ordre_absolu_seance="50" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789549" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1421.87">…dans l’attente de pouvoir publier ce texte de loi. Il a fait l’objet, je le rappelle, d’un recours devant le Conseil constitutionnel. Ce recours est aujourd’hui purgé. Le texte sera promulgué prochainement et nous pourrons ainsi déployer les moyens correspondants.<br/>Sur le plan budgétaire, nous en sommes à l’étape de la réorganisation et de la mobilisation des moyens existants. Ce n’est pas qu’une question d’argent ; c’est d’abord une question de réorganisation,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725246" ordre_absolu_seance="52" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789551" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1436.31">Non, c’est d’abord une question d’argent !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725247" ordre_absolu_seance="53" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789552" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1439.55">…de partage des informations, de capacité à engager les poursuites judiciaires et à rapporter les preuves nécessaires pour faire tomber les gens qui vivent du narcotrafic.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725248" ordre_absolu_seance="54" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789553" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1447.72">Fausses promesses ! Donnez-nous des résultats !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725249" ordre_absolu_seance="55" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789554" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1448.00">C’est cela, la réalité. Ce n’est pas simplement une question budgétaire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725250" ordre_absolu_seance="56" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789555" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1451.50">La parole est à M. Emeric Salmon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725251" ordre_absolu_seance="57" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789556" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Emeric Salmon (RN)</nom>
+            <id>794954</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1461.38">Ces dernières semaines, notre pays a été confronté à un phénomène particulièrement inquiétant : une vague d’enlèvements liés au milieu de la cryptomonnaie. Le 26 mai, dix individus ont été interpellés, révélant l’existence d’un réseau de criminalité organisée qui cible les entrepreneurs et leurs familles.<br/>Deux affaires récentes survenues à Paris illustrent cette escalade de violence. Le 1<exposant>er</exposant> mai, le père d’un investisseur en cryptomonnaies a été enlevé, séquestré et torturé avant d’être sauvé par la brigade de recherche et d’intervention (BRI). Quelques jours plus tard, la fille d’un entrepreneur reconnu du secteur a échappé de justesse à une tentative d’enlèvement en pleine rue, sous les yeux des passants.<br/>Depuis le début de l’année, cinq affaires similaires ont été recensées, démontrant que cette forme de criminalité s’étend désormais sur l’ensemble du territoire, y compris en zone rurale. En Haute-Saône, dans ma circonscription, le jeune Simon Arthuis a tragiquement perdu la vie, assassiné par des criminels attirés par son patrimoine en cryptomonnaies. Alors que le procès de ses meurtriers est en cours, je tiens ici à adresser mes pensées à sa famille et à rendre hommage à sa mémoire.<br/>Face à cette criminalité organisée en constante évolution, des mesures fortes et immédiates s’imposent. Le groupe Rassemblement national, avec Marine Le Pen, propose notamment une augmentation significative des effectifs de police, de gendarmerie et de magistrats, le renforcement de l’arsenal pénal par le rétablissement des peines planchers, la fin des réductions de peine automatiques pour les crimes violents, la construction de milliers de places de prison, l’expulsion des criminels étrangers et l’instauration d’une présomption de légitime défense pour nos forces de l’ordre.<br/>Monsieur le ministre, quelle action concrète votre ministère entend-il conduire face à l’essor alarmant de cette criminalité organisée qui cible notamment le secteur des cryptomonnaies ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725256" ordre_absolu_seance="62" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789561" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1520.69">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725257" ordre_absolu_seance="63" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789562" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1571.46">Ces dernières semaines, nous avons été frappés par une série d’enlèvements et de tentatives d’enlèvement d’une extrême violence. Ces faits ont effectivement ciblé des professionnels du secteur des cryptoactifs dans le Cher et dans les 11<exposant>e</exposant> et 14<exposant>e</exposant> arrondissements de Paris.<br/>Le constat s’impose : ces attaques ciblent clairement des professionnels du secteur. Elles ne sont plus de simples faits divers, mais relèvent bien d’une criminalité structurée, comme vous venez de le souligner.<br/>Je rappelle que le ministère de l’intérieur a récemment construit un dispositif de prévention avec les acteurs de la filière.<br/>Je rappelle également que le commanditaire présumé des enlèvements a été arrêté le 3 juin au Maroc.<br/>Le plan de prévention que j’ai évoqué prévoit le recensement des professionnels du secteur et de leurs proches pour leur proposer d’abord un accès prioritaire au numéro d’urgence qu’est le 17, l’inscription aux fichiers de gendarmerie et de police, l’organisation d’une consultation de sûreté de leur domicile par les référents de sûreté de police, ainsi qu’un briefing de sécurité assuré au profit des acteurs les plus concernés par le Groupe d’intervention de la gendarmerie nationale (GIGN), le Raid, la BRI ou la préfecture de police, l’établissement d’une procédure d’urgence avec le commandement du ministère de l’intérieur dans le cyberespace, chargé de l’accompagnement de la filière, et enfin la mise en place d’une formation spécifique pour les policiers et les gendarmes.<br/>Un mois plus tard, les premiers résultats sont là : 425 personnes parmi les professionnels du secteur et leurs proches ont déjà été recensées et contactées par les forces de sécurité aux fins d’une inscription dans les fichiers ou de consultations.<br/>Un travail interministériel est en cours, en lien notamment avec le ministère de la justice, afin de préparer un décret permettant de supprimer les mentions des adresses personnelles des dirigeants du registre du commerce et des sociétés.<br/>Le renforcement de la sécurité des acteurs passe également par des mesures de communication.<br/>Voilà les premières mesures qui ont été prises devant l’urgence de la situation. Elles constituent une première étape de protection. Dans un second temps, les poursuites judiciaires sont bien entendu engagées et les condamnations interviendront si les faits sont établis, ce qui ne fait pas de doute.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725266" ordre_absolu_seance="72" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789571" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1585.57">La parole est à M. Emeric Salmon, pour une seconde question.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2725267" ordre_absolu_seance="73" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789572" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Emeric Salmon (RN)</nom>
+            <id>794954</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1710.39">Elle porte sur un autre sujet.<br/>La France est confrontée à une augmentation préoccupante de la délinquance impliquant des mineurs non accompagnés (MNA), également appelés mineurs étrangers isolés. À Paris, en 2020, ces mineurs étaient impliqués dans plus de 40 % des vols à la tire, 30 % des vols avec violence et environ 30 % des cambriolages selon les données publiées.<br/>Le rapport du Sénat de 2021 confirme cette tendance alarmante, indiquant qu’à Paris, les MNA représentaient alors 42 % des vols à la tire, 29 % des vols avec effraction et 27 % des vols avec violence. Depuis, ces chiffres n’ont cessé de croître.<br/>Nombre d’entre eux, souvent majeurs en réalité, sont exploités par des réseaux criminels impliqués dans le trafic de stupéfiants, les vols organisés ou encore le racket. Ces réseaux agissent en toute impunité sur notre territoire, profitant de la faiblesse de notre système judiciaire et de la générosité de notre modèle social.<br/>Cette situation a également un coût considérable pour les finances publiques. Selon Départements de France, la prise en charge d’un MNA représente en moyenne 50 000 euros par an, soit une dépense annuelle totale supérieure à 2 milliards d’euros. En période de contrainte budgétaire, il faut s’interroger sur ce montant.<br/>Il est temps de mettre fin à l’angélisme migratoire : le lien entre immigration irrégulière et criminalité organisée ne peut plus être ignoré. Avec Marine Le Pen et le Rassemblement national, nous proposons de mettre un terme à l’accueil systématique des MNA, de rendre obligatoire les tests osseux pour évaluer leur âge, donc la réalité de leur minorité, et d’expulser les délinquants étrangers vers leur pays d’origine.<br/>La France ne peut rester un terrain d’exploitation pour les mafias étrangères. Il est temps de rétablir l’ordre et l’autorité de l’État.<br/>Une proportion significative de ces mineurs délinquants est de nationalité marocaine. Dans le contexte du récent rapprochement diplomatique entre la France et le royaume du Maroc, le gouvernement envisage-t-il de renforcer la coopération avec ce pays afin de faciliter et d’accélérer le retour dans leur pays d’origine des mineurs délinquants concernés ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725161" ordre_absolu_seance="81" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789643" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1826.50">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725162" ordre_absolu_seance="82" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789644" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1832.71">Je commencerai par rappeler qu’en 2023, le nombre des mineurs délinquants a diminué, bien que la police aux frontières enregistre toujours une augmentation nette des entrées sur le territoire. Ces mineurs viennent pour l’essentiel d’Afrique du Nord. Ils peuvent être auteurs d’infractions, mais ils sont aussi victimes de réseaux criminels, c’est incontestable, notamment de traite des êtres humains, en particulier dans le monde de la prostitution. L’usage de la violence pour commettre des délits ou des crimes ainsi que le port d’arme blanche sont en hausse. Tout cela est clair. L’usage de drogue peut expliquer certains comportements.<br/>Sur le fond, vous connaissez le statut particulier des MNA : ils ne sont pas considérés comme des étrangers en situation irrégulière, mais comme des mineurs. La question de la détermination de la minorité est parfaitement connue, et je crois que les départements mènent ce travail de manière assez efficace.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725164" ordre_absolu_seance="84" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789646" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1883.23">Non !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725165" ordre_absolu_seance="85" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789647" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1886.94">Le fichier national est tout à fait utile, et évite le nomadisme qui pouvait exister.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725166" ordre_absolu_seance="86" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789648" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1893.53">Mais non ! Sortez dans la rue !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725167" ordre_absolu_seance="87" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789649" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1894.41">Quant au renvoi dans les pays d’origine, nous discutons d’accords de réadmission avec les pays sources. C’est un travail quotidien, régulier, et qui progresse – sauf avec l’Algérie pour l’instant, nous en sommes bien d’accord. Nous prenons ainsi les mesures nécessaires pour les reconduire dans leur pays d’origine si leur minorité n’est pas reconnue.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725168" ordre_absolu_seance="88" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789650" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1934.75">La parole est à M. Emeric Salmon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725169" ordre_absolu_seance="89" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789651" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Emeric Salmon</nom>
+            <id>794954</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1938.57">Votre réponse pleine d’angélisme m’inquiète un peu. Il est grand temps de forcer les tests osseux pour vérifier réellement la minorité de ces individus – ou plutôt leur majorité.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725169" ordre_absolu_seance="90" id_acteur="PA793166" id_mandat="PM840261" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789691" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jocelyn Dessigny</nom>
+            <id>793166</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1950.50">Évidemment !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725170" ordre_absolu_seance="91" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789652" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1950.93">La parole est à M. Nicolas Dragon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725171" ordre_absolu_seance="92" id_acteur="PA793146" id_mandat="PM840252" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789653" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Dragon (RN)</nom>
+            <id>793146</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1961.77">La récente proposition du garde des sceaux concernant la suppression de l’argent liquide afin de lutter contre le crime organisé marquerait une rupture avec les rapports commerciaux et sociaux que l’humanité connaît depuis des siècles. En effet, l’argent liquide constitue un moteur pour les échanges et le commerce ; il est notamment utilisé par les plus modestes, qui ne comptent pas sur la carte bancaire pour gérer leur budget et vivre, voire survivre, à la fin du mois. Sa suppression porterait un coup dur à de nombreux commerces, notamment ruraux : il est essentiel au développement économique de ces territoires déjà en tension. Elle porterait aussi atteinte à la liberté des individus de disposer de leur argent comme ils l’entendent.<br/>Dans le contexte du narcotrafic, l’argent liquide est central et il pourrait sembler logique de vouloir briser ces mécanismes en le remplaçant par des moyens de paiement traçables, afin de faciliter les investigations sur les trafics de drogue mais aussi d’armes. Cependant, les criminels s’adaptent toujours plus rapidement pour échapper à la justice ; le développement de nombreuses cryptomonnaies, que viennent d’évoquer mes collègues, permet déjà aux trafiquants d’éviter toute traçabilité. Le gouvernement voudrait aller vers la fin de l’argent liquide afin d’enrayer le narcotrafic, mais le développement des cryptomonnaies rendrait cette politique caduque.<br/>Il serait donc pertinent de s’inspirer plutôt des propositions du Rassemblement national, que je représente ce soir avec mes collègues, notamment en matière de lutte contre le blanchiment d’argent.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725174" ordre_absolu_seance="95" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789656" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2071.44">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725175" ordre_absolu_seance="96" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789657" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2078.17">La loi relative au narcotrafic, dont je rappelle le caractère définitif depuis la décision rendue aujourd’hui par le Conseil constitutionnel, supprime les paiements en argent liquide pour la location des voitures, par exemple. Elle prévoit également que les personnes qui achètent des cartes téléphoniques prépayées devront donner leur identité. Ce sont des mesures très intéressantes que nous allons maintenant pouvoir appliquer.<br/>S’agissant des cryptomonnaies, le texte donne aussi aux services, notamment en matière d’identification, les moyens d’enquêter sur les réseaux financiers. Nous pourrons ainsi soit les bloquer, soit engager des poursuites. Nous sommes donc déterminés.<br/>Les préfets pourront également ordonner la fermeture administrative de commerces soupçonnés de blanchiment d’argent.<br/>Voilà les mesures très concrètes qui pourront maintenant s’appliquer.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725179" ordre_absolu_seance="100" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789661" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2123.25">La parole est à M. Nicolas Dragon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725180" ordre_absolu_seance="101" id_acteur="PA793146" id_mandat="PM840252" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789662" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Dragon</nom>
+            <id>793146</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2173.75">Merci de vos réponses. Je comprends aussi que le Conseil constitutionnel a censuré un certain nombre d’articles de la loi « narcotrafic », ce que j’estime très regrettable, même si je respecte bien évidemment cette institution.<br/>Mais il faut accélérer. Les Français veulent des actes, le plus vite possible : ils ne peuvent plus attendre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725182" ordre_absolu_seance="103" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789664" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2196.18">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725183" ordre_absolu_seance="104" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789665" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2215.70">Le Conseil constitutionnel était saisi de trente-huit articles sur les soixante-quatre que compte la loi ; trente-deux ont été acceptés, six censurés soit totalement, soit partiellement. On peut donc dire que l’ensemble du texte a été validé. Il va pouvoir produire ses effets, et nos services recevront des moyens pour lutter contre le blanchiment d’argent.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725184" ordre_absolu_seance="105" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789666" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2245.03">La parole est à M. Eddy Casterman.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725185" ordre_absolu_seance="106" id_acteur="PA840075" id_mandat="PM840255" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789667" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Eddy Casterman (RN)</nom>
+            <id>840075</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2253.68">Le narcobanditisme s’enracine dangereusement sur notre territoire. En 2024, lors de leur audition au Sénat, les magistrats de Marseille ont lancé l’alerte quant à l’émergence d’une véritable contre-société structurée et dotée de moyens financiers et technologiques considérables. Aujourd’hui, nos forces de l’ordre sont démunies, dépassées par l’ampleur du phénomène ; elles manquent cruellement de moyens matériels pour mener à bien leur mission première : lutter contre le crime.<br/>Je souhaite vous interpeller sur deux points : l’insuffisance chronique des équipements disponibles pour les policiers et les gendarmes ; le mur juridique que rencontrent les forces de l’ordre pour disposer des avoirs et matériels saisis et qui demeurent gelés par la justice.<br/>Les policiers et les gendarmes font part de leur désarroi face à la pénurie de véhicules, par exemple. Comment peuvent-ils espérer démanteler des réseaux de trafic de drogue s’ils n’ont même pas les moyens de se déplacer rapidement ? En 2023, plus de 1 milliard d’euros d’avoirs criminels ont été saisis. Pourquoi ne pas en utiliser une partie significative pour améliorer concrètement les moyens des pelotons de surveillance et d’intervention de la gendarmerie (Psig), des brigades antistupéfiants ou des douanes ? Cet argent pourrait par exemple financer des drones ou des véhicules, essentiels à la surveillance de réseaux, mais aussi aider au logement ou à la mobilité des agents les plus exposés.<br/>Donnons à ceux qui nous protègent les moyens de remplir cette mission ! Il faut frapper les narcotrafiquants là où ça fait mal, c’est-à-dire au portefeuille. Ce que nous saisissons doit devenir une arme qui se retourne contre ceux qui pourrissent la vie des Français.<br/>Nous devons donc amorcer une simplification juridique et garantir aux forces de l’ordre qu’elles bénéficieront d’un retour financier et matériel direct, afin de renforcer leur capacité à lutter contre le crime organisé, avec un appareil juridique qui les soutient.<br/>Cette proposition répond à votre volonté politique de lutte contre le narcotrafic. Elle est prévue par la loi contre le narcotrafic, que le groupe Rassemblement national a soutenue et permis de faire adopter. Dans quels délais cette mesure, tant attendue de nos forces de l’ordre, sera-t-elle appliquée ? Elles vous regardent !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725191" ordre_absolu_seance="112" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789673" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2377.91">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725192" ordre_absolu_seance="113" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789674" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2380.29">Afin d’aller au-delà des éléments de langage que j’entends régulièrement, je vous dirai que les biens et le numéraire saisis par les forces de sécurité intérieures dans le cadre de leurs enquêtes judiciaires sont confiés à l’Agence de gestion et de recouvrement des avoirs saisis et confisqués (Agrasc). Une partie du montant des confiscations abonde directement le budget général de l’État, en application du principe d’universalité budgétaire. Par exception, une autre partie est versée à des fonds de concours : celui géré par la mission interministérielle de lutte contre les drogues et les conduites addictives (Mildeca), alimenté par les sommes définitivement confisquées par les autorités judiciaires en matière de trafic de stupéfiants, et celui de l’Agrasc.<br/>En 2024, la gendarmerie a saisi pour 564 millions d’euros d’avoirs criminels, sur un peu plus de 1,2 milliard au niveau national, soit la moitié. Elle a bénéficié d’un peu plus de 13 millions d’euros grâce au fonds Mildeca et d’un peu moins de 2 millions d’euros grâce au fonds Agrasc. En outre, 361 véhicules lui ont été affectés.<br/>Bref, au-delà des pétitions de principe, les règles existent pour que le budget de l’État, notamment via ces deux fonds, continue de donner à nos services les moyens d’agir. Ce que vous demandez existe déjà, et vous devriez être satisfait.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725195" ordre_absolu_seance="116" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789677" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2479.22">La parole est à Mme Ersilia Soudais.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725196" ordre_absolu_seance="117" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789678" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais (LFI-NFP)</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2485.19">La police nationale a publié une note qui pointe une croissance du crime organisé en France et qui souligne une professionnalisation des pratiques criminelles, les séjours en prison tendant à amplifier le phénomène. Cette note est très instructive, mais elle se trompe de cible.<br/>Je ne saurais choisir parmi la multitude d’affaires de corruption qui concernent les élus de la République et les hauts responsables politiques, tant elles sont nombreuses. Je peux tout de même citer Rachida Dati, ministre de la culture, soupçonnée d’avoir touché 299 000 euros de la part du groupe GDF Suez pour agir en faveur du secteur gazier lorsqu’elle était eurodéputée, ou Marine Le Pen, déclarée coupable de détournement de fonds publics à hauteur de 1,8 million d’euros.<br/>Comment voulez-vous que nos concitoyens respectent la loi si ceux qui la font ne la respectent pas eux-mêmes ? Ces crimes ne sont pas anodins ; ils révèlent les fissures d’un système démocratique défaillant. Les conséquences de cette corruption sont tout aussi dramatiques que la hausse des tentatives d’assassinat ou des faits de trafic de drogue. Ces crimes ont des conséquences sur notre démocratie : abstention, perte de confiance dans les élus et dans la démocratie, virage vers un régime de plus en plus autoritaire.<br/>Qui dissémine réellement le crime organisé en France ? Qui sont les véritables criminels ?<br/>Nous aimerions que la police nationale et le gouvernement cessent de viser et de stigmatiser toujours les mêmes personnes. Il est inutile de rappeler les contrôles au faciès – le risque de contrôle est vingt fois plus élevé pour un jeune homme perçu comme Noir ou Arabe que pour le reste de la population – comme il est inutile de rappeler la violence illégitime et disproportionnée souvent utilisée par les forces de l’ordre lors de leurs interpellations. Il est en revanche plus que jamais nécessaire de restructurer le débat et de se pencher sur la question de la corruption et des crimes commis par les personnalités politiques.<br/>Demandons-nous à qui profite le crime, surtout quand l’extrême droite ne cesse de gagner du terrain.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725202" ordre_absolu_seance="123" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789684" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2591.63">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2725203" ordre_absolu_seance="124" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789685" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2602.76">Vous affirmez des choses dont je crois pouvoir dire qu’elles ne sont en rien réellement documentées – au moins dans leur volume. Vous parlez de façon générale, considérant que l’État et le gouvernement mènent des contrôles d’identité uniquement au faciès, que le trafic de stupéfiants n’est qu’un problème accessoire, qu’il vaudrait mieux se concentrer sur des personnes ; et vous citez deux noms, après avoir laissé entendre que tous les élus étaient corrompus.<br/>Je vous rappelle un principe auquel je crois – ou j’espère – que vous êtes attachée : la présomption d’innocence. En tout cas, l’avocat que j’ai été y reste très attaché et ne saurait tenir des propos aussi généraux et aussi péremptoires, surtout sans apporter la moindre preuve.<br/>Ensuite, les actions menées par les services de police sont parfaitement documentées, notamment en ce qui concerne le narcotrafic, qui génère plus de 2,5 milliards de chiffre d’affaires. C’est un système organisé sous forme d’entreprise, qui dans certains cas utilise des êtres humains comme de la chair à canon, et qui n’hésite pas à distribuer des stupéfiants, ce qui entraîne des conséquences dramatiques pour ceux qui en consomment – encore faudrait-il qu’ils cessent de le faire.<br/>La lutte contre la corruption existe et elle fonctionne. Des procédures sont engagées, certaines enquêtes aboutissent, d’autres non, faute de preuves suffisantes. Vous ne pouvez pas détourner ainsi l’attention de la masse de la corruption. Celle-ci est considérable et elle découle notamment du narcotrafic – l’argent qui en est issu est utilisé pour corrompre des acteurs publics ou privés. La loi est bien faite : elle permet de les poursuivre et les condamner. L’élu et le ministre que je suis ne peuvent accepter que vous teniez un propos aussi général – il est manifestement infondé et extrêmement dangereux.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725273" ordre_absolu_seance="128" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3789782" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Rappel au règlement</italique>
+      </texte>
+      <interExtraction nom_orateur="M. Emeric Salmon" id_acteur="PA794954" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM840357">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725274" ordre_absolu_seance="129" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="RAP_REGLEMENT_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789783" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2761.73">La parole est à M. Emeric Salmon, pour un rappel au règlement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725275" ordre_absolu_seance="130" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789784" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emeric Salmon</nom>
+              <id>794954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2767.44">Il se fonde sur l’article 70 alinéa 3 relatif aux mises en causes personnelles. Mme Soudais, pendant son intervention, a qualifié Marine Le Pen de criminelle. Je rappellerai que Marine Le Pen est présumée innocente, M. le ministre l’a souligné. En outre, elle n’est accusée d’aucun crime.</texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725275" ordre_absolu_seance="131" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3802984" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Reprise</italique>
+        <italique> du</italique>
+        <italique> débat</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725276" ordre_absolu_seance="132" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789785" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2791.29">La parole est à Mme Ersilia Soudais.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725277" ordre_absolu_seance="133" id_acteur="PA795466" id_mandat="PM843443" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789786" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ersilia Soudais</nom>
+            <id>795466</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2797.20">Tout ce dont je vous parle est parfaitement documenté. Lorsque j’ai dit qu’« un jeune homme perçu comme Noir ou Arabe » a vingt fois plus de chances d’être contrôlé que le reste de la population, je citais les propos du Défenseur des droits en 2017. Amnesty international a bien documenté également les contrôles au faciès.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725278" ordre_absolu_seance="134" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789787" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2816.76">La parole est à Mme Ayda Hadizadeh, pour poser trois questions.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725279" ordre_absolu_seance="135" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789788" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh (SOC)</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2832.62">Mes interrogations portent sur un point précis qui concerne la lutte contre le crime organisé et qui nous a beaucoup occupés dans l’hémicycle lors de l’examen de la proposition de loi visant à sortir la France du piège du narcotrafic. Il s’agit de la captation de données judiciaires à distance, c’est-à-dire l’interception de données SMS sur les messageries chiffrées et l’accès à distance aux terminaux.<br/>Nous en avons aujourd’hui la capacité et tout cela est encadré juridiquement : ces pratiques sont autorisées dans le cadre d’enquêtes judiciaires, notamment en matière de terrorisme et de criminalité organisée. Le service technique national de captation judiciaire (STNCJ) assure cette mission pour l’État. Le problème, ce n’est pas le droit, ni même la technologie – puisqu’on a les moyens de le faire –, c’est notre capacité à le faire. Aujourd’hui, les outils existent mais, en France, ils sont sous-dimensionnés. Le STNCJ travaille avec des moyens limités en volume, en couverture et en rapidité d’exécution. Par principe et à raison, la France refuse de confier ses missions ultrasensibles à des sociétés privées étrangères, notamment israéliennes – les Israéliens ont développé une grande capacité en la matière.<br/>Faute de solutions souveraines suffisamment robustes, nous restons dans une forme d’artisanat technique, alors que nous devrions être à l’âge industriel. Pendant ce temps, les demandes explosent, dans le cadre d’enquêtes sur les réseaux de stupéfiants ou les crimes commis en bande organisée, en particulier les affaires d’exploitation de mineurs. Je rappelle en effet à nos collègues du Rassemblement national que les mineurs non accompagnés sont des victimes de réseaux d’exploitation. Ce ne sont pas des mineurs délinquants ; ils tombent dans la délinquance parce qu’ils sont victimes – ce sont des enfants. Pour en revenir à la captation, les services de terrain doivent souvent attendre et, de ce fait, ils renoncent, faute de créneaux et de moyens alloués. On se retrouve dans une situation absurde : on a la prétention de jouer en Ligue des champions avec les moyens de la deuxième division.<br/>Nous savons que la captation constitue un levier stratégique pour désorganiser les réseaux, remonter les filières et protéger les victimes, qui sont toujours parmi les plus vulnérables de notre société. Mais l’efficacité de ce levier dépend de la réactivité, de la souveraineté et de la proximité avec le terrain. Chers collègues sur tous les bancs, nous devrions partager un même objectif : un objectif commun, simple, clair et basique. Il faut que nous renforcions massivement les capacités du service technique national de captation judiciaire. Pardonnez-moi d’être technique et précise, mais des fois, pour être efficace, il faut l’être. Nous devons en faire un service pleinement opérationnel, capable d’intervenir rapidement, y compris, et surtout, à l’échelle locale, ce qui n’est pas le cas aujourd’hui. Cela suppose donc une montée en puissance technique, humaine, et, bien évidemment budgétaire.<br/>Je vous poserai donc trois questions très précises :<br/>Quels moyens budgétaires le ministère prévoit-il pour renforcer durablement le service technique national de captation judiciaire afin de répondre à la montée en charge des demandes – la captation étant, je le rappelle, tout à fait autorisée dans le cadre de la loi ?<br/>Quelles mesures sont engagées pour développer des outils technologiques français souverains et ainsi réduire notre dépendance à des prestataires étrangers, dans un domaine aussi stratégique et sensible ?<br/>Enfin, comment le ministère entend-il étendre aux services territoriaux l’accès à ses capacités, afin de sortir de la logique de priorisation permanente et de garantir une réponse opérationnelle sur tout le territoire ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725284" ordre_absolu_seance="143" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789793" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3068.82">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725285" ordre_absolu_seance="144" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789794" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3071.70">Je vous remercie pour ces questions précises et pertinentes. Rappelons que le STNCJ est un service interministériel de compétence nationale, rattaché à la direction générale de la sécurité intérieure (DGSI). Il est cofinancé par le ministère de l’intérieur et le ministère de la justice, qui assurent respectivement 60 % et 40 % du financement. Son budget annuel s’élève à 4,2 millions d’euros.<br/>Ce service est chargé de la conception, de la centralisation et de la mise en œuvre du dispositif de captation judiciaire. Il s’appuie sur les capacités techniques et opérationnelles du service de la direction générale de sécurité intérieure développées au titre du renseignement. Il a le monopole de la captation en matière judiciaire, qu’il met en œuvre pour les infractions dites du haut du spectre : le terrorisme, les atteintes aux intérêts fondamentaux de la nation et la criminalité organisée, depuis l’adoption de la proposition de loi visant à sortir la France du piège du narcotrafic, qui vient d’être validée par le Conseil constitutionnel.<br/>Il répond aux saisines des différentes unités d’investigation du ministère, que ce soit la direction générale de la police nationale (DGPN), la préfecture de police de Paris, la direction générale de la gendarmerie nationale (DGGN) ou le service national de douane judiciaire (SNDJ). Son activité est couverte par le secret de la défense nationale et contrôlée par deux personnalités qualifiées. Ses orientations sont définies par un comité stratégique coprésidé par le ministre de l’intérieur et le ministre de la justice.<br/>Vous avez raison de le souligner, ce service fait face depuis le début de l’année 2024 à un accroissement important des demandes de captation judiciaire, et cette tendance se confirme depuis le début de l’année 2025. Les deux ministères se sont mobilisés en 2025 sur le plan budgétaire : les crédits ont été revalorisés de 24 % par rapport au budget 2024 – il y a déjà eu une évolution – et les effectifs ont augmenté de 50 % – le STNCJ disposait de 9 équivalents temps plein (ETP), 5 y ont été ajoutés en 2025. En outre, l’environnement professionnel sur lequel s’appuie le STNCJ se renforce également. Même si je ne peux pas entrer dans les détails – vous le comprendrez, car ces éléments sont classifiés –, le ministère de l’intérieur a fortement investi dans ce service.<br/>En ce qui concerne les mesures engagées pour développer les outils technologiques souverains, nous sommes très sensibles à l’enjeu de la souveraineté numérique du ministère de l’intérieur. C’est la raison pour laquelle pour ce service, l’ensemble des outils techniques sous-jacents sont français – nous sommes très vigilants sur ce point.<br/>S’agissant de l’élargissement de l’accès à ces moyens sur le plan territorial afin de sortir de la logique de priorisation contrainte, nous avons engagé une démarche de sensibilisation et de présentation du dispositif pour qu’il soit mobilisé davantage. Nous développons notamment des actions de sensibilisation et de présentation auprès des magistrats, y compris des professionnels en formation à l’École nationale de la magistrature (ENM), car ce dispositif est peu connu.<br/>Voilà la situation au moment où je vous parle : le service est de plus en plus saisi, ses moyens financiers et humains ont été augmentés pour l’année budgétaire 2025, nous nous organisons pour qu’il mobilise des moyens souverains – des moyens français – et nous renforçons l’information des acteurs dans les territoires, en particulier des magistrats.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725292" ordre_absolu_seance="151" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789801" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3235.68">La parole est à Mme Ayda Hadizadeh.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725293" ordre_absolu_seance="152" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789802" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3300.14">On passe de 9 équivalents temps plein à 15. Nous pouvons tous l’admettre ici, c’est indignement sous-dimensionné. Ce n’est même pas 1 par point de deal ! Combien la France en compte-t-elle ? L’enjeu ne se limite pas aux points de deals. Avant d’échanger avec vous sur le crime organisé, j’étais présente lors du débat concernant l’aide sociale à l’enfance. Les foyers de l’ASE sont devenus des lieux de recrutement massif de jeunes filles et de jeunes hommes pour la prostitution – ce sont des réseaux organisés, qui planifient la prostitution de ces enfants.<br/>Nous devons absolument renforcer les moyens territoriaux. Nous avons tous les outils pour le faire. Il n’y a pas besoin de loi – il n’y a pas de temps à perdre à l’Assemblée. C’est au gouvernement de mener cette bataille – la ministre chargée des comptes publics devrait être présente –, pour doter notre police, qui fait un travail difficile mais qui, tel Don Quichotte, combat des moulins à vent. Donnons-leur les moyens d’agir concrètement. Nous avons l’outil, il faut le surdimensionner – il faut jouer en Ligue des champions, maintenant.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725295" ordre_absolu_seance="154" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789804" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3369.42">La parole est à M. le ministre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725296" ordre_absolu_seance="155" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789805" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3372.30">Nous jouons bien dans la catégorie que vous évoquez. Rappelons que le dispositif s’appuie également sur les effectifs technico-opérationnels de la direction technique de la DGSI – les quinze personnes qui sont affectées au STNCJ travaillent avec d’autres collègues des services techniques de la DGSI, dont les effectifs augmentent, mais comme je vous l’ai indiqué, l’information est classifiée – vous comprendrez bien que je ne puisse pas vous la donner. Dans tous les cas, voilà la logique dans laquelle nous nous situons – il n’y a pas de difficulté.<br/>Nous prenons naturellement l’engagement de continuer à nous adapter, mais cela fait plusieurs années que nous le faisons en matière de renseignements, du point de vue de l’organisation et des moyens mis en place. Il n’est pas possible de nous faire ce reproche.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725298" ordre_absolu_seance="157" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789807" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3416.53">La parole est à Mme Ayda Hadizadeh.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725299" ordre_absolu_seance="158" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789808" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3430.64">C’est un reproche collectif, ne le prenez pas personnellement. Nous nous adaptons, certes, mais avec lenteur et des moyens sous-dimensionnés, il faut le dire. Il n’y a pas de honte à reconnaître qu’il faut aller plus vite. Au contraire, cela nous grandirait de dire : « Mettons toutes nos forces dans la bataille et allons-y. »</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725300" ordre_absolu_seance="159" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789809" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3444.90">Bien sûr !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725301" ordre_absolu_seance="160" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789810" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3447.48">On sait que c’est sur ces messageries cryptées que les messages s’échangent. Nous n’avons pas besoin d’une nouvelle loi pour autoriser tout le monde à regarder.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725302" ordre_absolu_seance="161" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789811" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3454.70">Si !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725303" ordre_absolu_seance="162" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789812" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3457.06">Non, je vous assure, j’ai étudié le dossier. Si nous dotions suffisamment ce service technique en moyens, nous pourrions opérer la captation à l’intérieur du cadre juridique existant – dans le cadre d’une enquête judiciaire, on peut y aller. Nous n’aurions plus besoin de prioriser. Donnons aux services territoriaux les moyens de le faire. Créons des antennes territoriales de ce fameux service national. Allons-y !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725304" ordre_absolu_seance="163" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789813" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3480.20">La parole est à M. le ministre pour conclure cette séance de questions.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725305" ordre_absolu_seance="164" id_acteur="PA303997" id_mandat="-1" id_nomination_oe="PM855058" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3789814" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. François-Noël Buffet</nom>
+            <id>303997</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3496.37">À l’issue de cette séance, on a le sentiment que rien n’existe, alors que c’est tout l’inverse. Les moyens sont alloués, les services sont réorganisés – je pourrais citer de mémoire des services qui n’existaient pas il y a encore quelques années qui se sont organisés, notamment dans le domaine du renseignement – et les services de police sont confortés. Surtout, les moyens d’action existent : la loi visant à sortir la France du piège du narcotrafic, sur lequel se fonde toute la criminalité organisée dans notre territoire, va entrer en vigueur et donner à nos services la capacité d’agir.<br/>Madame la présidente, je vous remercie de m’avoir donné l’occasion de le dire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2725306" ordre_absolu_seance="166" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789815" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3536.39">Nous avons terminé les questions.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="3" id_preparation="2725308" ordre_absolu_seance="168" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3789817" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2725309" ordre_absolu_seance="169" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3789818" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3538.17">Prochaine séance, demain, à neuf heures :<br/> Suite de la discussion du projet de loi de simplification de la vie économique.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2725310" ordre_absolu_seance="170" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3789819" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-deux heures quinze.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="3" id_preparation="2725311" ordre_absolu_seance="171" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3789820" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

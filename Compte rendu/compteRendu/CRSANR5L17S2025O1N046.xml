@@ -1,0 +1,1793 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N046</uid>
+  <seanceRef>RUANR5L17S2025IDS28638</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20241113140000000</dateSeance>
+    <dateSeanceJour>mercredi 13 novembre 2024</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>46</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20240046</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2024-11-25T13:06:54.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3568461">Présidence de Mme Naïma Moutchou</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3568212">
+          <intitule>Questions au Gouvernement</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3568213">Mme la présidente</para>
+        <sommaire2>
+          <titreStruct id_syceron="3568214">
+            <intitule>Exportation de munitions vers l’Iran</intitule>
+          </titreStruct>
+          <para id_syceron="3568216">M. Laurent Mazaury</para>
+          <para id_syceron="3568222">M. Jean-Noël Barrot, ministre de l’Europe et des affaires étrangères</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568224">
+            <intitule>Finances des collectivités territoriales</intitule>
+          </titreStruct>
+          <para id_syceron="3568226">M. Sylvain Berrios</para>
+          <para id_syceron="3568232">Mme Catherine Vautrin, ministre du partenariat avec les territoires et de la décentralisation</para>
+          <para id_syceron="3568237">M. Sylvain Berrios</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568238">
+            <intitule>Fret ferroviaire</intitule>
+          </titreStruct>
+          <para id_syceron="3568240">M. Nicolas Sansu</para>
+          <para id_syceron="3568245">Mme Catherine Vautrin, ministre du partenariat avec les territoires et de la décentralisation</para>
+          <para id_syceron="3568253">M. Nicolas Sansu</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568373">
+            <intitule>Liberté d’expression</intitule>
+          </titreStruct>
+          <para id_syceron="3568375">M. Charles Alloncle</para>
+          <para id_syceron="3568386">Mme Rachida Dati, ministre de la culture</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568394">
+            <intitule>Immigration illégale en outre-mer</intitule>
+          </titreStruct>
+          <para id_syceron="3568396">M. Joseph Rivière</para>
+          <para id_syceron="3568403">M. Nicolas Daragon, ministre délégué chargé de la sécurité du quotidien</para>
+          <para id_syceron="3568409">M. Joseph Rivière</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568410">
+            <intitule>Choc des savoirs</intitule>
+          </titreStruct>
+          <para id_syceron="3568412">M. Bertrand Sorre</para>
+          <para id_syceron="3568422">Mme Anne Genetet, ministre de l’éducation nationale</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568433">
+            <intitule>Accord avec le Mercosur</intitule>
+          </titreStruct>
+          <para id_syceron="3568435">M. Arnaud Le Gall</para>
+          <para id_syceron="3568451">M. Jean-Noël Barrot, ministre de l’Europe et des affaires étrangères</para>
+          <para id_syceron="3568294">M. Arnaud Le Gall</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568296">
+            <intitule>Choc des savoirs</intitule>
+          </titreStruct>
+          <para id_syceron="3568298">M. Pierrick Courbon</para>
+          <para id_syceron="3568307">Mme Anne Genetet, ministre de l’éducation nationale</para>
+          <para id_syceron="3568325">M. Pierrick Courbon</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568326">
+            <intitule>Statut du loup</intitule>
+          </titreStruct>
+          <para id_syceron="3568328">Mme Josiane Corneloup</para>
+          <para id_syceron="3568338">Mme Annie Genevard, ministre de l’agriculture, de la souveraineté alimentaire et de la forêt</para>
+          <para id_syceron="3568349">Mme Josiane Corneloup</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568352">
+            <intitule>Quotas de pêche</intitule>
+          </titreStruct>
+          <para id_syceron="3568354">M. Damien Girard</para>
+          <para id_syceron="3568360">M. Fabrice Loher, ministre délégué chargé de la mer et de la pêche</para>
+          <para id_syceron="3568372">M. Damien Girard</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3568254">
+            <intitule>Attractivité du métier d’enseignant</intitule>
+          </titreStruct>
+          <para id_syceron="3568256">M. Laurent Croizier</para>
+          <para id_syceron="3568272">Mme Anne Genetet, ministre de l’éducation nationale</para>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3568286">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du mercredi 13 novembre 2024</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2575764" ordre_absolu_seance="1" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3568461" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Naïma Moutchou<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2575764" ordre_absolu_seance="2" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="-1" id_nomination_op="PM846634" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568462" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1096.21">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2575764" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3568463" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quatorze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575766" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3568212" valeur="">
+      <orateurs/>
+      <texte>Questions au Gouvernement</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575767" ordre_absolu_seance="6" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568213" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1100.17">L’ordre du jour appelle les questions au Gouvernement.<br/> Mes chers collègues, à la suite de la séance d’hier, je vous invite à bien vouloir mesurer vos propos et à rester courtois les uns avec les autres. Je n’admettrai pas que des paroles déplacées soient prononcées dans cette enceinte, lieu certes de la liberté d’expression, mais aussi de l’écoute et du respect mutuel. <italique>(Applaudissements.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575768" ordre_absolu_seance="7" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568214" valeur="">
+      <orateurs/>
+      <texte>Exportation de munitions vers l’Iran</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575769" ordre_absolu_seance="8" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568215" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1107.76">La parole est à M. Laurent Mazaury.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575770" ordre_absolu_seance="9" id_acteur="PA841931" id_mandat="PM843485" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568216" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Mazaury</nom>
+            <id>841931</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1133.61">Monsieur le ministre de l’Europe et des affaires étrangères, une enquête de France 24 a mis en lumière l’utilisation en Iran – à des fins de répression de manifestations par la force – de munitions pour fusil de chasse provenant de la société franco-italienne Cheddite. Or, vous le savez, l’Iran est sous embargo. L’enquête trouve ses sources dans des forums de chasseurs iraniens qui photographient eux-mêmes régulièrement leurs munitions, lesquelles sont également utilisées par les soldats et les forces de l’ordre iraniennes. Celles-ci en font usage sur les manifestants, provoquant de graves blessures, visibles sur de très nombreuses vidéos.<br/>Pourtant, les législations française et européenne interdisent de vendre, de fournir, de transférer ou d’exporter, directement ou indirectement, à toute personne, entité ou organisme en Iran ou aux fins d’une utilisation dans ce pays, les équipements susceptibles d’être utilisés à des fins de répression interne.<br/>Des questions ont été posées directement à la société Cheddite, qui avait déjà été la cible de critiques identiques dans le dossier birman. Elle répond vendre ses produits en respectant l’embargo iranien et ne pas en être responsable après la vente. Les cartouches ont pourtant transité jusqu’en Iran, notamment par la Turquie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575772" ordre_absolu_seance="12" id_acteur="PA720386" id_mandat="PM843020" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568458" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabien Di Filippo</nom>
+            <id>720386</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1190.52">La réponse est dans la question !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575773" ordre_absolu_seance="13" id_acteur="PA841931" id_mandat="PM843485" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568219" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Mazaury</nom>
+            <id>841931</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1205.31">Il apparaît que la société Cheddite vend ses cartouches à une société turque du nom de Yavaşçalar, qui est le plus gros fournisseur de cartouches à l’Iran. Or, parmi les actionnaires de la société Yavaşçalar, on trouve la société Cheddite, à hauteur de 50 % des parts. Par ailleurs, des membres de la direction de Cheddite, dont le PDG lui-même, sont aussi membres du conseil d’administration de Yavaşçalar.<br/>Les ministères des affaires étrangères, de l’intérieur, de la défense et de l’économie ont été informés, afin que des investigations soient engagées. En décembre 2022, elles étaient en cours, sur un possible détournement de matériel exporté en violation des règles européennes. Pouvez-vous nous dire où en est cette enquête, nous en communiquer les résultats et nous indiquer quelles mesures ont été prises ou sont sur le point de l’être pour faire cesser ces agissements de la société Cheddite et restaurer ainsi un embargo efficace contre les ventes d’armes à l’Iran ? <italique>(Applaudissements sur les bancs des groupes LIOT, SOC, EcoS et GDR. – Mme Constance Le Grip applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575775" ordre_absolu_seance="15" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568221" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1258.55">La parole est à M. le ministre de l’Europe et des affaires étrangères.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575776" ordre_absolu_seance="16" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM847755" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568222" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Noël Barrot</nom>
+            <id>721836</id>
+            <qualite>ministre de l’Europe et des affaires étrangères</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1268.19">La France a pris connaissance des allégations de France 24 relatives à l’utilisation, dans la répression des manifestations en Iran, de douilles de fusil de chasse et de tir sportif produites par le fabricant franco-italien Cheddite. Nous rappelons un principe simple : en stricte conformité avec les sanctions et embargo existants, notamment au niveau de l’Union européenne, la France n’autorise l’exportation vers l’Iran d’aucun produit explosif ou arme à feu, ni, plus généralement, d’aucun matériel de guerre. Tout porte à croire que ces cartouches se seraient retrouvées en Iran à la suite d’un détournement, très probablement depuis la Turquie. La France n’a en tout état de cause jamais autorisé ces exportations.<br/>Nous avons mené avec les autorités italiennes une démarche conjointe pour déterminer si ces exportations vers la Turquie ont été réalisées par la partie italienne de l’entreprise Cheddite. Au cours de l’enquête, l’entreprise a indiqué qu’elle n’avait jamais exporté de matériel vers les entreprises turques mentionnées dans l’article de France 24. Elle a par ailleurs été auditionnée par la Chambre des députés italienne, ce qui aurait permis d’écarter sa responsabilité et d’accroître la rigueur de sa lutte contre le détournement des sanctions.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575778" ordre_absolu_seance="18" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568224" valeur="">
+      <orateurs/>
+      <texte>Finances des collectivités territoriales</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575779" ordre_absolu_seance="19" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568225" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1342.15">La parole est à M. Sylvain Berrios.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575780" ordre_absolu_seance="20" id_acteur="PA687214" id_mandat="PM843686" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568226" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Berrios</nom>
+            <id>687214</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1352.01">Madame la présidente Naïma Moutchou, permettez-moi de vous associer à la question relative aux collectivités locales que j’adresse au nom du groupe Horizons &amp; indépendants, présidé par Laurent Marcangeli, à Mme la ministre du partenariat avec les territoires et de la décentralisation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575781" ordre_absolu_seance="21" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568227" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1456.97">Comme c’est bien dit !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575782" ordre_absolu_seance="22" id_acteur="PA687214" id_mandat="PM843686" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568228" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Berrios</nom>
+            <id>687214</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1461.61">Depuis quinze ans, singulièrement sous les gouvernements de gauche <italique>(Exclamations sur quelques bancs du groupe SOC)</italique>, les collectivités locales ont subi de plein fouet d’une part les économies que l’État a été incapable de réaliser – avec une baisse, de plus de 14 milliards, de la dotation globale de fonctionnement –, d’autre part une invraisemblable inflation normative, corrélée au développement d’un millefeuille administratif devenu tentaculaire, labyrinthe absolument insondable où se perdent décisions et argent public.<br/>Lors de l’examen du projet de loi de finances pour 2025, nous avons souhaité maintenir le niveau de remboursement par le fonds de compensation pour la TVA, afin de ne pas casser la dynamique d’investissement des collectivités, qui réalisent 70 % des investissements publics dans notre pays. Dans ce même esprit, nous avons voulu que la contribution des collectivités au redressement des comptes publics ne relève pas d’une ponction arbitraire sur leur fiscalité, mais fasse l’objet d’une contractualisation, à l’instar des contrats dits de Cahors. Cela permettrait de soutenir les collectivités qui s’engagent sur le chemin de la maîtrise de la dépense publique, grâce à l’instauration d’un système de bonus-malus. Une telle contractualisation a par ailleurs la vertu de respecter le principe constitutionnel de libre administration des collectivités.<br/>Lorsque nous l’avons rencontré, le premier ministre a accueilli nos propositions avec intérêt. Alors que la discussion budgétaire s’engage au Sénat, pouvez-vous nous confirmer que les collectivités locales seront bel et bien des partenaires du Gouvernement, et non ses boucs émissaires, et qu’un travail de réforme du millefeuille administratif et territorial sera engagé dès 2025 ? <italique>(Applaudissements sur les bancs du groupe HOR et sur quelques bancs des groupes DR et Dem.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575785" ordre_absolu_seance="25" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568231" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1467.88">La parole est à Mme la ministre du partenariat avec les territoires et de la décentralisation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575786" ordre_absolu_seance="26" id_acteur="PA267797" id_mandat="-1" id_nomination_oe="PM847745" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568232" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Catherine Vautrin</nom>
+            <id>267797</id>
+            <qualite>ministre du partenariat avec les territoires et de la décentralisation</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1480.97">La question que vous me posez au nom de votre groupe, de son président et de Mme la présidente de séance porte sur deux sujets : d’une part l’inflation des normes et le millefeuille administratif, d’autre part le budget.<br/>S’agissant de l’inflation des normes, vous le savez, le ministre chargé du budget et des comptes publics et moi-même avons confié une mission à Boris Ravignon, maire de Charleville-Mézières et président de la communauté d’agglomération Ardenne Métropole. Nous lui avons demandé de bien vouloir approfondir les travaux qu’il avait menés à ce sujet et qui avaient donné lieu à la remise d’un rapport. L’objectif est très concrètement de simplifier la norme, en privilégiant une lecture fondée sur son coût plutôt que sur son efficacité supposée. M. Ravignon a commencé son travail et nous serons, dès le début de l’année 2025, en mesure d’apporter des réponses sur ce premier point.<br/>S’agissant du budget, le premier ministre vous l’a dit, le texte qui a été examiné par l’Assemblée nationale était en quelque sorte une version 0, dans le contexte d’une dette publique s’élevant à 3 228 milliards d’euros et d’intérêts de la dette s’établissant à 55 milliards par an, soit le deuxième budget de l’État après celui de l’éducation nationale. Avec les associations d’élus et les parlementaires, nous cherchons à améliorer cette copie tout en élaborant des réponses pour les collectivités. Nous allons poursuivre ce travail avec le Sénat.<br/>Bien évidemment, notre volonté est de contribuer à la baisse de la dépense publique, question qui concerne tout le monde, mais aussi d’apporter des réponses concrètes pour les collectivités, dont nous mesurons l’importance – quelle que soit la strate dont elles relèvent – dans l’économie du pays. Tel est le sens de notre engagement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575790" ordre_absolu_seance="30" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568236" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1567.59">La parole est à M. Sylvain Berrios.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575791" ordre_absolu_seance="31" id_acteur="PA687214" id_mandat="PM843686" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568237" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Berrios</nom>
+            <id>687214</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1588.13">Merci, madame la ministre. Le groupe Horizons &amp; indépendants sera très attentif à la baisse des dépenses publiques comme au maintien de la confiance à l’égard des collectivités territoriales. <italique>(Applaudissements sur les bancs du groupe HOR. – M. Olivier Becht applaudit également.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575792" ordre_absolu_seance="32" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568238" valeur="">
+      <orateurs/>
+      <texte>Fret ferroviaire</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575793" ordre_absolu_seance="33" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568239" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1600.22">La parole est à M. Nicolas Sansu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575794" ordre_absolu_seance="34" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568240" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Sansu</nom>
+            <id>605745</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1603.08">Ma question s’adresse au ministre délégué chargé des transports. Voilà un an, une commission d’enquête sur le fret ferroviaire, dont le rapporteur était notre excellent collègue Wulfranc, a démontré que le démantèlement de l’opérateur public de fret ferroviaire était une impasse. En 2019, déjà, le Gouvernement s’était alarmé : « la libéralisation du secteur […] s’est largement fait[e] au détriment […] de la part modale du fret ferroviaire ».<br/>À l’heure où le transport de marchandises par rail est une impérieuse nécessité pour répondre à l’urgence climatique, le chemin emprunté est une folie : devançant la Commission européenne, alors que nous pouvions encore négocier, le précédent gouvernement a proposé la mort de l’opérateur historique ; plus encore qu’une aberration, c’est un crime contre l’environnement ! <italique>(Applaudissements</italique> <italique>sur les bancs des groupes GDR et EcoS. – M. Alain David applaudit également.) </italique>Toute la filière en sera déstabilisée.<br/>Comment la France pourra-t-elle atteindre le doublement de la part modale du fret ferroviaire d’ici à 2030 en liquidant son propre opérateur au profit d’une libéralisation du transport de marchandises qui favorise la route ? Comment peut-on accepter que la nouvelle entité créée ait l’interdiction de candidater sur les vingt-trois circulations livrées à la découpe, qui n’ont pourtant pas toutes trouvé preneur chez d’autres opérateurs ferroviaires ? Comment est-il possible d’annoncer des objectifs de réindustrialisation si l’on ne préserve pas cet outil précieux de transport par le rail, qui répond non seulement aux besoins des grands secteurs de la métallurgie, de la chimie et du nucléaire, mais aussi aux enjeux du wagon isolé ? Pourquoi n’entend-on pas les salariés et leurs organisations syndicales, qui montrent l’incohérence d’un tel démantèlement, au moment où un groupe intégré fret-voyageurs-infrastructure se révèle nécessaire, car seul à même de répondre à la demande profonde de déplacements décarbonés par le train ?<br/>Le processus dit de discontinuité n’est pas autre chose que la casse du service public de fret ferroviaire, et c’est un échec. Le nouveau gouvernement va-t-il prononcer un moratoire sur ce processus, afin de se donner du temps et de prendre langue avec la nouvelle commissaire européenne ? <italique>(Applaudissements sur les bancs des groupes GDR, SOC et EcoS. – Mme Martine Froger applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575798" ordre_absolu_seance="38" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568244" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1713.46">La parole est à Mme la ministre du partenariat avec les territoires et de la décentralisation.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575799" ordre_absolu_seance="39" id_acteur="PA267797" id_mandat="-1" id_nomination_oe="PM847745" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568245" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Catherine Vautrin</nom>
+            <id>267797</id>
+            <qualite>ministre du partenariat avec les territoires et de la décentralisation</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1724.34">Merci pour votre question. Vous le savez, la transformation du fret ferroviaire est une opération qui répond à une obligation européenne. <italique>(« Non ! » sur les bancs du groupe GDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575800" ordre_absolu_seance="40" id_acteur="PA267306" id_mandat="PM843251" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568246" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. André Chassaigne</nom>
+            <id>267306</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1732.35">Il n’y a pas d’obligation !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575801" ordre_absolu_seance="41" id_acteur="PA267797" id_mandat="-1" id_nomination_oe="PM847745" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568247" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Catherine Vautrin</nom>
+            <id>267797</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1733.27">Vous venez vous-même de faire allusion au travail de la commissaire européenne.<br/>Le Gouvernement suit ce dossier avec la plus grande attention. Mon collègue François Durovray est à l’écoute non seulement de la Commission européenne – conformément à la demande de M. le premier ministre, chaque membre du Gouvernement a d’ailleurs pris rendez-vous avec le commissaire ayant le même domaine de compétence –, mais aussi, bien évidemment, de l’établissement SNCF et des partenaires sociaux.<br/>Je tiens à être parfaitement claire : cette opération ne donnera lieu à aucun licenciement. Les 500 cheminots concernés – chacun connaît le savoir-faire des cheminots – seront repris dans les activités de la SNCF. D’autre part – vous avez insisté avec raison sur ce point –, il n’y aura pas de report modal vers la route, tous les flux concernés étant maintenus sur le rail. <italique>(Quelques députés du groupe GDR font de la main un signe de dénégation.)</italique> C’est un enjeu majeur de décarbonation pour notre pays.<br/>À un moment où l’argent public est rare – nous l’évoquons dans de nombreuses questions –, je rappelle que l’engagement financier de l’État est très important, et même sans précédent : 370 millions d’euros dès 2025, dont 100 millions consacrés spécifiquement au wagon isolé. Par ailleurs, le programme Ulysse Fret, qui vise précisément à moderniser le réseau, mobilisera 4 milliards sur dix ans.<br/>Non seulement le ministre des transports poursuit ce dialogue constructif, mais le Gouvernement est déterminé à faire du fret ferroviaire un pilier majeur de notre stratégie de décarbonation des transports. Cette transformation, assortie d’une garantie sociale, est une étape indispensable.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575806" ordre_absolu_seance="46" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568252" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1744.43">La parole est à M. Nicolas Sansu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2575807" ordre_absolu_seance="47" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568253" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Sansu</nom>
+            <id>605745</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1841.74">Madame la ministre, ce n’est pas vrai : cinq circulations n’ont pas trouvé de preneur et sont donc reportées sur la route. La dette dont vous parlez aurait pu être négociée, et vous pouvez encore demander un moratoire, sachant qu’il y a un nouveau gouvernement en France et une nouvelle commissaire européenne. <italique>(Applaudissements sur les bancs des groupes GDR et EcoS. – M. Alain David applaudit également.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575808" ordre_absolu_seance="48" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568373" valeur="">
+      <orateurs/>
+      <texte>Liberté d’expression</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575809" ordre_absolu_seance="49" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568374" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1859.19">La parole est à M. Charles Alloncle.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575810" ordre_absolu_seance="50" id_acteur="PA841207" id_mandat="PM842798" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568375" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Charles Alloncle</nom>
+            <id>841207</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1867.13">Monsieur le premier ministre, notre pays a vécu un véritable coup d’état numérique dans l’indifférence générale. Cet été, le géant américain Meta a procédé à une vague inédite de suppressions de comptes d’information sur le réseau social Instagram. Du média « Occidentis », suivi par 160 000 personnes, au compte écologiste « Ecolucide » en passant par celui de la féministe Alice Cordier… <italique>(Sourires sur quelques bancs du groupe EcoS.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575811" ordre_absolu_seance="51" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568376" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1893.84">Elle n’est pas de ma famille ! <italique>(Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575812" ordre_absolu_seance="52" id_acteur="PA841207" id_mandat="PM842798" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568377" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Charles Alloncle</nom>
+            <id>841207</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1895.50">…tous ont été bannis, le même jour et sans aucune explication. À l’évidence, leur seul tort est de dire le réel et de défendre la France.<br/>Pourtant, ici, au pays des Lumières, de Voltaire et de Charlie, cette atteinte à la liberté d’expression n’a ému personne : ni l’Autorité de régulation de la communication audiovisuelle et numérique (Arcom), trop occupée à placer C8 et CNews sous la tutelle des prétoires,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575814" ordre_absolu_seance="54" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568379" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1911.62">Qu’elles respectent la loi !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575815" ordre_absolu_seance="55" id_acteur="PA841207" id_mandat="PM842798" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568380" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Charles Alloncle</nom>
+            <id>841207</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1920.32">…ni vous, élus de gauche et censeurs professionnels qui ne montez plus sur les barricades que pour défendre des propos antisémites <italique>(Applaudissements sur quelques bancs des groupes UDR et RN)</italique>, ni vous, élus et gouvernement macronistes, complices par votre silence assourdissant.<br/>Où étiez-vous pour sommer Meta de rendre des comptes sur ces ingérences et pour défendre l’islamologue Gilles Kepel, évincé de Sciences Po pour dissidence ? Où étiez-vous pour dénoncer l’interdiction du Rassemblement national sur les plateaux de l’émission « Quotidien » et le boycott publicitaire de Jordan Bardella ? <italique>(Applaudissements sur plusieurs bancs des groupes UDR et RN.)</italique><br/>Je le dis à tous les censeurs : sachez qu’une idée n’est jamais aussi forte que lorsqu’elle ne peut être défendue. Chaque fois que vous tenterez de chasser le réel par la porte, il reviendra encore plus brutalement par la fenêtre. <italique>(Mêmes mouvements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575817" ordre_absolu_seance="58" id_acteur="PA840135" id_mandat="PM840330" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568456" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Alexandre Dufosset</nom>
+            <id>840135</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1931.41">Exactement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575818" ordre_absolu_seance="59" id_acteur="PA719558" id_mandat="PM842663" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568383" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Erwan Balanant</nom>
+            <id>719558</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1956.59">La brutalité, ils savent faire mais la politique ce n’est pas la brutalité !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575819" ordre_absolu_seance="60" id_acteur="PA841207" id_mandat="PM842798" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568384" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Charles Alloncle</nom>
+            <id>841207</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1974.52">Monsieur le premier ministre, quand vous lèverez-vous enfin pour défendre la liberté d’expression ? Les Français eux n’ont pas dit leur dernier mot ; rendez-leur la parole ! <italique>(Applaudissements sur les bancs des groupes UDR et RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575820" ordre_absolu_seance="61" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568385" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="1987.58">La parole est à Mme la ministre de la culture.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575821" ordre_absolu_seance="62" id_acteur="PA387829" id_mandat="-1" id_nomination_oe="PM847757" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568386" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Rachida Dati</nom>
+            <id>387829</id>
+            <qualite>ministre de la culture</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="1996.08">Pour tout vous dire, je n’ai pas bien compris votre question. Si votre intention était d’affirmer qu’il convient d’éviter les <italique>fake news</italique>, nous sommes d’accord avec vous. <italique>(Applaudissements sur plusieurs bancs des groupes EPR et DR.)</italique><br/>Mais s’il s’agissait de soutenir que la liberté d’expression consiste à pouvoir tenir des propos qualifiables pénalement, il n’en va pas de même et je dois vous dire que je lutterai contre de tels propos. <italique>(Applaudissements sur plusieurs bancs des groupes EPR, SOC, DR et EcoS.) </italique>Si, pour vous, la liberté d’expression permet de dire le contraire de la réalité pour stigmatiser une partie de nos compatriotes, je la combattrai. <italique>(Applaudissements sur les bancs des groupes EPR, DR et EcoS.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575823" ordre_absolu_seance="64" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568388" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2025.13">Vous parlez à des spécialistes !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575824" ordre_absolu_seance="65" id_acteur="PA387829" id_mandat="-1" id_nomination_oe="PM847757" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568389" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Rachida Dati</nom>
+            <id>387829</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2034.09">Vous avez évoqué CNews, divers médias, C8 et l’Arcom.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575825" ordre_absolu_seance="66" id_acteur="PA840809" id_mandat="PM842474" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568390" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Gérault Verny</nom>
+            <id>840809</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2039.50">Et Meta ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575826" ordre_absolu_seance="67" id_acteur="PA387829" id_mandat="-1" id_nomination_oe="PM847757" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568391" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Rachida Dati</nom>
+            <id>387829</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2041.71">Je rappelle que l’Arcom est une autorité indépendante <italique>(Applaudissements sur quelques bancs des groupes EPR et SOC) </italique>qui attribue des fréquences<italique> </italique>selon des critères et une procédure définis par le législateur. Elle décide en toute indépendance…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575827" ordre_absolu_seance="68" id_acteur="PA330240" id_mandat="PM842357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568392" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Éric Ciotti</nom>
+            <id>330240</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2045.19">À voir !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575828" ordre_absolu_seance="69" id_acteur="PA387829" id_mandat="-1" id_nomination_oe="PM847757" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568393" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Rachida Dati</nom>
+            <id>387829</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2053.55">…d’attribuer, de renouveler ou de ne pas renouveler des fréquences. C8, NRJ12 et Le Média ont formé  contre ses décisions des recours qui seront examinés le 15 novembre prochain. La liberté d’expression et le respect de l’État de droit nous dictent d’attendre l’issue de ces procédures. <italique>(Applaudissements sur plusieurs bancs des groupes EPR, LFI-NFP, SOC, DR, EcoS et GDR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575829" ordre_absolu_seance="70" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568394" valeur="">
+      <orateurs/>
+      <texte>Immigration illégale en outre-mer</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575830" ordre_absolu_seance="71" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568395" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2079.49">La parole est à M. Joseph Rivière.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575831" ordre_absolu_seance="72" id_acteur="PA842227" id_mandat="PM843734" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568396" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Joseph Rivière</nom>
+            <id>842227</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2088.17">Ma question s’adresse au ministre de l’intérieur, M. Bruno Retailleau. Monsieur le ministre, depuis votre entrée en fonction, vous faites de la lutte contre l’immigration illégale votre cheval de bataille. Les coups de menton c’est bien mais la géographie c’est mieux !<br/>La France d’outre-mer, et notamment celle de l’océan Indien, est la grande oubliée de votre politique. Sous nos yeux, en déversant toute leur immigration et celle de l’Afrique chez nos frères de Mayotte et, par ricochet, de La Réunion, les Comores ont déclaré une guerre à la France.<br/>Les eaux territoriales de Mayotte sont une vraie passoire ; nos gendarmes, policiers et douaniers sont débordés. La prison de Majicavo regorge de criminels d’origine étrangère. Le mois dernier, vous avez transféré vingt-sept d’entre eux à La Réunion, dans la prison du Port qui est elle-même surpeuplée.<br/>De nombreuses personnes en situation irrégulière errent dans la nature et demeurent sur le sol français de façon illégale, squattant nos ravines et s’organisant en contre-société qui pratique la traque d’animaux sauvages, le vol et la torture d’animaux domestiques, l’agression de femmes et de vieillards dans les lieux publics et privés, l’occupation des rues avec machettes en plein jour.<br/>Les préfectures de Mamoudzou et de Saint-Denis sont submergées de demandeurs de papiers entrés de façon illégale sur notre sol. À une époque pas si lointaine, ces illégaux étaient renvoyés chez eux aux Comores. Les consignes étaient claires : tolérance zéro.<br/>Monsieur le ministre, nous l’avons tous compris, vous avez un agenda politique ; nous aussi ! Au nom du peuple français, pourriez-vous intégrer dans cet agenda le fait que les outre-mer ne sont pas la poubelle de la République et que la départementalisation de La Réunion et de Mayotte implique aussi des droits ? Quand arrêterez-vous de subventionner les Comores ? <italique>(Applaudissements sur les bancs du groupe RN et sur quelques bancs du groupe UDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575837" ordre_absolu_seance="78" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568402" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2198.33">La parole est à M. le ministre délégué chargé de la sécurité du quotidien.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575838" ordre_absolu_seance="79" id_acteur="PA847633" id_mandat="-1" id_nomination_oe="PM847761" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568403" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Daragon</nom>
+            <id>847633</id>
+            <qualite>ministre délégué chargé de la sécurité du quotidien</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2207.83">Votre question vise à rappeler la nécessité de lutter contre l’immigration illégale que subit la France. Je vous en remercie et réaffirme ici l’engagement de Bruno Retailleau d’y travailler, sous l’autorité du premier ministre, sur tous les territoires.<br/>Comme vous le savez, depuis 2018, La Réunion est confrontée à un phénomène nouveau d’immigration irrégulière depuis le Sri Lanka. Nous avons pris attache avec les autorités de ce pays et obtenu quelques avancées. Nous travaillons également avec le Royaume-Uni car un certain nombre d’embarcations font escale dans l’archipel des Chagos avant de se rendre à La Réunion.<br/>Ainsi que vous l’avez rappelé, Mayotte est la collectivité française la plus touchée par l’immigration en provenance des Comores. L’île connaît une diversification croissante des flux entrants d’immigration irrégulière. La Guadeloupe et la Martinique sont soumises quant à elles à une immigration haïtienne, cubaine, dominicaine et dominiquaise.<br/>Le rapport que la loi du 26 janvier 2024 impose au Gouvernement de remettre sur le sujet est en cours d’élaboration. Nous le présenterons à l’Assemblée prochainement et nous ferons état des moyens technologiques et humains supplémentaires prévus.<br/>Vous connaissez la position du Gouvernement et la mienne en particulier. Nous sommes évidemment opposés à l’immigration irrégulière, et vous savez où doivent se trouver les étrangers délinquants ou criminels : dehors !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575843" ordre_absolu_seance="84" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568408" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2226.31">La parole est à M. Joseph Rivière.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575844" ordre_absolu_seance="85" id_acteur="PA842227" id_mandat="PM843734" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568409" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Joseph Rivière</nom>
+            <id>842227</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2295.96">J’entends votre réponse et vous en remercie. Les préfets de La Réunion et de Mayotte attendent des instructions rapides<italique> </italique>et des moyens afin de défendre notre population<italique>. (Applaudissements sur les bancs des groupes RN et UDR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575845" ordre_absolu_seance="86" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568410" valeur="">
+      <orateurs/>
+      <texte>Choc des savoirs</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575846" ordre_absolu_seance="87" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568411" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2310.28">La parole est à M. Bertrand Sorre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575847" ordre_absolu_seance="88" id_acteur="PA720190" id_mandat="PM843074" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568412" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bertrand Sorre</nom>
+            <id>720190</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2312.81">Ma question, à laquelle j’associe l’ensemble de mes collègues du groupe Ensemble pour la République, s’adresse à Mme la ministre de l’Éducation nationale. Depuis sept ans, l’école constitue un élément majeur de notre ADN politique. Instituteur durant plus de trente ans,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575848" ordre_absolu_seance="89" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568413" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2338.45">On dit professeur des écoles !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575849" ordre_absolu_seance="90" id_acteur="PA720190" id_mandat="PM843074" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568414" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bertrand Sorre</nom>
+            <id>720190</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2338.54">…je veux en premier lieu saluer le remarquable travail de tous les acteurs du monde scolaire <italique>(Applaudissements</italique> <italique>sur les bancs du groupe EPR. – M. Jacques Oberti applaudit également) </italique>: les enseignants sont engagés vingt-quatre heures sur vingt-quatre, 365 jours par an pour la réussite de chacun de leurs élèves.<br/>Notre monde est perturbé par les populistes, les déclinistes, les séparatistes et pour combattre ces dérives, tout commence à l’école. Depuis 2017, le budget de l’école de la République a augmenté de plus de 14 milliards d’euros, ce qui a permis notamment de dédoubler les classes de grande section, CP et CE1, de préserver des postes dans les écoles rurales, de revaloriser – fortement – le métier de professeur en début de carrière.<br/>Ces efforts produisent des effets positifs. Les résultats aux évaluations nationales des élèves de sixième sont en progression constante. Les élèves issus des zones d’éducation prioritaire ayant bénéficié du dédoublement sont ceux qui ont le plus progressé en français. Les écarts se réduisent enfin.<br/>Cependant le défi de la réussite pour tous les élèves reste devant nous. Un élève de quatrième sur deux ne maîtrise pas les compétences de base. Le collège doit cesser d’être une grande gare de triage qui laisse les élèves en difficulté sur le bord du chemin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575853" ordre_absolu_seance="94" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568418" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2344.73">Les classes sont surchargées !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575854" ordre_absolu_seance="95" id_acteur="PA720190" id_mandat="PM843074" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568419" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bertrand Sorre</nom>
+            <id>720190</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2405.31">À l’arrivée en seconde, un gouffre se creuse irrémédiablement entre le lycée professionnel et le lycée général. Face à ces constats, nous continuerons à nous mobiliser contre toutes les inégalités de destin car la promesse républicaine commence à l’école.<br/>Madame la ministre, vous avez présenté hier l’acte II du choc des savoirs qui s’inscrit dans l’ambition impulsée par Gabriel Attal pour gagner la bataille de la réussite. Le groupe Ensemble pour la République salue cette ambition renouvelée. Pouvez-vous nous donner la vision et les objectifs de ce plan et nous présenter les mesures les plus susceptibles de restaurer l’autorité des savoirs dans toutes les classes ? <italique>(Applaudissements sur les bancs des groupes EPR et Dem.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575856" ordre_absolu_seance="97" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568421" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2445.43">La parole est à Mme la ministre de l’éducation nationale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575857" ordre_absolu_seance="98" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568422" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre de l’éducation nationale</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2454.79">Vous l’avez dit, notre école se trouve à un tournant. Douze millions d’élèves attendent : soit il y aura un sursaut, soit nous irons vers le déclin. Je suis certaine que tous ici vous partagez ma conviction : en cas de succès de l’école, c’est toute la République qui triomphe. <italique>(Applaudissements</italique> <italique>sur plusieurs bancs des groupes EPR, Dem et LIOT.)</italique> Nous avons besoin de la réussite de l’école. Face aux déclinistes, aux complotistes, aux séparatistes, l’école n’est jamais le problème mais toujours la solution.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575858" ordre_absolu_seance="99" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568423" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2481.61">Vous avez écrit vous-même la question ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575859" ordre_absolu_seance="100" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568424" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2485.51">Est-ce à dire que l’école se porte bien partout ? Non, vous avez rappelé les points sur lesquels nous avons encore des marges importantes de progression.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575860" ordre_absolu_seance="101" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568425" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2491.16">Si vous voulez progresser, ne supprimez pas des postes d’enseignants !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575861" ordre_absolu_seance="102" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568426" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2492.65">Certains élèves stagnent au collège. C’est inacceptable ! La réussite ne doit pas être un privilège. J’ai voulu cet acte II du choc des savoirs afin qu’aucun élève ne reste au bord du chemin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575861" ordre_absolu_seance="103" id_acteur="PA840135" id_mandat="PM840330" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568460" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Alexandre Dufosset</nom>
+            <id>840135</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2505.72">On n’a toujours pas la réponse à la question !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575861" ordre_absolu_seance="104" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568459" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2506.15">Je me suis engagée pour l’école afin de relancer l’ascenseur scolaire.<br/>Quelles sont les mesures phares de ce plan ? En premier lieu, continuer le soutien sur mesure de tous les collégiens, des élèves de primaire et de maternelle ; puis, réformer le brevet afin de le transformer en un diplôme qui donne aux élèves l’envie de réussir et de se projeter. Il deviendra obligatoire pour l’entrée en seconde des élèves aujourd’hui en classe de cinquième, les premiers qui auront bénéficié des groupes de besoin mis en place par mon prédécesseur Gabriel Attal l’an dernier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575863" ordre_absolu_seance="106" id_acteur="PA794146" id_mandat="PM842912" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568428" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Julie Laernoes</nom>
+            <id>794146</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2530.47">Vous triez les élèves !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575864" ordre_absolu_seance="107" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568429" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2538.82">Il s’agit d’un plan de reconquête. Puisque nous sommes capables d’emmener toute une génération vers une épreuve commune anticipée de français en classe de première, pourquoi ne pourrions-nous pas faire de même en mathématiques ? Rien ne s’y oppose.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575865" ordre_absolu_seance="108" id_acteur="PA794146" id_mandat="PM842912" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568430" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Julie Laernoes</nom>
+            <id>794146</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2552.14">Si, les enseignants !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575866" ordre_absolu_seance="109" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568431" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2552.84">La bosse des maths n’existe pas ! Tout le monde est capable d’atteindre un niveau commun en maths en fin de première.<br/>Enfin, je travaillerai pour assurer aux élèves un climat scolaire serein et apaisé grâce au renforcement des effectifs, notamment en vie scolaire. Quand la République répond présente, l’école est capable de renverser toutes les fatalités ! <italique>(Applaudissements sur les bancs des groupes EPR, Dem et LIOT. – M. Vincent Jeanbrun applaudit également.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575868" ordre_absolu_seance="111" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568433" valeur="">
+      <orateurs/>
+      <texte>Accord avec le Mercosur</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575869" ordre_absolu_seance="112" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568434" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2575.45">La parole est à M. Arnaud Le Gall.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575870" ordre_absolu_seance="113" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568435" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2582.34">Monsieur le ministre des affaires étrangères, alors qu’hier, la ministre de l’agriculture a prétendu ici être totalement opposée à l’accord de libre-échange entre l’Union européenne et le Mercosur, la semaine dernière, le Gouvernement, invoquant un motif fallacieux, a jugé irrecevable la proposition de résolution contre ce traité que La France insoumise comptait présenter lors de sa niche parlementaire, le 28 novembre.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575871" ordre_absolu_seance="114" id_acteur="PA642847" id_mandat="PM843056" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568436" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thibault Bazin</nom>
+            <id>642847</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2600.74">Ce n’est pas le Gouvernement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575872" ordre_absolu_seance="115" id_acteur="PA266797" id_mandat="PM843071" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568437" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Gosselin</nom>
+            <id>266797</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2601.25">C’est l’Assemblée !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575873" ordre_absolu_seance="116" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568438" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2601.56">Vous censurez le Parlement au moment où la Commission européenne accélère les négociations pour conclure l’accord au plus vite. Pourquoi cette censure si le Gouvernement est vraiment opposé à cet accord ? <italique>(Applaudissements sur quelques bancs du groupe LFI-NFP.)</italique><br/>Personne n’est dupe. À chaque échéance électorale, Emmanuel Macron a fait mine de s’opposer à cet accord d’un autre âge mais rien n’a été entrepris pour mettre fin aux négociations.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575875" ordre_absolu_seance="118" id_acteur="PA266797" id_mandat="PM843071" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568440" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Gosselin</nom>
+            <id>266797</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2619.59">Il a dit clairement son opposition hier !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575876" ordre_absolu_seance="119" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568441" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2622.51">Au lieu de combattre réellement cet accord, vous entretenez le mirage de clauses miroirs et autres conditions en pratique inapplicables.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575877" ordre_absolu_seance="120" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568442" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2630.63">Vous n’y connaissez rien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575878" ordre_absolu_seance="121" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568443" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2631.46">Par exemple, la direction générale de la santé de l’Union européenne vient elle-même de reconnaître qu’on ne peut pas détecter les hormones dans la viande brésilienne.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575879" ordre_absolu_seance="122" id_acteur="PA330909" id_mandat="PM842399" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568444" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Descoeur</nom>
+            <id>330909</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2637.96">C’est du réchauffé !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575880" ordre_absolu_seance="123" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568445" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2638.41">Entre autres conséquences, avec ou sans nouvelle clause, cet accord provoquerait la destruction de l’agriculture familiale au profit de quelques multinationales de l’agrobusiness ou des services <italique>(Applaudissements sur quelques bancs des groupes LFI-NFP et EcoS) </italique>ainsi qu’un afflux massif de denrées de mauvaise qualité produites dans les pires conditions sociales et écologiques.<br/>Ce traité, massivement rejeté de part et d’autre de l’Atlantique, servira les seuls intérêts de quelques grandes firmes. Il est anachronique : le temps du libre-échangisme triomphant est révolu. <italique>(Applaudissements sur quelques bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575882" ordre_absolu_seance="125" id_acteur="PA721410" id_mandat="PM843350" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568447" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Émilie Bonnivard</nom>
+            <id>721410</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2647.91">Vive le libre-échange ! Ça suffit !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575883" ordre_absolu_seance="126" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568448" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2665.51">L’heure est à une politique de réindustrialisation et de planification écologique, au service, notamment, de notre souveraineté alimentaire. (<italique>Mêmes mouvements.)</italique> Vous engagez-vous sans détour à empêcher que cet accord soit adopté ? Êtes-vous prêts à bloquer les négociations ? Et si malgré tout cet accord était adopté, allez-vous, une fois de plus, dire qu’on ne peut rien faire car Bruxelles décide à notre place, ou désobéirez-vous enfin ? <italique>(Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575884" ordre_absolu_seance="127" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568449" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2692.64">La parole est à M. le ministre de l’Europe et des affaires étrangères.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575885" ordre_absolu_seance="128" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568450" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2703.74">Et des mauvais traités !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575886" ordre_absolu_seance="129" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM847755" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568451" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Noël Barrot</nom>
+            <id>721836</id>
+            <qualite>ministre de l’Europe et des affaires étrangères</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2704.70">Les termes « réindustrialisation » et défense de la « souveraineté alimentaire » que vous avez employés correspondent aux objectifs de la politique menée par la France depuis sept ans au sein des institutions européennes. La position de la France sur l’accord en négociation avec les pays du Mercosur est claire et constante : cet accord n’est pas acceptable en l’état. Le président de la République l’a rappelé à maintes reprises, le premier ministre est aujourd’hui à Bruxelles pour le redire à Ursula von der Leyen et plus de 600 parlementaires l’ont exprimé tout dernièrement dans une tribune.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575887" ordre_absolu_seance="130" id_acteur="PA793872" id_mandat="PM840285" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568452" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Nathalie Oziol</nom>
+            <id>793872</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2743.04">Hypocrites !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575888" ordre_absolu_seance="131" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM847755" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568453" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Noël Barrot</nom>
+            <id>721836</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2743.97">Les garanties que nous exigeons depuis 2019 ne sont pas réunies aujourd’hui. Ainsi, le respect de l’accord de Paris doit constituer un élément essentiel de l’accord avec le Mercosur, ce qui signifie que ce dernier doit pouvoir être suspendu en cas de violation de l’accord de Paris. Comme vous l’avez rappelé, le traité avec le Mercosur doit aussi comprendre des clauses de sauvegarde et des mécanismes de sanction en cas de non-respect.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575889" ordre_absolu_seance="132" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568454" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2764.20">Cela ne fonctionne pas !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2575890" ordre_absolu_seance="133" id_acteur="PA721836" id_mandat="-1" id_nomination_oe="PM847755" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568455" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Noël Barrot</nom>
+            <id>721836</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2767.15">Enfin, il doit respecter les règles environnementales en vigueur et il ne doit accorder aucune dérogation en la matière, notamment s’agissant de la déforestation.<br/>Nous devons garantir que nos partenaires commerciaux respectent en tous points les contraintes que nous imposons à nos producteurs, c’est une question de cohérence et de justice.<br/>Toutefois, si nous refusons l’accord en l’état, c’est aussi parce que nous refusons que la Commission européenne s’écarte du mandat que lui a confié le Conseil de l’Union européenne et qui consiste à négocier un accord d’association nécessitant l’unanimité des États membres et une ratification par les parlements nationaux. C’est une question de démocratie.<br/>Soyez assurés qu’avec la ministre de l’agriculture et sous l’autorité du premier ministre, nous sommes mobilisés sur tous les fronts, avec les parlementaires, pour garantir que cet accord, s’il devait être signé un jour, préserve les intérêts de nos agriculteurs, de nos industriels, de nos entreprises et de nos emplois. <italique>(Exclamations sur quelques bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575894" ordre_absolu_seance="137" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568293" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2802.35">La parole est à M. Arnaud Le Gall.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575895" ordre_absolu_seance="138" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568294" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2826.96">Vous continuez donc à dire qu’un autre accord Mercosur est possible. De notre côté, nous n’en voulons aucun. Soyez clairs et bloquez les négociations ! <italique>(Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe SOC.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575896" ordre_absolu_seance="139" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568295" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2832.51">Vous n’avez rien compris ! Écoutez les réponses quand vous posez des questions !</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575897" ordre_absolu_seance="140" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568296" valeur="">
+      <orateurs/>
+      <texte>Choc des savoirs</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575898" ordre_absolu_seance="141" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568297" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2838.21">La parole est à M. Pierrick Courbon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575899" ordre_absolu_seance="142" id_acteur="PA841295" id_mandat="PM842882" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568298" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierrick Courbon</nom>
+            <id>841295</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2842.86">Ma question s’adresse à Mme la ministre de l’éducation nationale. Vous avez présenté hier ce que vous avez appelé l’acte II du choc des savoirs, dans le droit fil des orientations unanimement contestées de vos prédécesseurs.<br/>Vous avez notamment fait état de votre volonté de donner un coup d’accélérateur sur le collège pour « relancer l’ascenseur scolaire » en maintenant le dispositif très controversé des groupes de niveau en sixième et en cinquième et, pire, en l’étendant « de manière différente » aux classes de quatrième et de troisième.<br/> <br/>Cette déclaration est à l’image de votre méthode globale de travail : décider de la généralisation d’un dispositif qui est loin d’avoir fait ses preuves et qui, dans les faits, sur le terrain, ne fonctionne pas – ou alors de manière très imparfaite. Tant pis si tout le monde s’y oppose : comme toujours, vous êtes persuadés d’avoir raison contre tout le monde et contre toute la communauté éducative. <italique>(Applaudissements sur les bancs du groupe SOC et sur plusieurs bancs des groupes LFI-NFP et EcoS.)</italique><br/>Lorsque l’acte I qu’on a lancé ne fonctionne pas et qu’il n’a pas fait l’objet du moindre bilan ni de la moindre évaluation, on évite de passer à un acte II composé de mesures à l’emporte-pièce. <italique>(Applaudissements</italique> <italique>sur les bancs du groupe SOC.)</italique><br/>Par ailleurs, vous avez annoncé vouloir rendre obligatoire l’obtention du brevet pour l’admission en seconde, disposition, elle aussi, qualifiée de régression historique, inacceptable par certaines organisations syndicales, dans la mesure où l’on peut y voir une logique de bannissement des élèves les plus en difficulté, lesquels sont majoritairement, vous le savez, issus des familles les plus modestes <italique>(Applaudissements sur les bancs du groupe SOC et sur plusieurs bancs des groupes EcoS et LFI-NFP)</italique>, car, trop souvent, les difficultés scolaires sont le miroir de difficultés sociales. Ce sont ainsi des milliers de jeunes que vous voulez bannir du système scolaire à 16 ans.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575904" ordre_absolu_seance="147" id_acteur="PA1327" id_mandat="PM842747" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568303" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Forissier</nom>
+            <id>1327</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2872.13">C’est caricatural !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575905" ordre_absolu_seance="148" id_acteur="PA841295" id_mandat="PM842882" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568304" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierrick Courbon</nom>
+            <id>841295</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2929.38">Plus que de chocs des savoirs à répétition, notre école a surtout besoin d’un choc des moyens – tout le contraire de ce que prévoit votre budget d’austérité, marqué par la suppression scandaleuse de 4 000 postes dans l’éducation nationale. <italique>(Applaudissements sur les bancs des groupe SOC, LFI-NFP, EcoS et GDR.)</italique><br/>Quand arrêterez-vous de saigner notre école et de vouloir, systématiquement, bâtir l’école de demain contre toutes celles et ceux qui la font vivre au quotidien ? <italique>(Les députés des groupes SOC se lèvent pour applaudir. – Les députés des groupes LFI-NFP, EcoS et GDR applaudissent également. – M. Arnaud Bonnet se lève également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575907" ordre_absolu_seance="150" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568306" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2959.14">La parole est à Mme la ministre de l’éducation nationale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575908" ordre_absolu_seance="151" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568307" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre de l’éducation nationale</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2971.30">J’entends vos propos mais vous conviendrez que je ne peux pas tout à fait m’y reconnaître car ils sont très déclinistes. <italique>(Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575909" ordre_absolu_seance="152" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568308" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2976.09">Quand on n’est pas d’accord avec vous, on est décliniste !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575910" ordre_absolu_seance="153" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568309" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2980.12">Je préfère rendre hommage à tous ces professeurs que j’ai rencontrés sur le terrain, dont, c’est vrai, la charge de travail est importante, mais qui sont très engagés et déterminés, au service de la réussite de nos élèves.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575911" ordre_absolu_seance="154" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568310" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2991.44">Les enseignants vous demandent de reculer !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575912" ordre_absolu_seance="155" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568311" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="2992.40">Ce que j’observe depuis plusieurs années, c’est que notre école ne tient plus sa promesse républicaine.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575913" ordre_absolu_seance="156" id_acteur="PA794146" id_mandat="PM842912" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568312" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Julie Laernoes</nom>
+            <id>794146</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2998.41">Grâce à qui ? À ceux qui l’ont détricotée !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575914" ordre_absolu_seance="157" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568313" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3001.41">Elle ne répond pas aux besoins de tous nos élèves, la réussite est au contraire réservée à quelques-uns. C’est inacceptable.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575915" ordre_absolu_seance="158" id_acteur="PA791812" id_mandat="PM840384" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568314" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sophia Chikirou</nom>
+            <id>791812</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3006.42">C’est la faute d’Attal, le ministre qui vous a précédée !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575916" ordre_absolu_seance="159" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568315" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3008.78">Les mesures que j’ai présentées hier, comme celles qu’a prises l’an dernier mon prédécesseur Gabriel Attal, sont fidèles à la vision défendue depuis 2017 par le président de la République. Par exemple, comment pouvez-vous renoncer à un accompagnement sur mesure, personnalisé, individualisé ? Pourquoi vous opposer à un brevet qui donne envie à nos élèves de réussir, leur permet de se projeter et donne à tous la possibilité de réussir plutôt que d’en laisser quelques-uns, de façon inacceptable, sur le bord de la route – car telle est bien la situation que vous avez laissée en 2017 ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575917" ordre_absolu_seance="160" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568316" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3041.02">Ils sont trente par classe !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575917" ordre_absolu_seance="161" id_acteur="PA794106" id_mandat="PM842885" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568457" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Andrée Taurinya</nom>
+            <id>794106</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3042.66">C’est incroyable, ce que vous dites ! Vous accusez les profs !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575918" ordre_absolu_seance="162" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568317" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3045.42">Par ailleurs, au lycée, une épreuve anticipée de mathématiques permettra en effet à tous nos élèves de disposer d’un tronc commun, solide, dans cette matière. Oui, je suis favorable à un collège unique, à une éducation qui bénéficie d’un cadre et à des programmes clairs – ce que vous ne trouverez pas dans bien des pays déclinistes et complotistes. <italique>(Exclamations continues sur plusieurs bancs des groupes LFI-NFP et SOC.)</italique><br/>Voilà pourquoi je ne me reconnais pas dans vos propos. Je veux dire à nos professeurs, qui ont une attitude admirable,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575920" ordre_absolu_seance="164" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568319" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3061.29">Renoncez aux suppressions de postes !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575921" ordre_absolu_seance="165" id_acteur="PA266797" id_mandat="PM843071" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568320" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Gosselin</nom>
+            <id>266797</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3063.08">Laissez-la finir !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575922" ordre_absolu_seance="166" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568321" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3063.38">Chers collègues, on ne s’entend pas !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575923" ordre_absolu_seance="167" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568322" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3068.10">…que je les soutiendrai toujours, en particulier à l’heure où – vous l’avez évoqué – les déclinistes et complotistes de salon, de comptoir et de médias les contestent en permanence et de façon inacceptable. J’attends de la société tout entière qu’elle les soutienne également. <italique>(Applaudissements sur les bancs des groupes EPR et DR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575924" ordre_absolu_seance="168" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568323" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3087.66">Chers collègues, puisque vous posez des questions, je vous demande d’écouter les réponses des ministres !<br/>La parole est à M. Pierrick Courbon.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575926" ordre_absolu_seance="170" id_acteur="PA841295" id_mandat="PM842882" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568325" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierrick Courbon</nom>
+            <id>841295</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3104.70">Le déclin de l’école, c’est votre bilan depuis 2017. Si vous ne vous retrouvez pas dans mes propos, la communauté éducative, elle, ne se retrouve pas dans votre budget. (<italique>Les députés des groupes SOC et plusieurs députés du groupe LFI-NFP se lèvent pour applaudir. – Les députés des groupe EcoS et GDR applaudissent également.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575927" ordre_absolu_seance="171" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568326" valeur="">
+      <orateurs/>
+      <texte>Statut du loup</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575928" ordre_absolu_seance="172" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568327" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3119.12">La parole est à Mme Josiane Corneloup.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575929" ordre_absolu_seance="173" id_acteur="PA722390" id_mandat="PM843317" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568328" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Josiane Corneloup</nom>
+            <id>722390</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3131.63">Ma question s’adresse à Mme la ministre de l’agriculture et de la souveraineté alimentaire. Depuis de nombreuses années, le monde agricole oscille entre révolte et abattement. Face à l’enjeu majeur du renouvellement des générations – que nous avons le devoir de favoriser –, je souhaite tout d’abord saluer vos premières annonces.<br/>Je pense d’abord à l’instauration d’un seul et unique contrôle administratif des exploitations agricoles par an <italique>(Applaudissements</italique> <italique>sur les bancs du groupe DR et sur quelques bancs des groupes EPR et Dem – Mme Brigitte Barèges applaudit également.). </italique>C’est une mesure qui était très attendue par des agriculteurs qui n’en peuvent plus de jongler entre les réglementations européenne et française tout en subissant les contrôles, trop souvent à charge, des agents armés de l’Office français de la biodiversité <italique>(Applaudissements sur les bancs du groupe DR.)</italique><br/>Je citerai également les mesures de soutien à la trésorerie des agriculteurs en difficulté.<br/>Enfin, nous sommes nombreux sur ces bancs à approuver votre opposition résolue à l’accord de libre-échange Mercosur, qui déstabiliserait nos filières. <italique>(Applaudissements sur les bancs du groupe DR.)</italique><br/>Toutefois de vives inquiétudes demeurent après les attaques répétées de grands prédateurs, notamment dans ma circonscription de Saône-et-Loire, en raison d’un bocage parcellisé très difficile à protéger.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575934" ordre_absolu_seance="178" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568333" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3178.61">Elle a raison ! Dans les Ardennes aussi !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575935" ordre_absolu_seance="179" id_acteur="PA722390" id_mandat="PM843317" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568334" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Josiane Corneloup</nom>
+            <id>722390</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3200.04">Les éleveurs, d’ovins principalement, sont confrontés à la prédation des loups, qui crée un stress permanent pour l’éleveur et sa famille, et cause de très importantes pertes, non compensées par le versement d’indemnités trop restrictives.<br/>Le Conseil de l’Union européenne a adopté il y a quelques semaines une proposition de la Commission visant à faire passer le statut du loup en Europe de « strictement protégé » à « protégé », ce qui laisserait une plus grande marge de man?uvre dans la chasse aux loups.<br/>Pensez-vous accompagner cette prise de conscience européenne en autorisant l’abattage des loups dès la première attaque, comme c’est le cas en Bavière ? <italique>(Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575938" ordre_absolu_seance="182" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568337" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3244.39">La parole est à Mme la ministre de l’agriculture, de la souveraineté alimentaire et de la forêt.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575939" ordre_absolu_seance="183" id_acteur="PA605991" id_mandat="-1" id_nomination_oe="PM847687" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568338" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Annie Genevard</nom>
+            <id>605991</id>
+            <qualite>ministre de l’agriculture, de la souveraineté alimentaire et de la forêt</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3253.92">Je vous remercie tout d’abord pour vos propos encourageants concernant les mesures que j’ai appliquées dès mon arrivée. Il est bon de les rappeler au moment où commencent à fleurir les manifestations agricoles. Il faut pouvoir rappeler ce qui a été fait, les engagements qui ont été tenus et ceux qui le seront demain.<br/>Vous avez évoqué le Mercosur, un sujet sur lequel mon collègue ministre des affaires étrangères s’est exprimé très clairement. Je réitère mon opposition ferme et résolue à cet accord pour toutes les raisons qu’il a exposées.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575941" ordre_absolu_seance="185" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568340" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Arnaud Le Gall</nom>
+            <id>795672</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3285.85">Irez-vous au bout des négociations ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575942" ordre_absolu_seance="186" id_acteur="PA721410" id_mandat="PM843350" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568341" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Émilie Bonnivard</nom>
+            <id>721410</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3287.94">Qu’il se taise !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575943" ordre_absolu_seance="187" id_acteur="PA605991" id_mandat="-1" id_nomination_oe="PM847687" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568342" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Annie Genevard</nom>
+            <id>605991</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3291.43">S’agissant du loup, vous m’avez alertée sur la situation d’un éleveur, dans votre circonscription, qui, depuis le mois de mai, a subi sept attaques de loup sur son cheptel.<br/>J’aimerais que vous mesuriez l’état de détresse absolue dans lequel se trouvent nos éleveurs lorsque, le matin, ils ouvrent la porte de la bergerie et constatent une mortalité liée à des crises sanitaires ou lorsqu’ils sont confrontés, dans les pâturages, à des bêtes décédées après avoir été victimes d’un loup. <italique>(Applaudissements sur les bancs du groupe DR.) </italique>C’est une violence inimaginable.<br/>Vous avez eu raison de rappeler que les États membres avaient fait part de leur accord pour déclasser le loup et le ranger dans les espèces protégées, mesure qui fera probablement l’objet d’un vote favorable du comité permanent de la Convention de Berne.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575946" ordre_absolu_seance="190" id_acteur="PA266793" id_mandat="PM842402" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568345" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Yves Bony</nom>
+            <id>266793</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3320.92">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575947" ordre_absolu_seance="191" id_acteur="PA605991" id_mandat="-1" id_nomination_oe="PM847687" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568346" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Annie Genevard</nom>
+            <id>605991</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3336.36">Ce parcours s’achèvera au moment de l’examen de la directive « Habitats ». Une telle modification permettra de changer de perspective en la matière, d’inverser la charge de la preuve, si je puis dire. Il faut désormais songer à protéger l’éleveur et les élevages avant de protéger le loup. L’état de conservation de cette espèce étant aujourd’hui satisfaisant, des quotas de prélèvement plus élevés sont autorisés. <italique>(Applaudissements sur les bancs du groupe DR.) </italique>Nous passerions donc d’une logique de plafond à une logique de quotas.<br/>Cependant, pour modifier la directive dite Habitats, il faut au préalable obtenir un accord unanime des pays membres. Or trois d’entre eux y sont hostiles. Nous avons donc engagé un travail diplomatique auprès de ces derniers. <italique>(Applaudissements sur les bancs du groupe DR et sur plusieurs bancs du groupe EPR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575949" ordre_absolu_seance="193" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568348" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3360.43">La parole est à Mme Josiane Corneloup.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575950" ordre_absolu_seance="194" id_acteur="PA722390" id_mandat="PM843317" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568349" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Josiane Corneloup</nom>
+            <id>722390</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3379.84">Je suis très sensible à vos propos. Il est urgent d’agir car les agriculteurs déplorent que l’effet de ruissellement promis avec les trois lois Egalim ne soit pas au rendez-vous. Or il y va de leurs revenus.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575953" ordre_absolu_seance="195" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568352" valeur="">
+      <orateurs/>
+      <texte>Quotas de pêche</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575954" ordre_absolu_seance="196" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568353" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3395.66">La parole est à M. Damien Girard.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575955" ordre_absolu_seance="197" id_acteur="PA841419" id_mandat="PM843005" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568354" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Damien Girard</nom>
+            <id>841419</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3402.71">Ma question s’adresse à M. Fabrice Loher, ministre délégué à la mer et à la pêche. Pourquoi avoir trahi la pêche française ? L’<italique>Annelies-Ilena</italique> est un gigantesque navire-usine néerlandais qui bat pavillon polonais. Ce monstre de 145 mètres est capable de capturer jusqu’à 400 tonnes de poissons par jour.<br/>Le 5 novembre, vous affirmiez au Sénat qu’aucune décision n’avait été prise concernant un transfert de quota de pêche au bénéfice de ce navire. Or, quelques jours plus tard, vous confirmiez un échange de quota de 22 000 tonnes de merlan bleu.<br/>Ce navire est tellement grand qu’il ne peut accéder au port de Saint-Malo, où se situe l’usine de transformation. Le merlan bleu sera donc débarqué aux Pays-Bas, puis arrivera pour partie à Saint-Malo par transport routier.<br/>Si cet accord est bien un échange, pouvez-vous éclairer notre assemblée sur le quota récupéré par la France ? Quels bénéfices, concrets et chiffrés, pour les pêcheurs français, qui ont dû abandonner 42 % de leur quota de merlan bleu à la Pologne ? <italique>(M. Didier Le Gac s’exclame.)</italique> Ces opérations sont-elles menées en transparence et avec la validation de la Commission européenne, comme l’impose la politique commune des pêches ?<br/>Vous avez renvoyé à votre prédécesseur la responsabilité de cette décision. Pourtant, l’arrêté de transfert de quota a été pris le 4 novembre, un mois après votre prise de poste. Vous disposiez de ce mois pour annuler la décision et adopter une ligne responsable : celle qui protège l’océan et la biodiversité, qui défend la pêche artisanale et qui rejette l’accaparement de nos ressources par une poignée d’industriels, au détriment de la pêche française. Pourquoi ne pas avoir fait ce choix courageux ? <italique>(Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs des groupes SOC et GDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575960" ordre_absolu_seance="202" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568359" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3510.74">La parole est à M. le ministre délégué chargé de la mer et de la pêche.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575961" ordre_absolu_seance="203" id_acteur="PA847631" id_mandat="-1" id_nomination_oe="PM847759" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568360" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabrice Loher</nom>
+            <id>847631</id>
+            <qualite>ministre délégué chargé de la mer et de la pêche</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3522.73">Je ne relèverai pas le caractère très excessif de vos propos, pleins d’approximations et de contre-vérités. <italique>(Exclamations sur plusieurs bancs du groupe EcoS.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575962" ordre_absolu_seance="204" id_acteur="PA795010" id_mandat="PM840354" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568361" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Marie-Charlotte Garin</nom>
+            <id>795010</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3527.83">Et le caractère méprisant des vôtres ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575963" ordre_absolu_seance="205" id_acteur="PA847631" id_mandat="-1" id_nomination_oe="PM847759" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568362" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabrice Loher</nom>
+            <id>847631</id>
+            <qualite>ministre délégué</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3529.46">Je vous remercie toutefois de votre question qui permettra, je l’espère, d’apporter de l’apaisement sur un sujet qui, j’en suis conscient, suscite de l’émoi.<br/>Je viens en effet d’être saisi d’une nouvelle demande d’échange de quota par la Compagnie des pêches de Saint-Malo, afin d’exploiter en mer du Nord un quota de merlans bleus, espèce qu’elle cible historiquement, au moyen d’un navire de pêche sous pavillon polonais, <italique>l’Annelies-Ilena</italique>. Le groupe a investi 15 millions sur ce navire, en y installant une usine embarquée, le précédent navire, le <italique>Joseph-Roty 2</italique>, étant arrivé en fin de vie après cinquante ans d’exploitation.<br/>Je le dis très clairement : le Gouvernement assume pleinement que des échanges de quota soient réalisés entre États membres de l’Union européenne <italique>(M. Vincent Rolland applaudit)</italique> dès lors que ces accords génèrent des retombées économiques suffisantes pour la filière française – ce qui est le cas dans l’exemple que nous évoquons. De tels échanges, dont la possibilité est d’ailleurs prévue par la politique commune des pêches, sont indispensables pour optimiser la consommation de nos quotas.<br/>Deux échanges de merlans bleus ont ainsi été validés depuis le début de l’année 2024 par mon prédécesseur – que je salue –, pour un total de 22 000 tonnes, ce qui a permis au navire <italique>Émeraude</italique>, sous pavillon français, de pêcher plusieurs centaines de tonnes de cabillauds arctiques. Le nouvel échange – dont je viens de demander la validation à mon administration – porte sur 15 000 tonnes de merlans bleus. Il permettra à ce même navire d’accéder à un nouveau quota de 500 tonnes de cabillauds supplémentaires.<br/>Je l’affirme avec clarté : ces échanges ne constituent pas un transfert définitif de quota de pêche. Ces droits doivent rester sous pavillon national, et de telles opérations s’accompagnent forcément de contreparties.<br/>De même, du point de vue environnemental, je précise que le stock de merlans bleus est en bon état de conservation et fait l’objet d’une exploitation maîtrisée, sur la base d’avis scientifiques.<br/>La grande pêche est une composante à part entière de la pêche française.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575970" ordre_absolu_seance="212" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568369" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3597.43">Monsieur le ministre délégué, je vous demande de conclure.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575971" ordre_absolu_seance="213" id_acteur="PA847631" id_mandat="-1" id_nomination_oe="PM847759" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568370" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Fabrice Loher</nom>
+            <id>847631</id>
+            <qualite>ministre délégué</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3639.02">La compagnie des pêches de Saint-Malo emploie près de 300 salariés dont 70 marins. Ces emplois dépendent tous directement de l’activité des navires concernés… (<italique>Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur. – Quelques députés des groupes EPR et DR applaudissent ce dernier.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575972" ordre_absolu_seance="214" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568371" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3647.89">La parole est à M. Damien Girard.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2575973" ordre_absolu_seance="215" id_acteur="PA841419" id_mandat="PM843005" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568372" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Damien Girard</nom>
+            <id>841419</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3651.26">Je vous remercie pour votre réponse. Vous confirmez donc que la France a échangé 22 000 tonnes de merlans bleus contre moins de 1 000 tonnes de maquereaux. C’est totalement inéquitable et très mauvais pour la pêche française. <italique>(Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs du groupe SOC.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575726" ordre_absolu_seance="216" code_grammaire="QG_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3568254" valeur="">
+      <orateurs/>
+      <texte>Attractivité du métier d’enseignant</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575727" ordre_absolu_seance="217" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568255" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3667.07">La parole est à M. Laurent Croizier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575728" ordre_absolu_seance="218" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568256" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3672.80">Madame la ministre de l’éducation nationale, un ancien président de la République ne devrait pas dire ça !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575729" ordre_absolu_seance="219" id_acteur="PA331582" id_mandat="PM842639" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568257" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Vigier</nom>
+            <id>331582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3679.64">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575730" ordre_absolu_seance="220" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568258" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3680.73">Prétendre que les enseignants du premier degré ne travaillent que six mois par an et nier le travail de préparation requis pour donner cours aux élèves de maternelle, voilà qui témoigne d’une méconnaissance profonde.<br/>Alors que l’éducation nationale connaît une crise des vocations, mesurez la violence de ces paroles, déconnectées de la réalité du métier de professeur ! <italique>(M. Jimmy Pahun et Mme Christine Pirès Beaune applaudissent.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575732" ordre_absolu_seance="222" id_acteur="PA605745" id_mandat="PM842504" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568260" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Nicolas Sansu</nom>
+            <id>605745</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3695.50">Ce sont vos amis ! Il ne fallait pas aller au Gouvernement avec eux !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575733" ordre_absolu_seance="223" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568261" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3703.63">Les enseignants méritent que nous les respections ; ils méritent que nous les soutenions. Au nom du groupe Démocrates, je tiens à assurer de notre confiance l’ensemble des professeurs du pays.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575734" ordre_absolu_seance="224" id_acteur="PA331582" id_mandat="PM842639" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568262" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Vigier</nom>
+            <id>331582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3715.22">Absolument !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575733" ordre_absolu_seance="225" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568465" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3715.49">Je dis à ceux qui doutent de leur engagement : allez enseigner, ne serait-ce qu’une semaine, dans une école maternelle ; vous comprendrez à quel point ce métier est exigeant. <italique>(Applaudissements sur les bancs du groupe Dem et plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575736" ordre_absolu_seance="226" id_acteur="PA718850" id_mandat="PM842411" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568264" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Pierre Cordier</nom>
+            <id>718850</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3728.20">Le Modem est toujours aussi sympathique…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575737" ordre_absolu_seance="227" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568265" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3729.14">Les enseignants sont les piliers de notre République, les gardiens de sa promesse d’émancipation, ceux qui combattent en première ligne contre l’assignation sociale ! Ils forment un rempart contre les obscurantismes ! On ne relèvera aucun des grands défis de ce siècle sans eux !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575738" ordre_absolu_seance="228" id_acteur="PA720066" id_mandat="PM842933" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568266" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Rist</nom>
+            <id>720066</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3748.20">Exactement !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575739" ordre_absolu_seance="229" id_acteur="PA793716" id_mandat="PM842528" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568267" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Laurent Croizier</nom>
+            <id>793716</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3749.26">Comprenez que notre combat pour préserver les 4 000 postes d’enseignants dont le projet de loi de finances pour 2025 prévoit la suppression n’est pas seulement d’ordre budgétaire. <italique>(Mêmes mouvements.)</italique><br/>Nous nous battons pour offrir aux professeurs de bonnes conditions d’enseignement et aux élèves de bonnes conditions d’apprentissage, pour garantir que devant chaque élève se trouvera un professeur, en faisant de la baisse de la démographie une occasion à saisir, pour préserver enfin les classes et les écoles, en particulier dans les communes rurales.<br/>Madame la ministre, placer l’école au cœur de la République, élever son niveau et son exigence, restaurer l’autorité des professeurs et le respect qui leur est dû est au cœur de notre engagement commun. Quelles mesures concrètes entendez-vous prendre pour relever le défi de l’attractivité du métier de professeur ? <italique>(Applaudissements sur les bancs du groupe Dem.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575742" ordre_absolu_seance="232" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568270" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3779.75">Les Démocrates seraient donc déclinistes et complotistes ? Incroyable !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575743" ordre_absolu_seance="233" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568271" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3797.52">La parole est à Mme la ministre de l’éducation nationale.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575744" ordre_absolu_seance="234" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3568272" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre de l’éducation nationale</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3809.10">Je ne suis pas d’accord avec les propos que vous avez évoqués, dans lesquels je ne me reconnais pas. J’arpente le terrain depuis quelque temps et je n’ai rencontré que des professeurs très engagés, très passionnés, qui ne ménagent ni leur temps ni leur peine pour soutenir nos élèves et les accompagner sur le chemin de la réussite.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575745" ordre_absolu_seance="235" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568273" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Ayda Hadizadeh</nom>
+            <id>842263</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3827.72">Condamnez-vous les propos de Sarkozy ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575746" ordre_absolu_seance="236" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568274" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3828.33">Je suis convaincue qu’une école forte rendra la France tout entière bien plus forte encore. Mon seul objectif est d’élever le niveau. J’ai annoncé un ensemble de mesures ambitieuses, destinées à accompagner chacun de nos élèves sur la voie d’un succès qui – je veux le redire en toute clarté – ne peut être l’apanage de quelques-uns.<br/>Le budget de notre école s’élève à 63 milliards d’euros, soit 834 millions de plus que l’année dernière – voilà déjà une première victoire.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575748" ordre_absolu_seance="238" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568276" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3849.51">Le pauvre Croizier va encore se faire traiter de décliniste et de complotiste !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575749" ordre_absolu_seance="239" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568277" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3858.35">J’aurais voulu débattre de ce budget dans l’hémicycle mais j’ai compris que ce serait impossible. <italique>(Exclamations sur les bancs des groupes EcoS et GDR.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575750" ordre_absolu_seance="240" id_acteur="PA335612" id_mandat="PM843398" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568278" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3864.30">Si vous aviez voté pour, on aurait pu débattre !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575751" ordre_absolu_seance="241" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568279" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3867.14">J’ai cependant vu les amendements que vous et vos collègues du groupe Dem avez déposés, qui montrent combien vous auriez contribué à ce débat, à l’instar d’autres groupes.<br/>Vous m’interrogez sur l’attractivité du métier de professeur. L’améliorer constitue un véritable défi. Pour le relever, nous avons commencé par augmenter le salaire des professeurs. Nous devons à présent travailler sur les milieux de carrière mais également sur les difficiles conditions d’exercice de ce métier. Je lancerai un chantier relatif au respect dont nos professeurs doivent faire l’objet et à leur autorité. Je souhaite que la nation tout entière les respecte. Nous avons à cet égard bien du travail à accomplir.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575753" ordre_absolu_seance="243" id_acteur="PA841717" id_mandat="PM843278" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568281" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sandrine Runel</nom>
+            <id>841717</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3875.28">Condamnez Sarkozy !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575754" ordre_absolu_seance="244" id_acteur="PA721024" id_mandat="-1" id_nomination_oe="PM847751" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568282" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Anne Genetet</nom>
+            <id>721024</id>
+            <qualite>ministre</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3902.30">En outre, l’agenda social de mon ministère sera rouvert, afin de discuter plus largement de l’ensemble des conditions d’exercice du métier.<br/>Comme vous, je souhaite que l’école soit ce lieu où l’on puisse briser les inégalités de destin. Encore une fois, la réussite ne doit pas être le privilège de quelques-uns. Notre école doit donner à tous l’occasion de réussir. <italique>(Mme Danielle Brulebois applaudit.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2575756" ordre_absolu_seance="246" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="QG_1_50" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568284" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3923.38">Nous avons terminé les questions au gouvernement.</texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="4" id_preparation="2575758" ordre_absolu_seance="248" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3568286" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2575759" ordre_absolu_seance="249" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3568287" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3925.23">Prochaine séance, mardi 19 novembre, à quinze heures :<br/> Questions au Gouvernement ;<br/> Projet de loi de finances de fin de gestion pour 2024 ;<br/> Proposition de loi organique portant réforme du financement de l’audiovisuel public ;<br/> Proposition de loi visant à sécuriser le mécanisme de purge des nullités ;<br/> Proposition de loi visant à prolonger la dérogation d’usage des titres restaurant pour tout produit alimentaire.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2575760" ordre_absolu_seance="250" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3568288" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à quatorze heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="4" id_preparation="2575761" ordre_absolu_seance="251" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3568289" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>

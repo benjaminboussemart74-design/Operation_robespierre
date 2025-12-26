@@ -1,0 +1,2260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N139</uid>
+  <seanceRef>RUANR5L17S2025IDS29213</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250320213000000</dateSeance>
+    <dateSeanceJour>jeudi 20 mars 2025</dateSeanceJour>
+    <numSeanceJour>3</numSeanceJour>
+    <numSeance>139</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250139</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-03-28T12:19:20.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3673234">Présidence de Mme Naïma Moutchou</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3673238">
+          <intitule>Sortir la France du piège du narcotrafic</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3673239"/>
+        <sommaire2>
+          <titreStruct id_syceron="3673241">
+            <intitule>Discussion des articles <italique>(suite)</italique></intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="3673243">
+              <intitule>Article 8 <italique>ter (appelé par priorité – suite)</italique></intitule>
+            </titreStruct>
+            <para>Amendements n<sup>os</sup> <lienAdt id_syceron="3674833"> 640, 655, 846</lienAdt></para>
+            <para>Sous-amendement n<sup>os</sup> <lienAdt id_syceron="3674835"> 978, 997, 1006, 979, 984, 983, 985, 986</lienAdt></para>
+            <para> </para>
+            <para id_syceron="3673246">M. Vincent Caure, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</para>
+            <para id_syceron="3673274">M. Florent Boudié, président de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</para>
+            <para id_syceron="3673319">M. Bruno Retailleau, ministre d’État, ministre de l’intérieur</para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="3673194">
+              <intitule>
+                <italique>Rappel au règlement</italique>
+              </intitule>
+            </titreStruct>
+            <para id_syceron="3673196">M. Mathieu Lefèvre</para>
+            <para id_syceron="3673200">Mme la présidente</para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="3673201">
+              <intitule>Article 8 <italique>ter (appelé par priorité – suite)</italique></intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="3673657">
+              <intitule>
+                <italique>Suspension et reprise de la séance</italique>
+              </intitule>
+            </titreStruct>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="3673677">
+              <intitule>
+                <italique>Suspension et reprise de la séance</italique>
+              </intitule>
+            </titreStruct>
+          </sommaire3>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3673650">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Troisième séance du jeudi 20 mars 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2645842" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3673234" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Naïma Moutchou<br/> vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2645843" ordre_absolu_seance="2" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673235" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="635.83">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2645844" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673236" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à vingt et une heures trente.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645846" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3673238" valeur=" (n[[o]] 1043 rectifié)">
+      <orateurs/>
+      <texte>Sortir la France du piège du narcotrafic</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645847" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="3673239" valeur="">
+      <orateurs/>
+      <texte>Suite de la discussion d’une proposition de loi</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645848" ordre_absolu_seance="7" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673240" valeur=" (n[[os]] 907, 1043 rectifié)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="638.78">L’ordre du jour appelle la suite de la discussion de la proposition de loi visant à sortir la France du piège du narcotrafic (n<exposant>os</exposant> 907, 1043 rectifié).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645849" ordre_absolu_seance="8" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3673241" valeur=" (n[[o]] 1043 rectifié)" bibard=" (n[[o]] 1043 rectifié)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles <italique>(suite)</italique></texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645850" ordre_absolu_seance="9" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673242" valeur="" bibard=" (n[[o]] 1043 rectifié)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="645.74">Cet après-midi, l’Assemblée a poursuivi la discussion des articles de la proposition de loi, s’arrêtant à l’amendement n<exposant>o</exposant> 846 à l’article 8 <italique>ter</italique>.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645851" ordre_absolu_seance="10" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="3673243" valeur=" 8 ter" bibard=" (n[[o]] 1043 rectifié)" art=" 8 ter" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 8 <italique>ter (appelé par priorité – suite)</italique></texte>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645852" ordre_absolu_seance="11" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="-1" id_nomination_op="PM846634" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="3674833" valeur=" 640, 655 et 846" bibard=" (n[[o]] 1043 rectifié)" art=" 8 ter" adt=" 640, 655 et 846" ssadt="">
+        <interExtraction nom_orateur="Mme la présidente" id_acteur="PA720908" id_nomination_oe="0" id_nomination_op="PM846634" id_mandat="PM843701">
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645852" ordre_absolu_seance="11" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="-1" id_nomination_op="PM846634" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3674833" valeur=" 640, 655 et 846" bibard=" (n[[o]] 1043 rectifié)" art=" 8 ter" adt=" 640, 655 et 846" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>720908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="653.26">Je vous rappelle que sur les amendements identiques n<exposant>os</exposant> 640, 655 et 846, ainsi que sur les sous-amendements n<exposant>os</exposant> 978, 984, 983, 985 et 986, j’avais été saisie de demandes de scrutin public.<br/>Je fais de nouveau annoncer les scrutins dans l’enceinte de l’Assemblée nationale.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645853" ordre_absolu_seance="13" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673245" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>720908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="656.49">La parole est à M. Vincent Caure, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour donner l’avis de la commission sur les amendements identiques n<exposant>os</exposant> 640, 655 et 846, et l’ensemble des sous-amendements dont ils font l’objet.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645854" ordre_absolu_seance="14" id_acteur="PA842311" id_mandat="PM843803" id_nomination_oe="-1" id_nomination_op="-843803" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3673246" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Caure</nom>
+              <id>842311</id>
+              <qualite>rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="681.46">Vu la longueur des débats et le nombre d’avis exposés, je reviendrai sur chaque point.<br/>Comme Mme Martin, permettez-moi d’abord de convoquer Protagoras pour rappeler que, sur toute chose, on peut faire deux affirmations exactement contraires. Cela résume bien la teneur de nos échanges de fin d’après-midi.<br/>Permettez-moi ensuite de rappeler des éléments de contexte. En l’état du droit, le code de la sécurité intérieure autorise la réquisition de données des opérateurs ou plateformes numériques pour la mise en œuvre des techniques de renseignement. Ce cadre juridique a été élaboré il y a déjà plusieurs décennies, à une époque où ni internet ni le chiffrement des communications n’avaient pris l’ampleur actuelle. Il est adapté pour la collecte de données non chiffrées, comme les SMS ou les écoutes téléphoniques classiques. Néanmoins, lorsque les données sollicitées font l’objet d’un chiffrement, elles ne sont plus intelligibles pour les services de renseignement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645858" ordre_absolu_seance="17" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673250" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="724.55">Bien vu !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645859" ordre_absolu_seance="18" id_acteur="PA842311" id_mandat="PM843803" id_nomination_oe="-1" id_nomination_op="-843803" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673251" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Caure</nom>
+              <id>842311</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="759.14">Le cadre législatif n’est donc plus adapté à l’évolution technologique, ni au changement des habitudes de communication. En effet, nous constatons depuis quelques années l’explosion du chiffrement de bout en bout, dans lequel l’opérateur ou la plateforme ne dispose plus de la clé de chiffrement, décentralisée sur l’appareil de l’utilisateur. Dès lors, lorsqu’un service de renseignement sollicite ces clés, la plateforme peut opposer l’impossibilité technique de fournir ces éléments. C’est pour répondre à ces évolutions que le Sénat, avec l’appui du gouvernement, a proposé l’article 8 <italique>ter</italique>.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645862" ordre_absolu_seance="19" id_acteur="PA795516" id_mandat="PM843452" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673254" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Maxime Laisney</nom>
+              <id>795516</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="796.16">Mais qui n’était pas bon !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645863" ordre_absolu_seance="20" id_acteur="PA842311" id_mandat="PM843803" id_nomination_oe="-1" id_nomination_op="-843803" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673255" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Caure</nom>
+              <id>842311</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="798.03">Pour que l’Assemblée soit pleinement éclairée, j’évoque maintenant les éléments ayant conduit la commission des lois à supprimer l’article 8 <italique>ter </italique>à la quasi-unanimité – neuf des onze groupes. L’article transformait en effet l’obligation de remettre les données et les clés de chiffrement en une obligation de remettre directement des données intelligibles. Beaucoup d’inquiétudes se sont exprimées après l’adoption de cet article au Sénat. En effet, une telle obligation semblait imposer la création de portes dérobées ou <italique>backdoors </italique>dans les différentes applications que nous utilisons tous. Elle est problématique dans la mesure où elle conduit à un affaiblissement généralisé du chiffrement par l’introduction d’une faille supplémentaire.<br/>Vous proposez de rétablir l’article sous une forme remaniée, tout en conservant à la fois le principe et l’essentiel des dispositions d’origine. Certes, vos amendements cherchent à mieux encadrer le dispositif. Ainsi, le périmètre de l’obligation de déchiffrement est plus restreint : elle ne concernerait plus que le recueil de données de connexion et de données en temps réel. Dans sa version initiale, les techniques algorithmiques étaient également concernées. De large, l’approche est donc devenue ciblée mais l’obligation demeure, ce qui me semble problématique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645869" ordre_absolu_seance="22" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673261" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="804.71">Il a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645870" ordre_absolu_seance="23" id_acteur="PA842311" id_mandat="PM843803" id_nomination_oe="-1" id_nomination_op="-843803" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673262" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Caure</nom>
+              <id>842311</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="897.26">Autre resserrement : les dispositifs techniques aménagés par les opérateurs et les plateformes pour accéder aux données devront être validés par le premier ministre, après avis de l’Agence nationale de la sécurité des systèmes d’information (Anssi).</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645871" ordre_absolu_seance="24" id_acteur="PA795386" id_mandat="PM843695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673263" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mathieu Lefèvre</nom>
+              <id>795386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="905.93">C’est très ciblé !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645872" ordre_absolu_seance="25" id_acteur="PA842311" id_mandat="PM843803" id_nomination_oe="-1" id_nomination_op="-843803" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673264" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Caure</nom>
+              <id>842311</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="906.17">Il y a du mieux, j’en conviens.<br/>Enfin, l’article précise que les dispositifs des opérateurs doivent préserver le secret des correspondances et assurer la protection des données à caractère personnel. Là aussi, c’est mieux, mais cela ne saurait être suffisant.<br/>Cette réécriture ne peut donc satisfaire le rapporteur que je suis, et on ne peut que déplorer la forme prise par la discussion.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645875" ordre_absolu_seance="28" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673267" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="931.22">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645876" ordre_absolu_seance="29" id_acteur="PA842311" id_mandat="PM843803" id_nomination_oe="-1" id_nomination_op="-843803" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673268" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Caure</nom>
+              <id>842311</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="932.09">Nos débats en fin de séance de l’après-midi, tout comme le nombre de sous-amendements et les différentes rédactions proposées, ont illustré la persistance de divisions. Le sujet est suffisamment important pour que nous ne rétablissions pas cet article. Les débats doivent se poursuivre, sans doute à la faveur d’un autre véhicule législatif d’initiative gouvernementale, qui nous permettra de disposer d’une étude d’impact et d’un avis du Conseil d’État – cela semble indispensable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645878" ordre_absolu_seance="30" id_acteur="PA826635" id_mandat="PM843473" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673270" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Rousseau</nom>
+              <id>826635</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="955.17">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645879" ordre_absolu_seance="31" id_acteur="PA842311" id_mandat="PM843803" id_nomination_oe="-1" id_nomination_op="-843803" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673271" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Caure</nom>
+              <id>842311</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="955.79">Monsieur le président de la commission des lois, peut-être pourrait-on envisager la création d’une mission, ou d’une autre instance parlementaire adéquate, afin de mieux comprendre les enjeux et d’évaluer les conséquences d’un tel dispositif.<br/>Avis défavorable sur tous les sous-amendements et amendements visant à rétablir l’article. <italique>(M. Paul Christophle applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645881" ordre_absolu_seance="33" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673273" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="968.93">La parole est à M. le président de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645882" ordre_absolu_seance="34" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3673274" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="984.37">En préambule, un constat simple et sec : la commission des lois a massivement rejeté l’article 8 <italique>ter</italique>…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645883" ordre_absolu_seance="35" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673275" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="996.15">Vive la commission des lois !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645884" ordre_absolu_seance="36" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673276" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1009.14">…après que la quasi-totalité des groupes politiques a déposé des amendements de suppression. <italique>(Applaudissements sur quelques bancs du groupe LFI-NFP.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645885" ordre_absolu_seance="37" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673277" valeur="M. Antoine Léaument;;Null;;795746 M. Éric Bothorel;;Null;;642695">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1013.43">Très bien !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645886" ordre_absolu_seance="38" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673278" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1014.20">Les interrogations qui ont émergé au sein de la commission ne sont donc ni de gauche ni de droite.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645887" ordre_absolu_seance="39" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673279" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1024.36">Merci !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645888" ordre_absolu_seance="40" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673280" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1026.66">Il ne s’agit pas non plus de savoir si tous ceux qui ont déposé des amendements de suppression sont naïfs – je réponds amicalement à Mathieu Lefèvre. <italique>(M. Mathieu Lefèvre s’exclame.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645889" ordre_absolu_seance="41" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673281" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1037.71">C’est une honte ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645890" ordre_absolu_seance="42" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673282" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1038.73">Je partage l’analyse d’Olivier Marleix : la question est sensible parce que les communications électroniques sont le principal vecteur – un vecteur stratégique – des réseaux criminels. <italique>(« Eh oui ! » sur plusieurs bancs.) </italique>Cette réalité est devant nous, nous y sommes directement confrontés et elle pose d’immenses questions de sécurité, et donc de renseignement. Cependant, dans le même temps, les communications électroniques sont devenues un outil quotidien et massivement utilisé par des millions de Français, dans leurs relations professionnelles et dans leur vie quotidienne.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645894" ordre_absolu_seance="43" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673286" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1066.45">On utilise WhatsApp à l’Assemblée nationale aussi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645895" ordre_absolu_seance="44" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673287" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1081.22">Différents enjeux s’entremêlent, liés notamment aux libertés fondamentales et à la sécurité publique. Après avoir analysé les propositions de nos collègues Midy, Lefèvre et Marleix, je suis rassuré. En effet, je partage l’analyse du rapporteur sur un point. <italique>(« Ah ! » sur quelques bancs du groupe SOC.) </italique>Ne réagissez pas trop vite – il y en a deux. <italique>(« Ah… » sur quelques bancs des groupes LFI-NFP, SOC et EcoS.) </italique>Je suis rassuré sur la confidentialité : il ne s’agit plus d’aller chercher les algorithmes, mais de procéder à un ciblage plus restreint, plus prudent, qui préserve donc mieux la confidentialité.<br/>Néanmoins, j’émets quelques doutes. Après avoir échangé avec des spécialistes – ce que nous ne sommes pas –, j’estime que les amendements, dans leur rédaction actuelle, ne définissent pas clairement le périmètre du ciblage.<br/>Je n’ai pas non plus eu de réponse certaine sur un second point sur lequel j’émets également des doutes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645902" ordre_absolu_seance="47" id_acteur="PA610968" id_mandat="PM840381" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673294" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pouria Amirshahi</nom>
+              <id>610968</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1138.56">C’est bien de le dire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645903" ordre_absolu_seance="48" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673295" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1162.98">Monsieur Midy, j’ai entendu vos propos sur la sécurité numérique, mais que faites-vous de la vulnérabilité qu’introduit l’obligation de déchiffrement ? <italique>(M. Paul Midy proteste.) </italique>Mais si, il y aura bien une obligation de déchiffrement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645905" ordre_absolu_seance="49" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673297" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1176.16">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645906" ordre_absolu_seance="50" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673298" valeur="M. Paul Midy;;Null;;795664 M. Mathieu Lefèvre;;Null;;795386">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Midy</nom>
+              <id>795664</id>
+              <qualite/>
+            </orateur>
+            <orateur>
+              <nom>M. Mathieu Lefèvre</nom>
+              <id>795386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1177.01">Non ! <italique>(M. Paul Midy montre son amendement.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645907" ordre_absolu_seance="51" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673299" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1178.65">Si !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645908" ordre_absolu_seance="52" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673300" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1180.85">Bien sûr que si ! Elle est évidente. Vous pouvez brandir votre amendement, monsieur Midy, mais je connais ses sources – elles sont excellentes, d’ailleurs. L’obligation de déchiffrement est indiscutable. Or l’introduction de cette vulnérabilité pose un problème de confidentialité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645910" ordre_absolu_seance="53" id_acteur="PA721426" id_mandat="PM843356" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Riotton</nom>
+              <id>721426</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1201.30">Absolument !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645911" ordre_absolu_seance="54" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673303" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1202.05">Il ne s’agit donc pas uniquement de sécurité individuelle, mais de sécurité numérique, et donc d’une certaine façon de sécurité nationale.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645912" ordre_absolu_seance="55" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673304" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe SOC</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1216.24">Exactement !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645913" ordre_absolu_seance="56" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673305" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1216.50">On l’a constaté aux États-Unis où, en voulant réguler le cryptage, le gouvernement américain a introduit des failles volontaires de sécurité qui ont facilité des actes de cybercriminalité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645914" ordre_absolu_seance="57" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673306" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1230.21">Évidemment !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645915" ordre_absolu_seance="58" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673307" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1230.51">J’y insiste, ce que je dis est vrai, monsieur Lefèvre. Je n’ai pas l’habitude de m’exprimer sans m’être renseigné.<br/>Compte tenu de ces éléments, je pense qu’il ne faut pas rétablir l’article 8 <italique>ter</italique>. <italique>(Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe LFI-NFP. – Mme Anne Le Hénanff applaudit également.) </italique>Je ne cherche pas les applaudissements – des socialistes en particulier, même si je les apprécie. <italique>(Sourires.)</italique> Essayons d’analyser la situation de manière globale ! J’ai été très volontaire en commission.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645918" ordre_absolu_seance="60" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673310" valeur="M. Pouria Amirshahi;;Null;;610968 M. Aurélien Rousseau;;Null;;826635">
+          <orateurs>
+            <orateur>
+              <nom>M. Pouria Amirshahi</nom>
+              <id>610968</id>
+              <qualite/>
+            </orateur>
+            <orateur>
+              <nom>M. Aurélien Rousseau</nom>
+              <id>826635</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1240.79">C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645919" ordre_absolu_seance="61" id_acteur="PA606507" id_mandat="PM842834" id_nomination_oe="-1" id_nomination_op="PM846683" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673311" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Florent Boudié</nom>
+              <id>606507</id>
+              <qualite>président de la commission des lois</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1270.87">De même, en séance, nous ne lâchons rien sur le traitement algorithmique. Cet outil ne doit pas disparaître, contrairement à ce que réclame La France insoumise. Cela poserait d’immenses problèmes au renseignement français. <italique>(Mme Élisa Martin lève les bras au ciel.)</italique><br/>J’ai aussi milité, il y a quelques heures, pour que nous adoptions l’article 8 <italique>bis </italique>sur les interceptions satellitaires. Vous avez raison, monsieur le ministre, elles sont absolument indispensables. Je ne suis pas de ceux qui souhaitent désarmer nos services de renseignements, au contraire. Je fais aussi partie de ceux qui voteront le texte à la fin de nos débats, et j’espère que nous serons très nombreux. Cependant j’ai encore des doutes, et toutes les réponses n’ont pas été apportées ; c’est pourquoi je vous invite à une extrême prudence, à une grande vigilance.<br/>Je saisis la main tendue par le rapporteur. À très court terme – je ne veux pas d’un procédé dilatoire sur cette question stratégique –, je souhaite que la commission des lois crée une mission d’information ou un groupe de travail pluraliste, ouvert et relativement transparent – relativement, car chacun mesure les enjeux de sécurité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645925" ordre_absolu_seance="64" id_acteur="PA606098" id_mandat="PM842633" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673317" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1334.65">Oui, une mission d’information !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645926" ordre_absolu_seance="65" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673318" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1348.63">La parole est à M. le ministre d’État, ministre de l’intérieur, pour donner l’avis du gouvernement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645927" ordre_absolu_seance="66" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3673319" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État, ministre de l’intérieur</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1356.12">Je sais parfaitement que cet article a suscité des débats, mais il ne s’agit pas, monsieur le président, monsieur le rapporteur, de le rétablir. L’article, issu d’un amendement du président de la commission de la défense et des affaires étrangères du Sénat <italique>(Mme Élisa Martin fait mine d’avoir les poings liés)</italique>, a été supprimé en commission et les trois amendements dont nous débattons sont totalement différents de la version sénatoriale. Je remercie d’ailleurs le rapporteur d’avoir noté que le dispositif proposé est plus restreint et mieux encadré.<br/>En outre, il s’agit d’une technique de renseignement qui ne visera pas seulement la criminalité organisée, mais aussi le terrorisme.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645930" ordre_absolu_seance="68" id_acteur="PA795386" id_mandat="PM843695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673322" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mathieu Lefèvre</nom>
+              <id>795386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1381.49">Absolument !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645931" ordre_absolu_seance="69" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673323" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1412.60">C’est le haut du haut du spectre que l’on vise. Ce n’est pas simplement par plaisir que je viens me battre et vous expliquer pourquoi nos forces de sécurité et nos services doivent disposer de ces moyens. Les enjeux ont été clairement exposés dans la presse : la cavale de Mohamed Amra a duré neuf mois ; avec cette technique, elle aurait sans doute été deux fois moins longue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645933" ordre_absolu_seance="70" id_acteur="PA342384" id_mandat="PM842771" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673325" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Élisa Martin</nom>
+              <id>342384</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1449.50">Ce n’est pas vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645934" ordre_absolu_seance="71" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673326" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1450.63">Menteur !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645935" ordre_absolu_seance="72" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673327" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1451.74">Je le dis solennellement : nous aurions aussi pu déjouer des attaques terroristes mortelles.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645936" ordre_absolu_seance="73" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673328" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe RN</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1457.41">C’est un argument honteux !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2645937" ordre_absolu_seance="74" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673329" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1458.13">Le sujet est grave. Nous pouvons bien sûr en débattre, mais respectueusement, sans se crier les uns sur les autres, parce que c’est important.<br/>Le monde a changé – vous l’avez, les uns et les autres, souligné. Les criminels et les terroristes ont migré massivement sur des messageries cryptées. Nous le savons puisque, à chaque attentat, nous nous procurons les terminaux pour récupérer leur contenu et les messages échangés.<br/>Si nous ne disposons pas de ces techniques, l’État sera désarmé, et nos services le seront aussi !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645940" ordre_absolu_seance="77" id_acteur="PA606098" id_mandat="PM842633" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673682" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1501.25">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645941" ordre_absolu_seance="78" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673683" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1506.45">Or leur objectif n’est pas d’espionner les Français, mais de les protéger – ce sont des boucliers.<br/>Contrairement à ce qu’a affirmé le président Boudié, la solution proposée par ces trois amendements n’a rien à voir avec celle adoptée par les États-Unis. C’est au contraire une solution souveraine.<br/>Le monde a changé. Les narcotrafiquants utilisent les messageries cryptées comme des plateformes, des centrales d’achat et des agences de recrutement, en parallèle des réseaux sociaux – que ce soit pour recruter des petites mains ou des tueurs à gages. C’est un fait absolument établi.<br/>Cette généralisation du recours aux messageries cryptées doit-elle rendre nos services aveugles ? Doit-elle nécessairement créer des failles dans le bouclier protecteur des Français ? Je ne le crois pas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645945" ordre_absolu_seance="82" id_acteur="PA720430" id_mandat="PM843092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673687" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1526.03">Ce n’est pas une question de croyance !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645946" ordre_absolu_seance="83" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673688" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1570.58">Après les attentats de 2015, alors que j’étais comme vous parlementaire, nous avons été capables de mettre au point un nouvel arsenal. Il nous a protégés.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645947" ordre_absolu_seance="84" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673689" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Arnaud Le Gall</nom>
+              <id>795672</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1582.39">Vous essayez d’imiter Darmanin ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645948" ordre_absolu_seance="85" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673690" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1582.61">Je me souviens très bien que nous avions eu le même débat. Nous nous demandions où placer le curseur entre la protection des Français et celle des libertés publiques. Mais la sécurité publique est aussi une liberté publique, et là où il n’y a pas de sécurité publique, il n’y a pas de libertés publiques.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645949" ordre_absolu_seance="86" id_acteur="PA793904" id_mandat="PM840288" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673691" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Lopez-Liguori</nom>
+              <id>793904</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1602.89">Quid de la sécurité des systèmes d’information ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645950" ordre_absolu_seance="87" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673692" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1604.25">Nous pouvons trouver le moyen de concilier ces deux exigences.<br/>Certains ont prétendu qu’il n’existait pas de solutions. C’est absolument faux. Je vous donnerai deux exemples, Apple et WhatsApp. Comment expliquer qu’en août 2021, Apple ait annoncé implémenter dans ses systèmes un mécanisme de détection des images pédopornographiques ? Cela signifie bien qu’Apple avait mis au point un procédé qui n’implique pas une surveillance massive, qui respecte le chiffrement et l’aspect privé des communications. Ce dispositif a fonctionné.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645952" ordre_absolu_seance="89" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673694" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Arnaud Le Gall</nom>
+              <id>795672</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1611.06">Mais ça n’a rien à voir !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645953" ordre_absolu_seance="90" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673695" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1654.78">Deuxième exemple, WhatsApp, que vous utilisez probablement tous. Si vous recevez un message que vous jugez inapproprié, vous pouvez le signaler. Grâce à ce signalement, WhatsApp pourra accéder au message déchiffré. Ces plateformes disposent donc de technologies qui permettent de déchiffrer certains messages sans créer de faille, de porte dérobée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645953" ordre_absolu_seance="91" id_acteur="PA720430" id_mandat="PM843092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673838" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1685.69">Quelqu’un peut lui expliquer ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645954" ordre_absolu_seance="92" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673696" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1688.14">On peut lui expliquer vingt fois la même chose, il ne comprendra pas !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645955" ordre_absolu_seance="93" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673697" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1692.11">Quel encadrement les auteurs des trois amendements ont-ils envisagé ? Je voudrais vous convaincre qu’ils ont prévu de vraies restrictions. Le chiffrement est-il affaibli ? Mettra-t-on en place des portes dérobées ?<italique> (Mme Élisa Martin s’exclame.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645956" ordre_absolu_seance="94" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673698" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1707.48">Madame Martin, je vous en prie !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645957" ordre_absolu_seance="95" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673699" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1708.17">Je le dis solennellement : il n’y aura aucune porte dérobée. Le chiffrement sera respecté de bout en bout – je l’affirme. Il n’y aura pas d’interposition d’un fantôme entre l’émetteur et le récepteur.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645958" ordre_absolu_seance="96" id_acteur="PA794778" id_mandat="PM843239" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673700" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sandra Regol</nom>
+              <id>794778</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1728.27">Bien sûr que si !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645959" ordre_absolu_seance="97" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673701" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1729.64">Par ailleurs, l’absence de porte dérobée est garantie par le fait que seules les personnes dûment autorisées disposeront d’un accès. Il n’y a donc pas d’affaiblissement du chiffrement de bout en bout.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645960" ordre_absolu_seance="98" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673702" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe SOC</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1757.17">Je ne suis pas convaincu !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645961" ordre_absolu_seance="99" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673703" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1759.18">Il n’est par ailleurs pas question d’utiliser des technologies à l’insu des plateformes. Ces dernières conserveront la maîtrise de la technologie. Ce que prévoient les amendements, pour ceux qui les ont lus, c’est d’instaurer un dialogue avec les plateformes. Chaque plateforme proposera sa solution technologique, qu’elle maîtrisera. Une fois qu’un accord sera trouvé, la fameuse commission prévue à l’article R. 226-2 du code pénal, présidée par un représentant de l’Anssi, vérifiera que la solution proposée par la plateforme est conforme à toutes les exigences en matière de chiffrement et de protection de la vie privée, ce que précisent noir sur blanc les amendements.<br/>Enfin, le dispositif de contrôle prévu est similaire à celui des autres techniques de renseignement : la Commission nationale de contrôle des techniques de renseignement (CNCTR) donnera un avis qui pourra être contesté devant le Conseil d’État.<br/>Je le répète : il n’y aura pas de portes dérobées, ni d’affaiblissement du chiffrement ou du secret de la correspondance.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645964" ordre_absolu_seance="102" id_acteur="PA721426" id_mandat="PM843356" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673706" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Véronique Riotton</nom>
+              <id>721426</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1823.22">Bien sûr que si !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645965" ordre_absolu_seance="103" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673707" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1849.06">Tout est écrit dans les amendements. Ne pourront être utilisées que des technologies approuvées dans ce cadre, et elles devront respecter ce cahier des charges très précis. <italique>(Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645966" ordre_absolu_seance="104" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673708" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1861.16">Une discussion approfondie s’impose. Je vous propose la règle du jeu suivante : je donnerai la parole à un orateur par groupe… <italique>(Exclamations sur plusieurs bancs.)</italique> Ne soyez pas si pressés, laissez-moi terminer ! Je donnerai donc la parole à un orateur par groupe, qui s’efforcera d’exprimer la position de son groupe. J’ai bien compris qu’il y avait des divergences à l’intérieur de certains groupes. Je donnerai donc également la parole à des députés souhaitant exprimer une position personnelle, différente de celle de l’orateur du groupe.<br/>La parole est à M. Antoine Léaument.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645968" ordre_absolu_seance="106" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673710" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1898.01">Je m’exprime au nom du groupe La France insoumise. Nous nous apprêtons à renvoyer à la poubelle cet article que vous cherchez à réintroduire. En effet, il ne sert à rien.<br/>Monsieur Retailleau, vous avez franchi un cap. Tout à l’heure, j’ai souligné le ridicule qui consiste à vouloir exploiter des données cryptées alors qu’on ne dispose pas des clefs de déchiffrement, comme cela était proposé. Mais là, vous touchez le fond – je ne m’y attendais pas. On nous répète à longueur de temps que La France insoumise serait du côté des narcotrafiquants, que nous serions leurs amis.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645970" ordre_absolu_seance="108" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673712" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe RN</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1906.73">À raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645971" ordre_absolu_seance="109" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673713" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1936.35">Et vous nous dites que le moyen de sortir du chiffrement, c’est l’outil « Signaler » de WhatsApp. Comptez-vous vraiment sur les narcotrafiquants pour signaler les contenus inappropriés échangés sur WhatsApp ? Cela me laisse sans voix ! <italique>(Sourires et applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645972" ordre_absolu_seance="110" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673714" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emeric Salmon</nom>
+              <id>794954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1952.83">Ce n’est pas vraiment cela qu’il a dit !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645973" ordre_absolu_seance="111" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673715" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1955.97">En réalité, le principal problème auquel se heurte la police dans sa lutte contre le narcotrafic et plus généralement dans son travail quotidien, c’est le logiciel de base de la police nationale – le logiciel XPN. Après huit ans de développement, 15 millions d’euros donnés à Capgemini, on en attend toujours le déploiement ! J’en parle régulièrement car, à l’évidence, vous n’avez rien prévu pour résoudre ce problème ; en tout cas, ce n’est pas dans ce texte.<br/>Je dois dire que je ne m’attendais pas, alors qu’il n’est pas encore 22 heures, à ce que vous proposiez que les narcotrafiquants signalent eux-mêmes les contenus inappropriés. <italique>(Exclamations sur les bancs du groupe RN et sur quelques bancs du groupe DR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645975" ordre_absolu_seance="113" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673717" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emeric Salmon</nom>
+              <id>794954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1981.18">Mais ce n’est pas ce qu’il a dit !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645976" ordre_absolu_seance="114" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673718" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Antoine Léaument</nom>
+              <id>795746</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1988.72">Tout à l’heure, je vous ai dit que vous étiez ridicule et inefficace, mais vous avez dépassé nos attentes ! Rendez-nous M. Darmanin : lui, au moins, il connaît ses dossiers ! <italique>(Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645977" ordre_absolu_seance="115" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673719" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1998.99">La parole est à M. Paul Christophle.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645978" ordre_absolu_seance="116" id_acteur="PA840903" id_mandat="PM842543" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673720" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophle</nom>
+              <id>840903</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2004.29">Nous allons essayer de ne pas verser dans la caricature et de regarder ces amendements en face.<br/>Le président de la commission et le rapporteur l’ont rappelé : cet article pose d’abord un problème de procédure. Il a été introduit au Sénat par un amendement adopté en séance – il a donc été étudié très rapidement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645980" ordre_absolu_seance="118" id_acteur="PA267200" id_mandat="PM843098" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673722" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Huyghe</nom>
+              <id>267200</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2016.79">Et alors ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645981" ordre_absolu_seance="119" id_acteur="PA840903" id_mandat="PM842543" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673723" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophle</nom>
+              <id>840903</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2026.55">La commission des lois de l’Assemblée l’a supprimé, à la quasi-unanimité. Il revient en séance, toujours sans rapport d’évaluation, comme cela a été rappelé. C’est complexe, alors que le sujet l’est aussi. En outre, c’est presque un amendement du gouvernement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645982" ordre_absolu_seance="120" id_acteur="PA794094" id_mandat="PM840291" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673724" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mickaël Bouloux</nom>
+              <id>794094</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2046.91">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645983" ordre_absolu_seance="121" id_acteur="PA840903" id_mandat="PM842543" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673725" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophle</nom>
+              <id>840903</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2047.85">Passons au fond. Il est aujourd’hui possible de s’introduire dans les téléphones des narcotrafiquants, sur la base légale des articles 706-102-1 et suivants du code de procédure pénale. Grâce à des logiciels espions, on peut avoir accès aux caractères que les personnes saisissent sur le clavier de leur téléphone et activer la caméra et le micro à distance. Mes collègues l’ont rappelé : cela porte ses fruits. Dont acte. <italique>(MM. Mathieu Lefèvre et Paul Midy s’exclament.)</italique><br/>Actuellement, on peut donc avoir accès au téléphone d’un utilisateur unique, et pirater toutes les applications de ce téléphone. Vous nous proposez d’avoir accès à une application, sur tous les téléphones.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645985" ordre_absolu_seance="123" id_acteur="PA267200" id_mandat="PM843098" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673727" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Huyghe</nom>
+              <id>267200</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2070.16">Mais non !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645986" ordre_absolu_seance="124" id_acteur="PA840903" id_mandat="PM842543" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673728" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophle</nom>
+              <id>840903</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2086.86">Si, c’est bien cela qui est proposé ! Il s’agit bien d’introduire une faille de sécurité qui concerne l’ensemble des utilisateurs, et non de cibler des utilisateurs identifiés comme suspects.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645987" ordre_absolu_seance="125" id_acteur="PA795386" id_mandat="PM843695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673729" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mathieu Lefèvre</nom>
+              <id>795386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2097.42">Lisez les amendements !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645988" ordre_absolu_seance="126" id_acteur="PA840903" id_mandat="PM842543" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673730" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Paul Christophle</nom>
+              <id>840903</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2098.38">Si ! C’est dans votre amendement !<br/>Cette faille de sécurité étant bien trop importante, nous nous opposerons à ces amendements. <italique>(Applaudissements sur les bancs du groupe SOC.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645990" ordre_absolu_seance="128" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673732" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2110.58">La parole est à M. Aurélien Lopez-Liguori.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645991" ordre_absolu_seance="129" id_acteur="PA793904" id_mandat="PM840288" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673733" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Lopez-Liguori</nom>
+              <id>793904</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2116.81">Le gouvernement et plusieurs députés nous ont habitués à un certain dogmatisme en matière de numérique. En l’occurrence, on a dépassé le dogmatisme : la vérité est falsifiée. Vous insinuez que ces dispositions n’introduisent pas de <italique>backdoors</italique>. Appelez cela comme vous voulez – <italique>backdoor</italique>, porte dérobée, utilisateur fantôme, vulnérabilité –, mais dans tous les cas, vous entraînerez une dégradation du chiffrement. <italique>(M. Olivier Marleix s’exclame.)</italique><br/>Nous disposons de dizaines d’exemples démontrant que créer une porte d’entrée dans un système d’information est une mauvaise idée. Dernier exemple en date, Salt Typhoon, une <italique>backdoor</italique> prévue par la loi américaine, a entraîné l’espionnage massif des télécommunications par les Chinois. Trump, J. D. Vance, des chefs d’entreprise : tous ont été espionnés durant plus de deux ans. Aujourd’hui, les États-Unis font la chasse aux <italique>backdoors</italique>. Au Royaume-Uni, en 2019, une loi contenant des dispositions similaires à celles que vous défendez a été adoptée. Les décrets d’application n’ont toujours pas été pris, car les Britanniques savent que cette loi mettra en danger leurs systèmes d’information.<br/>Alors que le monde s’enflamme, que les conflits se rapprochent et que les ennemis se multiplient, vous vous apprêtez à affaiblir notre souveraineté et notre sécurité.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645994" ordre_absolu_seance="132" id_acteur="PA606098" id_mandat="PM842633" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673736" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2132.03">La souveraineté des plateformes privées ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645995" ordre_absolu_seance="133" id_acteur="PA793904" id_mandat="PM840288" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673737" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Lopez-Liguori</nom>
+              <id>793904</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2188.90">Monsieur le ministre, vous en avez conscience, puisque vous n’osez même pas déposer un amendement au nom du gouvernement. Vous préférez utiliser des porte-flingues ! Au sein même de vos rangs, la ministre chargée du numérique, Clara Chappaz, vous a désavoué. Malgré la réécriture, Guillaume Poupard, ancien directeur de l’Anssi, a qualifié ces amendements de « crétins ».<br/>Il ne s’agit que d’amendements d’affichage, qui démontrent que vous ne comprenez rien à la cybersécurité. Nous le répétons : si notre sous-amendement est rejeté, nous voterons contre le rétablissement de l’article 8 <italique>ter</italique>. <italique>(Applaudissements sur les bancs des groupes RN et UDR. – Mme Anne Le Hénanff applaudit également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645997" ordre_absolu_seance="135" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673739" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2224.47">La parole est à Mme Anne Le Hénanff.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645998" ordre_absolu_seance="136" id_acteur="PA794426" id_mandat="PM842993" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673740" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Anne Le Hénanff</nom>
+              <id>794426</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2229.55">Les techniques de renseignement sont un sujet sérieux. Il y a certes quelques évolutions positives dans la tentative de réintroduction de cet article. Néanmoins, monsieur le ministre, ces dispositions méritent mieux qu’une introduction par amendement, d’autant qu’elles sont susceptibles d’être utilisées à d’autres fins que la lutte contre le narcotrafic. Par ailleurs, il conviendrait d’impliquer les parlementaires dans la définition des moyens mis à disposition des services de renseignement. Il faudrait aussi obtenir un avis détaillé du Conseil d’État en amont de l’étude du texte. Nous ne disposons pas non plus d’une étude d’impact approfondie. Enfin, il faudrait mener des auditions, notamment de représentants de l’écosystème français du numérique et des télécommunications. Une fois ces conditions réunies, vous pourrez compter sur moi pour me tenir à vos côtés lorsque vous présenterez une loi sur le renseignement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2645999" ordre_absolu_seance="137" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673741" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2290.73">La parole est à M. Olivier Marleix.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2646000" ordre_absolu_seance="138" id_acteur="PA606098" id_mandat="PM842633" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673742" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2298.49">Nous sommes ici pour définir un cadre légal. Ce cadre doit être le même pour les services de téléphonie et pour les messageries cryptées, un point c’est tout. Nous ne sommes pas là pour nous cacher derrière des arguments techniques <italique>(Exclamations sur les bancs du groupe LFI-NFP)</italique>, ni pour relayer le lobbying des messageries cryptées ! <italique>(MM. Mathieu Lefèvre et Charles Rodwell applaudissent.) </italique>J’ai été édifié par ce que j’ai entendu sur tous les bancs, et je me ferai un grand plaisir de vérifier sur le site de la Haute Autorité pour la transparence de la vie publique (HATVP) dans quelles conditions il a été procédé à ce lobbying. <italique>(Exclamations sur de nombreux bancs.)</italique><br/>Nous ne devons pas non plus nous livrer à un concours de geeks, monsieur Lopez-Liguori ! <italique>(Vives exclamations sur de nombreux bancs.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2646002" ordre_absolu_seance="140" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673744" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2309.27">S’il vous plaît, mes chers collègues ! Seul M. Marleix a la parole. Un peu de silence !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2646003" ordre_absolu_seance="141" id_acteur="PA606098" id_mandat="PM842633" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673745" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2356.56">Nous n’allons pas légiférer à chaque évolution technologique !<br/>Demain, quand les chiffrements seront homomorphes, faudra-t-il à nouveau modifier la loi ? <italique>(Les exclamations gagnent en intensité.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2646005" ordre_absolu_seance="143" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673747" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emeric Salmon</nom>
+              <id>794954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2358.77">Mais quel boomer !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2646006" ordre_absolu_seance="144" id_acteur="PA606098" id_mandat="PM842633" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673748" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2359.92">Nous devrions attendre ? Mais les terroristes et les trafiquants de drogue n’attendent pas, eux ! En attendant, vous priverez nos services de ces moyens de renseignement.<br/>Notre seule préoccupation, c’est d’affronter ces menaces, les trafiquants de drogue, d’armer les services de renseignements et de protéger les Français.<br/>Vous nous parlez matin, midi et soir de la protection des Français, vous vous prenez pour Monsieur Plus. Je regrette donc très sincèrement de vous voir voter en fin de compte une fois de plus avec les députés de La France insoumise ! <italique>(Exclamations prolongées sur de nombreux bancs. – M. Charles Rodwell applaudit.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2646009" ordre_absolu_seance="147" id_acteur="PA794954" id_mandat="PM840357" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673751" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emeric Salmon</nom>
+              <id>794954</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2388.41">Ils vous ont fait élire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2646010" ordre_absolu_seance="148" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673752" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2402.78">S’il vous plaît, un peu de calme : il faut que chacun puisse s’exprimer. Si le calme ne revient pas, je serai contrainte de suspendre la séance !<br/>La parole est à M. Philippe Latombe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646023" ordre_absolu_seance="150" id_acteur="PA721984" id_mandat="PM843536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674277" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Latombe</nom>
+              <id>721984</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2419.39">Contrairement à ce qui vient d’être dit, ce ne sont pas seulement les opérateurs qui sont contre un tel dispositif, mais c’est l’ensemble des spécialistes de la cryptographie, l’ensemble de la littérature scientifique, l’ensemble des entreprises qui travaillent dans le domaine de la cybersécurité – la fameuse base industrielle et technologique de cybersécurité (BITC). <italique>(Applaudissements sur plusieurs bancs des groupes Dem, EPR, LFI-NFP, SOC, EcoS, HOR, GDR et UDR.)</italique> Tous mettent en garde contre l’affaiblissement du chiffrement. Or, quoi qu’on en pense, c’est ce qui arrivera si ces amendements sont votés. Même si ce n’est pas le rétablissement de l’article 8 <italique>ter</italique> dans la rédaction votée par le Sénat qu’on nous propose ici, c’est bien du rétablissement de la vulnérabilité du chiffrement qu’il s’agit. Quoi que vous en pensiez, monsieur le ministre, c’est l’avis unanime des cryptographes.<br/>C’est donc un vrai problème, puisque toute notre stratégie de cybersécurité, toute la stratégie de la Commission nationale de l’informatique et des libertés (Cnil) sur la protection des données personnelles, est liée au chiffrement. Ce que vous voulez permettre revient par conséquent à mettre à mal la totalité de cette stratégie. Et je ne vois pas comment le gouvernement pourra ensuite défendre la transposition du règlement européen sur la résilience opérationnelle numérique du secteur financier (Dora), de la directive sur la résilience des entités critiques (REC) et de la directive concernant des mesures destinées à assurer un niveau élevé commun de cybersécurité dans l’ensemble de l’Union européenne (NIS 2), dans le cadre du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, en expliquant alors qu’il faut absolument que le chiffrement soit assuré de bout en bout, partout et tout le temps. <italique>(Applaudissements sur quelques bancs du groupe SOC. – Mme Anne Le Hénanff applaudit également.)</italique><br/>Outre ce problème de cohérence, puisque c’est bien ce que prévoient les textes Dora, REC et NIS 2, il y a un problème constitutionnel. Vous allez nous répondre que la Cour européenne des droits de l’homme (CEDH) a déjà validé le dossier coffre. Je suis d’accord. Reste que l’argument est valable en sens inverse : la CEDH considère que l’utilisation de vulnérabilités dans le déchiffrement n’est pas conforme à la Convention européenne des droits de l’homme – ni donc à la Constitution. Vous allez en effet mettre à mal le secret de la correspondance.<br/>Autant je suis d’accord avec vous sur les articles 8 et 8 <italique>bis</italique>, autant il n’est pas question de voter l’article 8 <italique>ter.</italique> <italique>(Applaudissements sur quelques bancs des groupes Dem, EPR, SOC, HOR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646027" ordre_absolu_seance="154" id_acteur="PA842045" id_mandat="PM843581" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674281" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Julie Ozenne</nom>
+              <id>842045</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2463.41">C’était la meilleure intervention !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646028" ordre_absolu_seance="155" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674282" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2514.33">La parole est à M. Sébastien Huyghe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646029" ordre_absolu_seance="156" id_acteur="PA267200" id_mandat="PM843098" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674283" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Huyghe</nom>
+              <id>267200</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2550.04">Il y a eu de nombreux débats sur la question au sein du groupe EPR – nous en avons eu un aperçu avec les interventions du président de la commission et du rapporteur et avec les amendements déposés par des membres du groupe. Nous avons décidé de laisser la liberté de vote à chacun, compte tenu de la sensibilité du sujet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646029" ordre_absolu_seance="157" id_acteur="PA342384" id_mandat="PM842771" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674502" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Élisa Martin</nom>
+              <id>342384</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2571.10">Il n’y a pas de mandat impératif !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646030" ordre_absolu_seance="158" id_acteur="PA794094" id_mandat="PM840291" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674284" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mickaël Bouloux</nom>
+              <id>794094</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2572.84">Il est où, Attal ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646031" ordre_absolu_seance="159" id_acteur="PA267200" id_mandat="PM843098" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674285" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Huyghe</nom>
+              <id>267200</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2575.79">Pour ma part, je suis favorable aux amendements. Certes, j’ai voté la suppression de l’article 8 <italique>ter</italique> en commission, puisque dans sa version sénatoriale, il prévoyait l’affaiblissement du chiffrement, avec la possibilité de créer des portes dérobées.<br/>Je souhaite qu’on en finisse avec les caricatures. Nous sommes ici pour être sérieux.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646033" ordre_absolu_seance="161" id_acteur="PA842263" id_mandat="PM843773" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674287" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Ayda Hadizadeh</nom>
+              <id>842263</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2588.80">Dites ça à Marleix !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646034" ordre_absolu_seance="162" id_acteur="PA267200" id_mandat="PM843098" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674288" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Huyghe</nom>
+              <id>267200</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2612.27">Beaucoup de nos collègues, dans leurs interventions, font référence à l’ancienne version de l’article. Or il est clair qu’aux termes des amendements que nous sommes en train d’examiner, il ne sera en aucun cas légal d’affaiblir les clefs de chiffrement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646035" ordre_absolu_seance="163" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674289" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2628.66">Ça ne veut rien dire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646036" ordre_absolu_seance="164" id_acteur="PA267200" id_mandat="PM843098" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674290" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sébastien Huyghe</nom>
+              <id>267200</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2630.46">C’est écrit noir sur blanc. Cela signifie que si, lors de l’application du dispositif, il y avait un affaiblissement de la clef de chiffrement, les responsables seraient hors la loi. Or nous sommes censés voter une loi qui doit être appliquée et si les services concernés l’appliquent selon les dispositions prévues par les amendements, la clef de chiffrement ne sera pas affaiblie. C’est ce qu’a souligné Paul Midy tout à l’heure. <italique>(Applaudissements sur quelques bancs des groupes EPR et HOR. – M. Olivier Marleix applaudit également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646037" ordre_absolu_seance="165" id_acteur="PA720430" id_mandat="PM843092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674291" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2677.55">C’était un peu crypté, quand même !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646038" ordre_absolu_seance="166" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674292" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2680.27">La parole est à Mme Elsa Faucillon.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646039" ordre_absolu_seance="167" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674293" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2689.26">Monsieur le ministre, à plusieurs reprises, quand vous avez soutenu cette proposition de loi, vous avez déclaré qu’il fallait défendre l’État de droit face au narcotrafic – j’étais d’ailleurs heureuse de vous entendre dire qu’il fallait défendre l’État de droit. En effet, si l’on veut lutter contre la menace que constitue le narcotrafic, il faut préserver l’État de droit. Or la question est posée avec cet article 8 <italique>ter</italique>, du point de vue des libertés individuelles, des libertés collectives, mais aussi de notre souveraineté et de notre intégrité. Et, d’autres l’ont dit, dans le contexte international actuel, c’est avec une grande prudence qu’il nous faut aborder le sujet.<br/>La nouvelle rédaction de l’article proposée implique qu’on fera du déchiffrement sans déchiffrer. Cela n’existe pas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646041" ordre_absolu_seance="169" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674295" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2717.02">Bien sûr !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646042" ordre_absolu_seance="170" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674296" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2748.32">Soit l’article tel que vous le proposez ne servira à rien et nous risquons de passer à côté d’une réflexion importante sur le renseignement,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646043" ordre_absolu_seance="171" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674297" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2759.38">Eh oui ! C’est un article stérile, inefficace !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646044" ordre_absolu_seance="172" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674298" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2764.54">…soit c’est un énorme enfumage – ce que je crois – qui mènera à la faille très dangereuse que nous avons pointée du doigt en commission.<br/>Monsieur Marleix, la question n’est pas de savoir si l’on est un geek ou pas.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646046" ordre_absolu_seance="174" id_acteur="PA720430" id_mandat="PM843092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674300" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2776.70">C’est vrai !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646047" ordre_absolu_seance="175" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674301" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2783.22">Dans la période que nous allons vivre, maîtriser les questions et les évolutions techniques, technologiques, scientifiques va être un enjeu majeur pour le législateur que nous sommes pour pouvoir procéder à des arbitrages politiques. <italique>(Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646048" ordre_absolu_seance="176" id_acteur="PA826635" id_mandat="PM843473" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674302" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Aurélien Rousseau</nom>
+              <id>826635</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2801.22">Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646049" ordre_absolu_seance="177" id_acteur="PA606098" id_mandat="PM842633" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674303" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Olivier Marleix</nom>
+              <id>606098</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2801.34">Il va falloir changer la loi chaque année, alors !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646050" ordre_absolu_seance="178" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674304" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2808.50">La parole est à Mme Sandra Regol.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646051" ordre_absolu_seance="179" id_acteur="PA794778" id_mandat="PM843239" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674305" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sandra Regol</nom>
+              <id>794778</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2810.98">La proposition de loi pose une question de sécurité nationale. C’est particulièrement le cas des amendements identiques dont nous discutons. Nous avons bien relu la nouvelle rédaction de l’article qu’ils proposent. Elle prévoit que pour pouvoir procéder à certaines écoutes, encadrées, choisies, on fragilise l’ensemble du dispositif. Nous ne sommes ni des scientifiques ni des geeks – ce n’est d’ailleurs pas notre fonction. Une logique assez simple s’impose tout de même : le chiffrement doit être assuré de bout en bout, seul moyen de garantir la sécurité. Créer un intermédiaire, une porte dérobée, ce n’est pas assurer un chiffrement de bout en bout et c’est donc mettre en cause l’intégralité de notre sécurité.<br/>Le texte est censé lutter contre les trafics, mais qui sont aussi des trafics d’informations – outils premiers des trafiquants, tant elles sont capitales, qu’ils soient narcotrafiquants, trafiquants d’armes, trafiquants de corps humains… <italique>(M. Emmanuel Duplessy applaudit.)</italique> Or ce que vous proposez, monsieur Retailleau, c’est de pouvoir procéder à une écoute de temps en temps au prix d’un blanc-seing donné à tous ceux qui essaient de chercher ces informations contre notre pays, contre notre démocratie, en abîmant ainsi plus encore nos libertés qu’ils ne le font.<br/>Nous avons vraiment l’impression, monsieur Marleix, que c’est le ministre de l’intérieur qui tenait votre stylo quand vous avez rédigé votre amendement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646054" ordre_absolu_seance="182" id_acteur="PA794094" id_mandat="PM840291" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674308" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mickaël Bouloux</nom>
+              <id>794094</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2862.34">Eh oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646055" ordre_absolu_seance="183" id_acteur="PA841351" id_mandat="PM842936" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674309" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Emmanuel Duplessy</nom>
+              <id>841351</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2869.49">Quelle honte !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646056" ordre_absolu_seance="184" id_acteur="PA794778" id_mandat="PM843239" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674310" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sandra Regol</nom>
+              <id>794778</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2911.55">C’est une impression très désagréable que de travailler en ayant le soupçon que vous essayez de nous avoir, alors que les députés se sont prononcés très franchement. <italique>(Applaudissements sur de nombreux bancs des groupes EcoS, LFI-NFP, SOC et GDR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646056" ordre_absolu_seance="185" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674588" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benjamin Lucas-Lundy</nom>
+              <id>795636</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2922.26">Implacable !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646056" ordre_absolu_seance="186" id_acteur="PA794778" id_mandat="PM843239" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674587" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sandra Regol</nom>
+              <id>794778</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2926.88">Et, excusez du peu, l’unanimité est suffisamment rare dans cet hémicycle ! Et je tiens à souligner que quand nous sommes d’accord sur des questions technologiques avec Philippe Latombe, c’est que, tout de même, nous sommes dans le juste ! <italique>(Sourires et applaudissements sur de nombreux bancs des groupes EcoS, LFI-NFP, SOC et GDR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646057" ordre_absolu_seance="187" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674311" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2944.17">La parole est à M. Éric Bothorel.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646058" ordre_absolu_seance="188" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674312" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2950.81">Vous avancez, monsieur Marleix, que ce n’est qu’une question de parallélisme des formes avec ce qui est demandé aux opérateurs téléphoniques. Certes, sauf que si nous n’avons pas jugé utile de protéger nos conversations téléphoniques en les brouillant, nous avons, il y a longtemps, décidé de protéger nos échanges de données – et pour cause, tant elles font l’objet de convoitises.<br/>Procéder à l’interception d’une conversation téléphonique vous donne un accès en clair à son contenu, sans efforts particuliers des opérateurs de télécommunications. Le parallélisme des formes voudrait que les opérateurs vous donnent accès à du contenu chiffré. Ils vous le donneront, je n’en doute pas une seconde, mais là s’arrête la comparaison.<br/>Si cela est une coquille vide, monsieur Midy, et ça l’est, elle n’a pas sa place dans notre droit.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646061" ordre_absolu_seance="191" id_acteur="PA840955" id_mandat="PM842573" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674315" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pierre Pribetich</nom>
+              <id>840955</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2981.22">Bravo !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646062" ordre_absolu_seance="192" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674316" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2993.58">Monsieur Lefèvre, cher ami, il n’y a pas ceux qui se réfugient derrière la technique et qui seraient les complices des criminels par leur inaction, et ceux qui, à coups de « y a qu’à, faut qu’on », règlent les problèmes comme s’ils disposaient de la baguette magique de Champollion. <italique>(Applaudissements sur quelques bancs des groupes LFI-NFP et SOC.)</italique> C’est tout de même un peu dégueulasse de voir les choses ainsi.<br/>Demander le renforcement de la coopération des plateformes pourrait davantage nous réunir qu’un article qui ressemble plus à un cahier des charges stérile. Si vous prenez ce chemin, vous me trouverez à vos côtés.<br/>J’ai une question simple, monsieur le ministre. Les narcocriminels, les terroristes seront-ils demain en mesure, à partir du code source d’une messagerie, de faire tourner un service concurrent à celui que vous cherchez à imposer et à faire développer par les plateformes ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646065" ordre_absolu_seance="195" id_acteur="PA721984" id_mandat="PM843536" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674319" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Philippe Latombe</nom>
+              <id>721984</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3026.27">Bien sûr !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646066" ordre_absolu_seance="196" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674320" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3033.62">Il me semble que la réponse est oui. Vous avez cependant le droit de tenter de démontrer le contraire.<br/>Enfin, en ce qui concerne Apple, pardon, mais la référence et la comparaison que vous faites ne sont absolument pas valables. Apple s’appuie en effet sur des <italique>hash files</italique>, c’est-à-dire sur des empreintes numériques. Il ne s’agit pas d’être intrusif quant au contenu d’un fichier, mais de comparer si deux fichiers sont identiques. C’est d’ailleurs cet outil qui sert à nos services – et à ceux des autres pays – pour lutter contre les pédocriminels. La technologie mise en œuvre n’a rien à voir avec ce que vous proposez. <italique>(Applaudissements sur plusieurs bancs des groupes EPR, RN, LFI-NFP, SOC, EcoS. – M. Philippe Latombe et Mme Anne Le Hénanff applaudissent également.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646068" ordre_absolu_seance="198" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674322" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3067.63">La parole est à M. le ministre d’État.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646069" ordre_absolu_seance="199" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674323" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3082.25">Plusieurs intervenants ont dit craindre une généralisation de la captation. Je le répète : il n’y aura pas de captation massive, elle sera limitée aux seules correspondances qui auront fait l’objet d’une demande d’autorisation par le premier ministre, sous le contrôle de la CNCTR. Et quand surviendra un problème entre les deux, quand la CNCTR émettra un avis négatif, c’est le Conseil d’État qui tranchera. L’écosystème est donc exactement le même que celui dont relevaient les amendements précédents. En outre, cet accès sera limité aux seules personnes dûment autorisées.<br/>J’en viens à l’intervention de Philippe Latombe. Même si les amendements que nous sommes en train d’examiner ne sont pas votés, ce que je pressens, nous devons nous saisir de cette question.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646071" ordre_absolu_seance="201" id_acteur="PA610968" id_mandat="PM840381" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674325" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Pouria Amirshahi</nom>
+              <id>610968</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3133.41">Nous allons le faire !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646072" ordre_absolu_seance="202" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674326" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3143.22">Elle est très grave, croyez-moi. Et vous verrez qu’à un moment ou à un autre, on aboutira à une solution. J’aurais souhaité que ce soit ce soir mais, je le répète, à un moment ou à un autre, cette solution, on l’aura.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646073" ordre_absolu_seance="203" id_acteur="PA841919" id_mandat="PM843479" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674327" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Dieynaba Diop</nom>
+              <id>841919</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3155.64">On peut trouver une solution différente.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646074" ordre_absolu_seance="204" id_acteur="PA720430" id_mandat="PM843092" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674328" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Ugo Bernalicis</nom>
+              <id>720430</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3156.90">Une solution finale !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646075" ordre_absolu_seance="205" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674329" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Un député du groupe EPR</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3158.23">Oh !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646076" ordre_absolu_seance="206" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674330" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3158.23">Simplement, si les amendements ne sont pas adoptés, on en reste au droit en vigueur, qui date de 2001 et qui demande les clefs de chiffrement aux plateformes – d’ailleurs, elles ne les fournissent pas, avançant des arguments techniques ou commerciaux. Ensuite, la législation en vigueur risque d’être jugée totalement contraire à la jurisprudence Podchasov de la CEDH, d’il y a quelques mois, qui indique qu’on ne doit pas avoir de système de captation généralisée – or c’est le cas de la loi de 2001. Le système que nous proposons est beaucoup plus encadré, beaucoup plus ciblé.<br/>On a également évoqué la coopération des plateformes.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646078" ordre_absolu_seance="208" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674332" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3215.10">Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646079" ordre_absolu_seance="209" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674333" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3221.18">C’est exactement ce que nous proposons !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646080" ordre_absolu_seance="210" id_acteur="PA642695" id_mandat="PM842594" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674334" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Éric Bothorel</nom>
+              <id>642695</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3227.90">Non !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646081" ordre_absolu_seance="211" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674335" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3228.05">Nous voulons que soit établi un processus, un dialogue avec chaque plateforme, qui devra proposer une technologie neutre. Une fois cette proposition faite, la commission prévue à l’article R.226-2 du code pénal s’assurera de sa conformité avec toutes les prescriptions du texte.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646082" ordre_absolu_seance="212" id_acteur="PA795136" id_mandat="PM843353" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674336" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-François Coulomme</nom>
+              <id>795136</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3255.94">C’est complètement inopérant !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646083" ordre_absolu_seance="213" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674337" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3257.89">Il y a quelques mois a été menée une grande enquête relative à une affaire de pédocriminalité. Nos services savaient que les échanges s’effectuaient sur la messagerie Telegram. Savez-vous ce qui a permis de résoudre l’enquête ? C’est quand le patron de Telegram s’est posé avec son jet privé : il a été arrêté.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646084" ordre_absolu_seance="214" id_acteur="PA795636" id_mandat="PM843476" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674338" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benjamin Lucas-Lundy</nom>
+              <id>795636</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3279.37">Nous, on veut la suppression des jets privés !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646085" ordre_absolu_seance="215" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674339" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3283.18">On a pu dès lors obtenir un certain nombre d’informations qui ont permis à l’autorité judiciaire de confondre des dizaines de pédocriminels.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646086" ordre_absolu_seance="216" id_acteur="PA795672" id_mandat="PM843752" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674340" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Arnaud Le Gall</nom>
+              <id>795672</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3291.49">Quel est le rapport avec les amendements ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2646087" ordre_absolu_seance="217" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3674341" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Bruno Retailleau</nom>
+              <id>2538</id>
+              <qualite>ministre d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3292.21">Vous voyez donc bien que la question des messageries cryptées vaut pour le terrorisme, évidemment pour la grande criminalité organisée, pour la pédocriminalité.<br/>On ne peut ni laisser nos services aveugles ni laisser ces grandes organisations criminelles utiliser des messageries cryptées pour égarer nos forces de sécurité. Ce n’est pas possible.<br/>Nous avons tenu à mener ce débat et des arguments ont été échangés, mais très franchement, je suis certain qu’à l’avenir, nous devrons trancher cette question. Nous avons là les moyens de le faire de la façon la plus équilibrée possible, sur le plan juridique comme sur le plan technologique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645790" ordre_absolu_seance="220" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673193" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sabrina Sebaihi</nom>
+              <id>795808</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3315.07">Vous avez perdu, c’est bon !</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645791" ordre_absolu_seance="221" code_grammaire="RAP_REGLEMENT_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3673194" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Rappel au règlement</italique>
+      </texte>
+      <interExtraction nom_orateur="M. Mathieu Lefèvre" id_acteur="PA795386" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM843695">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645792" ordre_absolu_seance="222" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="RAP_REGLEMENT_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673195" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3336.04">La parole est à M. Mathieu Lefèvre, pour un rappel au règlement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645793" ordre_absolu_seance="223" id_acteur="PA795386" id_mandat="PM843695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3673196" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mathieu Lefèvre</nom>
+              <id>795386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3344.33">Il concerne la bonne tenue de nos débats. J’ai entendu M. Bernalicis évoquer une période extrêmement sombre de notre histoire – il sait très bien à quoi je fais référence. Je lui demande de retirer ses propos ; à défaut, je considère qu’ils doivent figurer au compte rendu.<br/>M. Bernalicis a évoqué, sourire en coin, la « solution finale ». C’est complètement hors de propos.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645795" ordre_absolu_seance="225" id_acteur="PA721896" id_mandat="PM840405" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673198" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Elsa Faucillon</nom>
+              <id>721896</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3367.79">Il n’a pas dit ça !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645796" ordre_absolu_seance="226" id_acteur="PA795386" id_mandat="PM843695" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="RAP_REGLEMENT_2_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673199" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Mathieu Lefèvre</nom>
+              <id>795386</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3370.66">Notre débat était de bonne tenue ; ces propos doivent au moins être retirés. <italique>(M. Ugo Bernalicis tente de prendre la parole.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645797" ordre_absolu_seance="227" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3673200" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3375.81">On me confirme que ces propos figureront au compte rendu.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645798" ordre_absolu_seance="228" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="3673201" valeur="" bibard=" (n[[o]] 1043 rectifié)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 8 <italique>ter (appelé par priorité – suite)</italique></texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645799" ordre_absolu_seance="229" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="SCRUT_SOUS_AMEND_1_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673202" valeur=" 978" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3386.43">Je mets aux voix le sous-amendement n<exposant>o</exposant> 978.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645800" ordre_absolu_seance="230" code_grammaire="SCRUT_SOUS_AMEND_1_3" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673203" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645801" ordre_absolu_seance="231" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="SCRUT_SOUS_AMEND_1_4" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673204" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3389.02">Voici le résultat du scrutin :<br/>        Nombre de votants                        138<br/>        Nombre de suffrages exprimés                137<br/>        Majorité absolue                        69<br/>                Pour l’adoption                53<br/>                Contre                84</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645802" ordre_absolu_seance="232" code_grammaire="SCRUT_SOUS_AMEND_1_5" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673205" valeur=" 978" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(Le sous-amendement n<exposant>o</exposant> 978 n’est pas adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645802" ordre_absolu_seance="233" code_grammaire="SORT_SS_ADT_1_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673674" valeur=" 984, 983, 985 et 986">
+        <orateurs/>
+        <texte>
+          <italique>(Les sous-amendements n<exposant>os</exposant> 984, 983, 985 et 986 sont retirés.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645803" ordre_absolu_seance="234" code_grammaire="SORT_SS_ADT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673206" valeur=" 997 et 1006" decision="ADOPTION de plusieurs sous-amendements (main levée) ss-adts">
+        <orateurs/>
+        <texte>
+          <italique>(Les sous-amendements identiques n<exposant>os</exposant> 997 et 1006 sont adoptés ; en conséquence, le sous-amendement n<exposant>o</exposant> 979 tombe.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645804" ordre_absolu_seance="235" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673207" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3400.04">Monsieur le rapporteur, j’imagine que votre avis sur les amendements demeure défavorable malgré l’adoption des sous-amendements n<exposant>o</exposant><exposant>s</exposant> 997 et 1006 ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645805" ordre_absolu_seance="236" id_acteur="PA842311" id_mandat="PM843803" id_nomination_oe="-1" id_nomination_op="-843803" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673208" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Caure</nom>
+            <id>842311</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3405.17">Oui, madame la présidente.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645806" ordre_absolu_seance="237" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673209" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3429.80">Monsieur le ministre, souhaitez-vous reprendre la parole sur les amendements, puisqu’ils viennent d’être sous-amendés ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645807" ordre_absolu_seance="238" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673210" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3456.42">Je n’ai pas pu tout dire à propos du sous-amendement n<exposant>o</exposant> 978 de M. Lopez-Liguori. Il ne peut pas fonctionner <italique>(Exclamations sur divers bancs)</italique>…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645808" ordre_absolu_seance="239" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673211" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3459.51">Il a été rejeté !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645809" ordre_absolu_seance="240" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673212" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3476.12">…et j’aimerais expliquer pourquoi. <italique>(Mêmes mouvements.)</italique> L’article L. 851-1 contient déjà cette disposition ; le sous-amendement est donc satisfait.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645811" ordre_absolu_seance="241" id_acteur="PA793904" id_mandat="PM840288" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673214" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Aurélien Lopez-Liguori</nom>
+            <id>793904</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3477.54">Non, la collecte n’est pas obligatoire !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645810" ordre_absolu_seance="242" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="3673335" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3494.03">Vous cherchez un prétexte pour ne pas voter les amendements, c’est tout.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645810" ordre_absolu_seance="243" id_acteur="PA794778" id_mandat="PM843239" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673213" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sandra Regol</nom>
+            <id>794778</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3499.46">Mais on a déjà voté !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645812" ordre_absolu_seance="244" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673215" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3522.26">L’avis du gouvernement à propos des amendements n<exposant>os</exposant> 640, 655 et 846 reste-t-il le même après l’adoption des sous-amendements n<exposant>os</exposant> 997 et 1006 ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645813" ordre_absolu_seance="245" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673216" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3528.49">Le gouvernement est favorable aux amendements et défavorable aux sous-amendements. <italique>(Brouhaha sur de nombreux bancs.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645814" ordre_absolu_seance="246" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673217" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3531.55">Les sous-amendements ont déjà été adoptés !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645815" ordre_absolu_seance="247" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673218" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3537.28">S’il vous plaît, j’aimerais que le ministre puisse m’entendre ! Monsieur le ministre, nous venons d’adopter les sous-amendements n<exposant>os</exposant> 997 et 1006. Votre avis sur les amendements demeure-t-il le même ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645816" ordre_absolu_seance="248" id_acteur="PA2538" id_mandat="-1" id_nomination_oe="PM855161" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673219" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Bruno Retailleau</nom>
+            <id>2538</id>
+            <qualite>ministre d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="3548.59">Oui, il est favorable.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645817" ordre_absolu_seance="249" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="SCRUT_ADTS_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673220" valeur=" 640, 655 et 846" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3556.02">Je mets aux voix les amendements identiques n<exposant>os</exposant> 640, 655 et 846.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645818" ordre_absolu_seance="250" code_grammaire="SCRUT_ADTS_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673221" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin. – Le vote est empêché par une difficulté technique.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645819" ordre_absolu_seance="251" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673222" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3559.38">Nous allons procéder à un nouveau scrutin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645820" ordre_absolu_seance="252" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673223" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sabrina Sebaihi</nom>
+            <id>795808</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3607.88">Les résultats sont cryptés !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645821" ordre_absolu_seance="253" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673224" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3629.95">C’est à cause des portes dérobées !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645822" ordre_absolu_seance="254" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="SCRUT_ADTS_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673225" valeur=" 640, 655 et 846" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3639.64">Je mets aux voix les amendements identiques n<exposant>os</exposant> 640, 655 et 846.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645823" ordre_absolu_seance="255" code_grammaire="SCRUT_ADTS_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673226" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin. – Le vote est à nouveau empêché par une difficulté technique.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645824" ordre_absolu_seance="256" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673227" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3646.25">Nous allons procéder à un nouveau scrutin.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645825" ordre_absolu_seance="257" id_acteur="PA841919" id_mandat="PM843479" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673228" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Dieynaba Diop</nom>
+            <id>841919</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3687.79">Jamais deux sans trois !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645826" ordre_absolu_seance="258" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="SCRUT_ADTS_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673229" valeur=" 640, 655 et 846" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3689.07">Je mets aux voix les amendements identiques n<exposant>os</exposant> 640, 655 et 846.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645827" ordre_absolu_seance="259" code_grammaire="SCRUT_ADTS_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673230" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin. – Le vote est à nouveau empêché par une difficulté technique.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2645828" ordre_absolu_seance="260" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673231" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="3691.21">Compte tenu de l’impossibilité technique de procéder au scrutin, je suspends la séance.</texte>
+      </paragraphe>
+      <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="5" id_preparation="2646011" ordre_absolu_seance="261" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3673657" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2646012" ordre_absolu_seance="262" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673658" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6551.71">La séance est suspendue.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2646013" ordre_absolu_seance="263" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673659" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance, suspendue à vingt-deux heures vingt, est reprise à vingt-trois heures dix.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2646014" ordre_absolu_seance="264" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673660" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6564.68">La séance est reprise. <italique>(« Ah ! » et applaudissements sur tous les bancs.)</italique><br/>Vous l’avez compris, nous sommes victimes d’une panne informatique.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2646016" ordre_absolu_seance="266" id_acteur="PA795808" id_mandat="PM843644" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673662" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Sabrina Sebaihi</nom>
+              <id>795808</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6567.53">Sabotage ! <italique>(Sourires.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2646017" ordre_absolu_seance="267" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673663" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6567.94">Facétie des débats, monsieur le ministre ! Il ne s’agit pas d’un dysfonctionnement lié à la sécurité informatique en tant que telle. C’est une petite pièce du système qui a chauffé – sous la tension. <italique>(Sourires.)</italique><br/>Le scrutin public est donc temporairement indisponible et je ne peux pas vous dire quand le système sera réparé. Néanmoins, après avoir consulté l’ensemble des groupes, je vous propose de procéder comme suit, pour que nous puissions tout de même, sur cet article important, procéder à une autre forme de scrutin public : je vais appeler les 577 députés, présents ou absents, par ordre alphabétique et par groupe – en prenant les groupes par ordre de taille.<br/>Chaque député, à l’appel de son nom, devra se rapprocher d’un micro et donner sa position sur le vote des amendements – pour, contre ou abstention –, après que j’aurai rappelé leur numéro, ainsi que l’avis de la commission et du gouvernement. Les délégations seront prises en compte et celui qui donnera son vote au micro n’aura pas besoin de se lever à nouveau à l’appel du nom de celui qui lui a donné délégation. Puis je suspendrai la séance pour procéder au décompte, qui prendra un peu de temps. Je vous demanderai, pendant toute la durée de ces opérations, de garder le silence, afin que je puisse procéder dans le calme à cette manœuvre un peu délicate et inédite.<br/>Sommes-nous bien d’accord sur la manière dont les choses vont se dérouler ? <italique>(Approbations sur de nombreux bancs.) </italique>Très bien, nous allons donc procéder à ce scrutin public original sur le vote des amendements identiques n<exposant>o</exposant><exposant>s</exposant> 640, 655 et 846, qui ont reçu un avis défavorable de la commission et favorable du gouvernement.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2646020" ordre_absolu_seance="271" code_grammaire="SCRUT_ADTS_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673760" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(Il est procédé au scrutin.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2646021" ordre_absolu_seance="272" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673667" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="8371.30">Je vous remercie pour votre patience et suspends la séance pour faire le décompte des voix.</texte>
+        </paragraphe>
+        <point nivpoint="99" valeur_ptsodj="1" ordinal_prise="6" id_preparation="2645608" ordre_absolu_seance="273" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="1" id_syceron="3673677" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Suspension et reprise de la séance</italique>
+          </texte>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2645608" ordre_absolu_seance="274" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="-1" id_nomination_op="PM846634" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673678" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>720908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9089.74">La séance est suspendue.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2645608" ordre_absolu_seance="275" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673679" valeur="">
+            <orateurs/>
+            <texte>
+              <italique>(La séance, suspendue à vingt-trois heures quarante, est reprise à vingt-trois heures cinquante.)</italique>
+            </texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2645608" ordre_absolu_seance="276" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="-1" id_nomination_op="PM846634" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673680" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>720908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9094.44">La séance est reprise – après un scrutin quasi solennel. <italique>(Sourires.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2645657" ordre_absolu_seance="277" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673640" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>720908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9099.56">D’abord, je vous remercie, chers collègues, de votre patience et de votre discipline. Je remercie également M. le ministre, ainsi que les services pour leur travail méticuleux et leur faculté d’adaptation. <italique>(Applaudissements.)</italique><br/>J’ai le plaisir de vous annoncer les résultats du scrutin :<br/>        Nombre de votants                        149<br/>        Nombre de suffrages exprimés                143<br/>        Majorité absolue                        72<br/>                Pour l’adoption                24<br/>                Contre                119</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2645835" ordre_absolu_seance="279" code_grammaire="SCRUT_ADTS_1_9" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673647" valeur=" 640, 655 et 846" decision="">
+            <orateurs/>
+            <texte>
+              <italique>(Les amendements identiques n<exposant>os</exposant> 640, 655 et 846 ne sont pas adoptés.)<br/> (Applaudissements sur les bancs du groupe SOC.)</italique>
+            </texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2645836" ordre_absolu_seance="280" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673648" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>720908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9131.14">La leçon c’est que, même sans informatique, la démocratie continue.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="1" ordinal_prise="8" id_preparation="2645836" ordre_absolu_seance="281" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="-1" id_nomination_op="PM846634" code_grammaire="FIN_SEAN_1_0" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673654" valeur="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>720908</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte stime="9142.23">La suite de la discussion est renvoyée à la prochaine séance.</texte>
+          </paragraphe>
+        </point>
+      </point>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="8" id_preparation="2645838" ordre_absolu_seance="283" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="3673650" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2645839" ordre_absolu_seance="284" id_acteur="PA720908" id_mandat="PM843701" id_nomination_oe="0" id_nomination_op="PM846634" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3673651" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="9147.71">Prochaine séance, demain, à neuf heures :<br/> Suite de la discussion de la proposition de loi visant à sortir la France du piège du narcotrafic ;<br/> Suite de la discussion de la proposition de loi organique fixant le statut du procureur de la République national anti-criminalité organisée.<br/> La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2645840" ordre_absolu_seance="285" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3673652" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à vingt-trois heures cinquante.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="8" id_preparation="2645841" ordre_absolu_seance="286" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="3673653" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus<br/> Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>
