@@ -1,0 +1,1502 @@
+[
+  {
+    "acteur_ref": "PA793980",
+    "nom": "Fournier",
+    "prenom": "Charles",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Indre-et-Loire",
+    "nb_amendements": 14,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "cloud",
+      "data_center",
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Le présent amendement vise à introduire une obligation d'approvisionnement en énergies renouvelables à hauteur de 45% minimum dans le mix énergétique des centres de données reconnus comme projets industriels d’intérêt national majeur, au sens de l'article 19 de la loi relative à l'industrie verte. S",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Un projet d’intérêt national majeur, créé par la loi industrie verte, correspond à “tout projet industriel qui revêt, eu égard à son objet et à son envergure, notamment en termes d'investissement et d'emploi, une importance particulière pour la transition écologique ou la souveraineté na",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Cet amendement vise à introduire un critère relatif à la récupération de chaleur pour usage par les établissements publics dans la liste des critères selon lesquels le centre de données revêt une importance particulière pour la transition écologique. L’attribution du statut de projet d’intérêt natio",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Les centres de données sont considérés aujourd’hui comme des infrastructures essentielles à l'économie numérique, soutenant les services cloud, le stockage de données, et les applications de grande envergure telles que l'intelligence artificielle. Toutefois, ces centres génèrent un impact environnem",
+        "themes": [
+          "cloud",
+          "data_center",
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Cet amendement vise faciliter la mise en cohérence les missions du schéma de cohérence territoriale mentionnées à l’alinéa 3 de l’article avec les missions des plans climat-air-énergie territoriaux, afin d’assurer un développement territorial cohérent avec les objectifs climatiques et énergétiques. ",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement vise à rétablir le 1° du I de l’article 15 tel que le prévoyait le texte de la commission afin de permettre aux communes ou groupement de communes de se prononcer dans leur SCoT sur l’implantation des centres de données. L’implantation des centres de données constitue un enjeu majeur ",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Il convient de prévoir l’application de critères environnementaux aux centres de données qualifiés de projets d’intérêt national majeur pour la transition écologique. En effet, d’une part l’industrie est capable de prévoir des indicateurs chiffrés, par exemple : · le code de conduite européen pour l",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-03",
+        "extrait": "Les centres de données sont considérés aujourd’hui comme des infrastructures essentielles à l'économie numérique, soutenant les services cloud, le stockage de données, et les applications de grande envergure telles que l'intelligence artificielle. Toutefois, ces centres génèrent un impact environnem",
+        "themes": [
+          "cloud",
+          "data_center",
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Le présent amendement vise à inciter fortement l’activité industrielle, forte consommatrice de chaleur, à décarboner ses consommations. Les gisements non exploités de chaleur fatale à proximité de réseaux de chaleur est estimé à 15 TWh. Il s’agit d’étendre dès 2025, l’obligation pour toute installat",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Le travail de connaissance des centres de données du territoire mené par le SCOT et l’identification des enjeux spécifiques et stratégiques liés identifiés dans le PADD, doivent nécessairement être menés en étroite collaboration avec les Plans Climat Air Énergie Territoriaux (PCAET), qui intègrent d",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-03",
+        "extrait": "En l’état l’article 15 permettrait une libre interprétation des activités « directement liées », or celles-ci peuvent être de plusieurs ordres. Il sera difficile d’empêcher un opérateur bénéficiant du label PINM pour un projet de centre de données dans un premier temps d’y associer par la suite un e",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-03",
+        "extrait": "Le présent amendement vise à introduire une obligation d'approvisionnement en énergies renouvelables à hauteur de 45% minimum dans le mix énergétique des centres de données reconnus comme projets industriels d’intérêt national majeur, au sens de l'article 19 de la loi relative à l'industrie verte. S",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-29",
+        "extrait": "Le présent amendement a pour objet le maintien du Fonds de Développement de l’Inclusion (FDI) pour un montant total de 40 000 000 euros. Le FDI est destiné à soutenir et développer les Structures d’insertion par l’activité économique (SIAE) : Ateliers Chantier d’Insertion (ACI), Associations Intermé",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-08",
+        "extrait": "Le présent amendement a pour objet le maintien du Fonds de Développement de l’Inclusion (FDI) pour un montant total de 40 000 000 euros. Le FDI est destiné à soutenir et développer les Structures d’insertion par l’activité économique (SIAE) : Ateliers Chantier d’Insertion (ACI), Associations Intermé",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 14
+  },
+  {
+    "acteur_ref": "PA795362",
+    "nom": "Belluco",
+    "prenom": "Lisa",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Vienne",
+    "nb_amendements": 9,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "data_center",
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Cet amendement supprime la notion raison impérative d’intérêt public majeur (RIIPM). La raison impérative d’intérêt public majeur est un outil pour contourner le droit. Les projets qui en relèvent sont définis par décret, sans transparence dans les choix opérés, sans regard du parlement, sans condit",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "L’objet de cet amendement est de conditionner l’implantation de data centers et d’industries à la présence d’une ressource en eau en qualité et en quantité suffisante. Si seuls 5 % de l’eau consommé en France l’est pour les usages industriels, certains procédés contribuent à une consommation très él",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "L'objet de cet amendement est de compléter l'article L. 312‑70 du présent code, qui prévoit une exonération pour les infrastructures numériques qui auraient des engagements environnementaux. S'il est vertueux de vouloir récompenser les efforts effectués, étant donnée la croissance de la pollution as",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-03",
+        "extrait": "Cet amendement vise à rétablir la Commission Supérieure du Numérique et des Postes (CSNP). Le Gouvernement par le présent projet de loi vise à supprimer les organes, organismes et comités ne s’étant pas réunis durant les 12 derniers mois. Ces suppressions font suite au discours de politique général ",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "L'objet de cet amendement est de supprimer les dérogations permettant la destruction des espèces protégées. D'une part, ces dérogations se multiplient pour permettre coûte que coûte des projets toujours plus nombreux : industries, unité d'énergie bas carbone, énergie nucléaire, data centers, infrast",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "L’objet de cet amendement est de conditionner l’implantation de data centers et d’industries à la présence d’une ressource en eau en qualité et en quantité suffisante. Si seuls 5 % de l’eau consommé en France l’est pour les usages industriels, certains procédés contribuent à une consommation très él",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Si l'autorité administrative doit pouvoir refuser l'implantation d'un data center faute d'eau, la logique doit être étendue à l'ensemble des projets. C'est l'objet de cet amendement.",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Le groupe écologiste est opposé à la notion de la notion de PINM, plus encore à son extension aux data centers. Il faut donc supprimer ces alinéas.",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "L'objet de cet amendement est de compléter l'article L. 312‑70 du présent code, qui prévoit une exonération pour les infrastructures numériques qui auraient des engagements environnementaux. S'il est vertueux de vouloir récompenser les efforts effectués, étant donnée la croissance de la pollution as",
+        "themes": [
+          "data_center"
+        ]
+      }
+    ],
+    "nb_total": 9
+  },
+  {
+    "acteur_ref": "PA736201",
+    "nom": "Taillé-Polian",
+    "prenom": "Sophie",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Val-de-Marne",
+    "nb_amendements": 9,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-06-25",
+        "extrait": "Cet amendement vise à compléter la définition de la mission d’archivage audiovisuel de l’Ina afin de renforcer l’exigence de protection des données dont elle à la charge face aux tentatives de pillage des contenus sans autorisation afin d’entraîner des IA génératives.",
+        "themes": [
+          "souverainete_numerique",
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-06-26",
+        "extrait": "Cet amendement vise à garantir que la mise en œuvre des projets de développement intégrant les nouvelles techniques de diffusion et de production puisse se faire en concertation avec les représentants élus des salariés. L'usage des nouvelles techniques de diffusion et de production, notamment de l'i",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-06-25",
+        "extrait": "Cet amendement vise à compléter la définition de la mission d’innovation et de recherche de l’Ina dans le domaine de la production et de la communication audiovisuelle par l’étude des phénomènes de désinformation à grande échelle. L’accélération des tensions géopolitiques liées à la guerre en Ukrain",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-06-25",
+        "extrait": "Cet amendement vise à encadrer le recours à la sous traitance de contenus audiovisuels par le service public de l’audiovisuel. En plus d’éloigner les médias publics de leur mission de service public, la stratégie de sous traitance est essentiellement une stratégie d’affichage qui permet aux médias p",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-30",
+        "extrait": "Cet amendement vise à investir 100 millions d’€ supplémentaires dans l’action 2 Aides à la presse du programme 180 – Presse et médias. Pour respecter les règles de recevabilité financière imposées par l’article 40 de la Constitution, l’amendement prélève en CP et AE 100 millions d’€ l’action 01 – Li",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-17",
+        "extrait": "Cet amendement vise à investir 100 millions d’€ supplémentaires dans l’action 2 Aides à la presse du programme 180 – Presse et médias. Pour respecter les règles de recevabilité financière imposées par l’article 40 de la Constitution, l’amendement prélève en CP et AE 100 millions d'€ l'action 01 – Li",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-30",
+        "extrait": "Cet amendement travaillé avec le SIRTI vise à créer un nouveau programme « Aide au déploiement du DAB+ » afin de favoriser le déploiement de ce nouveau mode de diffusion par les acteurs radiophoniques. Alors que le média radio connaît une crise de modèle économique du fait de la captation de ses rev",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-17",
+        "extrait": "Cet amendement vise à investir 100 millions d’€ supplémentaires dans l’action 2 Aides à la presse du programme 180 – Presse et médias. Pour respecter les règles de recevabilité financière imposées par l’article 40 de la Constitution, l’amendement prélève en CP et AE 100 millions d’€ l’action 01 – Li",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-29",
+        "extrait": "Ce amendement travaillé avec le SIRTI vise à créer un nouveau programme « Aide au déploiement du DAB+ » afin d'accompagner le déploiement de ce mode de diffusion par les acteurs radiophoniques. Le média radio connaît une crise de modèle liée à la captation de ses revenus publicitaires par les géants",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      }
+    ],
+    "nb_total": 9
+  },
+  {
+    "acteur_ref": "PA793744",
+    "nom": "Stambach-Terrenoir",
+    "prenom": "Anne",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Haute-Garonne",
+    "nb_amendements": 8,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "data_center"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à la suppression de l'article 15, qui prévoit notamment une régression majeure de nos objectifs de réduction de l'artificialisation des sols pour les projets industriels, et qui prévoit de réduire les exigences environnementales pour l'implantation de data cente",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à la suppression de l'alinéa 38 de l'article 15, qui prévoit une régression majeure de nos objectifs de réduction de l'artificialisation des sols pour les projets industriels et les projets d'intérêt national majeur, qui pourraient inclure les data center en app",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à la suppression de l'alinéa 26 de l'article 15, qui facilite la destruction d'espèces protégées pour l'implantation de data center. Cet alinéa prévoit en effet de permettre par décret de reconnaître de façon anticipée à un projet de data center le caractère de ",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement de repli du groupe LFI-NFP prévoit que l’autorité administrative peut refuser l’octroi du permis de construire pour les centres de données dont l'implantation est prévue sur une surface non-artificialisée. Il vise à cibler l'implantation de data center sur les surfaces artificialisées",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement de repli du groupe LFI-NFP vise à mieux encadrer la définition des data center pouvant être qualifiés par décret de projets d'intérêt national majeur (PINM). Les PINM bénéficient notamment de facilités pour déroger à l'interdiction de destruction des espèces et habitats protégés, il c",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à la suppression de l'alinéa 9 de l'article 15, qui prévoit de permettre, par décret, de qualifier un centre de données de projet d'intérêt national majeur. Cela aura pour effet, notamment, de faciliter la destruction d'espèces et d'habitats protégés pour l'impl",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement de repli du groupe LFI-NFP prévoit que seuls les projets de data center implantés sur des surfaces déjà artificialisées puissent être qualifiées par décret de projet d'intérêt national majeur (PINM), et bénéficier ainsi de certaines facilités d'urbanisme et environnementales. Le statu",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à la suppression de l'alinéa 31 de l'article 15, qui facilite la destruction d'espèces protégées pour l'implantation de data center. Cet alinéa prévoit en effet de permettre par décret de reconnaître de façon anticipée à un projet de data center le caractère de ",
+        "themes": [
+          "data_center"
+        ]
+      }
+    ],
+    "nb_total": 8
+  },
+  {
+    "acteur_ref": "PA841507",
+    "nom": "Bonnet",
+    "prenom": "Nicolas",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Puy-de-Dôme",
+    "nb_amendements": 8,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "data_center",
+      "ia_calcul",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Cet amendement vise à préciser l’intégration d’une mention explicite de l’intelligence artificielle au mandat de la CNIL, en rappelant notamment le besoin de régulation de l’utilisation de l’intelligence artificielle afin de préserver les droits humains et les libertés fondamentales, le respect du d",
+        "themes": [
+          "souverainete_numerique",
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "La loi relative à l’industrie verte a notamment introduit la possibilité de remplacer l’enquête publique par une consultation publique. Alors que l'enquête publique, engagée par le préfet et conduite par un commissaire enquêteur, consiste à recueillir les avis de la population, la consultation du pu",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "A minima, l’intérêt pour la souveraineté nationale peut s’apprécier au regard du caractère public des données hébergées par les datacenters. Cet amendement propose de conditionner la possibilité de décréter un datacenter projet d’intérêt national majeur au stockage de données publiques, c'est-à-dire",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement vise à garantir la tenue d’une enquête publique pour les projets soumis à autorisation environnementale, et en particulier pour les datacenters. L’article 4 de la loi relative à l’industrie verte a introduit la possibilité de remplacer l’enquête publique par une consultation du public",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement propose de revenir sur le critère du montant d’investissement dans les conditions qui permettent à un datacenter d’être qualifié par décret de projet national d’intérêt majeur (PINM). En effet, il n’existe aucun lien entre le montant de l’investissement réalisé pour un datacenter et s",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement vise à préciser les conditions dans lesquelles un projet de data center peut être qualifié de projet d’intérêt national majeur, en insistant notamment sur la nécessité de prendre en compte la disponibilité de la ressource en eau et la consommation d’énergie. D’après l’édition 2024 de ",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement propose de conditionner la possibilité de décréter un datacenter projet national d’intérêt majeur (PINM) à l’hébergement et au traitement de données publiques, c'est-à-dire les données des administrations, des services publics et des entités de droit privé ou de droit public poursuiva",
+        "themes": [
+          "data_center",
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement vise à garantir la transparence des informations les plus importantes concernant un data center qui aurait été qualifié par décret de projet d’intérêt national majeur (PINM). En particulier, il vise à connaître l’identité du propriétaire et de l’opérateur, ainsi que les impacts climat",
+        "themes": [
+          "data_center"
+        ]
+      }
+    ],
+    "nb_total": 8
+  },
+  {
+    "acteur_ref": "PA795746",
+    "nom": "Léaument",
+    "prenom": "Antoine",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Essonne",
+    "nb_amendements": 8,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "data_center",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-02-21",
+        "extrait": "Par cet amendement, les député·es du groupe LFI-NFP visent à protéger la vie privée des citoyens en leur garantissant le chiffrement légitime des échanges afin de les protéger des entreprises de communication qui collectent les données mais aussi du risque d'arbitraire qui découlerait d'un grand pou",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-02-21",
+        "extrait": "Par cet amendement de repli, les députés du groupe LFI-NFP entendent s'assurer que les modalités d'application du présent article, relatif à la surveillance par caméras installées sur des aéronefs, respectent les garanties fondamentales en matière de protection et de traitement des données. La Commi",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-02-21",
+        "extrait": "Par cet amendement, les député·es du groupe LFI-NFP proposent d'assurer un contrôle du traitement des données autorisé au titre de l'article 3 par la Commission nationale de l'informatique et des libertés (CNIL). Cet article propose d'étendre aux agents de police judiciaire des finances le droit d'a",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-02-21",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP visent à garantir que les modalités d'application du présent article respectent les garanties élémentaires en matière de protection des données et de leur traitement. Nous proposons ainsi qu'un avis conforme de la CNIL soit requis concernant la mise ",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-02-21",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP souhaitent étendre l'extraterritorialité prévue par l'article au trafic d'armes et au trafic d'êtres humains. La présente proposition de loi se focalise sur la lutte contre le \"narcotrafic\", ce qui méconnaît l'architecture globale de la criminalité o",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-13",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP proposent de rétablir la durée initiale de conservation des données prévue par l'article de 6 mois, supprimant ainsi l'allongement à 2 ans adopté en commission. Cet article étend les pouvoirs des douanes en leur permettant notamment d'accéder aux don",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-13",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP proposent d'assurer un contrôle du traitement des données autorisé au titre de l'article 3 par la Commission nationale de l'informatique et des libertés (CNIL). Cet article propose d'étendre aux agents de police judiciaire des finances le droit d'acc",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-14",
+        "extrait": "Cet amendement d’appel vise à alerter le Gouvernement sur le manque de moyens de la Junalco. Devant la commission d’enquête du Sénat sur le narcotrafic, en décembre 2023, tous les magistrats de la Junalco et du Parquet de Paris ont pointé le manque de moyens humains et en particuliers informatiques.",
+        "themes": [
+          "data_center"
+        ]
+      }
+    ],
+    "nb_total": 8
+  },
+  {
+    "acteur_ref": "PA841251",
+    "nom": "Feld",
+    "prenom": "Mathilde",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Gironde",
+    "nb_amendements": 7,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-11-04",
+        "extrait": "Cet amendement du groupe LFI-NFP prévoit de maintenir en poste les 550 emplois que le gouvernement prévoit de supprimer. Il s'agit de s'assurer que les moyens humains de la DGFiP, notamment ceux destinés au contrôle fiscal, ne soient pas une nouvelle fois sacrifiés. Le maintien, le recrutement et la",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-24",
+        "extrait": "Par cet amendement, le groupe LFI-NFP souhaite voir émerger une quantification du coût de la lutte contre la fraude fiscale, au regard de ce qu'elle rapporte. Aujourd'hui l'objectif \"Améliorer l'efficacité de la lutte contre la fraude fiscale\" relatif au programme 156 est fourni d'indicateurs et de ",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-04",
+        "extrait": "Par cet amendement, le groupe LFI-NFP souhaite voir émerger une quantification du coût de la lutte contre la fraude fiscale, au regard de ce qu'elle rapporte. Aujourd'hui l'objectif \"Améliorer l'efficacité de la lutte contre la fraude fiscale\" relatif au programme 156 est fourni d'indicateurs et de ",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-04",
+        "extrait": "Par cet amendement, nous souhaitons voir émerger une quantification du coût de la lutte contre la fraude fiscale, au regard de ce qu’elle rapporte. Aujourd’hui l’objectif « Améliorer l’efficacité de la lutte contre la fraude fiscale » relatif au programme 156 est fourni d’indicateurs et de sous-indi",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-24",
+        "extrait": "Cet amendement du groupe LFI-NFP prévoit de maintenir en poste les 550 emplois que le Gouvernement prévoit de supprimer. Il s’agit de s’assurer que les moyens humains de la DGFiP, notamment ceux destinés au contrôle fiscal, ne soient pas une nouvelle fois sacrifiés. Le maintien, le recrutement et la",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-08",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP demandent la réalisation d’un document budgétaire permettant d’évaluer précisément l’ensemble des moyens mis en œuvre dans la lutte contre l’évasion fiscale, et la répartition de ces moyens entre les typologies de personnes contrôlées. Un tel documen",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-09-20",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP demandent la réalisation d’un document budgétaire permettant d’évaluer précisément l’ensemble des moyens mis en œuvre dans la lutte contre l’évasion fiscale, et la répartition de ces moyens entre les typologies de personnes contrôlées. Un tel documen",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 7
+  },
+  {
+    "acteur_ref": "PA841191",
+    "nom": "Nosbé",
+    "prenom": "Sandrine",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Isère",
+    "nb_amendements": 6,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "data_center",
+      "ia_calcul",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-19",
+        "extrait": "Par cet amendement, les député.es du groupe LFI-NFP proposent de supprimer l'article 23. Cet article est au mieux inutile, au pire néfaste. D'une part, il prévoit \"la prise en compte des enjeux d’innovation dans l’ensemble des missions de la Commission nationale de l'informatique et des libertés (CN",
+        "themes": [
+          "souverainete_numerique",
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à la suppression de l'article 15, qui prévoit des régressions majeures en matière de protection de l'environnement, en particulier en facilitant la destruction d'espèces et d'habitats protégés au profit de grands projets inutiles et imposés, et en favorisant l'a",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Par cet amendement, le groupe LFI-NFP s'oppose à cette énième suppression qui, comme les 31 autres prévues à cet article 1er, procède d'un même mode opératoire : supprimer à coups de hâche, de manière hasardeuse, sans la moindre étude d'impact et sans la moindre évaluation de fond de l'activité réel",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Par cet amendement, les député.es du groupe LFI-NFP proposent de supprimer l'article 23. Cet article est au mieux inutile, au pire néfaste. D'une part, il prévoit \"la prise en compte des enjeux d’innovation dans l’ensemble des missions de la Commission nationale de l'informatique et des libertés (CN",
+        "themes": [
+          "souverainete_numerique",
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Par cet amendement de repli, les député.es LFI-NFP s'opposent à la réforme du collège de la CNIL qui ne vise qu'à l'entrisme des intérêts privés, et contre l'avis même de la Commission. Introduite en commission, cette mesure qui met mal à l'aise jusqu'au gouvernement, modifie la nature-même de son c",
+        "themes": [
+          "souverainete_numerique",
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Par cet amendement de repli, les député.es du groupe LFI-NFP proposent a minima de supprimer la dérogation prévue par cet article 23. La droite sénatoriale a prévu une dérogation aux règles relatives au droit de communication des documents administratifs s'agissant des documents reçus ou produits pa",
+        "themes": [
+          "souverainete_numerique",
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 6
+  },
+  {
+    "acteur_ref": "PA795982",
+    "nom": "Saintoul",
+    "prenom": "Aurélien",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Hauts-de-Seine",
+    "nb_amendements": 5,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-26",
+        "extrait": "Par cet amendement, le groupe LFI-NFP réaffirme son souhait de s’opposer à la création de la holding « France Médias ». Cette holding est d’autant plus inutile qu’elle implique de profonds changements pour l’INA, alors même qu’ils sont injustifiés. Depuis sa création en 1974, l’INA - actuellement un",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-06-20",
+        "extrait": "Par cet amendement, le groupe LFI-NFP réaffirme son souhait de s’opposer à la création de la holding “France Médias”. Cette holding est d’autant plus inutile qu’elle implique de profonds changements pour l’INA, alors même qu’ils sont injustifiés. Depuis sa création en 1974, l’INA - actuellement un é",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-06-20",
+        "extrait": "Par cet amendement, le groupe LFI-NFP souhaite que l’application de visibilité des chaînes de la TNT sur les écrans connectés garantisse l’anonymat des utilisateurs et l’absence de recueil de leurs données personnelles. Face à l’atomisation croissante de l’offre sur les téléviseurs connectés, la vis",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-06-25",
+        "extrait": "Par cet amendement de cohérence, le groupe LFI-NFP souhaite réaffirmer son souhait d'exclure l’Institut national de l’audiovisuel (INA) du périmètre de la holding. Nous y sommes d'autant plus opposés que la rédaction de cet alinéa prévoit que l'INA se penche sur les opportunités que représente l'int",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-06-25",
+        "extrait": "Par cet amendement de cohérence, le groupe LFI-NFP souhaite réaffirmer son souhait d'exclure l’Institut national de l’audiovisuel (INA) du périmètre de la holding. Nous y sommes d'autant plus opposés que la rédaction de cet alinéa prévoit que l'INA se penche sur les opportunités que représente l'int",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 5
+  },
+  {
+    "acteur_ref": "PA796090",
+    "nom": "Caron",
+    "prenom": "Aymeric",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Paris",
+    "nb_amendements": 5,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-06-20",
+        "extrait": "Par cet amendement du groupe LFI-NFP, nous nous opposons à la transformation de l'INA - établissement public à caractère industriel et commercial - en société anonyme. Cela ne répond absolument pas aux nouveaux défis qui émergent dans le domaine de la protection des archives audiovisuelles, telles q",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-29",
+        "extrait": "Par cet amendement, nous proposons de créer un fond de soutien pour l'installation des librairies indépendantes dans les centres-villes des communes rurales. La rentabilité économique des librairies est très faible. Alors que le prix du livre est relativement stable, notamment en raison de son encad",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-08",
+        "extrait": "Par cet amendement, nous proposons de créer un fond de soutien pour l'installation des librairies indépendantes dans les centres-villes des communes rurales. La rentabilité économique des librairies est très faible. Alors que le prix du livre est relativement stable, notamment en raison de son encad",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-18",
+        "extrait": "Par cet amendement, le groupe LFI-NFP souhaite réaffirmer la nécessité d’un financement pérenne et indépendant pour l’audiovisuel public, en raison notamment de son importance pour nos démocraties, et propose, en plus de l’institution d’une contribution affectée et progressive adossée à l’impôt sur ",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-18",
+        "extrait": "Par cet amendement, nous proposons de créer un fond de soutien pour l’installation des librairies indépendantes dans les centres-villes des communes rurales. La rentabilité économique des librairies est très faible. Alors que le prix du livre est relativement stable, notamment en raison de son encad",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      }
+    ],
+    "nb_total": 5
+  },
+  {
+    "acteur_ref": "PA342384",
+    "nom": "Martin",
+    "prenom": "Élisa",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Isère",
+    "nb_amendements": 5,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "cloud",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-11-08",
+        "extrait": "Par cet amendement, le groupe LFI-NFP propose de mettre un coup d'arrêt au déploiement de la vidéosurveillance algorithmique (VSA), technologie de surveillance de masse particulièrement liberticide que nous combattons. La VSA consiste en l'ajout d'algorithmes aux caméras dans le but de détecter des ",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-18",
+        "extrait": "Le déroulement des dernières élections a mis en exergue de nombreuses difficultés qui obèrent, de fait, la possibilité pour nos concitoyen.nes d’exercer l’un de leur droit fondamental en démocratie : voter. Entre l’impossibilité ou la difficulté pour nombre d’entre elles et eux de s’inscrire sur les",
+        "themes": [
+          "cloud"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-02-05",
+        "extrait": "Par cet amendement les député.es du groupe LFI-NFP souhaitent supprimer cet article. Cet article prévoit d'étendre le droit de communication des données fiscales des personnes en infraction aux agents de sécurité dans les transports. Le but poursuivi par un tel article est de faciliter l'identificat",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-22",
+        "extrait": "Par cet amendement les député.es du groupe LFI-NFP souhaitent supprimer cet article. Cet article prévoit d'étendre le droit de communication des données fiscales des personnes en infraction aux agents de sécurité dans les transports. Le but poursuivi par un tel article est de faciliter l'identificat",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-22",
+        "extrait": "Par cet amendement les député.es du groupe LFI-NFP souhaitent supprimer cet article. L'article permet aux services internes de sécurité de la SNCF et de la RATP le traitement de données sensibles en cas d'infraction flagrante et créait donc une nouvelle dérogation à l'interdiction de la collecte et ",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      }
+    ],
+    "nb_total": 5
+  },
+  {
+    "acteur_ref": "PA720430",
+    "nom": "Bernalicis",
+    "prenom": "Ugo",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Nord",
+    "nb_amendements": 5,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-02-21",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP souhaitent limiter à 9 ans la conservation des données. La longueur des enquêtes en matière de crime organisé peut se heurter à ce délai de 3 ans et donc entraver la recherche des auteurs d’infractions. Le fichier reste un fichier contrôlé par un mag",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-02-21",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP souhaitent s'assurer que les modalités d'application du présent article respectent les garanties élémentaires en matière de protection des données et de leur traitement, en proposant un avis conforme de la CNIL concernant les conditions dans lesquell",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-02-21",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP souhaitent garantir que les modalités d'application du présent article respectent les garanties élémentaires en matière de protection des données et de leur traitement. La Commission nationale de l'informatique et des libertés (CNIL) est chargée de v",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-14",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP proposent de supprimer les dispositions prévoyant une dérogation aux règles de droit commun concernant le partage de renseignements entre les services de renseignement dits \"du second cercle\", à savoir la police, la gendarmerie nationale, la préfectu",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-14",
+        "extrait": "Par cet amendement, les députés du groupe LFI-NFP souhaitent limiter à 9 ans la conservation des données. La longueur des enquêtes en matière de crime organisé peut se heurter à ce délai de 3 ans et donc entraver la recherche des auteurs d’infractions. Le fichier reste un fichier contrôlé par un mag",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      }
+    ],
+    "nb_total": 5
+  },
+  {
+    "acteur_ref": "PA796062",
+    "nom": "Portes",
+    "prenom": "Thomas",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Seine-Saint-Denis",
+    "nb_amendements": 4,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-02-05",
+        "extrait": "Par cet amendement les député.es du groupe LFI-NFP souhaitent supprimer cet article. L’article prévoit que la SNCF puisse accéder au Fichier judiciaire automatisé des auteurs d'infractions sexuelles ou violentes (FIJAISV) pour toutes les activités en relation avec les mineurs. Ce fichier regroupe un",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-22",
+        "extrait": "Par cet amendement de repli, les député.es du groupe LFI-NFP souhaitent imposer un délai de cinq jours entre la décision administrative d'autorisation du recours à la vidéo surveillance algorithmique et la mise en œuvre effective. Le dispositif prévoit que le représentant de l’État dans le départeme",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-22",
+        "extrait": "Par cet amendement, le groupe LFI-NFP demande la suppression de cet article. Cet article vise à permettre aux services internes de sécurité de la SNCF et de la RATP de recourir à des traitements algorithmiques pour améliorer les délais de réponse aux réquisitions judiciaires. Le Quadrature du net dé",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-22",
+        "extrait": "Par cet amendement les député.es du groupe LFI-NFP souhaitent supprimer cet article. L’article prévoit que les entreprises de transports puissent accéder au Fichier judiciaire automatisé des auteurs d'infractions sexuelles ou violentes (FIJAISV) pour toutes les activités en relation avec les mineurs",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      }
+    ],
+    "nb_total": 4
+  },
+  {
+    "acteur_ref": "PA793452",
+    "nom": "Davi",
+    "prenom": "Hendrik",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Bouches-du-Rhône",
+    "nb_amendements": 3,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "data_center"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Par cet amendement de repli, le groupe Écologiste et social entend s’opposer à la construction de centres de données dans les espaces non-artificialisés. En France, entre 20 000 et 30 000 hectares d’espaces naturels, agricoles et forestiers sont consommés chaque année. Ce phénomène se poursuit à un ",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-03-20",
+        "extrait": "Par cet amendement de repli, le groupe Ecologiste et social entend s’opposer à la construction de centres de données dans les espaces non-artificialisés en conditionnant la reconnaissance d’un intérêt national majeur à l’absence d’artificialisation des sols par le projet. L’accaparement du foncier e",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Par cet amendement de repli, le groupe Écologiste et social entend s’opposer à la construction de centres de données dans les espaces non-artificialisés. En France, entre 20 000 et 30 000 hectares d’espaces naturels, agricoles et forestiers sont consommés chaque année. Ce phénomène se poursuit à un ",
+        "themes": [
+          "data_center"
+        ]
+      }
+    ],
+    "nb_total": 3
+  },
+  {
+    "acteur_ref": "PA842029",
+    "nom": "Lejeune",
+    "prenom": "Claire",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Essonne",
+    "nb_amendements": 3,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-19",
+        "extrait": "Par cet amendement, les député.es du groupe LFI-NFP proposent de supprimer l'article 22. Cet article simplifie considérablement le recours, par des promoteurs de recherches dans le domaine de la santé, aux traitements de données de santé à caractère personnel et leur utilisation à des fins de recher",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Par cet amendement, les député.es du groupe LFI-NFP proposent de supprimer l'article 22. Cet article simplifie considérablement le recours, par des promoteurs de recherches dans le domaine de la santé, aux traitements de données de santé à caractère personnel et leur utilisation à des fins de recher",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Par cet amendement, les députés LFI-NFP s'opposent avec force à la suppression absurde des CESER. Les CESER, déclinaisons régionales du Conseil Economique Social et Environnemental (CESE), sont des éléments fondamentaux de la démocratie, comme le rappelle la CGT dans un communiqué. Ils sont compléme",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 3
+  },
+  {
+    "acteur_ref": "PA795482",
+    "nom": "Meunier",
+    "prenom": "Manon",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Haute-Vienne",
+    "nb_amendements": 3,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "data_center",
+      "ia_calcul",
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-03-19",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à la suppression de l'article 15 bis introduit par le Sénat. En effet, l’article 15 bis prévoit de réaliser une coordination juridique en clarifiant que l’électricité consommée pour les besoins des centres de stockage de données numériques relève d’un tarif rédu",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Cet amendement de repli du groupe LFI-NFP vise à mieux maîtriser la consommation d'énergie et d'eau des datas center qui seraient qualifiés de projets d'intérêt national majeur (PINM) au titre du présent article. Il prévoit ainsi qu'un décret en Conseil d'Etat fixe des indicateurs chiffrés en matièr",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Par cet amendement, les député.es LFI-NFP s'opposent à la réforme du collège de la CNIL qui ne vise qu'à l'entrisme des intérêts privés, et contre l'avis même de la Commission. Introduite en commission, cette mesure qui met mal à l'aise jusqu'au gouvernement, modifie la nature-même de son collège. L",
+        "themes": [
+          "souverainete_numerique",
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 3
+  },
+  {
+    "acteur_ref": "PA795298",
+    "nom": "Legavre",
+    "prenom": "Jérôme",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Seine-Saint-Denis",
+    "nb_amendements": 3,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-11-04",
+        "extrait": "Cet amendement vise à amorcer un plan massif de recrutement d’agents de la direction générale des finances publiques, afin de créer service d’expertise dédié à l’étude des schémas de fraude et d’optimisation agressive qui alimenterait les paramètres des outils de data mining, tout en amplifiant le t",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-04",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à amorcer un plan massif de recrutement d'agents de la DGFiP, afin de créer service d'expertise dédié à l'étude des schémas de fraude et d'optimisation agressive qui alimenterait les paramètres des outils de data mining, tout en amplifiant le travail de lutte co",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-24",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à amorcer un plan massif de recrutement d'agents de la DGFiP, afin de créer service d'expertise dédié à l'étude des schémas de fraude et d'optimisation agressive qui alimenterait les paramètres des outils de data mining, tout en amplifiant le travail de lutte co",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 3
+  },
+  {
+    "acteur_ref": "PA791824",
+    "nom": "Legrain",
+    "prenom": "Sarah",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Paris",
+    "nb_amendements": 3,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-11-08",
+        "extrait": "Par cet amendement du groupe LFI-NFP, nous souhaitons dénoncer le niveau prévu de financement du Fonds national pour l’emploi dans le spectacle (FONPEPS) dans le PLF 2025. Destiné aux entreprises du spectacle vivant et enregistré ainsi qu’aux artistes et techniciens qu’elles emploient, les aides, pr",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-08",
+        "extrait": "Par cet amendement d'appel du groupe LFI-NFP, nous souhaitons alerter le Gouvernement sur la précarité économique structurelle des artistes-auteurs et la nécessité de mettre en place un revenu de remplacement afin de leur permettre d'y faire face. Les artistes-auteurs sont des actrices et des acteur",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-08",
+        "extrait": "Par cet amendement de repli du groupe LFI-NFP, nous souhaitons dénoncer à nouveau le niveau prévu de financement du Fonds national pour l’emploi dans le spectacle (FONPEPS) dans le PLF 2025. Destiné aux entreprises du spectacle vivant et enregistré ainsi qu’aux artistes et techniciens qu’elles emplo",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 3
+  },
+  {
+    "acteur_ref": "PA794138",
+    "nom": "Amiot",
+    "prenom": "Ségolène",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Loire-Atlantique",
+    "nb_amendements": 3,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-10-30",
+        "extrait": "Par cet amendement, le groupe LFI-NFP propose de soutenir l'Anact par une dotation supplémentaire permettant la capitalisation des connaissances dans ses propres effectifs. Les moyens dédiés à l'amélioration des conditions de travail subissent de fortes baisses. La dotation du Fonds pour l'améliorat",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-11-08",
+        "extrait": "Par cet amendement, le groupe LFI-NFP propose de soutenir l'Anact par une dotation supplémentaire permettant la capitalisation des connaissances dans ses propres effectifs. Les moyens dédiés à l'amélioration des conditions de travail subissent de fortes baisses. La dotation du Fonds pour l'améliorat",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-31",
+        "extrait": "Par cet amendement, le groupe LFI-NFP propose de soutenir l'Anact par une dotation supplémentaire permettant la capitalisation des connaissances dans ses propres effectifs. Les moyens dédiés à l'amélioration des conditions de travail subissent de fortes baisses. La dotation du Fonds pour l'améliorat",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 3
+  },
+  {
+    "acteur_ref": "PA842045",
+    "nom": "Ozenne",
+    "prenom": "Julie",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Essonne",
+    "nb_amendements": 2,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Le présent amendement vise à conserver la configuration actuelle du collège de la Commission nationale de l’informatique et des libertés (CNIL) composé, entre autres, de cinq personnalités qualifiées désignées en raison de leur connaissance du numérique et des questions touchant aux libertés individ",
+        "themes": [
+          "ia_calcul"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2025-04-04",
+        "extrait": "Afin de garantir la présence de spécialistes en informatique et intelligence artificielle et de chercheurs au sein du collège de la CNIL, qui ne peuvent en principe être nommés que parmi les personnalités qualifiées au sein du collège, cet amendement de repli vise à intégrer au sein du collège de la",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 2
+  },
+  {
+    "acteur_ref": "PA794146",
+    "nom": "Laernoes",
+    "prenom": "Julie",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Loire-Atlantique",
+    "nb_amendements": 2,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "data_center"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-10-18",
+        "extrait": "L'article 10 du présent projet de loi de finances a pour objet de mettre en conformité - avec les évolutions du droit de l’Union européenne - le champ d’application du taux réduit de TVA applicable à la livraison de chaleur et de froid dans les réseaux alimentés par au moins 50% d’énergies renouvela",
+        "themes": [
+          "data_center"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-13",
+        "extrait": "L'article 3 du présent projet de loi de finances a pour objet de mettre en conformité - avec les évolutions du droit de l’Union européenne - le champ d’application du taux réduit de TVA applicable à la livraison de chaleur et de froid dans les réseaux alimentés par au moins 50% d’énergies renouvelab",
+        "themes": [
+          "data_center"
+        ]
+      }
+    ],
+    "nb_total": 2
+  },
+  {
+    "acteur_ref": "PA793444",
+    "nom": "Bompard",
+    "prenom": "Manuel",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Bouches-du-Rhône",
+    "nb_amendements": 2,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "cloud"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-11-12",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à donner à l'Arcep les moyens d'effectuer ses missions. L'Arcep joue un rôle clé dans la régulation des réseaux internet, mobile et postaux. Ses missions sont régulièrement enrichies, ce qui sera une nouvelle fois le cas en 2025. L'ARCEP va en effet devoir prend",
+        "themes": [
+          "cloud"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-24",
+        "extrait": "Cet amendement du groupe LFI-NFP vise à donner à l'Arcep les moyens d'effectuer ses missions. L'Arcep joue un rôle clé dans la régulation des réseaux internet, mobile et postaux. Ses missions sont régulièrement enrichies, ce qui sera une nouvelle fois le cas en 2025. L'ARCEP va en effet devoir prend",
+        "themes": [
+          "cloud"
+        ]
+      }
+    ],
+    "nb_total": 2
+  },
+  {
+    "acteur_ref": "PA721202",
+    "nom": "Coquerel",
+    "prenom": "Éric",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Seine-Saint-Denis",
+    "nb_amendements": 2,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-10-18",
+        "extrait": "Par cet amendement, le groupe LFI-NFP propose d'instaurer une véritable taxe sur les grandes sociétés du numérique, en particulier les GAFAM. Une fois pleinement opérationnelle, cette taxe pourra alors remplacer la taxe GAFA mise en place par Bruno Le Maire en 2019. L’actuelle taxe GAFA s’est révélé",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-10-13",
+        "extrait": "Par cet amendement, le groupe LFI-NFP propose d'instaurer une véritable taxe sur les grandes sociétés du numérique, en particulier les GAFAM. Une fois pleinement opérationnelle, cette taxe pourra alors remplacer la taxe GAFA mise en place par Bruno Le Maire en 2019. L’actuelle taxe GAFA s’est révélé",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      }
+    ],
+    "nb_total": 2
+  },
+  {
+    "acteur_ref": "PA841167",
+    "nom": "",
+    "prenom": "",
+    "groupe": "",
+    "groupe_abrev": "",
+    "departement": "",
+    "nb_amendements": 2,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "souverainete_numerique"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-10-08",
+        "extrait": "Par cet amendement, le groupe LFI-NFP demande la production d’un rapport permettant d’évaluer l’impact des différents plans gouvernementaux sur la souveraineté des petites et moyennes entreprises. Depuis la crise sanitaire de 2020, de nombreux plans ont été mis en place : « Plan d’urgence face à la ",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      },
+      {
+        "source": "amendement",
+        "date": "2024-09-20",
+        "extrait": "Par cet amendement, le groupe LFI-NFP demande la production d’un rapport permettant d’évaluer l’impact des différents plans gouvernementaux sur la souveraineté des petites et moyennes entreprises. Depuis la crise sanitaire de 2020, de nombreux plans ont été mis en place : « Plan d’urgence face à la ",
+        "themes": [
+          "souverainete_numerique"
+        ]
+      }
+    ],
+    "nb_total": 2
+  },
+  {
+    "acteur_ref": "PA841463",
+    "nom": "Mercier",
+    "prenom": "Estelle",
+    "groupe": "Socialistes et apparentés",
+    "groupe_abrev": "SOC",
+    "departement": "Meurthe-et-Moselle",
+    "nb_amendements": 1,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-11-08",
+        "extrait": "Le présent amendement a pour objet le maintien du Fonds de Développement de l’Inclusion (FDI) pour un montant total de 40 000 000 euros. Le FDI est destiné à soutenir et développer les Structures d’insertion par l’activité économique (SIAE) : Ateliers Chantier d’Insertion (ACI), Associations Intermé",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 1
+  },
+  {
+    "acteur_ref": "PA841419",
+    "nom": "Girard",
+    "prenom": "Damien",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Morbihan",
+    "nb_amendements": 1,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "cloud"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-10-19",
+        "extrait": "Le code de l’environnement fixe une redevance pour la pêche récréative en eau douce, pour la protection du milieu aquatique. La pêche récréative embarquée en mer impacte les écosystèmes marins : elle peut perturber les habitats marins comme les fonds marins, les récifs coralliens, les herbiers marin",
+        "themes": [
+          "cloud"
+        ]
+      }
+    ],
+    "nb_total": 1
+  },
+  {
+    "acteur_ref": "PA796018",
+    "nom": "Simonnet",
+    "prenom": "Danielle",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Paris",
+    "nb_amendements": 1,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-11-04",
+        "extrait": "Par cet amendement, nous proposons de revenir sur les suppressions de postes à la Direction générale des finances publiques qui ont été justifiées par le recours à l’”intelligence artificielle” (IA) dans le contrôle fiscal. En effet, si l’intelligence artificielle peut éventuellement être un outil à",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 1
+  },
+  {
+    "acteur_ref": "PA794478",
+    "nom": "Guiraud",
+    "prenom": "David",
+    "groupe": "La France insoumise - Nouveau Front Populaire",
+    "groupe_abrev": "LFI-NFP",
+    "departement": "Nord",
+    "nb_amendements": 1,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2024-10-13",
+        "extrait": "Par cet amendement nous proposons de modifier le calcul pour la compensation de CVAE perdue par les collectivités, afin de ne pas retenir les années 2021 et 2022 car ces années correspondent au produit de CVAE versée en 2020 par les entreprises, année marquée par l'épidémie de covid-19. Afin de comp",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 1
+  },
+  {
+    "acteur_ref": "PA840947",
+    "nom": "Hervieu",
+    "prenom": "Catherine",
+    "groupe": "Écologiste et Social",
+    "groupe_abrev": "ECOS",
+    "departement": "Côte-d'or",
+    "nb_amendements": 1,
+    "nb_prises_de_parole": 0,
+    "groupes_thematiques": [
+      "ia_calcul"
+    ],
+    "extraits": [
+      {
+        "source": "amendement",
+        "date": "2025-07-03",
+        "extrait": "Les élus locaux ont besoin d'être informés sur les enjeux du numérique, de cybersécurité, et sensibilisé de l'utilisation de l'IA. Ce module permettrait une acculturation suffisante des élus au numérique et notamment aux outils numériques. Les élus demandent des informations pour répondre à leurs be",
+        "themes": [
+          "ia_calcul"
+        ]
+      }
+    ],
+    "nb_total": 1
+  }
+]
