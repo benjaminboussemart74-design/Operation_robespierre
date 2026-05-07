@@ -209,7 +209,11 @@ def extract_qe_eolien() -> list[dict]:
         for q in questions:
             auteur = q.get("auteur", {})
             if isinstance(auteur, dict):
-                auteur_ref = auteur.get("acteurRef", "")
+                identite = auteur.get("identite", {})
+                if isinstance(identite, dict) and identite.get("acteurRef"):
+                    auteur_ref = identite["acteurRef"]
+                else:
+                    auteur_ref = auteur.get("acteurRef", "")
             else:
                 auteur_ref = q.get("auteurRef", "")
             if not isinstance(auteur_ref, str):
