@@ -221,8 +221,13 @@ def extract_qe_eolien() -> list[dict]:
             if auteur_ref not in DEPUTES_SOMME:
                 continue
 
-            texte_q = strip_html(q.get("texteQuestion", q.get("texte", q.get("corps", ""))))
-            texte_r = strip_html(q.get("texteReponse", q.get("reponse", "")))
+            tq = q.get("textesQuestion", {})
+            tq_obj = tq.get("texteQuestion", {}) if isinstance(tq, dict) else {}
+            texte_q = strip_html(tq_obj.get("texte", "") if isinstance(tq_obj, dict) else "")
+
+            tr = q.get("textesReponse", {})
+            tr_obj = tr.get("texteReponse", {}) if isinstance(tr, dict) else {}
+            texte_r = strip_html(tr_obj.get("texte", "") if isinstance(tr_obj, dict) else "")
             full = f"{texte_q} {texte_r}"
 
             if not has_any_match_eolien(full):
@@ -238,9 +243,9 @@ def extract_qe_eolien() -> list[dict]:
                 "groupe": dep["groupe"],
                 "circo": dep["circo"],
                 "role": "Auteur",
-                "uid": q.get("uid", q.get("numero", "")),
-                "date": q.get("dateDepot", q.get("date", "")),
-                "ministere": q.get("ministereInterroge", {}).get("libelle", "") if isinstance(q.get("ministereInterroge"), dict) else "",
+                "uid": q.get("uid", ""),
+                "date": (q.get("textesQuestion", {}) or {}).get("texteQuestion", {}).get("infoJO", {}).get("dateJO", q.get("dateDepot", "")),
+                "ministere": q.get("minInt", {}).get("developpe", "") if isinstance(q.get("minInt"), dict) else "",
                 "extrait": texte_q[:400],
                 "themes": sorted(matches.keys()),
                 "keyword_matches": matches,
