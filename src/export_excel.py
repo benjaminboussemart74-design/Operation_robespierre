@@ -52,18 +52,27 @@ THEME_LABELS = {
 
 # ── URLs Assemblée nationale ──────────────────────────────────────────────────
 def url_for(row: dict) -> str:
-    uid = row.get("uid", "") or row.get("Référence", "")
-    src = row.get("source", "") or row.get("Source", "")
+    uid = row.get("uid", "") or ""
+    src = row.get("source", "") or ""
+
     if src == "Question écrite" and uid.startswith("QANR"):
-        return f"https://www.assemblee-nationale.fr/dyn/17/questions/detail/QE/{uid}"
+        # ex: QANR5L17QE4735 → /dyn/17/questions/QANR5L17QE4735
+        return f"https://www.assemblee-nationale.fr/dyn/17/questions/{uid}"
+
     if src == "Amendement":
-        texte_ref = row.get("texte_ref", "")
-        if texte_ref and uid:
-            return f"https://www.assemblee-nationale.fr/dyn/17/amendements/{texte_ref}/{uid}"
-    if src == "Séance plénière" and uid.startswith("CRS"):
-        # uid format: CRSANR5L17S2025O1N014 → l17S2025O1N014
-        slug = uid.replace("CRSANR5", "").lower() if uid.startswith("CRSANR5") else uid.lower()
-        return f"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/{slug}"
+        texte_ref = row.get("texte_ref", "") or ""
+        numero = row.get("numero", "") or ""
+        # texte_ref ex: PRJANR5L17B1234 → extrait 1234
+        m = re.search(r"B(\d+)$", texte_ref)
+        bill = m.group(1) if m else texte_ref
+        if bill and numero:
+            return f"https://www.assemblee-nationale.fr/dyn/17/amendements/{bill}/AN/{numero}"
+
+    if src == "Séance plénière" and uid.startswith("CRSANR5L17"):
+        # ex: CRSANR5L17S2025O1N014 → /dyn/17/comptes-rendus/seance/l17S2025O1N014
+        slug = uid[len("CRSANR5"):].lower()
+        return f"https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/{slug}"
+
     return ""
 
 
