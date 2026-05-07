@@ -184,7 +184,7 @@ def extract_cr_eolien() -> list[dict]:
 def extract_qe_eolien() -> list[dict]:
     """Parse les questions écrites JSON si le fichier est présent."""
     qe_dir = BASE_DIR / "Questions_ecrites"
-    candidates = list(qe_dir.glob("*.json")) if qe_dir.exists() else []
+    candidates = list(qe_dir.glob("**/*.json")) if qe_dir.exists() else []
     if not candidates:
         return []
 
@@ -196,12 +196,24 @@ def extract_qe_eolien() -> list[dict]:
         except Exception:
             continue
 
-        questions = data if isinstance(data, list) else data.get("questions", data.get("question", []))
+        # Format individuel : {"question": {...}} ou liste ou dict direct
+        if isinstance(data, dict) and "question" in data:
+            questions = [data["question"]]
+        elif isinstance(data, list):
+            questions = data
+        else:
+            questions = data.get("questions", [data])
         if isinstance(questions, dict):
             questions = [questions]
 
         for q in questions:
-            auteur_ref = q.get("auteur", {}).get("acteurRef", "") if isinstance(q.get("auteur"), dict) else q.get("auteurRef", "")
+            auteur = q.get("auteur", {})
+            if isinstance(auteur, dict):
+                auteur_ref = auteur.get("acteurRef", "")
+            else:
+                auteur_ref = q.get("auteurRef", "")
+            if not isinstance(auteur_ref, str):
+                auteur_ref = ""
             if auteur_ref not in DEPUTES_SOMME:
                 continue
 
