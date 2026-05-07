@@ -7,6 +7,7 @@ Prérequis : pip install openpyxl
 """
 
 import json
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
