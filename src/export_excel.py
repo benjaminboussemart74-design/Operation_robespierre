@@ -60,14 +60,8 @@ def url_for(row: dict) -> str:
         # ex: QANR5L17QE4735 → /dyn/17/questions/QANR5L17QE4735
         return f"https://www.assemblee-nationale.fr/dyn/17/questions/{uid}"
 
-    if src == "Amendement":
-        texte_ref = row.get("texte_ref", "") or ""
-        numero = row.get("numero", "") or ""
-        # texte_ref ex: PRJANR5L17B1234 → extrait 1234
-        m = re.search(r"B(\d+)$", texte_ref)
-        bill = m.group(1) if m else texte_ref
-        if bill and numero:
-            return f"https://www.assemblee-nationale.fr/dyn/17/amendements/{bill}/AN/{numero}"
+    if src == "Amendement" and uid.startswith("AMANR"):
+        return f"https://www.assemblee-nationale.fr/dyn/17/amendements/{uid}"
 
     if src == "Séance plénière" and uid.startswith("CRSANR5L17"):
         # ex: CRSANR5L17S2025O1N014 → /dyn/17/comptes-rendus/seance/l17S2025O1N014
