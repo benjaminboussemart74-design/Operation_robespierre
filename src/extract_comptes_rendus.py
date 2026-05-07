@@ -31,22 +31,21 @@ def parse_orateur(orateurs_elem) -> tuple[str, str, str]:
         return "", "", ""
 
     orateur = orateurs_elem.find(_tag("orateur"))
-    if orateur is None:
-        raw = _text_of(orateurs_elem)
-    else:
-        raw = _text_of(orateur)
+    raw = _text_of(orateur if orateur is not None else orateurs_elem)
 
-    parts = [p.strip() for p in raw.split("\n") if p.strip()]
-    name = parts[0] if parts else ""
-    acteur_id = ""
-    role = ""
+    # Extrait l'ID numérique (5-6 chiffres) où qu'il soit dans la chaîne
+    # Formats rencontrés :
+    #   "M. le président 330008"
+    #   "Mme Cyrielle Chatelain\n  794008\n  rapporteur..."
+    id_match = re.search(r"\b(\d{5,6})\b", raw)
+    acteur_id = ("PA" + id_match.group(1)) if id_match else ""
 
-    # Second part is usually numeric id
-    if len(parts) >= 2 and parts[1].isdigit():
-        acteur_id = "PA" + parts[1]
-        role = parts[2] if len(parts) >= 3 else ""
-    elif len(parts) >= 2:
-        role = parts[1]
+    # Nom = tout ce qui précède le premier chiffre (ou toute la chaîne)
+    name_part = raw[:id_match.start()].strip() if id_match else raw.strip()
+    name = re.sub(r"\s+", " ", name_part).strip()
+
+    # Rôle = tout ce qui suit l'ID
+    role = re.sub(r"\s+", " ", raw[id_match.end():]).strip() if id_match else ""
 
     return name, acteur_id, role
 
