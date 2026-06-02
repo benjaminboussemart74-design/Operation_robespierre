@@ -1,8 +1,10 @@
 """
 Extrait toutes les interventions, amendements et questions écrites
-d'un député donné, sans filtre thématique.
+d'un député donné, avec filtre thématique optionnel.
 
-Usage : python3 src/extract_depute.py --acteur PA793940 [--nom "Cazenave"]
+Usage :
+  python3 src/extract_depute.py --acteur PA793940 --nom "Thomas Cazenave"
+  python3 src/extract_depute.py --acteur PA793940 --nom "Thomas Cazenave" --theme taxi
 """
 
 import csv
@@ -214,31 +216,65 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--acteur", required=True, help="ex: PA793940")
     parser.add_argument("--nom", default="", help="ex: Thomas Cazenave")
+    parser.add_argument("--theme", default="", help="filtre thématique: taxi, eolien, cloud")
     args = parser.parse_args()
 
     acteur_ref = args.acteur
     nom = args.nom or acteur_ref
 
+    # Chargement du filtre thématique
+    has_match = None
+    find_matches = None
+    theme_label = ""
+    if args.theme == "taxi":
+        from keywords_taxi_vtc import has_any_match_taxi, find_matches_taxi
+        has_match = has_any_match_taxi
+        find_matches = find_matches_taxi
+        theme_label = " [TAXI/VTC]"
+    elif args.theme == "eolien":
+        from keywords_eolien import has_any_match_eolien, find_matches_eolien
+        has_match = has_any_match_eolien
+        find_matches = find_matches_eolien
+        theme_label = " [ÉOLIEN]"
+    elif args.theme == "cloud":
+        from keywords import has_any_match, find_matches as _fm
+        has_match = has_any_match
+        find_matches = _fm
+        theme_label = " [CLOUD/NUMÉRIQUE]"
+
     print("═" * 60)
-    print(f"EXTRACTION — {nom.upper()} ({acteur_ref})")
+    print(f"EXTRACTION — {nom.upper()} ({acteur_ref}){theme_label}")
     print("═" * 60)
 
     print("\n[1/3] Amendements...")
     ams = extract_amendments(acteur_ref)
+    if has_match:
+        ams = [r for r in ams if has_match(f"{r.get('dispositif','')} {r.get('expose','')}")]
+        for r in ams:
+            r["keyword_matches"] = find_matches(f"{r.get('dispositif','')} {r.get('expose','')}")
     print(f"      → {len(ams)} amendements")
 
     print("[2/3] Séances plénières...")
     crs = extract_seances(acteur_ref)
+    if has_match:
+        crs = [r for r in crs if has_match(r.get("texte", ""))]
+        for r in crs:
+            r["keyword_matches"] = find_matches(r.get("texte", ""))
     print(f"      → {len(crs)} interventions")
 
     print("[3/3] Questions écrites...")
     qes = extract_qe(acteur_ref)
+    if has_match:
+        qes = [r for r in qes if has_match(f"{r.get('question','')} {r.get('reponse','')}")]
+        for r in qes:
+            r["keyword_matches"] = find_matches(f"{r.get('question','')} {r.get('reponse','')}")
     print(f"      → {len(qes)} questions")
 
     all_results = ams + crs + qes
     print(f"\n{'─'*60}")
-    print(f"TOTAL : {len(all_results)} entrées")
+    print(f"TOTAL : {len(all_results)} entrées{theme_label}")
     print(f"{'─'*60}\n")
 
-    save_results(all_results, nom)
+    prefix = f"{nom}_{args.theme}" if args.theme else nom
+    save_results(all_results, prefix)
     print("\nTerminé.")
