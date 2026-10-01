@@ -1,0 +1,716 @@
+<title>Rennes Métropole, bureau par bureau</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=JetBrains+Mono:wght@500;600;700&family=Playfair+Display:wght@700;900&display=swap">
+<style>
+/* Mise en page : en-tête + filet rouge, puis barre latérale (scrutin) | carte | panneau du bureau sélectionné */
+:root {
+  --bg:#FAFAF8; --bg-card:#FFFFFF; --bg-sidebar:#F2F2EE; --bg-hover:#EEEEE9;
+  --border:#DDDDD6; --border-mid:#B8B8B0; --border-dark:#2B2B2B;
+  --text:#1A1A1A; --text-secondary:#595959; --text-muted:#86867E;
+  --accent:#1B3F7B; --accent-hover:#15336A; --accent-light:#EEF2FA; --on-accent:#FFFFFF;
+  --red:#B01E28; --red-light:#FAF0F1;
+  --amber-com:#C27F20; --amber-light:#FFF8ED;
+  --map-empty:#ECECE6; --hatch:rgba(26,26,26,.26); --tip-bg:#1A1A1A; --tip-text:#FAFAF8;
+  /* Blocs politiques (couleurs partisanes, réservées aux données) */
+  --b-GR:#C8102E; --b-GAU:#F08CA8; --b-ECO:#00A86B; --b-CEN:#FF8C42;
+  --b-DRO:#2E5AAC; --b-ED:#0A1833; --b-REG:#8E5BB5; --b-DIV:#9A9A92;
+  --font-serif:'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-sans:'DM Sans', system-ui, -apple-system, sans-serif;
+  --font-mono:'JetBrains Mono', 'Courier New', monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg:#141413; --bg-card:#1C1C1A; --bg-sidebar:#232320; --bg-hover:#2C2C29;
+  --border:#34342F; --border-mid:#55554E; --border-dark:#D6D6CE;
+  --text:#EDEDE8; --text-secondary:#B4B4AC; --text-muted:#8A8A82;
+  --accent:#8FB0E8; --accent-hover:#A9C3EE; --accent-light:#1E2A40; --on-accent:#10182A;
+  --red:#E0525B; --red-light:#3A1C1F; --amber-com:#E0A548; --amber-light:#33281A;
+  --map-empty:#262623; --hatch:rgba(237,237,232,.30); --tip-bg:#EDEDE8; --tip-text:#141413;
+  --b-GR:#F0444B; --b-GAU:#F59AB4; --b-ECO:#1FB87A; --b-CEN:#FF9A55;
+  --b-DRO:#5C8BDB; --b-ED:#E6E8F2; --b-REG:#B07FD6; --b-DIV:#8A8A84;
+  color-scheme: dark;
+} }
+:root[data-theme="dark"] {
+  --bg:#141413; --bg-card:#1C1C1A; --bg-sidebar:#232320; --bg-hover:#2C2C29;
+  --border:#34342F; --border-mid:#55554E; --border-dark:#D6D6CE;
+  --text:#EDEDE8; --text-secondary:#B4B4AC; --text-muted:#8A8A82;
+  --accent:#8FB0E8; --accent-hover:#A9C3EE; --accent-light:#1E2A40; --on-accent:#10182A;
+  --red:#E0525B; --red-light:#3A1C1F; --amber-com:#E0A548; --amber-light:#33281A;
+  --map-empty:#262623; --hatch:rgba(237,237,232,.30); --tip-bg:#EDEDE8; --tip-text:#141413;
+  --b-GR:#F0444B; --b-GAU:#F59AB4; --b-ECO:#1FB87A; --b-CEN:#FF9A55;
+  --b-DRO:#5C8BDB; --b-ED:#E6E8F2; --b-REG:#B07FD6; --b-DIV:#8A8A84;
+  color-scheme: dark;
+}
+html, body { height:100%; }
+body { background:var(--bg); color:var(--text); font-family:var(--font-sans); font-size:14px; line-height:1.6; }
+.app { height:100%; display:flex; flex-direction:column; }
+button { font-family:inherit; color:inherit; }
+:focus-visible { outline:2px solid var(--accent); outline-offset:1px; }
+
+/* En-tête */
+header { background:var(--bg-card); border-bottom:1px solid var(--border); display:flex; align-items:center; justify-content:space-between; gap:16px; padding:0 28px; height:52px; flex-shrink:0; }
+.brand { display:flex; align-items:baseline; gap:16px; min-width:0; }
+.brand-name { font-family:var(--font-serif); font-weight:700; font-size:1.15rem; letter-spacing:-0.01em; white-space:nowrap; }
+.brand-name span { color:var(--red); }
+.meta { font-size:11px; color:var(--text-muted); letter-spacing:0.06em; text-transform:uppercase; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.rule { height:3px; background:var(--red); flex-shrink:0; }
+
+/* Corps */
+.body { flex:1; display:flex; min-height:0; }
+aside.side { width:300px; flex-shrink:0; background:var(--bg-sidebar); border-right:1px solid var(--border); overflow-y:auto; padding:20px 20px 28px; display:flex; flex-direction:column; gap:22px; }
+main { flex:1; min-width:0; overflow-y:auto; padding:24px 28px 0; display:flex; flex-direction:column; gap:16px; }
+aside.detail { width:340px; flex-shrink:0; background:var(--bg-card); border-left:1px solid var(--border); overflow-y:auto; padding:20px 20px 28px; display:flex; flex-direction:column; gap:18px; }
+
+.label { font-size:10px; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--text-muted); margin:0; }
+h1 { font-family:var(--font-serif); font-weight:900; font-size:clamp(1.6rem, 2.6vw, 2.3rem); letter-spacing:-0.02em; line-height:1.15; margin:0; text-wrap:balance; }
+h2 { font-family:var(--font-serif); font-weight:700; font-size:1.3rem; letter-spacing:-0.02em; line-height:1.1; margin:0; text-wrap:balance; }
+.lede { color:var(--text-secondary); margin:6px 0 0; max-width:68ch; }
+.group { display:flex; flex-direction:column; gap:8px; }
+
+/* Puces et boutons */
+.chips { display:flex; flex-wrap:wrap; gap:4px; }
+.chip { border:1px solid var(--border-mid); background:transparent; color:var(--text-secondary); font-size:12px; font-weight:500; padding:4px 9px; border-radius:2px; cursor:pointer; transition:border-color .15s, color .15s, background .15s; }
+.chip:hover { border-color:var(--text); color:var(--text); }
+.chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--on-accent); font-weight:600; }
+.chip:disabled { opacity:.35; cursor:default; }
+.chip.mono { font-family:var(--font-mono); font-size:11px; }
+.stepper { display:flex; gap:6px; align-items:center; }
+.btn2 { border:1px solid var(--border-mid); background:transparent; color:var(--text-secondary); font-size:12px; font-weight:500; padding:6px 10px; border-radius:2px; cursor:pointer; transition:border-color .15s, color .15s; }
+.btn2:hover { border-color:var(--text); color:var(--text); }
+.btn2:disabled { opacity:.35; cursor:default; }
+select { width:100%; font:500 12px var(--font-sans); color:var(--text); background:var(--bg-card); border:1px solid var(--border-mid); border-radius:2px; padding:6px 8px; }
+
+/* Indicateurs */
+.kpis { display:grid; grid-template-columns:repeat(4, minmax(0,1fr)); gap:1px; background:var(--border); border:1px solid var(--border); }
+.kpi { background:var(--bg-card); padding:12px 14px; min-width:0; }
+.kpi .v { font-family:var(--font-mono); font-weight:700; font-size:24px; letter-spacing:-0.02em; line-height:1.25; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; font-variant-numeric:tabular-nums; }
+.kpi .s { font-size:11px; color:var(--text-muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.dot { display:inline-block; width:10px; height:10px; margin-right:6px; vertical-align:baseline; }
+
+/* Carte */
+.mapwrap { position:relative; border:1px solid var(--border); background:var(--bg-card); height:min(72vh, 760px); min-height:380px; flex-shrink:0; }
+.mapwrap svg { width:100%; height:100%; display:block; cursor:grab; touch-action:none; }
+.mapwrap svg:active { cursor:grabbing; }
+.unit { stroke:var(--bg-card); stroke-width:.5px; vector-effect:non-scaling-stroke; }
+.unit:hover { stroke:var(--text); stroke-width:1.5px; }
+.commune-line { fill:none; stroke:var(--border-dark); stroke-width:.9px; vector-effect:non-scaling-stroke; pointer-events:none; opacity:.75; }
+.hatch-layer path { pointer-events:none; }
+.sel-marker { fill:none; stroke:var(--red); stroke-width:2.5px; vector-effect:non-scaling-stroke; pointer-events:none; }
+.mapctl { position:absolute; top:10px; right:10px; display:flex; flex-direction:column; gap:1px; background:var(--border); border:1px solid var(--border); }
+.mapctl button { width:30px; height:30px; border:0; background:var(--bg-card); font:600 14px var(--font-mono); cursor:pointer; color:var(--text); }
+.mapctl button:hover { background:var(--bg-hover); }
+.legend { position:absolute; left:10px; bottom:10px; background:var(--bg-card); border:1px solid var(--border); padding:10px 12px; max-width:min(330px, calc(100% - 20px)); display:flex; flex-direction:column; gap:6px; }
+.legend-rows { display:flex; flex-wrap:wrap; gap:4px 12px; font-size:11.5px; color:var(--text-secondary); }
+.legend-rows span { white-space:nowrap; }
+.ramp { display:flex; gap:2px; }
+.ramp div { flex:1; min-width:26px; }
+.ramp .sw { height:10px; }
+.ramp .t { font:500 10px var(--font-mono); color:var(--text-muted); margin-top:2px; white-space:nowrap; }
+.legend .note { font-size:11px; color:var(--text-muted); display:flex; align-items:center; gap:6px; }
+.legend .note svg { width:14px; height:10px; flex-shrink:0; }
+.tip { position:absolute; pointer-events:none; background:var(--tip-bg); color:var(--tip-text); padding:8px 10px; font-size:12px; line-height:1.45; max-width:260px; z-index:5; border-radius:2px; }
+.tip b { font-weight:600; }
+.tip .m { font-family:var(--font-mono); font-weight:600; }
+
+/* Barres */
+.bars { display:flex; flex-direction:column; gap:7px; }
+.bar-row { display:grid; grid-template-columns:minmax(0,1fr) auto; column-gap:10px; row-gap:3px; align-items:baseline; }
+.bar-row .n { font-size:12px; font-weight:500; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.bar-row .n small { color:var(--text-muted); font-weight:400; font-size:11px; }
+.bar-row .p { font:600 12px var(--font-mono); font-variant-numeric:tabular-nums; }
+.bar-row .track { grid-column:1 / -1; height:6px; background:var(--bg-sidebar); }
+aside.side .bar-row .track { background:var(--bg-hover); }
+.bar-row .fill { height:100%; transition:width .6s cubic-bezier(0.22, 1, 0.36, 1); }
+
+/* Encarts */
+.callout { padding:10px 14px; border-left:3px solid var(--accent); background:var(--accent-light); }
+.callout.amber { border-left-color:var(--amber-com); background:var(--amber-light); }
+.callout p { margin:0; font-size:12px; color:var(--text-secondary); }
+.callout p.t { font-weight:600; color:var(--accent); }
+.callout.amber p.t { color:var(--amber-com); }
+.minis { display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--border); border:1px solid var(--border); }
+.minis div { background:var(--bg-card); padding:8px 10px; }
+.minis .v { font:700 18px var(--font-mono); letter-spacing:-0.02em; font-variant-numeric:tabular-nums; }
+.minis .s { font-size:11px; color:var(--text-muted); }
+.traj svg { width:100%; display:block; overflow:visible; }
+.traj text { font-family:var(--font-mono); font-size:9.5px; fill:var(--text-muted); }
+.traj .col:hover rect.hit { fill:var(--bg-hover); }
+details.method summary { cursor:pointer; font-size:12px; font-weight:600; color:var(--accent); }
+details.method p { font-size:12px; color:var(--text-secondary); margin:8px 0 0; }
+.muted { color:var(--text-muted); font-size:12px; margin:0; }
+
+footer.source { background:var(--bg-sidebar); border-top:1px solid var(--border); padding:10px 24px; flex-shrink:0; }
+footer.source p { font-size:11px; color:var(--text-muted); margin:0; }
+footer.source .court { display:none; }
+.tabbar { display:none; }
+
+/* Écran intermédiaire : le panneau du bureau passe sous la carte */
+@media (max-width: 1180px) {
+  .body { position:relative; }
+  aside.detail { display:none; }
+  main .detail-inline { display:flex !important; }
+}
+main .detail-inline { display:none; flex-direction:column; gap:18px; border-top:1px solid var(--border); padding:20px 0 28px; }
+
+/* Mobile */
+@media (max-width: 767px) {
+  header { height:48px; padding:0 16px; }
+  .meta { display:none; }
+  aside.side, main { display:none; }
+  .app[data-tab="scrutin"] aside.side { display:flex; width:100%; border-right:0; padding:16px 16px 28px; }
+  .app[data-tab="carte"] main, .app[data-tab="bureau"] main { display:flex; padding:12px 16px 0; }
+  .app[data-tab="carte"] main .detail-inline { display:none !important; }
+  .app[data-tab="bureau"] main > :not(.detail-inline) { display:none; }
+  .app[data-tab="bureau"] main .detail-inline { border-top:0; padding-top:4px; }
+  .kpis { grid-template-columns:repeat(2, minmax(0,1fr)); }
+  .kpi .v { font-size:20px; }
+  .mapwrap { height:62vh; min-height:320px; }
+  .legend { position:static; max-width:none; border-width:1px 0 0; }
+  .mapwrap.has-legend { height:auto; }
+  .mapwrap.has-legend svg { height:52vh; min-height:300px; }
+  footer.source { padding:8px 16px; }
+  footer.source .long { display:none; }
+  footer.source .court { display:block; }
+  .lede { display:none; }
+  h1 { font-size:1.45rem; }
+  .tabbar { display:grid; grid-template-columns:repeat(3,1fr); height:52px; flex-shrink:0; background:var(--bg-card); border-top:1px solid var(--border); padding-bottom:env(safe-area-inset-bottom, 0px); }
+  .tabbar button { border:0; border-top:2px solid transparent; background:transparent; font-size:12px; font-weight:500; color:var(--text-secondary); cursor:pointer; }
+  .tabbar button[aria-selected="true"] { border-top-color:var(--accent); font-weight:600; color:var(--text); }
+}
+@media (prefers-reduced-motion: reduce) { .bar-row .fill { transition:none; } }
+</style>
+
+<div class="app" id="app" data-tab="carte">
+  <header>
+    <div class="brand">
+      <span class="brand-name">Rennes Métropole <span>1999–2026</span></span>
+      <span class="meta">Carte électorale · bureau de vote · 43 communes</span>
+    </div>
+  </header>
+  <div class="rule"></div>
+
+  <div class="body">
+    <aside class="side" id="side">
+      <div class="group">
+        <p class="label">Scrutin · type</p>
+        <div class="chips" id="types"></div>
+      </div>
+      <div class="group">
+        <p class="label">Année</p>
+        <div class="chips" id="years"></div>
+      </div>
+      <div class="group">
+        <p class="label">Tour</p>
+        <div class="stepper">
+          <div class="chips" id="tours"></div>
+          <span style="flex:1"></span>
+          <button class="btn2" id="prev" type="button" aria-label="Scrutin précédent">◀ Préc.</button>
+          <button class="btn2" id="next" type="button" aria-label="Scrutin suivant">Suiv. ▶</button>
+        </div>
+      </div>
+      <div class="group">
+        <p class="label">Lecture de la carte</p>
+        <div class="chips" id="modes"></div>
+        <select id="subsel" aria-label="Bloc ou candidat affiché"></select>
+      </div>
+      <div class="group">
+        <p class="label">Résultats · ensemble de la métropole</p>
+        <div class="bars" id="metroBars"></div>
+      </div>
+      <div class="group" id="metroCandsWrap">
+        <p class="label">Candidats et listes · métropole</p>
+        <div class="bars" id="metroCands"></div>
+      </div>
+      <details class="method">
+        <summary>Méthode et limites</summary>
+        <p><strong>Pourquoi 1999 et pas 1995 ?</strong> Le ministère de l'Intérieur ne publie les résultats par bureau de vote en données ouvertes qu'à partir des européennes de 1999. Les scrutins de 1995 (présidentielle, municipales) ne sont disponibles qu'à l'échelle de la commune, et pas dans ce jeu de données.</p>
+        <p><strong>Contours.</strong> Les périmètres des bureaux changent au fil des redécoupages. La carte utilise deux référentiels : les contours reconstitués par l'Insee et Etalab à partir du répertoire électoral unique (situation 2022) et les périmètres actuels de la ville de Rennes (Rennes Métropole). Pour chaque scrutin et chaque commune, le référentiel retenu est celui dont les numéros de bureau correspondent le mieux.</p>
+        <p><strong>Repli communal.</strong> Lorsque moins de 90 % des inscrits ou des périmètres trouvent leur correspondance, la commune est coloriée d'un seul tenant avec son résultat global, et hachurée. C'est le cas de Rennes avant 2015, la ville ayant renuméroté tous ses bureaux lors du redécoupage cantonal.</p>
+        <p><strong>Hypothèse.</strong> Un même numéro de bureau est supposé couvrir le même territoire d'un scrutin à l'autre. Cette hypothèse est raisonnable sur quelques années, plus fragile sur vingt ans.</p>
+        <p><strong>Blocs.</strong> Chaque candidat ou liste est rattaché à un bloc à partir de sa nuance officielle. Les unions de la gauche (NUPES, Nouveau Front populaire) sont rangées avec la gauche, la majorité présidentielle depuis 2017 avec le centre, Debout la France avec la droite.</p>
+      </details>
+    </aside>
+
+    <main id="main">
+      <div>
+        <p class="label" id="kicker">Présidentielle 2022 · 1er tour</p>
+        <h1>Comment vote Rennes Métropole, bureau par bureau ?</h1>
+        <p class="lede" id="lede"></p>
+      </div>
+      <div class="kpis" id="kpis"></div>
+      <div class="mapwrap" id="mapwrap">
+        <svg id="map" role="img" aria-label="Carte des bureaux de vote de Rennes Métropole"></svg>
+        <div class="mapctl">
+          <button type="button" id="zin" aria-label="Zoomer">+</button>
+          <button type="button" id="zout" aria-label="Dézoomer">−</button>
+          <button type="button" id="zreset" aria-label="Recentrer la carte">⟲</button>
+        </div>
+        <div class="legend" id="legend"></div>
+        <div class="tip" id="tip" hidden></div>
+      </div>
+      <div class="detail-inline" id="detailInline"></div>
+      <div style="height:20px; flex-shrink:0"></div>
+    </main>
+
+    <aside class="detail" id="detail"></aside>
+  </div>
+
+  <footer class="source">
+    <p class="long">Source : ministère de l'Intérieur via data.gouv.fr (données des élections agrégées) · contours : Insee et Etalab (répertoire électoral unique, 2022), Rennes Métropole (périmètres de Rennes) — Données à titre indicatif</p>
+    <p class="court">Source : ministère de l'Intérieur via data.gouv.fr — Données à titre indicatif</p>
+  </footer>
+  <nav class="tabbar" role="tablist">
+    <button type="button" role="tab" data-tab="carte" aria-selected="true">Carte</button>
+    <button type="button" role="tab" data-tab="scrutin" aria-selected="false">Scrutin</button>
+    <button type="button" role="tab" data-tab="bureau" aria-selected="false">Bureau</button>
+  </nav>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+/*__DATA__*/
+</script>
+<script>
+(function () {
+  "use strict";
+  const BLOC_NOMS = { GR: "Gauche radicale", GAU: "Gauche", ECO: "Écologistes", CEN: "Centre", DRO: "Droite", ED: "Extrême droite", REG: "Régionalistes", DIV: "Divers" };
+  const TYPE_ORDRE = ["pres", "legi", "euro", "regi", "dpmt", "cant", "muni"];
+  const TYPE_COURT = { pres: "Présidentielle", legi: "Législatives", euro: "Européennes", regi: "Régionales", dpmt: "Départementales", cant: "Cantonales", muni: "Municipales" };
+  const GLOBAUX = new Set(["pres", "euro", "regi"]);
+  const B = D.blocs;
+  const K = Math.cos(48.11 * Math.PI / 180);
+
+  // ── Format ──
+  const nf = new Intl.NumberFormat("fr-FR");
+  const fmtN = n => nf.format(n).replace(/ /g, " ");
+  const fmtP = (x, d = 1) => (x * 100).toFixed(d).replace(".", ",") + " %";
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const tourTxt = t => t === 1 ? "1er tour" : "2nd tour";
+  const titreScrutin = el => `${TYPE_COURT[el.type]} ${el.annee}` + (el.type === "euro" ? "" : ` · ${tourTxt(el.tour)}`);
+
+  // ── Couleurs lues dans les tokens (suivent le thème) ──
+  let C = {};
+  function lireCouleurs() {
+    const cs = getComputedStyle(document.documentElement);
+    C = {};
+    B.forEach(b => C[b] = cs.getPropertyValue("--b-" + b).trim());
+    ["accent", "map-empty", "hatch"].forEach(k => C[k] = cs.getPropertyValue("--" + k).trim());
+  }
+
+  // ── Géométries (projection plane locale) ──
+  const proj = ring => ring.map(([x, y]) => [x * K, y]);
+  const toGeom = polys => ({ type: "MultiPolygon", coordinates: polys.map(p => p.map(proj)) });
+  const communes = {};
+  for (const [cc, c] of Object.entries(D.communes)) communes[cc] = { cc, nom: c.n, geom: toGeom(c.g) };
+  const grilles = {};
+  for (const [g, feats] of Object.entries(D.grilles)) {
+    grilles[g] = {};
+    for (const f of feats) (grilles[g][f.c] = grilles[g][f.c] || []).push({ cc: f.c, code: f.b, geom: toGeom(f.g), grille: g });
+  }
+  const ELS = D.elections.slice().sort((a, b) => a.annee - b.annee || TYPE_ORDRE.indexOf(a.type) - TYPE_ORDRE.indexOf(b.type) || a.tour - b.tour);
+
+  function pointDans(pt, geom) {
+    let dedans = false;
+    for (const poly of geom.coordinates) for (const ring of poly) {
+      for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+        const [xi, yi] = ring[i], [xj, yj] = ring[j];
+        if ((yi > pt[1]) !== (yj > pt[1]) && pt[0] < (xj - xi) * (pt[1] - yi) / (yj - yi) + xi) dedans = !dedans;
+      }
+    }
+    return dedans;
+  }
+
+  // ── Calculs sur un résultat [inscrits, votants, exprimés, [cand, voix, ...]] ──
+  function partsBlocs(r, el) {
+    const v = new Array(B.length).fill(0);
+    const x = r[3];
+    for (let i = 0; i < x.length; i += 2) v[el.cands[x[i]].b] += x[i + 1];
+    return v.map(n => r[2] ? n / r[2] : 0);
+  }
+  function enTete(r, el) {
+    const p = partsBlocs(r, el);
+    let k = 0; p.forEach((s, i) => { if (s > p[k]) k = i; });
+    return { bloc: k, part: p[k] };
+  }
+  function voixCand(r, ci) {
+    const x = r[3];
+    for (let i = 0; i < x.length; i += 2) if (x[i] === ci) return x[i + 1];
+    return 0;
+  }
+  function totalMetro(el) {
+    const t = [0, 0, 0, []]; const vc = new Map();
+    for (const cc in el.res) {
+      const r = el.res[cc]._; t[0] += r[0]; t[1] += r[1]; t[2] += r[2];
+      for (let i = 0; i < r[3].length; i += 2) vc.set(r[3][i], (vc.get(r[3][i]) || 0) + r[3][i + 1]);
+    }
+    for (const [k, v] of vc) t[3].push(k, v);
+    return t;
+  }
+
+  // ── Unités cartographiées pour un scrutin ──
+  function unites(el) {
+    const out = [];
+    for (const cc in communes) {
+      const m = el.modes[cc];
+      if (!m) { out.push({ cc, code: null, geom: communes[cc].geom, r: null, communal: false, absent: true }); continue; }
+      if (m[0] === "commune") { out.push({ cc, code: "_", geom: communes[cc].geom, r: el.res[cc]._, communal: true }); continue; }
+      for (const f of grilles[m[0]][cc] || []) out.push({ cc, code: f.code, geom: f.geom, r: el.res[cc][f.code] || null, communal: false, grille: m[0] });
+    }
+    return out;
+  }
+  function uniteAuPoint(el, pt) {
+    const cc = Object.keys(communes).find(c => pointDans(pt, communes[c].geom));
+    if (!cc) return null;
+    const m = el.modes[cc];
+    if (!m) return { cc, code: null, r: null, absent: true };
+    if (m[0] === "commune") return { cc, code: "_", r: el.res[cc]._, communal: true };
+    const f = (grilles[m[0]][cc] || []).find(f => pointDans(pt, f.geom));
+    if (!f) return { cc, code: "_", r: el.res[cc]._, communal: true };
+    return { cc, code: f.code, r: el.res[cc][f.code] || null, communal: false, geom: f.geom };
+  }
+
+  // ── État ──
+  const S = {
+    el: ELS.find(e => e.id === "2022_pres_t1") || ELS[ELS.length - 1],
+    mode: "tete", bloc: "GR", cand: null,
+    point: [-1.6800 * K, 48.1105], traj: "type",
+  };
+
+  // ── Carte ──
+  const svg = d3.select("#map");
+  const gZoom = svg.append("g");
+  const gUnits = gZoom.append("g");
+  const gHatch = gZoom.append("g").attr("class", "hatch-layer");
+  const gCommunes = gZoom.append("g");
+  const gSel = gZoom.append("g");
+  const defs = svg.append("defs");
+  const pat = defs.append("pattern").attr("id", "hatch").attr("patternUnits", "userSpaceOnUse").attr("width", 7).attr("height", 7).attr("patternTransform", "rotate(45)");
+  pat.append("line").attr("x1", 0).attr("y1", 0).attr("x2", 0).attr("y2", 7).attr("style", "stroke:var(--hatch);stroke-width:1.2");
+  const projection = d3.geoIdentity().reflectY(true);
+  const path = d3.geoPath(projection);
+  const toutes = { type: "FeatureCollection", features: Object.values(communes).map(c => ({ type: "Feature", geometry: c.geom })) };
+  let W = 0, H = 0;
+  const zoom = d3.zoom().scaleExtent([1, 14]).on("zoom", ev => gZoom.attr("transform", ev.transform));
+  svg.call(zoom).on("dblclick.zoom", null);
+
+  function dimensionner() {
+    const box = svg.node().getBoundingClientRect();
+    if (!box.width || !box.height) return false;
+    if (box.width === W && box.height === H) return false;
+    W = box.width; H = box.height;
+    svg.attr("viewBox", `0 0 ${W} ${H}`);
+    const pad = Math.min(24, W * 0.04);
+    projection.fitExtent([[pad, pad], [W - pad, H - pad]], toutes);
+    pathCache.clear();
+    return true;
+  }
+  const pathCache = new Map();
+  const d = (key, geom) => { let s = pathCache.get(key); if (!s) { s = path(geom); pathCache.set(key, s); } return s; };
+
+  function couleurUnite(u, el) {
+    if (u.absent || !u.r || !u.r[0]) return { f: C["map-empty"], o: 1 };
+    if (S.mode === "tete") {
+      const t = enTete(u.r, el);
+      const o = t.part < 0.3 ? 0.42 : t.part < 0.4 ? 0.62 : t.part < 0.5 ? 0.82 : 1;
+      return { f: C[B[t.bloc]], o };
+    }
+    const v = valeur(u.r, el);
+    const cls = SC.breaks.filter(b => v >= b).length;
+    return { f: SC.color, o: SC.op[cls] };
+  }
+  function valeur(r, el) {
+    if (S.mode === "part") return r[0] ? r[1] / r[0] : 0;
+    if (S.mode === "bloc") return partsBlocs(r, el)[B.indexOf(S.bloc)];
+    if (S.mode === "cand") return r[2] ? voixCand(r, S.cand) / r[2] : 0;
+    return 0;
+  }
+  let SC = { breaks: [], op: [], color: "" };
+  function echelle(us, el) {
+    if (S.mode === "tete") return;
+    if (S.mode === "part") {
+      SC = { breaks: [0.4, 0.5, 0.6, 0.7, 0.8], color: C.accent };
+    } else {
+      const max = d3.max(us.filter(u => u.r && u.r[2]), u => valeur(u.r, el)) || 0.01;
+      const pas = [0.02, 0.05, 0.1, 0.15, 0.2].find(p => max / p <= 6) || 0.2;
+      const breaks = []; for (let b = pas; b < max - 1e-9; b += pas) breaks.push(+b.toFixed(3));
+      SC = { breaks, color: S.mode === "bloc" ? C[S.bloc] : C[B[el.cands[S.cand].b]] };
+    }
+    const n = SC.breaks.length + 1;
+    SC.op = d3.range(n).map(i => n === 1 ? 1 : 0.1 + 0.9 * i / (n - 1));
+  }
+
+  let US = [];
+  function dessinerCarte() {
+    const el = S.el;
+    US = unites(el);
+    echelle(US, el);
+    const sel = gUnits.selectAll("path").data(US, u => `${u.grille || "c"}|${u.cc}|${u.code}`);
+    sel.exit().remove();
+    sel.enter().append("path").attr("class", "unit")
+      .on("mousemove", (ev, u) => montrerTip(ev, u))
+      .on("mouseleave", () => { tip.hidden = true; })
+      .on("click", (ev, u) => {
+        const [mx, my] = d3.pointer(ev, gZoom.node());
+        S.point = projection.invert([mx, my]);
+        rendreDetail(); dessinerSelection();
+        if (window.matchMedia("(max-width: 767px)").matches) montrerTip(ev, u);
+      })
+      .merge(sel)
+      .attr("d", u => d(`${u.grille || "c"}|${u.cc}|${u.code}`, u.geom))
+      .each(function (u) { const c = couleurUnite(u, el); this.style.fill = c.f; this.style.fillOpacity = c.o; });
+    const hs = gHatch.selectAll("path").data(US.filter(u => u.communal), u => u.cc);
+    hs.exit().remove();
+    hs.enter().append("path").attr("fill", "url(#hatch)").merge(hs).attr("d", u => d(`c|${u.cc}|_`, u.geom));
+    const cs = gCommunes.selectAll("path").data(Object.values(communes), c => c.cc);
+    cs.enter().append("path").attr("class", "commune-line").merge(cs).attr("d", c => d(`l|${c.cc}`, c.geom));
+    dessinerSelection();
+    rendreLegende(el);
+  }
+  function dessinerSelection() {
+    const u = uniteAuPoint(S.el, S.point);
+    const geom = u && !u.communal && u.geom ? u.geom : u ? communes[u.cc].geom : null;
+    const s = gSel.selectAll("path").data(geom ? [geom] : []);
+    s.exit().remove();
+    s.enter().append("path").attr("class", "sel-marker").merge(s).attr("d", g => path(g));
+  }
+
+  const tip = document.getElementById("tip");
+  function montrerTip(ev, u) {
+    const el = S.el, nom = communes[u.cc].nom;
+    let h = `<b>${esc(nom)}</b>`;
+    if (u.absent) h += `<br>Pas de scrutin dans cette commune`;
+    else if (!u.r) h += ` · bureau ${esc(u.code)}<br>Aucun résultat pour ce périmètre`;
+    else {
+      h += u.communal ? ` · résultat communal` : ` · bureau ${esc(u.code)}`;
+      const x = u.r[3], arr = [];
+      for (let i = 0; i < x.length; i += 2) arr.push([x[i + 1], el.cands[x[i]]]);
+      arr.sort((a, b) => b[0] - a[0]);
+      arr.slice(0, 3).forEach(([v, c]) => { h += `<br>${esc(c.n)} <span class="m">${fmtP(u.r[2] ? v / u.r[2] : 0)}</span>`; });
+      h += `<br>Participation <span class="m">${fmtP(u.r[0] ? u.r[1] / u.r[0] : 0)}</span>`;
+      if (S.mode === "bloc" || S.mode === "cand") h += `<br>Valeur cartographiée <span class="m">${fmtP(valeur(u.r, el))}</span>`;
+    }
+    tip.innerHTML = h; tip.hidden = false;
+    const box = document.getElementById("mapwrap").getBoundingClientRect();
+    let x = ev.clientX - box.left + 14, y = ev.clientY - box.top + 14;
+    if (x + tip.offsetWidth > box.width - 8) x = ev.clientX - box.left - tip.offsetWidth - 14;
+    if (y + tip.offsetHeight > box.height - 8) y = ev.clientY - box.top - tip.offsetHeight - 14;
+    tip.style.left = Math.max(4, x) + "px"; tip.style.top = Math.max(4, y) + "px";
+  }
+
+  const hatchSwatch = `<svg viewBox="0 0 14 10" aria-hidden="true"><rect width="14" height="10" fill="var(--map-empty)"/><path d="M-2 8 L6 0 M4 12 L14 2 M10 12 L16 6" stroke="var(--hatch)" stroke-width="1.2"/></svg>`;
+  function rendreLegende(el) {
+    const L = document.getElementById("legend");
+    let h = "";
+    if (S.mode === "tete") {
+      const presents = new Set(US.filter(u => u.r && u.r[2]).map(u => enTete(u.r, el).bloc));
+      h += `<p class="label">Bloc arrivé en tête</p><div class="legend-rows">` +
+        B.map((b, i) => presents.has(i) ? `<span><i class="dot" style="background:var(--b-${b})"></i>${BLOC_NOMS[b]}</span>` : "").join("") + `</div>`;
+      h += `<div class="ramp">` + [["< 30 %", .42], ["30–40", .62], ["40–50", .82], ["≥ 50 %", 1]].map(([t, o]) =>
+        `<div><div class="sw" style="background:var(--text-secondary);opacity:${o}"></div><div class="t">${t}</div></div>`).join("") + `</div>`;
+    } else {
+      const titre = S.mode === "part" ? "Participation (% des inscrits)" : S.mode === "bloc" ? `${BLOC_NOMS[S.bloc]} (% des exprimés)` : `${esc(el.cands[S.cand].n)} (% des exprimés)`;
+      const bornes = [0, ...SC.breaks];
+      h += `<p class="label">${titre}</p><div class="ramp">` + bornes.map((b, i) => {
+        const t = i === 0 ? `< ${Math.round((SC.breaks[0] || 1) * 100)}` : `${Math.round(b * 100)}${i === bornes.length - 1 ? "+" : ""}`;
+        return `<div><div class="sw" style="background:${SC.color};opacity:${SC.op[i]}"></div><div class="t">${t}</div></div>`;
+      }).join("") + `</div>`;
+    }
+    if (US.some(u => u.communal)) h += `<div class="note">${hatchSwatch}Hachures : résultat communal (découpage non apparié)</div>`;
+    L.innerHTML = h;
+    document.getElementById("mapwrap").classList.toggle("has-legend", true);
+  }
+
+  // ── Barre latérale ──
+  function chip(label, pressed, onClick, opts = {}) {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "chip" + (opts.mono ? " mono" : ""); b.textContent = label;
+    b.setAttribute("aria-pressed", pressed ? "true" : "false");
+    if (opts.disabled) b.disabled = true;
+    b.addEventListener("click", onClick);
+    return b;
+  }
+  function choisir(el) {
+    S.el = el;
+    if (S.mode === "cand" && !GLOBAUX.has(el.type)) S.mode = "tete";
+    if (S.mode === "cand") S.cand = premierCand(el);
+    rendreTout();
+  }
+  function premierCand(el) {
+    const t = totalMetro(el); let best = 0, bv = -1;
+    for (let i = 0; i < t[3].length; i += 2) if (t[3][i + 1] > bv) { bv = t[3][i + 1]; best = t[3][i]; }
+    return best;
+  }
+  function rendreSide() {
+    const el = S.el;
+    const T = document.getElementById("types"); T.replaceChildren();
+    TYPE_ORDRE.filter(t => ELS.some(e => e.type === t)).forEach(t => T.appendChild(chip(TYPE_COURT[t], el.type === t, () => {
+      const cands = ELS.filter(e => e.type === t);
+      choisir(cands.filter(e => e.tour === 1).pop() || cands.pop());
+    })));
+    const Y = document.getElementById("years"); Y.replaceChildren();
+    [...new Set(ELS.filter(e => e.type === el.type).map(e => e.annee))].forEach(a => Y.appendChild(chip(String(a), a === el.annee, () => {
+      choisir(ELS.find(e => e.type === el.type && e.annee === a && e.tour === el.tour) || ELS.find(e => e.type === el.type && e.annee === a));
+    }, { mono: true })));
+    const R = document.getElementById("tours"); R.replaceChildren();
+    [1, 2].forEach(t => {
+      const cible = ELS.find(e => e.type === el.type && e.annee === el.annee && e.tour === t);
+      R.appendChild(chip(t === 1 ? "1er tour" : "2nd tour", el.tour === t, () => cible && choisir(cible), { disabled: !cible }));
+    });
+    const i = ELS.indexOf(el);
+    document.getElementById("prev").disabled = i <= 0;
+    document.getElementById("next").disabled = i >= ELS.length - 1;
+
+    const M = document.getElementById("modes"); M.replaceChildren();
+    [["tete", "Bloc en tête"], ["bloc", "Score d'un bloc"], ["cand", "Score d'un candidat"], ["part", "Participation"]].forEach(([m, l]) => {
+      const dis = m === "cand" && !GLOBAUX.has(el.type);
+      M.appendChild(chip(l, S.mode === m, () => { S.mode = m; if (m === "cand") S.cand = premierCand(el); rendreTout(); }, { disabled: dis }));
+    });
+    const sel = document.getElementById("subsel");
+    sel.hidden = !(S.mode === "bloc" || S.mode === "cand");
+    if (S.mode === "bloc") {
+      sel.innerHTML = B.map(b => `<option value="${b}"${b === S.bloc ? " selected" : ""}>${BLOC_NOMS[b]}</option>`).join("");
+    } else if (S.mode === "cand") {
+      const t = totalMetro(el), arr = [];
+      for (let k = 0; k < t[3].length; k += 2) arr.push([t[3][k], t[3][k + 1]]);
+      arr.sort((a, b) => b[1] - a[1]);
+      sel.innerHTML = arr.filter(a => a[1] > 0).map(([ci]) => `<option value="${ci}"${ci === S.cand ? " selected" : ""}>${esc(el.cands[ci].n)}</option>`).join("");
+    }
+
+    const t = totalMetro(el), pb = partsBlocs(t, el);
+    const ordre = B.map((b, k) => [b, pb[k]]).filter(x => x[1] > 0).sort((a, b) => b[1] - a[1]);
+    document.getElementById("metroBars").innerHTML = ordre.map(([b, p]) => barre(BLOC_NOMS[b], p, `var(--b-${b})`)).join("");
+    const wrap = document.getElementById("metroCandsWrap");
+    wrap.hidden = !GLOBAUX.has(el.type);
+    if (GLOBAUX.has(el.type)) {
+      const arr = [];
+      for (let k = 0; k < t[3].length; k += 2) arr.push([t[3][k + 1], el.cands[t[3][k]]]);
+      arr.sort((a, b) => b[0] - a[0]);
+      document.getElementById("metroCands").innerHTML = arr.slice(0, 8).map(([v, c]) =>
+        barre(c.n, t[2] ? v / t[2] : 0, `var(--b-${B[c.b]})`, BLOC_NOMS[B[c.b]])).join("");
+    }
+  }
+  function barre(nom, p, couleur, sous) {
+    return `<div class="bar-row"><span class="n" title="${esc(nom)}">${esc(nom)}${sous ? ` <small>· ${esc(sous)}</small>` : ""}</span><span class="p">${fmtP(p)}</span>` +
+      `<div class="track"><div class="fill" style="width:${(p * 100).toFixed(2)}%;background:${couleur}"></div></div></div>`;
+  }
+
+  // ── En-tête de la zone principale ──
+  function rendreTete() {
+    const el = S.el, t = totalMetro(el), te = enTete(t, el);
+    const nb = Object.values(el.modes).filter(m => m[0] !== "commune").length, n = Object.keys(el.modes).length;
+    document.getElementById("kicker").textContent = titreScrutin(el);
+    const lede = {
+      tete: "Chaque bureau prend la couleur du bloc arrivé en tête ; plus la teinte est soutenue, plus le score est élevé.",
+      bloc: `Score du bloc « ${BLOC_NOMS[S.bloc]} » dans chaque bureau, en part des suffrages exprimés.`,
+      cand: "Score du candidat ou de la liste dans chaque bureau, en part des suffrages exprimés.",
+      part: "Part des inscrits ayant voté dans chaque bureau.",
+    }[S.mode];
+    document.getElementById("lede").textContent = lede + " Cliquez sur un bureau pour suivre son évolution.";
+    document.getElementById("kpis").innerHTML =
+      kpi("Inscrits", fmtN(t[0]), `${n} commune${n > 1 ? "s" : ""}`) +
+      kpi("Participation", fmtP(t[0] ? t[1] / t[0] : 0), `${fmtN(t[1])} votants`) +
+      kpi("Bloc en tête", `<i class="dot" style="background:var(--b-${B[te.bloc]})"></i>${fmtP(te.part)}`, BLOC_NOMS[B[te.bloc]]) +
+      kpi("Échelle bureau", `${nb}/${n}`, "au bureau de vote");
+  }
+  const kpi = (l, v, s) => `<div class="kpi"><p class="label">${l}</p><div class="v">${v}</div><div class="s">${s}</div></div>`;
+
+  // ── Panneau du bureau sélectionné ──
+  function rendreDetail() {
+    const el = S.el, u = uniteAuPoint(el, S.point);
+    let h = "";
+    if (!u) {
+      h = `<p class="label">Bureau sélectionné</p><p class="muted">Cliquez sur la carte pour choisir un bureau.</p>`;
+    } else {
+      const nom = communes[u.cc].nom;
+      h += `<div><p class="label">${esc(titreScrutin(el))}</p><h2>${esc(nom)}${u.code && u.code !== "_" ? ` · bureau ${esc(u.code)}` : ""}</h2></div>`;
+      if (u.absent) h += `<div class="callout"><p class="t">Pas de scrutin</p><p>Cette commune ne votait pas lors de ce scrutin (canton non renouvelé ou absence de second tour).</p></div>`;
+      else if (!u.r) h += `<div class="callout amber"><p class="t">Aucun résultat</p><p>Ce périmètre n'a pas d'équivalent dans les résultats de ce scrutin.</p></div>`;
+      else {
+        if (u.communal) h += `<div class="callout amber"><p class="t">Résultat communal</p><p>Le découpage de ce scrutin ne correspond pas aux périmètres connus : le résultat affiché est celui de la commune entière.</p></div>`;
+        h += `<div class="minis"><div><div class="v">${fmtN(u.r[0])}</div><div class="s">inscrits</div></div><div><div class="v">${fmtP(u.r[0] ? u.r[1] / u.r[0] : 0)}</div><div class="s">participation</div></div></div>`;
+        const x = u.r[3], arr = [];
+        for (let i = 0; i < x.length; i += 2) arr.push([x[i + 1], el.cands[x[i]]]);
+        arr.sort((a, b) => b[0] - a[0]);
+        h += `<div class="group"><p class="label">Résultats</p><div class="bars">` +
+          arr.filter(a => a[0] > 0).slice(0, 12).map(([v, c]) => barre(c.n, u.r[2] ? v / u.r[2] : 0, `var(--b-${B[c.b]})`, BLOC_NOMS[B[c.b]])).join("") + `</div></div>`;
+      }
+      h += trajectoire();
+    }
+    document.getElementById("detail").innerHTML = h;
+    document.getElementById("detailInline").innerHTML = h;
+    document.querySelectorAll(".trajbtn").forEach(b => b.addEventListener("click", () => { S.traj = b.dataset.t; rendreDetail(); }));
+    document.querySelectorAll(".traj .col").forEach(g => {
+      g.addEventListener("click", () => { const e = ELS.find(x => x.id === g.dataset.id); if (e) choisir(e); });
+    });
+  }
+
+  function trajectoire() {
+    const el = S.el;
+    const liste = S.traj === "type" ? ELS.filter(e => e.type === el.type && e.tour === el.tour) : ELS.filter(e => e.tour === 1);
+    const pts = liste.map(e => ({ e, u: uniteAuPoint(e, S.point) })).filter(p => p.u && p.u.r && p.u.r[2]);
+    let h = `<div class="group traj"><p class="label">Trajectoire du lieu sélectionné</p>
+      <div class="chips"><button type="button" class="chip trajbtn" data-t="type" aria-pressed="${S.traj === "type"}">${TYPE_COURT[el.type]}${el.type === "euro" ? "" : " · " + tourTxt(el.tour)}</button>
+      <button type="button" class="chip trajbtn" data-t="tous" aria-pressed="${S.traj === "tous"}">Tous les 1ers tours</button></div>`;
+    if (pts.length < 1) return h + `<p class="muted">Pas de donnée pour ce lieu.</p></div>`;
+    const w = 300, ch = 150, top = 6, bas = 30, n = pts.length;
+    const gap = n > 14 ? 1 : 3, cw = Math.max(3, (w - gap * (n - 1)) / n);
+    let s = `<svg viewBox="0 0 ${w} ${top + ch + bas}" role="img" aria-label="Répartition par bloc, scrutin par scrutin">`;
+    [0, .5, 1].forEach(v => { s += `<line x1="0" x2="${w}" y1="${top + ch * (1 - v)}" y2="${top + ch * (1 - v)}" stroke="var(--border)" stroke-width="1"/>`; });
+    pts.forEach((p, i) => {
+      const x = i * (cw + gap), parts = partsBlocs(p.u.r, p.e);
+      let y = top + ch;
+      const titre = `${titreScrutin(p.e)}${p.u.communal ? " (résultat communal)" : ""}\n` +
+        B.map((b, k) => parts[k] > 0.005 ? `${BLOC_NOMS[b]} : ${fmtP(parts[k])}` : null).filter(Boolean).join("\n");
+      s += `<g class="col" data-id="${p.e.id}" style="cursor:pointer"><title>${esc(titre)}</title><rect class="hit" x="${x - gap / 2}" y="0" width="${cw + gap}" height="${top + ch + bas}" fill="transparent"/>`;
+      B.forEach((b, k) => {
+        const hh = parts[k] * ch; if (hh <= 0) return;
+        y -= hh;
+        s += `<rect x="${x}" y="${y}" width="${cw}" height="${Math.max(0, hh - (hh > 2 ? 1 : 0))}" fill="var(--b-${b})"${p.u.communal ? ' fill-opacity="0.55"' : ""}/>`;
+      });
+      if (p.u.communal) s += `<rect x="${x}" y="${top}" width="${cw}" height="${ch}" fill="url(#hatch)"/>`;
+      if (p.e.id === el.id) s += `<rect x="${x - 1}" y="${top - 1}" width="${cw + 2}" height="${ch + 2}" fill="none" stroke="var(--text)" stroke-width="1.5"/>`;
+      const lab = n <= 10 || i % Math.ceil(n / 8) === 0 || i === n - 1;
+      if (lab) s += `<text x="${x + cw / 2}" y="${top + ch + 13}" text-anchor="middle">${n > 10 ? "’" + String(p.e.annee).slice(2) : p.e.annee}</text>`;
+      if (n > 10 && lab) s += `<text x="${x + cw / 2}" y="${top + ch + 25}" text-anchor="middle">${p.e.type.slice(0, 3)}</text>`;
+      s += `</g>`;
+    });
+    s += `</svg>`;
+    const aCommunal = pts.some(p => p.u.communal);
+    return h + s + `<p class="muted">Part de chaque bloc dans les suffrages exprimés. Cliquez sur une colonne pour afficher ce scrutin.${aCommunal ? " Colonnes hachurées : résultat de la commune entière." : ""}</p></div>`;
+  }
+
+  // ── Orchestration ──
+  function rendreTout() {
+    rendreSide(); rendreTete(); dessinerCarte(); rendreDetail();
+  }
+  document.getElementById("prev").addEventListener("click", () => { const i = ELS.indexOf(S.el); if (i > 0) choisir(ELS[i - 1]); });
+  document.getElementById("next").addEventListener("click", () => { const i = ELS.indexOf(S.el); if (i < ELS.length - 1) choisir(ELS[i + 1]); });
+  document.getElementById("subsel").addEventListener("change", ev => {
+    if (S.mode === "bloc") S.bloc = ev.target.value; else S.cand = +ev.target.value;
+    rendreTete(); dessinerCarte();
+  });
+  document.getElementById("zin").addEventListener("click", () => svg.transition().duration(150).call(zoom.scaleBy, 1.6));
+  document.getElementById("zout").addEventListener("click", () => svg.transition().duration(150).call(zoom.scaleBy, 1 / 1.6));
+  document.getElementById("zreset").addEventListener("click", () => svg.transition().duration(150).call(zoom.transform, d3.zoomIdentity));
+  document.querySelectorAll(".tabbar button").forEach(b => b.addEventListener("click", () => {
+    document.getElementById("app").dataset.tab = b.dataset.tab;
+    document.querySelectorAll(".tabbar button").forEach(x => x.setAttribute("aria-selected", x === b ? "true" : "false"));
+    tip.hidden = true;
+    requestAnimationFrame(() => { if (dimensionner()) dessinerCarte(); });
+  }));
+  document.addEventListener("keydown", ev => {
+    if (ev.target.closest("select, input")) return;
+    if (ev.key === "ArrowLeft") document.getElementById("prev").click();
+    if (ev.key === "ArrowRight") document.getElementById("next").click();
+  });
+  const mq = window.matchMedia("(prefers-color-scheme: dark)");
+  const retheme = () => { lireCouleurs(); dessinerCarte(); };
+  mq.addEventListener && mq.addEventListener("change", retheme);
+  new MutationObserver(retheme).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  new ResizeObserver(() => { if (dimensionner()) dessinerCarte(); }).observe(document.getElementById("map"));
+
+  lireCouleurs();
+  dimensionner();
+  rendreTout();
+})();
+</script>
