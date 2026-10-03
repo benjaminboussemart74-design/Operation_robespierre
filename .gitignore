@@ -3,3 +3,4 @@ __pycache__/
 results/*_2*.csv
 results/*_2*.json
 carte_electorale_rennes/cache/
+typologie_circo_9303/cache/

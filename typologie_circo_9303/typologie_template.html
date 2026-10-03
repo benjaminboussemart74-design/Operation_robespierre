@@ -1,0 +1,489 @@
+<title>Typologie de la 3e circonscription</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=JetBrains+Mono:wght@500;600;700&family=Playfair+Display:wght@700;900&display=swap">
+<style>
+/* Mise en page : une colonne de panneaux sous un en-tête de presse, carte et fiches côte à côte. Thème clair unique, comme l'atlas de Noisy-le-Grand. */
+:root {
+  color-scheme: light;
+  --bg: #FAFAF8; --bg-card: #FFFFFF; --bg-sidebar: #F2F2EE; --bg-hover: #EEEEE9;
+  --border: #DDDDD6; --border-mid: #B8B8B0; --border-dark: #2B2B2B;
+  --text: #1A1A1A; --text-secondary: #595959; --text-muted: #8A8A82;
+  --accent: #1B3F7B; --accent-light: #EEF2FA; --red: #B01E28; --red-light: #FAF0F1;
+  --plus: 27, 63, 123; --moins: 176, 30, 40;
+  --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--text); font-family: var(--font-sans); font-size: 14px; line-height: 1.6; }
+h1, h2 { font-family: var(--font-serif); letter-spacing: -0.02em; margin: 0; text-wrap: balance; }
+h1 { font-weight: 900; font-size: 2.2rem; line-height: 1.15; }
+h2 { font-weight: 700; font-size: 1.35rem; line-height: 1.1; }
+p { margin: 0; }
+.mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.label { font-size: 10px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-muted); }
+
+header.top { background: var(--bg-card); border-bottom: 1px solid var(--border); padding-inline: 28px; padding-block: 8px; min-height: 52px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+header.top .brand { font-family: var(--font-serif); font-weight: 700; font-size: 1.15rem; letter-spacing: -0.01em; }
+header.top .brand span { color: var(--red); }
+header.top .meta { font-size: 11px; color: var(--text-muted); letter-spacing: 0.06em; text-transform: uppercase; }
+.rule { height: 3px; background: var(--red); }
+
+main { padding-inline: 28px; padding-block: 28px; display: flex; flex-direction: column; gap: 28px; max-width: 1360px; margin-inline: auto; }
+.intro { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 28px; align-items: end; }
+.intro .lead { display: flex; flex-direction: column; gap: 10px; max-width: 72ch; }
+.intro .lead p { color: var(--text-secondary); font-size: 15px; line-height: 1.65; }
+.intro .lead b { color: var(--text); font-weight: 600; }
+.kpis { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); }
+.kpi { background: var(--bg-card); padding: 12px 14px; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.kpi .v { font: 700 26px var(--font-mono); letter-spacing: -0.02em; line-height: 1.2; }
+.kpi .d { font-size: 11px; color: var(--text-muted); }
+
+.panel { background: var(--bg-card); border: 1px solid var(--border); }
+.panel-h { padding: 14px 16px 12px; border-bottom: 1px solid var(--border); display: flex; flex-direction: column; gap: 4px; }
+.panel-h .sub { font-size: 13px; color: var(--text-secondary); max-width: 90ch; margin-top: 2px; }
+.panel-b { padding: 14px 16px; }
+.panel-b + .panel-b { border-top: 1px solid var(--border); }
+
+.switch { display: flex; flex-wrap: wrap; margin-top: 8px; }
+.switch button { font: 500 12px var(--font-sans); color: var(--text-secondary); background: transparent; border: 1px solid var(--border-mid); padding: 6px 12px; cursor: pointer; border-radius: 0; transition: background .15s; }
+.switch button + button { border-left: 0; }
+.switch button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #FFFFFF; font-weight: 600; }
+button:focus-visible, .tcard:focus-visible, th:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.typo-grid { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 24px; align-items: start; }
+#map { display: block; width: 100%; height: auto; }
+path.bv { stroke: var(--bg-card); stroke-width: 0.8; cursor: pointer; transition: opacity .15s; vector-effect: non-scaling-stroke; }
+path.bv.dim { opacity: .14; }
+path.com { fill: none; stroke: var(--border-dark); stroke-width: 1.8; vector-effect: non-scaling-stroke; pointer-events: none; }
+.comlab { font: 600 11px var(--font-sans); letter-spacing: .08em; text-transform: uppercase; fill: var(--text); paint-order: stroke; stroke: var(--bg-card); stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
+.typo-meth { font-size: 11px; color: var(--text-muted); line-height: 1.55; margin-top: 10px; max-width: 95ch; }
+.typo-cards { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
+.tcard { background: var(--bg-card); padding: 10px 12px; display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 2px 10px; cursor: pointer; transition: background .15s; }
+.tcard:hover, .tcard.on { background: var(--bg-hover); }
+.tcard .lt { grid-row: 1 / 5; width: 26px; height: 26px; display: flex; align-items: center; justify-content: center; font: 700 13px var(--font-mono); }
+.tcard .nm { font-size: 13px; font-weight: 600; line-height: 1.3; }
+.tcard .meta { font: 500 11px var(--font-mono); color: var(--text-muted); }
+.tcard .ds { font-size: 12px; color: var(--text-secondary); line-height: 1.45; }
+.tcard .ds b { font-weight: 600; color: var(--text); }
+
+.tip { position: fixed; pointer-events: none; background: var(--bg-card); border: 1px solid var(--border-dark); padding: 8px 10px; font-size: 12px; line-height: 1.45; max-width: 280px; z-index: 10; }
+.tip b { font-weight: 600; }
+.tip .sw { display: inline-block; width: 9px; height: 9px; margin-right: 5px; }
+
+.cm { display: flex; flex-direction: column; gap: 10px; }
+.cm-row { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 12px; align-items: center; }
+.cm-row.ref { padding-top: 10px; border-top: 1px dashed var(--border-mid); }
+.cm-n { font-size: 13px; font-weight: 600; line-height: 1.25; }
+.cm-n small { display: block; font: 500 11px var(--font-mono); color: var(--text-muted); }
+.cm-bar { display: flex; height: 24px; gap: 2px; }
+.cm-bar i { display: flex; align-items: center; justify-content: center; font: 600 10px var(--font-mono); font-style: normal; min-width: 0; overflow: hidden; cursor: default; }
+.cm-leg { display: flex; flex-wrap: wrap; gap: 4px 14px; margin-top: 12px; font-size: 11px; color: var(--text-secondary); }
+.cm-leg i { display: inline-block; width: 10px; height: 10px; margin-right: 5px; vertical-align: -1px; }
+
+table { border-collapse: collapse; width: 100%; font-size: 12px; }
+th, td { padding: 6px 8px; text-align: right; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { font-size: 10px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-muted); vertical-align: bottom; white-space: normal; min-width: 64px; }
+th.l, td.l { text-align: left; }
+td.num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+td small { display: block; font-size: 10px; color: var(--text-muted); }
+.scroll { overflow-x: auto; }
+.ftab td.l, .ftab th.l { position: sticky; left: 0; background: var(--bg-card); z-index: 1; min-width: 220px; white-space: normal; }
+.ftab tr.ref td { background: var(--bg-sidebar); font-weight: 600; }
+.lt-s { display: inline-flex; width: 18px; height: 18px; align-items: center; justify-content: center; font: 700 10px var(--font-mono); margin-right: 8px; flex: none; }
+.fcell { display: flex; align-items: center; }
+.btab th { cursor: pointer; user-select: none; }
+.btab th[aria-sort="descending"]::after { content: " ▼"; } .btab th[aria-sort="ascending"]::after { content: " ▲"; }
+.btab tbody tr { transition: background .15s; }
+.btab tbody tr:hover { background: var(--bg-hover); }
+.btab td.l { white-space: normal; min-width: 160px; }
+.xtab td.c { text-align: center; font: 600 12px var(--font-mono); min-width: 44px; }
+.xtab th.c { text-align: center; min-width: 44px; }
+.xtab td.l { white-space: normal; min-width: 240px; }
+.note { padding: 10px 12px; background: var(--accent-light); border-left: 3px solid var(--accent); font-size: 12px; color: var(--text-secondary); line-height: 1.55; max-width: 95ch; }
+.note b { color: var(--accent); font-weight: 600; }
+
+details.dd summary { cursor: pointer; font-size: 12px; font-weight: 600; color: var(--accent); }
+#dendro { display: block; width: 100%; min-width: 640px; height: auto; margin-top: 12px; }
+#dendro .dl { font: 500 10px var(--font-sans); fill: var(--text); }
+#dendro .ax { font: 500 10px var(--font-mono); fill: var(--text-muted); }
+#dendro .axt { font: 500 11px var(--font-sans); fill: var(--text-secondary); }
+.diag td, .diag th { text-align: center; }
+
+footer.src { background: var(--bg-sidebar); border-top: 1px solid var(--border); padding-inline: 28px; padding-block: 12px; font-size: 11px; color: var(--text-muted); line-height: 1.6; display: flex; flex-direction: column; gap: 4px; }
+
+@media (max-width: 1100px) { .typo-grid, .intro { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 768px) {
+  header.top, footer.src { padding-inline: 16px; }
+  main { padding-inline: 16px; padding-block: 16px; }
+  h1 { font-size: 1.7rem; }
+  .cm-row { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .kpi .v { font-size: 20px; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<header class="top">
+  <span class="brand">Seine-Saint-Denis, <span>3e circonscription</span></span>
+  <span class="meta" id="hmeta"></span>
+</header>
+<div class="rule"></div>
+
+<main>
+  <section class="intro">
+    <div class="lead">
+      <span class="label">Typologie de l'électorat · bureaux de vote · 2024-2026</span>
+      <h1>Qui vote dans la 3e circonscription de la Seine-Saint-Denis ?</h1>
+      <p>Noisy-le-Grand, Neuilly-sur-Marne, Neuilly-Plaisance et Gournay-sur-Marne forment une seule circonscription législative. Cette page classe ses <b id="nbv"></b> bureaux de vote en familles qui votent et vivent de la même manière, avec la méthode déjà appliquée à Noisy-le-Grand.</p>
+      <p>La frontière qui compte le plus ne sépare pas les communes. Elle sépare les grands ensembles, où la gauche insoumise dépasse souvent 40 %, des quartiers pavillonnaires, où la droite et le Rassemblement national font leurs meilleurs scores.</p>
+    </div>
+    <div class="kpis" id="kpis"></div>
+  </section>
+
+  <section class="panel" id="typo">
+    <div class="panel-h">
+      <span class="label" id="typoKicker"></span>
+      <h2 id="typoTitle"></h2>
+      <div class="switch" id="typoSwitch" role="group" aria-label="Choix de la typologie">
+        <button data-m="fine" aria-pressed="true">9 familles · votes et sociologie</button>
+        <button data-m="vote_seul" aria-pressed="false">7 familles · votes seuls</button>
+      </div>
+    </div>
+    <div class="panel-b typo-grid">
+      <div>
+        <svg id="map" role="img" aria-label="Carte des familles de bureaux de vote de la circonscription"></svg>
+        <p class="typo-meth" id="typoMeth"></p>
+      </div>
+      <div class="typo-cards" id="typoCards"></div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-h">
+      <span class="label">Les communes · part des inscrits de 2024 dans chaque famille</span>
+      <h2>Chaque commune a-t-elle son propre électorat ?</h2>
+      <p class="sub" id="cmSub"></p>
+    </div>
+    <div class="panel-b">
+      <div class="cm" id="cm"></div>
+      <div class="cm-leg" id="cmLeg"></div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-h">
+      <span class="label">Profil moyen de chaque famille · moyenne des bureaux, écart à la moyenne de la circonscription entre parenthèses</span>
+      <h2>Comment vote et vit chaque famille ?</h2>
+      <p class="sub">Le fond des cases indique l'écart à la moyenne des 82 bureaux : bleu au-dessus, rouge en dessous. Plus la teinte est soutenue, plus l'écart est marqué au regard de la dispersion entre bureaux.</p>
+    </div>
+    <div class="panel-b">
+      <p class="label" style="margin-bottom:6px">Votes · scores en % des exprimés, participation en % des inscrits</p>
+      <div class="scroll"><table class="ftab" id="tabVote"></table></div>
+    </div>
+    <div class="panel-b">
+      <p class="label" style="margin-bottom:6px">Profil social · INSEE, recensement 2022 et revenus 2021</p>
+      <div class="scroll"><table class="ftab" id="tabSoc"></table></div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-h">
+      <span class="label">Correspondance avec l'atlas de Noisy-le-Grand · 43 bureaux</span>
+      <h2>Que deviennent les familles de Noisy-le-Grand à l'échelle de la circonscription ?</h2>
+      <p class="sub">Chaque ligne reprend l'une des neuf familles de l'atlas de Noisy-le-Grand ; chaque colonne, une famille de la circonscription. Le chiffre indique le nombre de bureaux noiséens concernés.</p>
+    </div>
+    <div class="panel-b">
+      <div class="scroll"><table class="xtab" id="xtab"></table></div>
+      <p class="note" id="xnote" style="margin-top:12px"></p>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-h">
+      <span class="label">Méthode · classification ascendante hiérarchique</span>
+      <h2>Pourquoi neuf familles, et pas cinq ou douze ?</h2>
+    </div>
+    <div class="panel-b">
+      <p class="typo-meth" style="margin-top:0">La stabilité mesure si l'on retrouve les mêmes familles en refaisant le calcul trois cents fois sur 80 % des bureaux tirés au hasard (1 : partition identique). La part expliquée indique quelle fraction des écarts entre bureaux la partition rend compte. Un découpage plus fin explique toujours davantage ; on retient celui qui reste stable sans multiplier les familles d'un ou deux bureaux.</p>
+      <div class="scroll" style="margin-top:10px"><table class="diag" id="diag"></table></div>
+    </div>
+    <div class="panel-b">
+      <details class="dd">
+        <summary>Afficher l'arbre de classification des 82 bureaux</summary>
+        <p class="typo-meth">Lecture : chaque bureau est une feuille, à gauche. Deux branches se rejoignent d'autant plus à droite que les bureaux ou les groupes qu'elles portent sont différents. La ligne en pointillé coupe l'arbre en neuf familles.</p>
+        <div class="scroll"><svg id="dendro" role="img" aria-label="Arbre de classification des bureaux de vote"></svg></div>
+      </details>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-h">
+      <span class="label">Les 82 bureaux · cliquer sur un en-tête pour trier</span>
+      <h2>Tous les bureaux, chiffre par chiffre</h2>
+    </div>
+    <div class="panel-b">
+      <div class="scroll"><table class="btab" id="btab"></table></div>
+    </div>
+  </section>
+</main>
+
+<footer class="src">
+  <p>Source : ministère de l'Intérieur via data.gouv.fr (résultats par bureau de vote, agrégation Etalab) — profil social : INSEE, recensement de la population 2022 et revenus Filosofi 2021, estimé par bureau de vote à partir des adresses du répertoire électoral unique (jeu « Profil sociodémographique des bureaux de vote », data.gouv.fr).</p>
+  <p>Contours : secteurs électoraux de la Ville de Noisy-le-Grand ; contours estimés par Etalab à partir du répertoire électoral unique pour les trois autres communes (découpage de 2022). Lieux de vote : INSEE, répertoire électoral unique (2022), et Ville de Noisy-le-Grand.</p>
+  <p>Revenu médian corrigé : le jeu de données source compte comme nuls les quartiers INSEE (IRIS) dont le revenu n'est pas publié, ce qui abaisse fortement le revenu de certains bureaux (1 811 € au bureau 12 de Neuilly-sur-Marne, 4 639 € au bureau 23 de Noisy-le-Grand). Le revenu de chaque IRIS a été reconstitué à partir des moyennes publiées, puis chaque bureau a été repondéré sur ses seuls IRIS au revenu connu. Pour les bureaux 11 et 12 de Neuilly-sur-Marne et 23 de Noisy-le-Grand, ce revenu ne repose que sur 10 %, 8 % et 34 % des logements.</p>
+  <p>Les bureaux 43 de Noisy-le-Grand et 21 de Neuilly-sur-Marne, créés en 2024, n'ont ni profil social ni contour publiés : ils reçoivent le profil du bureau dont ils sont issus (21 et 4 respectivement), et le bureau 21 de Neuilly-sur-Marne n'est pas dessiné sur la carte. Les scores sont calculés sur les suffrages exprimés, la participation sur les inscrits.</p>
+</footer>
+
+<div class="tip" id="tip" hidden></div>
+
+<script>
+const D = __DATA__;
+const NBSP = ' ';
+const fmtInt = n => Math.round(n).toLocaleString('fr-FR').replace(/\s/g, NBSP);
+const fmt1 = x => x.toLocaleString('fr-FR', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const fmtPct = x => fmt1(x) + NBSP + '%';
+const fmtDev = (x, eur) => (x > 0 ? '+' : x < 0 ? '−' : '±') + (eur ? fmtInt(Math.abs(x)) + NBSP + '€' : fmt1(Math.abs(x)) + NBSP + 'pts');
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const NS = 'http://www.w3.org/2000/svg';
+const hex2rgb = h => [1, 3, 5].map(i => parseInt(h.slice(i, i + 2), 16));
+const inkOn = hex => { const [r, g, b] = hex2rgb(hex); return (0.299 * r + 0.587 * g + 0.114 * b) > 150 ? '#1A1A1A' : '#FFFFFF'; };
+
+const COM = { '93051': 'Noisy-le-Grand', '93050': 'Neuilly-sur-Marne', '93049': 'Neuilly-Plaisance', '93033': 'Gournay-sur-Marne' };
+const COM_ABR = { '93051': 'Noisy', '93050': 'Neuilly-s/M', '93049': 'N.-Plaisance', '93033': 'Gournay' };
+const bvNum = id => String(parseInt(id.slice(6), 10));
+const bvNom = id => `${COM[id.slice(0, 5)]}, bureau ${bvNum(id)}`;
+const BV = D.bv, IDX = Object.fromEntries(BV.map((b, i) => [b, i]));
+
+const VLAB = ['Participation · municipales 2026', 'Participation · européennes 2024', 'Participation · législatives 2024', 'LFI · européennes', 'RN et Reconquête · européennes', 'PS, écologistes et PCF · européennes', 'Renaissance · européennes', 'LR · européennes', 'Portes (NFP) · législatives', 'Cretin-Gielly (RN) · législatives', 'Centre · législatives', 'Droite · législatives'];
+const VCOURT = ['Part. municipales', 'Part. européennes', 'Part. législatives', 'LFI', 'RN et Reconquête', 'PS, écolo. et PCF', 'Renaissance', 'LR', 'Portes (NFP)', 'Cretin-Gielly (RN)', 'Centre', 'Droite'];
+const SLAB = { rev: 'Revenu médian', cad: 'Cadres', pint: 'Professions intermédiaires', emp: 'Employés', ouv: 'Ouvriers', ret: 'Retraités', dip: 'Diplômés du supérieur', sdip: 'Sans diplôme', cho: 'Chômage', hlm: 'Locataires HLM', pro: 'Propriétaires', lpriv: 'Locataires du privé', mai: 'Maisons', svoit: 'Ménages sans voiture', imm: 'Immigrés', jeu: '15-24 ans', p60: '60 ans ou plus', p80: '80 ans ou plus', mono: 'Familles monoparentales', cpl: 'Couples avec enfants', seul: 'Personnes seules' };
+
+// écarts-types entre bureaux, pour juger de l'ampleur d'un écart
+const sd = M => M[0].map((_, j) => { const c = M.map(r => r[j]); const m = c.reduce((a, b) => a + b, 0) / c.length; return Math.sqrt(c.reduce((a, b) => a + (b - m) ** 2, 0) / c.length); });
+const SD_V = sd(D.vote), SD_S = sd(D.socio);
+
+const TYPOS = {
+  fine: {
+    kicker: 'Typologie socio-électorale · votes 2024-2026 et profil social INSEE, à poids égal',
+    titre: 'Neuf familles de quartiers, entre sociologie et vote',
+    meth: `Méthode : chaque bureau est décrit par douze mesures de vote (participation aux municipales 2026, aux européennes et aux législatives 2024 ; scores des grandes listes aux européennes 2024 et des candidats au premier tour des législatives 2024) et par vingt et un indicateurs sociaux de l'INSEE : revenus, métiers, diplômes, logement, âge, composition des ménages, immigration. Chaque bloc pèse la moitié du calcul. Une classification ascendante hiérarchique (méthode de Ward) regroupe ensuite les bureaux qui se ressemblent le plus. Contrairement à l'atlas de Noisy-le-Grand, les scores des listes municipales ne servent pas au calcul : les listes diffèrent d'une commune à l'autre et ne sont pas comparables. Neuf familles expliquent ${pctR2('fine', 0)} des écarts de vote et ${pctR2('fine', 1)} des écarts sociaux entre bureaux. Cliquez sur une famille pour l'isoler sur la carte.`,
+  },
+  vote_seul: {
+    kicker: 'Typologie électorale · votes 2024-2026 seulement',
+    titre: 'Sept familles de bureaux, sept façons de voter',
+    meth: `Méthode : chaque bureau est décrit par les douze mesures de vote seulement, ramenées à une échelle commune, puis regroupé par classification ascendante hiérarchique (méthode de Ward). Le profil social ne sert pas au calcul, il décrit ensuite chaque famille. Sept familles expliquent ${pctR2('vote_seul', 0)} des écarts de vote entre bureaux. Cliquez sur une famille pour l'isoler sur la carte.`,
+  },
+};
+function pctR2(m, i) { const d = D[m].diag.find(x => x.k === D[m].k); return fmt1(100 * d.r2[i]).replace(',0', '') + NBSP + '%'; }
+
+let mode = 'fine', on = null;
+const T = () => D[mode];
+const famOf = id => T().lab[IDX[id]];
+const famKeys = () => Object.keys(T().familles).sort((a, b) => String(a).localeCompare(String(b), 'fr', { numeric: true }));
+
+// ── En-tête et chiffres clés ────────────────────────────────
+const L1 = D.scrutins['2024_legi_t1'], L2 = D.scrutins['2024_legi_t2'];
+const sumBy = (el, f) => Object.values(el.bv).reduce((s, r) => s + f(r), 0);
+const INS = sumBy(L1, r => r.i);
+document.getElementById('nbv').textContent = BV.length;
+document.getElementById('hmeta').textContent = `${BV.length} bureaux de vote · 4 communes · ${fmtInt(INS)} inscrits · typologie 2024-2026`;
+const portes2 = 100 * sumBy(L2, r => r.x[0]) / sumBy(L2, r => r.e);
+const part1 = 100 * sumBy(L1, r => r.v) / INS;
+document.getElementById('kpis').innerHTML = [
+  [BV.length, 'bureaux de vote', '43 à Noisy-le-Grand, 21 à Neuilly-sur-Marne, 12 à Neuilly-Plaisance, 6 à Gournay-sur-Marne'],
+  [fmtInt(INS), 'inscrits', 'législatives 2024, premier tour'],
+  [fmtPct(part1), 'participation', 'législatives 2024, premier tour'],
+  [fmtPct(portes2), 'Thomas Portes', 'second tour 2024, face à Denis Cretin-Gielly (RN)'],
+].map(([v, l, d]) => `<div class="kpi"><span class="label">${l}</span><span class="v">${v}</span><span class="d">${d}</span></div>`).join('');
+
+// ── Projection ──────────────────────────────────────────────
+const allPts = Object.values(D.contours).flat(4);
+let x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
+for (let i = 0; i < allPts.length; i += 2) { x0 = Math.min(x0, allPts[i]); x1 = Math.max(x1, allPts[i]); y0 = Math.min(y0, allPts[i + 1]); y1 = Math.max(y1, allPts[i + 1]); }
+const KX = Math.cos((y0 + y1) / 2 * Math.PI / 180), PAD = 14, W = 800;
+const S = (W - 2 * PAD) / ((x1 - x0) * KX), H = Math.round((y1 - y0) * S + 2 * PAD);
+const P = ([x, y]) => [PAD + (x - x0) * KX * S, PAD + (y1 - y) * S];
+const pathOf = polys => polys.map(poly => poly.map(ring => 'M' + ring.map(p => P(p).map(v => v.toFixed(1)).join(',')).join('L') + 'Z').join('')).join('');
+const centre = polys => { let best = null, area = -1; for (const poly of polys) { const r = poly[0]; let a = 0; for (let i = 0; i < r.length - 1; i++) a += r[i][0] * r[i + 1][1] - r[i + 1][0] * r[i][1]; if (Math.abs(a) > area) { area = Math.abs(a); best = r; } } const n = best.length; return P([best.reduce((s, p) => s + p[0], 0) / n, best.reduce((s, p) => s + p[1], 0) / n]); };
+
+const map = document.getElementById('map');
+map.setAttribute('viewBox', `0 0 ${W} ${H}`);
+const gB = document.createElementNS(NS, 'g'), gC = document.createElementNS(NS, 'g');
+map.append(gB, gC);
+const paths = {};
+for (const [id, g] of Object.entries(D.geo)) {
+  const p = document.createElementNS(NS, 'path');
+  p.setAttribute('d', pathOf(g)); p.setAttribute('class', 'bv'); p.dataset.bv = id;
+  gB.append(p); paths[id] = p;
+}
+const LABPOS = { '93051': [0, 40], '93050': [70, -40], '93049': [-10, -40], '93033': [0, 50] };
+for (const [c, g] of Object.entries(D.contours)) {
+  const p = document.createElementNS(NS, 'path'); p.setAttribute('d', pathOf(g)); p.setAttribute('class', 'com'); gC.append(p);
+  const [cx, cy] = centre(g); const t = document.createElementNS(NS, 'text');
+  t.setAttribute('x', cx + LABPOS[c][0]); t.setAttribute('y', cy + LABPOS[c][1]); t.setAttribute('text-anchor', 'middle'); t.setAttribute('class', 'comlab'); t.textContent = COM[c]; gC.append(t);
+}
+
+// ── Infobulle ───────────────────────────────────────────────
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.hidden = false; const r = tip.getBoundingClientRect(); let x = ev.clientX + 14, y = ev.clientY + 14; if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - 14; if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - 14; tip.style.left = x + 'px'; tip.style.top = y + 'px'; }
+function bvTip(id) {
+  const ids = Object.entries(D.parent).filter(([n, o]) => o === id).map(([n]) => n);
+  const lines = [id, ...ids].map(b => {
+    const f = famOf(b), F = T().familles[f], i = IDX[b], v = D.vote[i];
+    return `<div style="margin-top:6px"><b>${esc(bvNom(b))}</b>${D.lieux[b] ? `<br><span style="color:var(--text-muted)">${esc(D.lieux[b])}</span>` : ''}<br><span class="sw" style="background:${F.col}"></span>${esc(f)} · ${esc(F.nom)}<br><span class="mono">Portes ${fmtPct(v[8])} · Cretin-Gielly ${fmtPct(v[9])} · participation ${fmtPct(v[2])}</span></div>`;
+  });
+  const note = ids.length ? `<div style="margin-top:6px;color:var(--text-muted)">Le bureau ${bvNum(ids[0])}, créé en 2024 à partir du bureau ${bvNum(id)}, n'a pas encore de contour publié : il partage ce tracé.</div>` : '';
+  return lines.join('') + note;
+}
+for (const [id, p] of Object.entries(paths)) {
+  p.addEventListener('mousemove', ev => showTip(ev, bvTip(id)));
+  p.addEventListener('mouseleave', () => tip.hidden = true);
+}
+
+// ── Description automatique d'une famille ───────────────────
+function profil(k) { return T().profils[k]; }
+function traits(k) {
+  const P = profil(k), out = [];
+  P.vote.forEach((v, j) => out.push({ z: (v - D.moy_vote[j]) / SD_V[j], txt: `${VCOURT[j]} ${fmtPct(v)}`, d: v - D.moy_vote[j], vote: true }));
+  P.socio.forEach((v, j) => { const key = D.socio_noms[j]; out.push({ z: (v - D.moy_socio[j]) / SD_S[j], txt: key === 'rev' ? `revenu médian ${fmtInt(v)}${NBSP}€` : `${key === 'hlm' ? 'locataires HLM' : SLAB[key].toLowerCase()} ${fmtPct(v)}`, d: v - D.moy_socio[j], vote: false }); });
+  return out;
+}
+function desc(k) {
+  const t = traits(k);
+  const top = (arr, n) => arr.sort((a, b) => Math.abs(b.z) - Math.abs(a.z)).slice(0, n).map(x => `<b>${esc(x.txt)}</b> (${fmtDev(x.d, x.txt.startsWith('revenu'))})`).join(', ');
+  const v = top(t.filter(x => x.vote && x.z > 0), 3), s = top(t.filter(x => !x.vote), 3);
+  return `Vote au-dessus de la moyenne : ${v}.<br>Sociologie : ${s}.`;
+}
+
+// ── Typologie : carte et fiches ─────────────────────────────
+function paint() {
+  for (const [id, p] of Object.entries(paths)) {
+    const f = famOf(id); p.setAttribute('fill', T().familles[f].col);
+    p.classList.toggle('dim', on !== null && f !== on);
+  }
+  document.querySelectorAll('.tcard').forEach(c => { c.classList.toggle('on', c.dataset.f === on); c.setAttribute('aria-pressed', c.dataset.f === on); });
+}
+function drawTypo() {
+  const TT = TYPOS[mode];
+  document.getElementById('typoKicker').textContent = TT.kicker;
+  document.getElementById('typoTitle').textContent = TT.titre;
+  document.getElementById('typoMeth').textContent = TT.meth;
+  const cards = document.getElementById('typoCards');
+  cards.innerHTML = famKeys().map(k => {
+    const F = T().familles[k], P = profil(k);
+    const coms = Object.entries(P.communes).filter(([, n]) => n).map(([c, n]) => `${COM_ABR[c]} ${n}`).join(' · ');
+    return `<div class="tcard" tabindex="0" role="button" aria-pressed="false" data-f="${esc(k)}"><span class="lt" style="background:${F.col};color:${inkOn(F.col)}">${esc(k)}</span><span class="nm">${esc(F.nom)}</span><span class="meta">${P.bv.length} bureaux · ${fmtInt(P.inscrits)} inscrits · ${fmt1(100 * P.inscrits / INS)}${NBSP}%</span><span class="meta">${coms}</span><span class="ds">${desc(k)}</span></div>`;
+  }).join('');
+  cards.querySelectorAll('.tcard').forEach(c => {
+    const act = () => { on = on === c.dataset.f ? null : c.dataset.f; paint(); };
+    c.addEventListener('click', act);
+    c.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); act(); } });
+  });
+  paint();
+}
+
+// ── Les communes ────────────────────────────────────────────
+function drawCommunes() {
+  const keys = famKeys(), rows = [];
+  const insCom = c => BV.filter(b => b.startsWith(c)).reduce((s, b) => s + L1.bv[b].i, 0);
+  for (const c of Object.keys(COM)) rows.push({ nom: COM[c], tot: insCom(c), n: BV.filter(b => b.startsWith(c)).length, parts: keys.map(k => profil(k).ins_communes[c]) });
+  rows.push({ nom: 'Circonscription', tot: INS, n: BV.length, parts: keys.map(k => profil(k).inscrits), ref: true });
+  document.getElementById('cm').innerHTML = rows.map(r => `<div class="cm-row${r.ref ? ' ref' : ''}"><span class="cm-n">${esc(r.nom)}<small>${r.n} bureaux · ${fmtInt(r.tot)} inscrits</small></span><div class="cm-bar">${r.parts.map((v, i) => { if (!v) return ''; const F = T().familles[keys[i]], p = 100 * v / r.tot; return `<i style="flex:${v} 1 0;background:${F.col};color:${inkOn(F.col)}" title="${esc(keys[i])} · ${esc(F.nom)} : ${fmtPct(p)} des inscrits">${p >= 7 ? Math.round(p) + NBSP + '%' : ''}</i>`; }).join('')}</div></div>`).join('');
+  document.getElementById('cmLeg').innerHTML = keys.map(k => `<span><i style="background:${T().familles[k].col}"></i>${esc(k)} · ${esc(T().familles[k].nom)}</span>`).join('');
+  const fine = mode === 'fine';
+  document.getElementById('cmSub').textContent = fine
+    ? "Gournay-sur-Marne appartient tout entière à la famille pavillonnaire aisée. Neuilly-sur-Marne concentre l'habitat social de l'est de la circonscription, mais n'a aucun bureau des quartiers aisés. Noisy-le-Grand et Neuilly-Plaisance sont les plus diverses : chacune réunit des bureaux des deux extrémités de l'échelle sociale."
+    : "La lecture par le seul vote confirme le contraste : Gournay-sur-Marne vote presque uniformément à droite et pour le Rassemblement national, Neuilly-sur-Marne se partage entre vote insoumis et bureaux disputés, Noisy-le-Grand couvre toute la palette.";
+}
+
+// ── Tableaux de profils ─────────────────────────────────────
+function cell(v, m, s, eur) {
+  const z = (v - m) / s, a = Math.min(Math.abs(z) / 2, 1) * 0.32;
+  const bg = Math.abs(z) < 0.25 ? 'transparent' : `rgba(var(${z > 0 ? '--plus' : '--moins'}), ${a.toFixed(2)})`;
+  const val = eur ? fmtInt(v) + NBSP + '€' : fmt1(v);
+  return `<td class="num" style="background:${bg}">${val}<small>${fmtDev(v - m, eur)}</small></td>`;
+}
+function drawTables() {
+  const keys = famKeys();
+  const head = labs => `<thead><tr><th class="l">Famille</th>${labs.map(l => `<th>${esc(l)}</th>`).join('')}</tr></thead>`;
+  const fcell = k => { const F = T().familles[k]; return `<td class="l"><span class="fcell"><span class="lt-s" style="background:${F.col};color:${inkOn(F.col)}">${esc(k)}</span>${esc(F.nom)}</span><small>${profil(k).bv.length} bureaux</small></td>`; };
+  document.getElementById('tabVote').innerHTML = head(VCOURT) + '<tbody>' + keys.map(k => `<tr>${fcell(k)}${profil(k).vote.map((v, j) => cell(v, D.moy_vote[j], SD_V[j])).join('')}</tr>`).join('')
+    + `<tr class="ref"><td class="l">Moyenne des 82 bureaux</td>${D.moy_vote.map(v => `<td class="num">${fmt1(v)}</td>`).join('')}</tr></tbody>`;
+  document.getElementById('tabSoc').innerHTML = head(D.socio_noms.map(k => SLAB[k])) + '<tbody>' + keys.map(k => `<tr>${fcell(k)}${profil(k).socio.map((v, j) => cell(v, D.moy_socio[j], SD_S[j], D.socio_noms[j] === 'rev')).join('')}</tr>`).join('')
+    + `<tr class="ref"><td class="l">Moyenne des 82 bureaux</td>${D.moy_socio.map((v, j) => `<td class="num">${D.socio_noms[j] === 'rev' ? fmtInt(v) + NBSP + '€' : fmt1(v)}</td>`).join('')}</tr></tbody>`;
+}
+
+// ── Correspondance avec l'atlas de Noisy-le-Grand ───────────
+const NOISY9 = {
+  1: ['Grands ensembles les plus précaires, bastions insoumis', '#1f5fae'], 2: ['Habitat social vieillissant, vote insoumis majoritaire', '#6fa8dc'],
+  3: ['Quartiers populaires jeunes et cosmopolites', '#eb6834'], 4: ['Quartiers mixtes aux revenus modestes', '#f3b98f'],
+  5: ['Classes moyennes en immeubles, locataires du privé', '#8fd0c0'], 6: ['Pavillonnaire de classes moyennes', '#eda100'],
+  7: ['Pavillonnaire aisé, droite et RN au-dessus de la moyenne', '#4a3aa7'], 8: ['Centre-ville diplômé, appartements et personnes seules', '#e87ba4'],
+  9: ['Quartiers aisés et âgés, forte participation', '#008300'],
+};
+function drawCross() {
+  const keys = famKeys(), F = D.fine.familles;
+  const cols = keys.filter(k => Object.keys(D.noisy).some(b => D.fine.lab[IDX[b]] === k));
+  const head = `<thead><tr><th class="l">Famille de l'atlas de Noisy-le-Grand</th>${cols.map(k => `<th class="c"><span class="lt-s" style="background:${F[k].col};color:${inkOn(F[k].col)};margin:0" title="${esc(F[k].nom)}">${k}</span></th>`).join('')}</tr></thead>`;
+  const body = Object.entries(NOISY9).map(([n, [nom, col]]) => {
+    const bvs = Object.keys(D.noisy).filter(b => D.noisy[b] === +n);
+    return `<tr><td class="l"><span class="fcell"><span class="lt-s" style="background:${col};color:${inkOn(col)}">${n}</span>${esc(nom)}</span></td>${cols.map(k => { const c = bvs.filter(b => D.fine.lab[IDX[b]] === k).length; return `<td class="c" style="${c ? `background:${F[k].col}33` : 'color:var(--border-mid)'}">${c || '·'}</td>`; }).join('')}</tr>`;
+  }).join('');
+  document.getElementById('xtab').innerHTML = head + '<tbody>' + body + '</tbody>';
+  document.getElementById('xnote').innerHTML = `<b>Lecture.</b> Les familles aux deux extrémités résistent au changement d'échelle : le pavillonnaire aisé de Noisy-le-Grand rejoint Gournay-sur-Marne (famille 9), le centre-ville diplômé reste un groupe à part (famille 7), les quartiers aisés et âgés rejoignent le centre de Neuilly-Plaisance (famille 8). Au milieu, les catégories noiséennes fusionnent : à l'échelle de la circonscription, classes moyennes en immeubles et pavillonnaire de classes moyennes forment une seule famille (6), et les bureaux d'habitat social noiséens rejoignent pour la plupart la famille la plus précaire (1), les autres se partageant entre les cités de Neuilly-sur-Marne (2) et les quartiers populaires mixtes (3).`;
+}
+
+// ── Diagnostic et dendrogramme ──────────────────────────────
+function drawDiag() {
+  const rows = D.fine.diag.map((d, i) => ({ k: d.k, sf: d.stab, rv: d.r2[0], rs: d.r2[1], m: d.min, sv: D.vote_seul.diag[i].stab, rvv: D.vote_seul.diag[i].r2[0], mv: D.vote_seul.diag[i].min }));
+  const pct = x => fmt1(100 * x).replace(',0', '') + NBSP + '%';
+  const b = (cond, s) => cond ? `<b>${s}</b>` : s;
+  document.getElementById('diag').innerHTML = `<thead><tr><th rowspan="2">Familles</th><th colspan="4">Votes et sociologie</th><th colspan="3">Votes seuls</th></tr><tr><th>Stabilité</th><th>Part expliquée · vote</th><th>Part expliquée · social</th><th>Plus petite famille</th><th>Stabilité</th><th>Part expliquée · vote</th><th>Plus petite famille</th></tr></thead><tbody>`
+    + rows.map(r => `<tr style="${r.k === D.fine.k || r.k === D.vote_seul.k ? 'background:var(--accent-light)' : ''}"><td class="num">${b(r.k === D.fine.k || r.k === D.vote_seul.k, r.k)}</td><td class="num">${b(r.k === D.fine.k, r.sf.toFixed(3).replace('.', ','))}</td><td class="num">${pct(r.rv)}</td><td class="num">${pct(r.rs)}</td><td class="num">${r.m}</td><td class="num">${b(r.k === D.vote_seul.k, r.sv.toFixed(3).replace('.', ','))}</td><td class="num">${pct(r.rvv)}</td><td class="num">${r.mv}</td></tr>`).join('') + '</tbody>';
+}
+function drawDendro() {
+  const dd = D.fine.dendro, n = dd.feuilles.length, RH = 13, LW = 170, top = 10, bot = 34;
+  const hmax = Math.max(...dd.dcoord.flat()), WD = 760, H2 = top + n * RH + bot;
+  const X = h => LW + (WD - LW - 20) * h / hmax, Y = ic => top + (ic - 5) / 10 * RH + RH / 2;
+  const svg = document.getElementById('dendro'); svg.setAttribute('viewBox', `0 0 ${WD} ${H2}`);
+  let s = '';
+  dd.icoord.forEach((ic, i) => { const dc = dd.dcoord[i]; s += `<path d="M${X(dc[0])},${Y(ic[0])}H${X(dc[1])}V${Y(ic[2])}H${X(dc[3])}" fill="none" stroke="var(--border-dark)" stroke-width="1"/>`; });
+  dd.feuilles.forEach((b, i) => { const F = D.fine.familles[D.fine.lab[IDX[b]]], y = top + i * RH + RH / 2; s += `<rect x="${LW - 14}" y="${y - 5}" width="10" height="10" fill="${F.col}"/><text class="dl" x="${LW - 18}" y="${y + 3.5}" text-anchor="end">${esc(COM_ABR[b.slice(0, 5)] + ' ' + bvNum(b))}</text>`; });
+  const xc = X(D.fine.coupe);
+  s += `<line x1="${xc}" x2="${xc}" y1="${top}" y2="${top + n * RH}" stroke="var(--red)" stroke-dasharray="4 3" stroke-width="1.2"/>`;
+  const yA = top + n * RH + 6;
+  s += `<line x1="${LW}" x2="${WD - 20}" y1="${yA}" y2="${yA}" stroke="var(--border-mid)"/>`;
+  s += `<text class="axt" x="${LW}" y="${yA + 22}">Distance de fusion (méthode de Ward) →</text>`;
+  svg.innerHTML = s;
+}
+
+// ── Tableau des bureaux ─────────────────────────────────────
+const sortState = { k: 'bv', dir: 1 };
+function drawBureaux() {
+  const cols = [
+    { k: 'com', lab: 'Commune', l: true }, { k: 'n', lab: 'N°' }, { k: 'lieu', lab: 'Lieu de vote', l: true }, { k: 'i', lab: 'Inscrits' },
+    { k: 'ff', lab: 'Famille · 9' }, { k: 'fv', lab: 'Famille · 7' },
+    { k: 'v2', lab: 'Part. législ. 2024' }, { k: 'v8', lab: 'Portes T1' }, { k: 'v9', lab: 'Cretin-Gielly T1' }, { k: 'v10', lab: 'Centre T1' }, { k: 'v11', lab: 'Droite T1' },
+    { k: 'v3', lab: 'LFI euro.' }, { k: 'v4', lab: 'RN-REC euro.' }, { k: 'rev', lab: 'Revenu médian' }, { k: 'hlm', lab: 'HLM' },
+  ];
+  const ri = D.socio_noms.indexOf('rev'), hi = D.socio_noms.indexOf('hlm');
+  const rows = BV.map((b, i) => ({ bv: b, com: COM[b.slice(0, 5)], n: +bvNum(b), lieu: D.lieux[b] || '', i: L1.bv[b].i, ff: D.fine.lab[i], fv: D.vote_seul.lab[i], ...Object.fromEntries(D.vote[i].map((v, j) => ['v' + j, v])), rev: D.socio[i][ri], hlm: D.socio[i][hi] }));
+  const { k, dir } = sortState;
+  rows.sort((a, b) => k === 'bv' ? a.bv.localeCompare(b.bv) * dir : (typeof a[k] === 'string' ? a[k].localeCompare(b[k], 'fr', { numeric: true }) : a[k] - b[k]) * dir);
+  const famTd = (m, f) => { const F = D[m].familles[f]; return `<td class="num"><span class="lt-s" style="background:${F.col};color:${inkOn(F.col)};margin:0" title="${esc(F.nom)}">${esc(f)}</span></td>`; };
+  const t = document.getElementById('btab');
+  t.innerHTML = `<thead><tr>${cols.map(c => `<th class="${c.l ? 'l' : ''}" data-k="${c.k}" tabindex="0" ${c.k === k ? `aria-sort="${dir > 0 ? 'ascending' : 'descending'}"` : ''}>${esc(c.lab)}</th>`).join('')}</tr></thead><tbody>`
+    + rows.map(r => `<tr><td class="l">${esc(r.com)}</td><td class="num">${r.n}</td><td class="l">${esc(r.lieu)}${D.parent[r.bv] ? `<small>créé en 2024 · profil social du bureau ${bvNum(D.parent[r.bv])}</small>` : ''}</td><td class="num">${fmtInt(r.i)}</td>${famTd('fine', r.ff)}${famTd('vote_seul', r.fv)}${['v2', 'v8', 'v9', 'v10', 'v11', 'v3', 'v4'].map(c => `<td class="num">${fmt1(r[c])}</td>`).join('')}<td class="num">${fmtInt(r.rev)}${D.couv_rev[r.bv] < 0.5 ? `<small>sur ${Math.round(100 * D.couv_rev[r.bv])}${NBSP}% des logements</small>` : ''}</td><td class="num">${fmt1(r.hlm)}</td></tr>`).join('') + '</tbody>';
+  t.querySelectorAll('th').forEach(th => { const go = () => { const kk = th.dataset.k; sortState.dir = sortState.k === kk ? -sortState.dir : (['com', 'lieu', 'n', 'ff', 'fv'].includes(kk) ? 1 : -1); sortState.k = kk; drawBureaux(); }; th.addEventListener('click', go); th.addEventListener('keydown', e => { if (e.key === 'Enter') go(); }); });
+}
+
+// ── Assemblage ──────────────────────────────────────────────
+function drawAll() { drawTypo(); drawCommunes(); drawTables(); }
+document.querySelectorAll('#typoSwitch button').forEach(b => b.addEventListener('click', () => {
+  mode = b.dataset.m; on = null;
+  document.querySelectorAll('#typoSwitch button').forEach(x => x.setAttribute('aria-pressed', x === b));
+  drawAll();
+}));
+drawAll(); drawCross(); drawDiag(); drawDendro(); drawBureaux();
+</script>
