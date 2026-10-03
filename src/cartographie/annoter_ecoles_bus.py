@@ -27,11 +27,23 @@ img = Image.alpha_composite(img, Image.new('RGBA', img.size, (0, 0, 0, 60)))
 cadre = box(0, 0, W, H)
 
 # --- Lignes de bus ---------------------------------------------------------
+def segments(geom):
+    if geom.geom_type == 'LineString': return [geom]
+    return [g for g in getattr(geom, 'geoms', []) if g.geom_type == 'LineString']
 lignes = []
+EXCLUES = {'213'}          # passe sur l'avenue au nord, ne dessert pas le quartier
 for f in json.load(open('bus_large.geojson'))['features']:
+    if f['properties']['linename'] in EXCLUES: continue
     g = f['geometry']
     parts = g['coordinates'] if g['type'] == 'MultiLineString' else [g['coordinates']]
-    geom = MultiLineString([[px(*c) for c in p] for p in parts]).intersection(cadre)
+    # fusion des deux sens : on garde le premier tracé, et du second seulement ce qui s'en écarte de plus de 25 m
+    lignes_px = [LineString([px(*c) for c in p]) for p in parts]
+    base = lignes_px[0]; seuil = 25 / ((bbox[2] - bbox[0]) * math.cos(math.radians(48.846)) / W)
+    morceaux = [base]
+    for autre in lignes_px[1:]:
+        reste = autre.difference(base.buffer(seuil))
+        morceaux += [m for m in segments(reste) if m.length > seuil * 2]
+    geom = MultiLineString([list(m.coords) for m in morceaux]).intersection(cadre)
     if geom.is_empty or geom.length < 50:
         continue
     p = f['properties']
@@ -117,7 +129,7 @@ d.text((40, 24), "Quartier des Cormiers et des Hauts-Bâtons — écoles et lign
 lh = 52
 lw = 40 + max(d.textlength(f"Ligne {l['nom']}  ({l['op']})", font=f_leg) for l in lignes) + 110
 lx, ly = W - lw - 40, 360
-d.rounded_rectangle([lx, ly, lx + lw, ly + 110 + lh * (len(lignes) + 1)], radius=16, fill=(20, 20, 20, 235))
+d.rounded_rectangle([lx, ly, lx + lw, ly + 110 + lh * (len(lignes) + 2)], radius=16, fill=(20, 20, 20, 235))
 d.text((lx + 25, ly + 18), "Lignes de bus", font=f_lab, fill=(255, 255, 255))
 for i, l in enumerate(lignes):
     y = ly + 95 + i * lh
@@ -126,6 +138,7 @@ for i, l in enumerate(lignes):
 y = ly + 95 + len(lignes) * lh
 d.rectangle([lx + 30, y + 4, lx + 90, y + 36], fill=(255, 255, 255, 120), outline=(255, 255, 255), width=5)
 d.text((lx + 115, y), "Groupe scolaire", font=f_leg, fill=(255, 255, 255))
+d.text((lx + 30, y + lh), "Ligne 213 : avenue au nord du quartier", font=ImageFont.truetype(N, 32), fill=(190, 190, 190))
 # échelle
 mpp = (bbox[2] - bbox[0]) * math.cos(math.radians(48.846)) / W; L = 200 / mpp
 x0, y0 = 60, H - 130
