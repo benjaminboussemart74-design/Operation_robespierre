@@ -11,10 +11,11 @@ socio-électorales, avec la méthode de l'atlas électoral de Noisy-le-Grand.
 
 ## Méthode
 
-- 12 mesures de vote (participation aux municipales 2026, européennes 2024,
-  législatives 2024 ; scores des grandes listes aux européennes et des candidats
-  au premier tour des législatives 2024). Les scores municipaux ne sont pas
-  utilisés : les listes diffèrent d'une commune à l'autre.
+- 17 mesures de vote : participation et scores au premier tour de la
+  présidentielle 2022, aux européennes 2024 et au premier tour des législatives
+  2024. Les municipales 2026 sont exclues du calcul (listes, enjeux et
+  mobilisation propres à chaque commune). Les bureaux créés en 2024 reçoivent
+  les résultats de 2022 du bureau dont ils sont issus.
 - 21 indicateurs sociaux INSEE (RP 2022, Filosofi 2021), mêmes définitions que l'atlas.
 - Chaque bloc pèse la moitié du calcul ; CAH de Ward ; nombre de familles choisi
   par stabilité (300 sous-échantillons de 80 %).
@@ -40,4 +41,4 @@ Placer dans `cache/` (non versionné) :
 | `adresses_circo.parquet` | « Bureaux de vote et adresses de leurs électeurs » (table-adresses-reu), INSEE, filtrée sur les 4 communes |
 | `D.json` | objet de données de l'atlas électoral de Noisy-le-Grand |
 
-Puis : `python build_data.py 9 7`
+Puis : `python build_data.py 8 8` (8 familles socio-électorales, 8 familles électorales).

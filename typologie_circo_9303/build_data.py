@@ -3,12 +3,11 @@
 Reprend, à l'échelle des 82 bureaux de vote de la circonscription (Noisy-le-Grand,
 Neuilly-sur-Marne, Neuilly-Plaisance, Gournay-sur-Marne), la méthode de l'atlas
 électoral de Noisy-le-Grand : classification ascendante hiérarchique (Ward) sur
-des mesures de vote 2024-2026 et sur le profil social INSEE, à poids égal.
+des mesures de vote 2022-2024 et sur le profil social INSEE, à poids égal.
 
-Différence de méthode avec l'atlas : les scores des listes municipales ne sont
-pas comparables d'une commune à l'autre (les listes diffèrent). Seuls les
-scrutins nationaux (européennes et législatives 2024) fournissent les scores ;
-les municipales 2026 n'interviennent que par la participation.
+Différence de méthode avec l'atlas : seuls les scrutins nationaux (présidentielle
+2022, européennes et législatives 2024) servent au calcul. Les municipales 2026
+en sont exclues : listes et enjeux propres à chaque commune.
 
 Entrées (dossier cache/, non versionné, cf. README.md) :
   gen_circo.parquet, cand_circo.parquet  résultats par bureau (data.gouv.fr, agrégation)
@@ -18,7 +17,7 @@ Entrées (dossier cache/, non versionné, cf. README.md) :
   adresses_circo.parquet                 adresses des électeurs par bureau (REU, INSEE), pour les secteurs
   D.json                                 données de l'atlas de Noisy-le-Grand (secteurs officiels, typologie)
 Sorties : data.json, typologie.html (page générée depuis typologie_template.html)
-Usage : python build_data.py 9 7   (nombre de familles : socio-électorale, électorale seule)
+Usage : python build_data.py 8 8   (nombre de familles : socio-électorale, électorale seule)
 """
 import json
 from pathlib import Path
@@ -75,6 +74,7 @@ SCRUTINS = [
     ('2024_legi_t1', 'Législatives 2024 · 1er tour', 'nom', None, LEGI1),
     ('2024_legi_t2', 'Législatives 2024 · 2d tour', 'nom', None, LEGI2),
     ('2022_pres_t1', 'Présidentielle 2022 · 1er tour', 'nom', None, PRES1),
+    ('2022_pres_t2', 'Présidentielle 2022 · 2d tour', 'nom', None, {'Macron': ['MACRON'], 'Le Pen': ['LE PEN']}),
     ('2026_muni_t1', 'Municipales 2026 · 1er tour', None, None, None),
 ]
 
@@ -110,8 +110,17 @@ def score(eid, k):
     return pd.Series({bv: 100 * r['x'][j] / r['e'] for bv, r in res[eid]['bv'].items()})
 
 
+def herite(serie):
+    """Bureaux créés en 2024 : taux de 2022 du bureau dont ils sont issus."""
+    for nouveau, ancien in PARENT.items():
+        serie[nouveau] = serie[ancien]
+    return serie
+
+
+# Les municipales ne servent pas au calcul : listes et enjeux propres à chaque
+# commune (trois communes sur quatre ont élu leur maire dès le premier tour).
 VOTE = {
-    'Participation · municipales 2026, 1er tour': part('2026_muni_t1'),
+    'Participation · présidentielle 2022, 1er tour': herite(part('2022_pres_t1')),
     'Participation · européennes 2024': part('2024_euro_t1'),
     'Participation · législatives 2024, 1er tour': part('2024_legi_t1'),
 }
@@ -119,6 +128,8 @@ for k in EURO:
     VOTE[f'{k} · européennes 2024'] = score('2024_euro_t1', k)
 for k in LEGI1:
     VOTE[f'{k} · législatives 2024, 1er tour'] = score('2024_legi_t1', k)
+for k in PRES1:
+    VOTE[f'{k} · présidentielle 2022, 1er tour'] = herite(score('2022_pres_t1', k))
 XV = pd.DataFrame(VOTE).loc[BV]
 assert not XV.isna().any().any()
 
@@ -228,28 +239,28 @@ if __name__ == '__main__':
     raw_f = pd.Series(fcluster(Zf, KF, 'maxclust'), index=BV)
     raw_v = pd.Series(fcluster(Zv, KV, 'maxclust'), index=BV)
 
-    # Nommage des familles, établi à la lecture des profils (KF=9, KV=7).
+    # Nommage des familles, établi à la lecture des profils (KF=8, KV=8).
     # Ordre d'affichage : des quartiers les plus populaires aux plus aisés.
     # Chaque entrée : numéro brut de scipy -> (rang affiché, bureau témoin, nom, couleur)
     NOMS_F = {
         1: (1, '93051_0023', 'Grands ensembles les plus précaires, bastions insoumis', '#1f5fae'),
         2: (2, '93050_0005', "Cités d'habitat social, vote insoumis majoritaire", '#6fa8dc'),
-        6: (3, '93050_0009', 'Quartiers populaires mixtes, gauche en tête', '#eb6834'),
-        5: (4, '93050_0001', 'Quartiers mixtes aux revenus modestes, RN au-dessus de la moyenne', '#f3b98f'),
-        8: (5, '93049_0006', 'Petits collectifs locatifs, jeunes actifs et personnes seules', '#eda100'),
-        7: (6, '93051_0003', 'Classes moyennes en immeubles, au plus près de la moyenne', '#8fd0c0'),
-        9: (7, '93051_0001', 'Centre-ville diplômé, gauche modérée et centre', '#e87ba4'),
-        3: (8, '93049_0001', 'Quartiers aisés et âgés, forte participation', '#008300'),
-        4: (9, '93033_0001', 'Pavillonnaire aisé, droite et RN en tête', '#4a3aa7'),
+        3: (3, '93050_0009', 'Quartiers populaires cosmopolites en immeubles', '#eb6834'),
+        4: (4, '93050_0001', 'Quartiers mixtes aux revenus modestes, RN un peu au-dessus de la moyenne', '#f3b98f'),
+        5: (5, '93049_0006', 'Petits collectifs locatifs, jeunes actifs et personnes seules', '#eda100'),
+        6: (6, '93051_0001', 'Classes moyennes diplômées en appartement, gauche modérée et centre', '#e87ba4'),
+        8: (7, '93049_0001', 'Quartiers aisés de propriétaires, forte participation', '#008300'),
+        7: (8, '93033_0001', 'Pavillonnaire aisé, droite et RN en tête', '#4a3aa7'),
     }
     NOMS_V = {
-        2: ('A', '93051_0023', 'Bastions insoumis', '#A23B78'),
-        1: ('B', '93050_0005', 'Vote insoumis, Rassemblement national présent', '#E58FB3'),
-        6: ('C', '93050_0001', 'Bureaux partagés entre gauche et Rassemblement national', '#E0A458'),
-        7: ('D', '93051_0001', 'Bureaux dans la moyenne de la circonscription', '#B9B2A0'),
-        5: ('E', '93051_0002', 'Gauche modérée et centre, forte participation', '#0F9E86'),
-        4: ('F', '93049_0001', 'Droite, centre et RN au-dessus de la moyenne', '#7C8FD6'),
-        3: ('G', '93033_0001', 'Droite et RN en tête, vote insoumis marginal', '#2E4A9E'),
+        1: ('A', '93051_0023', 'Bastions insoumis', '#A23B78'),
+        2: ('B', '93051_0017', 'Vote insoumis majoritaire', '#C9578F'),
+        3: ('C', '93050_0005', 'Vote insoumis, RN et centre présents', '#E58FB3'),
+        4: ('D', '93050_0001', 'Bureaux partagés entre gauche et Rassemblement national', '#E0A458'),
+        8: ('E', '93051_0001', 'Bureaux dans la moyenne de la circonscription', '#B9B2A0'),
+        7: ('F', '93051_0002', 'Gauche modérée et centre, forte participation', '#0F9E86'),
+        5: ('G', '93049_0001', 'Droite, centre et RN au-dessus de la moyenne', '#7C8FD6'),
+        6: ('H', '93033_0001', 'Droite et RN en tête, vote insoumis marginal', '#2E4A9E'),
     }
     for raw, noms in ((raw_f, NOMS_F), (raw_v, NOMS_V)):
         for k, (_, temoin, nom, _) in noms.items():

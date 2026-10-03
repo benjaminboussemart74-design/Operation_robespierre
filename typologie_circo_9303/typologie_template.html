@@ -133,7 +133,7 @@ footer.src { background: var(--bg-sidebar); border-top: 1px solid var(--border);
 <main>
   <section class="intro">
     <div class="lead">
-      <span class="label">Typologie de l'électorat · bureaux de vote · 2024-2026</span>
+      <span class="label">Typologie de l'électorat · bureaux de vote · 2022-2024</span>
       <h1>Qui vote dans la 3e circonscription de la Seine-Saint-Denis ?</h1>
       <p>Noisy-le-Grand, Neuilly-sur-Marne, Neuilly-Plaisance et Gournay-sur-Marne forment une seule circonscription législative. Cette page classe ses <b id="nbv"></b> bureaux de vote en familles qui votent et vivent de la même manière, avec la méthode déjà appliquée à Noisy-le-Grand.</p>
       <p>La frontière qui compte le plus ne sépare pas les communes. Elle sépare les grands ensembles, où la gauche insoumise dépasse souvent 40 %, des quartiers pavillonnaires, où la droite et le Rassemblement national font leurs meilleurs scores.</p>
@@ -146,8 +146,8 @@ footer.src { background: var(--bg-sidebar); border-top: 1px solid var(--border);
       <span class="label" id="typoKicker"></span>
       <h2 id="typoTitle"></h2>
       <div class="switch" id="typoSwitch" role="group" aria-label="Choix de la typologie">
-        <button data-m="fine" aria-pressed="true">9 familles · votes et sociologie</button>
-        <button data-m="vote_seul" aria-pressed="false">7 familles · votes seuls</button>
+        <button data-m="fine" aria-pressed="true">Votes et sociologie</button>
+        <button data-m="vote_seul" aria-pressed="false">Votes seuls</button>
       </div>
     </div>
     <div class="panel-b typo-grid">
@@ -202,7 +202,7 @@ footer.src { background: var(--bg-sidebar); border-top: 1px solid var(--border);
   <section class="panel">
     <div class="panel-h">
       <span class="label">Méthode · classification ascendante hiérarchique</span>
-      <h2>Pourquoi neuf familles, et pas cinq ou douze ?</h2>
+      <h2>Pourquoi huit familles, et pas cinq ou douze ?</h2>
     </div>
     <div class="panel-b">
       <p class="typo-meth" style="margin-top:0">La stabilité mesure si l'on retrouve les mêmes familles en refaisant le calcul trois cents fois sur 80 % des bureaux tirés au hasard (1 : partition identique). La part expliquée indique quelle fraction des écarts entre bureaux la partition rend compte. Un découpage plus fin explique toujours davantage ; on retient celui qui reste stable sans multiplier les familles d'un ou deux bureaux.</p>
@@ -211,7 +211,7 @@ footer.src { background: var(--bg-sidebar); border-top: 1px solid var(--border);
     <div class="panel-b">
       <details class="dd">
         <summary>Afficher l'arbre de classification des 82 bureaux</summary>
-        <p class="typo-meth">Lecture : chaque bureau est une feuille, à gauche. Deux branches se rejoignent d'autant plus à droite que les bureaux ou les groupes qu'elles portent sont différents. La ligne en pointillé coupe l'arbre en neuf familles.</p>
+        <p class="typo-meth">Lecture : chaque bureau est une feuille, à gauche. Deux branches se rejoignent d'autant plus à droite que les bureaux ou les groupes qu'elles portent sont différents. La ligne en pointillé coupe l'arbre en huit familles.</p>
         <div class="scroll"><svg id="dendro" role="img" aria-label="Arbre de classification des bureaux de vote"></svg></div>
       </details>
     </div>
@@ -232,7 +232,7 @@ footer.src { background: var(--bg-sidebar); border-top: 1px solid var(--border);
   <p>Source : ministère de l'Intérieur via data.gouv.fr (résultats par bureau de vote, agrégation Etalab) — profil social : INSEE, recensement de la population 2022 et revenus Filosofi 2021, estimé par bureau de vote à partir des adresses du répertoire électoral unique (jeu « Profil sociodémographique des bureaux de vote », data.gouv.fr).</p>
   <p>Contours : secteurs électoraux de la Ville de Noisy-le-Grand. Pour Neuilly-sur-Marne, Neuilly-Plaisance et Gournay-sur-Marne, qui ne publient pas leurs secteurs, ceux-ci ont été reconstruits à partir des adresses des électeurs de chaque bureau (INSEE, répertoire électoral unique, 2022) : chaque point du territoire est attribué à l'adresse d'électeur la plus proche, puis les petites enclaves sont rattachées au bureau voisin. <span id="qualSect"></span> Testée sur Noisy-le-Grand, la méthode recouvre les secteurs officiels à 84 %. Lieux de vote : INSEE, répertoire électoral unique (2022), et Ville de Noisy-le-Grand.</p>
   <p>Revenu médian corrigé : le jeu de données source compte comme nuls les quartiers INSEE (IRIS) dont le revenu n'est pas publié, ce qui abaisse fortement le revenu de certains bureaux (1 811 € au bureau 12 de Neuilly-sur-Marne, 4 639 € au bureau 23 de Noisy-le-Grand). Le revenu de chaque IRIS a été reconstitué à partir des moyennes publiées, puis chaque bureau a été repondéré sur ses seuls IRIS au revenu connu. Pour les bureaux 11 et 12 de Neuilly-sur-Marne et 23 de Noisy-le-Grand, ce revenu ne repose que sur 10 %, 8 % et 34 % des logements.</p>
-  <p>Les bureaux 43 de Noisy-le-Grand et 21 de Neuilly-sur-Marne, créés en 2024, n'ont ni profil social ni contour publiés : ils reçoivent le profil du bureau dont ils sont issus (21 et 4 respectivement), et le bureau 21 de Neuilly-sur-Marne n'est pas dessiné sur la carte. Les scores sont calculés sur les suffrages exprimés, la participation sur les inscrits.</p>
+  <p>Les bureaux 43 de Noisy-le-Grand et 21 de Neuilly-sur-Marne, créés en 2024, n'existaient pas à la présidentielle 2022 et n'ont ni profil social ni contour publiés : ils reçoivent les résultats de 2022 et le profil social du bureau dont ils sont issus (21 et 4 respectivement), et le bureau 21 de Neuilly-sur-Marne n'est pas dessiné sur la carte. Les municipales 2026 ne servent pas au calcul. Les scores sont calculés sur les suffrages exprimés, la participation sur les inscrits.</p>
 </footer>
 
 <div class="tip" id="tip" hidden></div>
@@ -255,8 +255,7 @@ const bvNum = id => String(parseInt(id.slice(6), 10));
 const bvNom = id => `${COM[id.slice(0, 5)]}, bureau ${bvNum(id)}`;
 const BV = D.bv, IDX = Object.fromEntries(BV.map((b, i) => [b, i]));
 
-const VLAB = ['Participation · municipales 2026', 'Participation · européennes 2024', 'Participation · législatives 2024', 'LFI · européennes', 'RN et Reconquête · européennes', 'PS, écologistes et PCF · européennes', 'Renaissance · européennes', 'LR · européennes', 'Portes (NFP) · législatives', 'Cretin-Gielly (RN) · législatives', 'Centre · législatives', 'Droite · législatives'];
-const VCOURT = ['Part. municipales', 'Part. européennes', 'Part. législatives', 'LFI', 'RN et Reconquête', 'PS, écolo. et PCF', 'Renaissance', 'LR', 'Portes (NFP)', 'Cretin-Gielly (RN)', 'Centre', 'Droite'];
+const VCOURT = ['Part. présid. 2022', 'Part. europ. 2024', 'Part. législ. 2024', 'LFI · europ.', 'RN et Reconquête · europ.', 'PS, écolo. et PCF · europ.', 'Renaissance · europ.', 'LR · europ.', 'Portes (NFP) · législ.', 'Cretin-Gielly (RN) · législ.', 'Centre · législ.', 'Droite · législ.', 'Mélenchon · présid.', 'Macron · présid.', 'Le Pen et Zemmour · présid.', 'Pécresse · présid.', 'Jadot, Roussel, Hidalgo · présid.'];
 const SLAB = { rev: 'Revenu médian', cad: 'Cadres', pint: 'Professions intermédiaires', emp: 'Employés', ouv: 'Ouvriers', ret: 'Retraités', dip: 'Diplômés du supérieur', sdip: 'Sans diplôme', cho: 'Chômage', hlm: 'Locataires HLM', pro: 'Propriétaires', lpriv: 'Locataires du privé', mai: 'Maisons', svoit: 'Ménages sans voiture', imm: 'Immigrés', jeu: '15-24 ans', p60: '60 ans ou plus', p80: '80 ans ou plus', mono: 'Familles monoparentales', cpl: 'Couples avec enfants', seul: 'Personnes seules' };
 
 // écarts-types entre bureaux, pour juger de l'ampleur d'un écart
@@ -265,14 +264,14 @@ const SD_V = sd(D.vote), SD_S = sd(D.socio);
 
 const TYPOS = {
   fine: {
-    kicker: 'Typologie socio-électorale · votes 2024-2026 et profil social INSEE, à poids égal',
-    titre: 'Neuf familles de quartiers, entre sociologie et vote',
-    meth: `Méthode : chaque bureau est décrit par douze mesures de vote (participation aux municipales 2026, aux européennes et aux législatives 2024 ; scores des grandes listes aux européennes 2024 et des candidats au premier tour des législatives 2024) et par vingt et un indicateurs sociaux de l'INSEE : revenus, métiers, diplômes, logement, âge, composition des ménages, immigration. Chaque bloc pèse la moitié du calcul. Une classification ascendante hiérarchique (méthode de Ward) regroupe ensuite les bureaux qui se ressemblent le plus. Contrairement à l'atlas de Noisy-le-Grand, les scores des listes municipales ne servent pas au calcul : les listes diffèrent d'une commune à l'autre et ne sont pas comparables. Neuf familles expliquent ${pctR2('fine', 0)} des écarts de vote et ${pctR2('fine', 1)} des écarts sociaux entre bureaux. Cliquez sur une famille pour l'isoler sur la carte.`,
+    kicker: 'Typologie socio-électorale · votes 2022-2024 et profil social INSEE, à poids égal',
+    titre: 'Huit familles de quartiers, entre sociologie et vote',
+    meth: `Méthode : chaque bureau est décrit par dix-sept mesures de vote (participation au premier tour de la présidentielle 2022, aux européennes et au premier tour des législatives 2024 ; scores des principaux candidats et listes à ces trois scrutins) et par vingt et un indicateurs sociaux de l'INSEE : revenus, métiers, diplômes, logement, âge, composition des ménages, immigration. Chaque bloc pèse la moitié du calcul. Une classification ascendante hiérarchique (méthode de Ward) regroupe ensuite les bureaux qui se ressemblent le plus. Contrairement à l'atlas de Noisy-le-Grand, les municipales ne servent pas au calcul : listes, enjeux et mobilisation y sont propres à chaque commune. Huit familles expliquent ${pctR2('fine', 0)} des écarts de vote et ${pctR2('fine', 1)} des écarts sociaux entre bureaux. Cliquez sur une famille pour l'isoler sur la carte.`,
   },
   vote_seul: {
-    kicker: 'Typologie électorale · votes 2024-2026 seulement',
-    titre: 'Sept familles de bureaux, sept façons de voter',
-    meth: `Méthode : chaque bureau est décrit par les douze mesures de vote seulement, ramenées à une échelle commune, puis regroupé par classification ascendante hiérarchique (méthode de Ward). Le profil social ne sert pas au calcul, il décrit ensuite chaque famille. Sept familles expliquent ${pctR2('vote_seul', 0)} des écarts de vote entre bureaux. Cliquez sur une famille pour l'isoler sur la carte.`,
+    kicker: 'Typologie électorale · votes 2022-2024 seulement',
+    titre: 'Huit familles de bureaux, huit façons de voter',
+    meth: `Méthode : chaque bureau est décrit par les dix-sept mesures de vote seulement, ramenées à une échelle commune, puis regroupé par classification ascendante hiérarchique (méthode de Ward). Le profil social ne sert pas au calcul, il décrit ensuite chaque famille. Huit familles expliquent ${pctR2('vote_seul', 0)} des écarts de vote entre bureaux. Cliquez sur une famille pour l'isoler sur la carte.`,
   },
 };
 function pctR2(m, i) { const d = D[m].diag.find(x => x.k === D[m].k); return fmt1(100 * d.r2[i]).replace(',0', '') + NBSP + '%'; }
@@ -287,14 +286,19 @@ const L1 = D.scrutins['2024_legi_t1'], L2 = D.scrutins['2024_legi_t2'];
 const sumBy = (el, f) => Object.values(el.bv).reduce((s, r) => s + f(r), 0);
 const INS = sumBy(L1, r => r.i);
 document.getElementById('nbv').textContent = BV.length;
-document.getElementById('hmeta').textContent = `${BV.length} bureaux de vote · 4 communes · ${fmtInt(INS)} inscrits · typologie 2024-2026`;
+document.getElementById('hmeta').textContent = `${BV.length} bureaux de vote · 4 communes · ${fmtInt(INS)} inscrits · typologie 2022-2024`;
 const portes2 = 100 * sumBy(L2, r => r.x[0]) / sumBy(L2, r => r.e);
 const part1 = 100 * sumBy(L1, r => r.v) / INS;
+const P1 = D.scrutins['2022_pres_t1'], P2 = D.scrutins['2022_pres_t2'];
+const melen1 = 100 * sumBy(P1, r => r.x[0]) / sumBy(P1, r => r.e), macron1 = 100 * sumBy(P1, r => r.x[1]) / sumBy(P1, r => r.e);
+const macron2 = 100 * sumBy(P2, r => r.x[0]) / sumBy(P2, r => r.e);
 document.getElementById('kpis').innerHTML = [
   [BV.length, 'bureaux de vote', '43 à Noisy-le-Grand, 21 à Neuilly-sur-Marne, 12 à Neuilly-Plaisance, 6 à Gournay-sur-Marne'],
   [fmtInt(INS), 'inscrits', 'législatives 2024, premier tour'],
   [fmtPct(part1), 'participation', 'législatives 2024, premier tour'],
   [fmtPct(portes2), 'Thomas Portes', 'second tour 2024, face à Denis Cretin-Gielly (RN)'],
+  [fmtPct(melen1), 'Jean-Luc Mélenchon', 'présidentielle 2022, premier tour, devant Emmanuel Macron (' + fmtPct(macron1) + ')'],
+  [fmtPct(macron2), 'Emmanuel Macron', 'présidentielle 2022, second tour, face à Marine Le Pen'],
 ].map(([v, l, d]) => `<div class="kpi"><span class="label">${l}</span><span class="v">${v}</span><span class="d">${d}</span></div>`).join('');
 
 // ── Projection ──────────────────────────────────────────────
@@ -331,7 +335,7 @@ function bvTip(id) {
   const ids = Object.entries(D.parent).filter(([n, o]) => o === id).map(([n]) => n);
   const lines = [id, ...ids].map(b => {
     const f = famOf(b), F = T().familles[f], i = IDX[b], v = D.vote[i];
-    return `<div style="margin-top:6px"><b>${esc(bvNom(b))}</b>${D.lieux[b] ? `<br><span style="color:var(--text-muted)">${esc(D.lieux[b])}</span>` : ''}<br><span class="sw" style="background:${F.col}"></span>${esc(f)} · ${esc(F.nom)}<br><span class="mono">Portes ${fmtPct(v[8])} · Cretin-Gielly ${fmtPct(v[9])} · participation ${fmtPct(v[2])}</span></div>`;
+    return `<div style="margin-top:6px"><b>${esc(bvNom(b))}</b>${D.lieux[b] ? `<br><span style="color:var(--text-muted)">${esc(D.lieux[b])}</span>` : ''}<br><span class="sw" style="background:${F.col}"></span>${esc(f)} · ${esc(F.nom)}<br><span class="mono">Législatives 2024 : Portes ${fmtPct(v[8])} · Cretin-Gielly ${fmtPct(v[9])}<br>Présidentielle 2022 : Mélenchon ${fmtPct(v[12])} · Macron ${fmtPct(v[13])} · Le Pen et Zemmour ${fmtPct(v[14])}</span></div>`;
   });
   const note = ids.length ? `<div style="margin-top:6px;color:var(--text-muted)">Le bureau ${bvNum(ids[0])}, créé en 2024 à partir du bureau ${bvNum(id)}, n'a pas encore de contour publié : il partage ce tracé.</div>` : '';
   return lines.join('') + note;
@@ -393,8 +397,8 @@ function drawCommunes() {
   document.getElementById('cmLeg').innerHTML = keys.map(k => `<span><i style="background:${T().familles[k].col}"></i>${esc(k)} · ${esc(T().familles[k].nom)}</span>`).join('');
   const fine = mode === 'fine';
   document.getElementById('cmSub').textContent = fine
-    ? "Gournay-sur-Marne appartient tout entière à la famille pavillonnaire aisée. Neuilly-sur-Marne concentre l'habitat social de l'est de la circonscription, mais n'a aucun bureau des quartiers aisés. Noisy-le-Grand et Neuilly-Plaisance sont les plus diverses : chacune réunit des bureaux des deux extrémités de l'échelle sociale."
-    : "La lecture par le seul vote confirme le contraste : Gournay-sur-Marne vote presque uniformément à droite et pour le Rassemblement national, Neuilly-sur-Marne se partage entre vote insoumis et bureaux disputés, Noisy-le-Grand couvre toute la palette.";
+    ? "Gournay-sur-Marne appartient tout entière à la famille pavillonnaire aisée. Neuilly-sur-Marne se partage entre ses cités d'habitat social et ses quartiers mixtes aux revenus modestes, mais n'a aucun bureau dans les deux familles aisées. Noisy-le-Grand et Neuilly-Plaisance sont les plus diverses : chacune réunit des bureaux des deux extrémités de l'échelle sociale."
+    : "La lecture par le seul vote confirme le contraste : Gournay-sur-Marne vote presque uniformément à droite et pour le Rassemblement national, Neuilly-sur-Marne se partage entre vote insoumis et bureaux disputés entre gauche et RN, Noisy-le-Grand couvre toute la palette.";
 }
 
 // ── Tableaux de profils ─────────────────────────────────────
@@ -431,7 +435,7 @@ function drawCross() {
     return `<tr><td class="l"><span class="fcell"><span class="lt-s" style="background:${col};color:${inkOn(col)}">${n}</span>${esc(nom)}</span></td>${cols.map(k => { const c = bvs.filter(b => D.fine.lab[IDX[b]] === k).length; return `<td class="c" style="${c ? `background:${F[k].col}33` : 'color:var(--border-mid)'}">${c || '·'}</td>`; }).join('')}</tr>`;
   }).join('');
   document.getElementById('xtab').innerHTML = head + '<tbody>' + body + '</tbody>';
-  document.getElementById('xnote').innerHTML = `<b>Lecture.</b> Les familles aux deux extrémités résistent au changement d'échelle : le pavillonnaire aisé de Noisy-le-Grand rejoint Gournay-sur-Marne (famille 9), le centre-ville diplômé reste un groupe à part (famille 7), les quartiers aisés et âgés rejoignent le centre de Neuilly-Plaisance (famille 8). Au milieu, les catégories noiséennes fusionnent : à l'échelle de la circonscription, classes moyennes en immeubles et pavillonnaire de classes moyennes forment une seule famille (6), et les bureaux d'habitat social noiséens rejoignent pour la plupart la famille la plus précaire (1), les autres se partageant entre les cités de Neuilly-sur-Marne (2) et les quartiers populaires mixtes (3).`;
+  document.getElementById('xnote').innerHTML = `<b>Lecture.</b> Les familles aux deux extrémités résistent au changement d'échelle : les grands ensembles les plus précaires restent un groupe à part (famille 1), et le pavillonnaire aisé de Noisy-le-Grand rejoint Gournay-sur-Marne (famille 8). Au milieu, plusieurs catégories noiséennes fusionnent : le centre-ville diplômé et les classes moyennes en immeubles forment une seule famille (6) ; le pavillonnaire de classes moyennes et les quartiers aisés et âgés rejoignent les quartiers de propriétaires du centre de Neuilly-Plaisance (7). Les quartiers mixtes aux revenus modestes gardent leur identité (4) et la partagent avec la majorité des bureaux de Neuilly-sur-Marne. Enfin, les bureaux d'habitat social noiséens rejoignent pour la plupart la famille la plus précaire (1), les autres se partageant entre les cités de Neuilly-sur-Marne (2) et les quartiers populaires cosmopolites (3).`;
 }
 
 // ── Diagnostic et dendrogramme ──────────────────────────────
@@ -463,9 +467,9 @@ const sortState = { k: 'bv', dir: 1 };
 function drawBureaux() {
   const cols = [
     { k: 'com', lab: 'Commune', l: true }, { k: 'n', lab: 'N°' }, { k: 'lieu', lab: 'Lieu de vote', l: true }, { k: 'i', lab: 'Inscrits' },
-    { k: 'ff', lab: 'Famille · 9' }, { k: 'fv', lab: 'Famille · 7' },
+    { k: 'ff', lab: 'Famille · socio-élect.' }, { k: 'fv', lab: 'Famille · vote' },
     { k: 'v2', lab: 'Part. législ. 2024' }, { k: 'v8', lab: 'Portes T1' }, { k: 'v9', lab: 'Cretin-Gielly T1' }, { k: 'v10', lab: 'Centre T1' }, { k: 'v11', lab: 'Droite T1' },
-    { k: 'v3', lab: 'LFI euro.' }, { k: 'v4', lab: 'RN-REC euro.' }, { k: 'rev', lab: 'Revenu médian' }, { k: 'hlm', lab: 'HLM' },
+    { k: 'v3', lab: 'LFI euro.' }, { k: 'v4', lab: 'RN-REC euro.' }, { k: 'v12', lab: 'Mélenchon 2022' }, { k: 'v13', lab: 'Macron 2022' }, { k: 'v14', lab: 'Le Pen et Zemmour 2022' }, { k: 'rev', lab: 'Revenu médian' }, { k: 'hlm', lab: 'HLM' },
   ];
   const ri = D.socio_noms.indexOf('rev'), hi = D.socio_noms.indexOf('hlm');
   const rows = BV.map((b, i) => ({ bv: b, com: COM[b.slice(0, 5)], n: +bvNum(b), lieu: D.lieux[b] || '', i: L1.bv[b].i, ff: D.fine.lab[i], fv: D.vote_seul.lab[i], ...Object.fromEntries(D.vote[i].map((v, j) => ['v' + j, v])), rev: D.socio[i][ri], hlm: D.socio[i][hi] }));
@@ -474,7 +478,7 @@ function drawBureaux() {
   const famTd = (m, f) => { const F = D[m].familles[f]; return `<td class="num"><span class="lt-s" style="background:${F.col};color:${inkOn(F.col)};margin:0" title="${esc(F.nom)}">${esc(f)}</span></td>`; };
   const t = document.getElementById('btab');
   t.innerHTML = `<thead><tr>${cols.map(c => `<th class="${c.l ? 'l' : ''}" data-k="${c.k}" tabindex="0" ${c.k === k ? `aria-sort="${dir > 0 ? 'ascending' : 'descending'}"` : ''}>${esc(c.lab)}</th>`).join('')}</tr></thead><tbody>`
-    + rows.map(r => `<tr><td class="l">${esc(r.com)}</td><td class="num">${r.n}</td><td class="l">${esc(r.lieu)}${D.parent[r.bv] ? `<small>créé en 2024 · profil social du bureau ${bvNum(D.parent[r.bv])}</small>` : ''}</td><td class="num">${fmtInt(r.i)}</td>${famTd('fine', r.ff)}${famTd('vote_seul', r.fv)}${['v2', 'v8', 'v9', 'v10', 'v11', 'v3', 'v4'].map(c => `<td class="num">${fmt1(r[c])}</td>`).join('')}<td class="num">${fmtInt(r.rev)}${D.couv_rev[r.bv] < 0.5 ? `<small>sur ${Math.round(100 * D.couv_rev[r.bv])}${NBSP}% des logements</small>` : ''}</td><td class="num">${fmt1(r.hlm)}</td></tr>`).join('') + '</tbody>';
+    + rows.map(r => `<tr><td class="l">${esc(r.com)}</td><td class="num">${r.n}</td><td class="l">${esc(r.lieu)}${D.parent[r.bv] ? `<small>créé en 2024 · profil social du bureau ${bvNum(D.parent[r.bv])}</small>` : ''}</td><td class="num">${fmtInt(r.i)}</td>${famTd('fine', r.ff)}${famTd('vote_seul', r.fv)}${['v2', 'v8', 'v9', 'v10', 'v11', 'v3', 'v4', 'v12', 'v13', 'v14'].map(c => `<td class="num">${fmt1(r[c])}</td>`).join('')}<td class="num">${fmtInt(r.rev)}${D.couv_rev[r.bv] < 0.5 ? `<small>sur ${Math.round(100 * D.couv_rev[r.bv])}${NBSP}% des logements</small>` : ''}</td><td class="num">${fmt1(r.hlm)}</td></tr>`).join('') + '</tbody>';
   t.querySelectorAll('th').forEach(th => { const go = () => { const kk = th.dataset.k; sortState.dir = sortState.k === kk ? -sortState.dir : (['com', 'lieu', 'n', 'ff', 'fv'].includes(kk) ? 1 : -1); sortState.k = kk; drawBureaux(); }; th.addEventListener('click', go); th.addEventListener('keydown', e => { if (e.key === 'Enter') go(); }); });
 }
 
