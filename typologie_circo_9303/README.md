@@ -5,6 +5,7 @@ Neuilly-sur-Marne 21, Neuilly-Plaisance 12, Gournay-sur-Marne 6) en familles
 socio-électorales, avec la méthode de l'atlas électoral de Noisy-le-Grand.
 
 - `build_data.py` : construction des indicateurs, classification (Ward), page.
+- `secteurs.py` : reconstruction des secteurs électoraux à partir des adresses des électeurs.
 - `typologie_template.html` : gabarit de la page ; `typologie.html` : page générée.
 - `data.json` : données intermédiaires.
 
@@ -17,6 +18,12 @@ socio-électorales, avec la méthode de l'atlas électoral de Noisy-le-Grand.
 - 21 indicateurs sociaux INSEE (RP 2022, Filosofi 2021), mêmes définitions que l'atlas.
 - Chaque bloc pèse la moitié du calcul ; CAH de Ward ; nombre de familles choisi
   par stabilité (300 sous-échantillons de 80 %).
+- Secteurs : officiels pour Noisy-le-Grand ; ailleurs, reconstruits à partir des
+  adresses des électeurs (Voronoï des adresses, nettoyage des adresses isolées,
+  absorption des fragments de moins de 10 % des électeurs). Les contours d'Etalab
+  éclataient les bureaux en 3 à 8 morceaux. Contrôle sur Noisy-le-Grand :
+  84 % de recouvrement avec les secteurs officiels (Etalab : 82 %) ; 95 à 96 %
+  des électeurs dans le secteur de leur bureau.
 - Revenu médian corrigé : le jeu source compte comme nuls les IRIS sans revenu
   publié ; le revenu de chaque IRIS est reconstitué puis chaque bureau repondéré.
 
@@ -29,7 +36,8 @@ Placer dans `cache/` (non versionné) :
 | `gen_circo.parquet`, `cand_circo.parquet` | « Données des élections agrégées », data.gouv.fr, filtrées sur 93033, 93049, 93050, 93051 |
 | `socio.parquet`, `corr.parquet` | « Profil sociodémographique des bureaux de vote », data.gouv.fr |
 | `bvreu.parquet` | « Bureaux de vote et adresses de leurs électeurs » (table-bv-reu), INSEE |
-| `circo_reu.geojson` | « Proposition de contours des bureaux de vote », Etalab, filtré sur les 4 communes |
+| `circo_reu.geojson` | « Proposition de contours des bureaux de vote », Etalab, filtré sur les 4 communes (contour des communes) |
+| `adresses_circo.parquet` | « Bureaux de vote et adresses de leurs électeurs » (table-adresses-reu), INSEE, filtrée sur les 4 communes |
 | `D.json` | objet de données de l'atlas électoral de Noisy-le-Grand |
 
 Puis : `python build_data.py 9 7`

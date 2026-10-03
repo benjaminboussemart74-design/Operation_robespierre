@@ -230,7 +230,7 @@ footer.src { background: var(--bg-sidebar); border-top: 1px solid var(--border);
 
 <footer class="src">
   <p>Source : ministère de l'Intérieur via data.gouv.fr (résultats par bureau de vote, agrégation Etalab) — profil social : INSEE, recensement de la population 2022 et revenus Filosofi 2021, estimé par bureau de vote à partir des adresses du répertoire électoral unique (jeu « Profil sociodémographique des bureaux de vote », data.gouv.fr).</p>
-  <p>Contours : secteurs électoraux de la Ville de Noisy-le-Grand ; contours estimés par Etalab à partir du répertoire électoral unique pour les trois autres communes (découpage de 2022). Lieux de vote : INSEE, répertoire électoral unique (2022), et Ville de Noisy-le-Grand.</p>
+  <p>Contours : secteurs électoraux de la Ville de Noisy-le-Grand. Pour Neuilly-sur-Marne, Neuilly-Plaisance et Gournay-sur-Marne, qui ne publient pas leurs secteurs, ceux-ci ont été reconstruits à partir des adresses des électeurs de chaque bureau (INSEE, répertoire électoral unique, 2022) : chaque point du territoire est attribué à l'adresse d'électeur la plus proche, puis les petites enclaves sont rattachées au bureau voisin. <span id="qualSect"></span> Testée sur Noisy-le-Grand, la méthode recouvre les secteurs officiels à 84 %. Lieux de vote : INSEE, répertoire électoral unique (2022), et Ville de Noisy-le-Grand.</p>
   <p>Revenu médian corrigé : le jeu de données source compte comme nuls les quartiers INSEE (IRIS) dont le revenu n'est pas publié, ce qui abaisse fortement le revenu de certains bureaux (1 811 € au bureau 12 de Neuilly-sur-Marne, 4 639 € au bureau 23 de Noisy-le-Grand). Le revenu de chaque IRIS a été reconstitué à partir des moyennes publiées, puis chaque bureau a été repondéré sur ses seuls IRIS au revenu connu. Pour les bureaux 11 et 12 de Neuilly-sur-Marne et 23 de Noisy-le-Grand, ce revenu ne repose que sur 10 %, 8 % et 34 % des logements.</p>
   <p>Les bureaux 43 de Noisy-le-Grand et 21 de Neuilly-sur-Marne, créés en 2024, n'ont ni profil social ni contour publiés : ils reçoivent le profil du bureau dont ils sont issus (21 et 4 respectivement), et le bureau 21 de Neuilly-sur-Marne n'est pas dessiné sur la carte. Les scores sont calculés sur les suffrages exprimés, la participation sur les inscrits.</p>
 </footer>
@@ -486,4 +486,5 @@ document.querySelectorAll('#typoSwitch button').forEach(b => b.addEventListener(
   drawAll();
 }));
 drawAll(); drawCross(); drawDiag(); drawDendro(); drawBureaux();
+document.getElementById('qualSect').textContent = 'Part des électeurs résidant dans le secteur reconstruit de leur bureau : ' + Object.entries(D.qualite_secteurs).map(([c, q]) => `${COM[c]} ${Math.round(100 * q)}${NBSP}%`).join(', ') + '.';
 </script>

@@ -14,7 +14,8 @@ Entrées (dossier cache/, non versionné, cf. README.md) :
   gen_circo.parquet, cand_circo.parquet  résultats par bureau (data.gouv.fr, agrégation)
   socio.parquet                          profil social par bureau (INSEE RP 2022, Filosofi 2021)
   bvreu.parquet                          lieux de vote (REU, INSEE)
-  circo_reu.geojson                      contours estimés des bureaux (Etalab)
+  circo_reu.geojson                      contours estimés des bureaux (Etalab), pour le contour des communes
+  adresses_circo.parquet                 adresses des électeurs par bureau (REU, INSEE), pour les secteurs
   D.json                                 données de l'atlas de Noisy-le-Grand (secteurs officiels, typologie)
 Sorties : data.json, typologie.html (page générée depuis typologie_template.html)
 Usage : python build_data.py 9 7   (nombre de familles : socio-électorale, électorale seule)
@@ -286,16 +287,29 @@ if __name__ == '__main__':
     D = json.load(open(C / 'D.json'))
     noisy = {f'93051_{bv}': int(t) for bv, t in D['typo2'].items()}
 
-    # Géométries : secteurs officiels pour Noisy-le-Grand, contours estimés (Etalab) ailleurs
+    # Géométries : secteurs officiels pour Noisy-le-Grand ; ailleurs, secteurs
+    # reconstruits à partir des adresses des électeurs (cf. secteurs.py)
+    import geopandas as gpd
+    from secteurs import secteurs, accord, L93
     geo = {}
     for bv, b in D['bureaux'].items():
-        g = shape({'type': 'MultiPolygon', 'coordinates': b['geo']})
-        geo[f'93051_{bv}'] = g
-    reu = json.load(open(C / 'circo_reu.geojson'))
-    for f in reu['features']:
-        p = f['properties']
-        if p['codeCommune'] != '93051':
-            geo[p['codeBureauVote']] = shape(f['geometry'])
+        geo[f'93051_{bv}'] = shape({'type': 'MultiPolygon', 'coordinates': b['geo']})
+    adr = pd.read_parquet(C / 'adresses_circo.parquet')
+    adr['bv'] = adr.code_commune_ref + '_' + adr.id_brut_bv_reu.str.split('_').str[1].str.zfill(4)
+    xy = gpd.GeoSeries(gpd.points_from_xy(adr.longitude, adr.latitude), crs=4326).to_crs(L93)
+    adr['x'], adr['y'], adr['nb'] = xy.x.values, xy.y.values, adr.nb_adresses.astype(int)
+    reu = gpd.read_file(C / 'circo_reu.geojson').to_crs(L93)
+    qualite = {}
+    for com in COMMUNES:
+        if com == '93051':
+            continue
+        contour = unary_union(reu[reu.codeCommune == com].geometry).buffer(1).buffer(-1)
+        a = adr[adr.code_commune_ref == com]
+        sect = secteurs(a, contour)
+        qualite[com] = round(accord(sect, a), 3)
+        for bv, g in sect.simplify(12).to_crs(4326).items():
+            geo[bv] = g
+    print('électeurs dans le secteur de leur bureau :', qualite)
 
     def coords(g):
         g = g.simplify(0.00005, preserve_topology=True)
@@ -333,6 +347,7 @@ if __name__ == '__main__':
         'couv_rev': {bv: round(float(COUV_REV[bv]), 2) for bv in BV if COUV_REV[bv] < 0.9},
         'moy_vote': XV.mean().round(1).tolist(),
         'moy_socio': SOCIO.mean().round(1).tolist(),
+        'qualite_secteurs': qualite,
         'contours': {c: coords(unary_union([geo[b].buffer(0.00008) for b in geo if b.startswith(c)]).buffer(-0.00008))
                      for c in COMMUNES},
         'fine': {'k': KF, 'lab': lab_f.astype(str).tolist(), 'familles': familles_f, 'diag': diag_f,
