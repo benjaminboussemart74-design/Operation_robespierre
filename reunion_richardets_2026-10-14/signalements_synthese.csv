@@ -1,0 +1,13 @@
+indicateur,libelle,valeur
+total_ville,Signalements dans toute la ville,472
+total_quartier,Signalements aux arrêts du quartier,156
+ligne_ville,310,312
+ligne_ville,312,13
+ligne_ville,320,76
+probleme_quartier,Non passage du bus,65
+probleme_quartier,Retard inférieur à 15 min,32
+probleme_quartier,Retard de 16 à 30 min,26
+probleme_quartier,Retard supérieur à 30 min,16
+probleme_quartier,Horaires erronés sur l'affichage en temps réel,32
+probleme_quartier,Horaires erronés sur l'affichage papier,22
+probleme_quartier,Autre,16

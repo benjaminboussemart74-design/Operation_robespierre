@@ -41,6 +41,7 @@ G_COUVERTURE, G_SOMMAIRE, G_QUESTIONS = 2, 3, 28   # gabarits repris du Mont d'E
 G_QR_ACCUEIL, G_QR_SORTIE = 1, 29                    # QR code et fiche de renseignement
 G_PERI_MERCREDI, G_PERI_CANTINE, G_KEOLIS = 6, 7, 27  # diapositives habituelles, chiffres de toute la ville
 SIGNALEMENTS = os.path.join(ICI, "signalements_par_arret.csv")
+SYNTHESE_BUS = os.path.join(ICI, "signalements_synthese.csv")
 LIGNES_PRINCIPALES = ("310", "312", "320")            # lignes qui traversent le quartier
 
 
@@ -418,9 +419,9 @@ MESURE = _IF.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Bold.
 
 # position des étiquettes (en pouces, par rapport au point) pour éviter les chevauchements
 DECALAGES = {
-    "Moulin à Vent": (0.15, -0.12), "Le Fort": (-0.2, -0.45), "Cité des Hêtres": (0.15, 0.0),
-    "Rue de la Chapelle": (-1.85, -0.2), "Gabriel Péri": (-1.25, -0.15), "Place du Combat": (-1.55, 0.1),
-    "Les Richardets - Centre": (-0.9, 0.15), "Ballon - Chapelle": (-0.75, -0.48), "Le Closeau": (-1.1, -0.2),
+    "Moulin à Vent": (0.15, -0.12), "Le Fort": (-1.05, -0.45), "Cité des Hêtres": (-2.05, 0.3),
+    "Rue de la Chapelle": (-1.85, -0.2), "Gabriel Péri": (-1.25, -0.15), "Place du Combat": (-1.0, 0.45),
+    "Les Richardets - Centre": (0.05, 0.5), "Ballon - Chapelle": (-0.75, -0.48), "Le Closeau": (-1.1, -0.2),
     "La Butte aux Cailles": (0.15, -0.45), "Rue du Ballon": (0.15, -0.38), "Chapelle": (0.12, -0.42),
     "Victor Hugo": (0.15, -0.12), "Les Graviers": (0.15, -0.05), "Rue des Aérostiers": (-1.85, -0.2),
     "Les Aérostiers": (0.15, -0.12), "Collège des Yvris": (0.15, -0.12),
@@ -429,11 +430,16 @@ DECALAGES = {
 
 
 def diapo_carte_bus(k):
+    import csv
     d = k.diapo(NUIT, "Services publics de proximité · les bus", "Les bus du quartier et vos signalements",
                 "Plan des lignes 310, 312 et 320 qui traversent le quartier, avec leurs arrêts (données "
                 "ouvertes d'Île-de-France Mobilités). Les arrêts Moulin à Vent (lignes 206, 207, 306, 310) "
                 "et Les Aérostiers (ligne 212) sont en limite du quartier. Les cercles verts indiquent le "
-                "nombre de signalements recueillis par le formulaire de la Ville pour chaque arrêt.")
+                "nombre de signalements recueillis par le formulaire de la Ville pour chaque arrêt "
+                "(472 signalements au total ; 156 rattachés avec certitude à un arrêt du quartier, les "
+                "saisies ambiguës ne sont pas comptées). Les problèmes sont comptés en mentions : un "
+                "signalement peut en citer plusieurs. Dans toute la ville : ligne 310, 312 signalements ; "
+                "ligne 320, 76 ; ligne 312, 13 ; ligne 220, 51.")
     chemin, (lw, lh), arrets, lignes = fond_carte_bus()
     mx, my, mw = 1.04, 2.45, 12.3
     mh = mw * lh / lw
@@ -441,17 +447,21 @@ def diapo_carte_bus(k):
     texte(d, mx, my + mh + 0.08, mw, 0.3, "© IGN – BD ORTHO · Lignes et arrêts : Île-de-France Mobilités",
           11, "C9CCDA", gras=False, align=PP_ALIGN.RIGHT)
     vmax = max([a["n"] for a in arrets if a["n"]] or [0])
+    # d'abord les cercles, ensuite les noms, pour qu'aucun cercle ne masque un nom
     for a in arrets:
-        x, y = mx + a["x"] / lw * mw, my + a["y"] / lh * mh
         if a["n"]:
+            x, y = mx + a["x"] / lw * mw, my + a["y"] / lh * mh
             diam = 0.38 + 0.52 * (a["n"] / vmax) ** 0.5   # surface proportionnelle au nombre
             c = rect(d, x - diam / 2, y - diam / 2, diam, diam, VERT, MSO_SHAPE.OVAL, contour=BLANC)
             tf = c.text_frame
             tf.text = str(a["n"])
+            tf.margin_left = tf.margin_right = 0
             r = tf.paragraphs[0].runs[0]
             r.font.name, r.font.size, r.font.bold, r.font.color.rgb = POLICE, Pt(16), True, rgb(NUIT)
             tf.paragraphs[0].alignment = PP_ALIGN.CENTER
             tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+    for a in arrets:
+        x, y = mx + a["x"] / lw * mw, my + a["y"] / lh * mh
         dx, dy = DECALAGES.get(a["nom"], (0.15, -0.1))
         nom = a["nom"].replace(" - ", " – ")
         largeur = MESURE.getlength(nom) / 72 + 0.12      # largeur réelle du nom, en pouces
@@ -462,21 +472,37 @@ def diapo_carte_bus(k):
         tf = e.text_frame
         tf.margin_left = tf.margin_right = Inches(0.05)
         tf.auto_size = None
-    # légende des lignes
-    texte(d, 13.8, 2.5, 5.2, 0.45, "LIGNES QUI TRAVERSENT LE QUARTIER", 18, VERT, espacement=120)
+    # légende des lignes, sous la carte
     for i, (nom, couleur) in enumerate(lignes):
-        y = 3.2 + i * 0.75
-        rect(d, 13.8, y + 0.12, 1.0, 0.22, couleur)
-        texte(d, 15.0, y, 3.9, 0.5, f"Ligne {nom}", 24, BLANC)
-    texte(d, 13.8, 5.55, 5.2, 0.45, "SIGNALEMENTS PAR ARRÊT", 18, VERT, espacement=120)
-    if vmax:
-        classement = sorted([a for a in arrets if a["n"]], key=lambda a: -a["n"])[:5]
-        for i, a in enumerate(classement):
-            y = 6.2 + i * 0.75
-            texte(d, 13.8, y, 1.3, 0.6, str(a["n"]), 28, VERT)
-            texte(d, 15.0, y + 0.05, 4.0, 0.6, a["nom"].replace(" - ", " – "), 20, BLANC)
-    else:
-        a_completer(d, 13.8, 6.15, 5.16, 3.5, "[Nombre de signalements par arrêt à compléter]", sombre=True)
+        x = mx + i * 2.6
+        rect(d, x, my + mh + 0.55, 0.8, 0.2, couleur)
+        texte(d, x + 0.95, my + mh + 0.42, 1.6, 0.45, f"Ligne {nom}", 20, BLANC)
+    if not vmax:
+        a_completer(d, 13.8, 2.5, 5.16, 7.0, "[Nombre de signalements par arrêt à compléter]", sombre=True)
+        return d
+    synthese = {}
+    for r in csv.DictReader(open(SYNTHESE_BUS, encoding="utf-8")):
+        synthese.setdefault(r["indicateur"], []).append((r["libelle"], int(r["valeur"])))
+    total_quartier = synthese["total_quartier"][0][1]
+    total_ville = synthese["total_ville"][0][1]
+    texte(d, 13.8, 2.35, 5.2, 1.2, str(total_quartier), 72, VERT)
+    texte(d, 13.8, 3.55, 5.2, 0.8, "signalements aux arrêts du quartier", 22, BLANC)
+    texte(d, 13.8, 4.3, 5.2, 0.45, f"sur {total_ville} dans toute la ville", 17, GRIS, gras=False)
+    texte(d, 13.8, 5.0, 5.2, 0.4, "ARRÊTS LES PLUS SIGNALÉS", 16, VERT, espacement=120)
+    classement = sorted([a for a in arrets if a["n"]], key=lambda a: -a["n"])[:4]
+    for i, a in enumerate(classement):
+        y = 5.5 + i * 0.5
+        texte(d, 13.8, y, 0.8, 0.45, str(a["n"]), 22, VERT)
+        texte(d, 14.6, y + 0.04, 4.4, 0.45, a["nom"].replace(" - ", " – "), 18, BLANC)
+    texte(d, 13.8, 7.65, 5.2, 0.4, "PROBLÈMES LES PLUS CITÉS", 16, VERT, espacement=120)
+    problemes = sorted(synthese["probleme_quartier"], key=lambda p: -p[1])[:3]
+    pmax = problemes[0][1]
+    for i, (libelle, n) in enumerate(problemes):
+        y = 8.15 + i * 0.72
+        libelle = libelle.replace("Horaires erronés sur l'affichage en temps réel", "Affichage en temps réel erroné")
+        texte(d, 13.8, y, 5.2, 0.35, libelle, 15, BLANC, gras=False)
+        rect(d, 13.8, y + 0.36, 4.3 * n / pmax, 0.22, VERT)
+        texte(d, 13.8 + 4.3 * n / pmax + 0.1, y + 0.28, 0.8, 0.35, str(n), 15, VERT)
     return d
 
 # ---------------------------------------------------------------------------
