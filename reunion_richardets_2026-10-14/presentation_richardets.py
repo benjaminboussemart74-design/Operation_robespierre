@@ -238,6 +238,76 @@ def triangle(d, x, y, couleur, cote=0.36):
 
 
 # ---------------------------------------------------------------------------
+# Travaux dans les écoles du quartier
+# ---------------------------------------------------------------------------
+# Sources : tableau de suivi des travaux des écoles (visites 2026, v1.78), comptes rendus des
+# conseils d'école (printemps 2026), tableau de suivi municipal des travaux 2026-2027.
+# On n'affiche que le réalisé et le programmé ; les demandes en attente vont dans les notes.
+ECOLES_QUARTIER = [
+    ("Les Charmilles", [
+        ("FAIT", ["Étais du réfectoire déposés (mai 2026)",
+                  "Ventilateurs et films anti-UV",
+                  "Bancs dans la cour",
+                  "Portes réglées, poignée remplacée"]),
+        ("EN COURS", ["Remplacement des dalles de faux plafond abîmées"]),
+        ("PROGRAMMÉ", ["Infiltration et peinture, classe de CM1-CM2",
+                       "Peinture de l'office du réfectoire"]),
+    ]),
+    ("Les Yvris", [
+        ("FAIT", ["Remise en état du drapeau de l'entrée (juin 2026)"]),
+        ("PROGRAMMÉ", ["Peinture du hall élémentaire et du bureau de la direction"]),
+    ]),
+    ("Maternelle des Richardets", [
+        ("FAIT", ["Un rafraîchisseur d'air", "Des films de protection solaire sur les vitrages"]),
+    ]),
+    ("Paul-Serelle", [
+        ("À L'ÉTUDE", ["Sécurisation du carrefour rue Paul-Serelle"]),
+        ("À RÉALISER", ["Réparation des fuites de la salle polyvalente"]),
+        ("À PROGRAMMER", ["Réverbère devant le portail"]),
+    ]),
+]
+
+NOTES_ECOLES_QUARTIER = (
+    "Sources : tableau de suivi des travaux des écoles (visites 2026), comptes rendus des conseils "
+    "d'école du printemps 2026, tableau de suivi municipal des travaux 2026-2027. Les travaux "
+    "« programmés » aux Charmilles et aux Yvris étaient prévus pour l'été 2026 : leur réalisation "
+    "reste à confirmer auprès de la Direction des Bâtiments.\n\n"
+    "Demandes en attente, à connaître (non projetées). Charmilles maternelle : fissures, étais posés "
+    "au réfectoire, toiture à refaire (travaux reportés pour analyser une fissure), chaudière en "
+    "panne chaque année, brise-vues posés à l'envers ; les parents et la direction demandent le "
+    "rapport d'expertise et la participation à la commission travaux. Charmilles élémentaire : "
+    "allée de secours inachevée (environ 6 mètres, enjeu pour un élève en fauteuil), 13 chaises "
+    "manquantes, écrans numériques, rapport d'expertise. Richardets élémentaire : barrière côté rue "
+    "cassée, rideaux thermiques. Yvris maternelle : bouton d'ouverture du portail à rehausser, "
+    "placards à sécuriser, barre pour le parc à vélos, chaleur au réfectoire. Paul-Serelle "
+    "(synthèse des parents du 29 mai) : portes coupe-feu trop lourdes, détecteurs de fumée, "
+    "extincteurs non fixés, alarme PPMS, interphone et grille de la maternelle hors service, "
+    "fenêtres et stores défectueux, fuites, revêtement de cour.")
+
+
+def diapo_ecoles_quartier(k):
+    d = k.diapo(NUIT, "Les écoles du quartier", "Les travaux dans les écoles du quartier",
+                NOTES_ECOLES_QUARTIER)
+    largeur, ecart = 4.25, 0.3
+    for i, (ecole, blocs) in enumerate(ECOLES_QUARTIER):
+        x = 1.04 + i * (largeur + ecart)
+        rect(d, x, 2.45, largeur, 7.85, CARTE)
+        rect(d, x, 2.45, largeur, 0.12, VERT)
+        texte(d, x + 0.3, 2.8, largeur - 0.5, 0.95, ecole, 26, BLANC)
+        y = 3.85 if len(ecole) > 18 else 3.45
+        for etat, items in blocs:
+            texte(d, x + 0.3, y, largeur - 0.5, 0.4, etat, 16, VERT, espacement=150)
+            y += 0.42
+            for item in items:
+                rect(d, x + 0.32, y + 0.1, 0.18, 0.18, VERT if etat == "FAIT" else GRIS, MSO_SHAPE.OVAL)
+                texte(d, x + 0.65, y, largeur - 0.9, 1.0, item, 17, CREME)
+                lignes = -(-len(item) // 27)               # environ 27 caractères par ligne à 17 pt
+                y += 0.3 * lignes + 0.16
+            y += 0.12
+    return d
+
+
+# ---------------------------------------------------------------------------
 # Plan des bus du quartier
 # ---------------------------------------------------------------------------
 def fond_carte_bus(largeur=2400, hauteur=1350):
@@ -596,8 +666,9 @@ def construire():
     n_carte = len(prs.slides._sldIdLst) + 1
     diapo_carte_bus(k)
 
+    diapo_ecoles_quartier(k)
     nv = k.nouvelles
-    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [G_PERI_MERCREDI, G_PERI_CANTINE]
+    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [nv[14], G_PERI_MERCREDI, G_PERI_CANTINE]
              + nv[4:8] + [n_carte, G_KEOLIS] + nv[8:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
     print("Écrit :", SORTIE, "-", len(prs.slides._sldIdLst), "diapositives")
