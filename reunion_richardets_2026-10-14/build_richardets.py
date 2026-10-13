@@ -124,8 +124,14 @@ def remplacer_texte(diapo, nom, *paragraphes):
         tf._txBody.append(p)
 
 
-def notes(diapo, texte):
-    diapo.notes_slide.notes_text_frame.text = texte
+def notes(diapo, texte, modele=None):
+    """Notes de l'orateur. Si la page de notes n'a pas de zone de texte (nouvelle diapositive),
+    on y recopie celle de la page de notes `modele`."""
+    ns = diapo.notes_slide
+    if ns.notes_text_frame is None and modele is not None:
+        corps = modele.notes_slide.notes_placeholder
+        ns.shapes._spTree.append(copy.deepcopy(corps._element))
+    ns.notes_text_frame.text = texte
 
 
 def remplacer_image(diapo, nom, image):
