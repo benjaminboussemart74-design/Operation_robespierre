@@ -376,6 +376,85 @@ def visuel_reunion_epure(quartiers):
     print("Écrit :", sortie)
 
 
+EPINGLE = (226, 59, 75)          # rouge de l'épingle
+
+
+def pointilles(d, anneau, couleur, largeur, trait=46, espace=28):
+    """Trace un contour fermé en pointillés réguliers."""
+    pts = anneau + [anneau[0]]
+    reste, dessine = trait, True
+    for (xa, ya), (xb, yb) in zip(pts, pts[1:]):
+        lg = math.hypot(xb - xa, yb - ya)
+        pos = 0
+        while pos < lg:
+            pas = min(reste, lg - pos)
+            if dessine:
+                t0, t1 = pos / lg, (pos + pas) / lg
+                d.line([(xa + (xb - xa) * t0, ya + (yb - ya) * t0), (xa + (xb - xa) * t1, ya + (yb - ya) * t1)],
+                       fill=couleur, width=largeur)
+            pos += pas
+            reste -= pas
+            if reste <= 0:
+                dessine = not dessine
+                reste = trait if dessine else espace
+
+
+def epingle(img, x, y, h):
+    """Épingle de carte dont la pointe est en (x, y), de hauteur h, avec ombre portée."""
+    r = h * 0.36
+    cx, cy = x, y - h + r
+    ombre = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    do = ImageDraw.Draw(ombre)
+    do.ellipse([x - r * 0.9, y - r * 0.22, x + r * 0.9, y + r * 0.22], fill=(0, 0, 0, 120))
+    do.ellipse([cx - r + 10, cy - r + 14, cx + r + 10, cy + r + 14], fill=(0, 0, 0, 90))
+    do.polygon([(cx - r * 0.86 + 10, cy + r * 0.5 + 14), (cx + r * 0.86 + 10, cy + r * 0.5 + 14), (x + 10, y + 14)],
+               fill=(0, 0, 0, 90))
+    img.alpha_composite(ombre.filter(ImageFilter.GaussianBlur(h * 0.06)))
+    d = ImageDraw.Draw(img)
+    d.polygon([(cx - r * 0.86, cy + r * 0.5), (cx + r * 0.86, cy + r * 0.5), (x, y)], fill=EPINGLE + (255,))
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=EPINGLE + (255,))
+    d.ellipse([cx - r * 0.42, cy - r * 0.42, cx + r * 0.42, cy + r * 0.42], fill=(255, 255, 255, 255))
+    d.ellipse([cx - r * 0.2, cy - r * 0.2, cx + r * 0.2, cy + r * 0.2], fill=EPINGLE + (255,))
+
+
+def visuel_epingle(quartiers, avec_texte):
+    """Vue rapprochée : quartiers en couleur, extérieur en gris, contour en pointillés, épingle."""
+    secteur = unary_union([quartiers[n] for n in SECTEUR_REUNION])
+    (x0, y0), (x1, y1) = merc(*secteur.bounds[:2]), merc(*secteur.bounds[2:])
+    largeur, hauteur = 3840, 2160
+    w = max((x1 - x0) * 1.18, (y1 - y0) * 1.18 * largeur / hauteur)
+    vue = Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
+    photo = vue.photo()
+    gris = ImageEnhance.Brightness(ImageOps.grayscale(photo).convert("RGB")).enhance(0.72)
+    vif = ImageEnhance.Color(ImageEnhance.Contrast(photo).enhance(1.06)).enhance(1.15)
+    net = masque(vue, secteur)
+    img = Image.composite(vif, gris, net.filter(ImageFilter.GaussianBlur(2))).convert("RGBA")
+    # lueur blanche à l'extérieur du contour
+    flou = net.filter(ImageFilter.GaussianBlur(34))
+    lueur = Image.new("RGBA", img.size, (255, 255, 255, 0))
+    lueur.putalpha(Image.composite(Image.new("L", net.size, 0), flou.point(lambda v: int(v * 0.8)), net))
+    img = Image.alpha_composite(img, lueur)
+    d = ImageDraw.Draw(img)
+    for a in vue.anneaux(secteur):
+        pointilles(d, a, (255, 255, 255, 255), 9)
+    x, y = vue.px(*LIEU_REUNION)
+    epingle(img, x, y, 230)
+    if avec_texte:
+        d = ImageDraw.Draw(img)
+        f1, f2 = syne(76), syne(48, "Regular")
+        bx, by = x + 150, y - 250
+        l1, l2 = "Victoria Park", "19, rue du Ballon"
+        tw = max(d.textlength(l1, font=f1), d.textlength(l2, font=f2))
+        d.rounded_rectangle([bx, by, bx + tw + 100, by + 190], radius=22, fill=(255, 255, 255, 240))
+        d.text((bx + 50, by + 26), l1, font=f1, fill=NUIT + (255,))
+        d.text((bx + 50, by + 118), l2, font=f2, fill=(70, 80, 110, 255))
+    img = img.convert("RGB")
+    mention(img, 26)
+    sortie = os.path.join(ICI, "visuel_epingle{}.jpg".format("" if avec_texte else "_sans_texte"))
+    img.save(sortie, quality=92)
+    print("Écrit :", sortie)
+
+
 def _lonlat(vue, p):
     """Inverse de vue.px : pixel vers (lon, lat)."""
     x = vue.x0 + p[0] / vue.largeur * vue.w
