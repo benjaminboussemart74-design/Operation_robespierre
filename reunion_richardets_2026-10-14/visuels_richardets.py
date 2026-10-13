@@ -208,9 +208,16 @@ def vue_reunion(quartiers, avec_etiquette):
     secteur = unary_union([quartiers[n] for n in SECTEUR_REUNION])
     (x0, y0), (x1, y1) = merc(*secteur.bounds[:2]), merc(*secteur.bounds[2:])
     largeur, hauteur = 1920, 1080
-    w = max((x1 - x0) * 1.15, (y1 - y0) * 1.15 * largeur / hauteur)
+    w = max((x1 - x0) * 1.22, (y1 - y0) * 1.22 * largeur / hauteur)
     vue = Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
-    img = vue.photo().convert("RGBA")
+    photo = vue.photo()
+    # le secteur en couleur, l'extérieur assombri, et le contour extérieur du secteur
+    sombre = ImageEnhance.Brightness(ImageEnhance.Color(photo).enhance(0.6)).enhance(0.55)
+    img = Image.composite(photo, sombre, masque(vue, secteur, flou=2)).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    for a in vue.anneaux(secteur):
+        d.line(a + [a[0]], fill=ACCENT + (255,), width=9, joint="curve")
+        d.line(a + [a[0]], fill=(255, 255, 255, 255), width=3, joint="curve")
     x, y = vue.px(*LIEU_REUNION)
     halo = Image.new("RGBA", img.size, REPERE + (0,))
     m = Image.new("L", img.size, 0)
@@ -222,7 +229,7 @@ def vue_reunion(quartiers, avec_etiquette):
     if avec_etiquette:
         etiquette(d, x - 6, y, "Victoria Park – 19, rue du Ballon", ImageFont.truetype(GRAS, 32), "g")
     img = img.convert("RGB")
-    mention(img, 18, "© IGN – BD ORTHO")
+    mention(img, 18)
     suffixe = "" if avec_etiquette else "_sans_texte"
     sortie = os.path.join(ICI, f"visuel_lieu_reunion{suffixe}.jpg")
     img.save(sortie, quality=92)
