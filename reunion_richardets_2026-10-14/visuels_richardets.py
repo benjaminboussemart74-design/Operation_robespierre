@@ -310,6 +310,72 @@ def situation_secteur(quartiers):
     print("Écrit :", sortie)
 
 
+SYNE = os.path.join(ICI, "polices", "Syne.ttf")   # police de la charte (SIL Open Font License)
+NUIT = (14, 31, 91)              # bleu nuit de la présentation (#0E1F5B)
+VERT = (114, 196, 147)           # vert de la présentation (#72C493)
+
+
+def syne(taille, graisse="ExtraBold"):
+    f = ImageFont.truetype(SYNE, taille)
+    f.set_variation_by_name(graisse)
+    return f
+
+
+def visuel_reunion_epure(quartiers):
+    """La ville en bleu nuit, seuls les quartiers de la réunion en couleur, et le lieu écrit."""
+    secteur = unary_union([quartiers[n] for n in SECTEUR_REUNION])
+    ville = unary_union(list(quartiers.values()))
+    (x0, y0), (x1, y1) = merc(*ville.bounds[:2]), merc(*ville.bounds[2:])
+    largeur, hauteur = 3840, 2160
+    w = max((x1 - x0) * 1.06, (y1 - y0) * 1.06 * largeur / hauteur)
+    vue = Vue((x0 + x1) / 2 + (x1 - x0) * 0.22, (y0 + y1) / 2, w, largeur, hauteur)
+    photo = vue.photo(zoom_max=16)
+
+    # fond : photographie virée en bleu nuit, la commune un peu plus claire que ses abords
+    gris = ImageOps.autocontrast(ImageOps.grayscale(photo), cutoff=1)
+    teinte = ImageOps.colorize(gris, black=(4, 10, 34), white=(120, 136, 190), mid=NUIT)
+    commune = masque(vue, ville, flou=6)
+    fond = Image.composite(ImageEnhance.Brightness(teinte).enhance(0.85), ImageEnhance.Brightness(teinte).enhance(0.6), commune)
+    # quartiers de la réunion : couleurs naturelles, légèrement avivées
+    vif = ImageEnhance.Color(ImageEnhance.Contrast(photo).enhance(1.08)).enhance(1.2)
+    m = masque(vue, secteur, flou=1)
+    img = Image.composite(vif, fond, m).convert("RGBA")
+
+    lueur = Image.new("RGBA", img.size, VERT + (0,))
+    net = masque(vue, secteur)
+    flou = net.filter(ImageFilter.GaussianBlur(28))
+    # la lueur ne s'étend qu'à l'extérieur du contour
+    lueur.putalpha(Image.composite(Image.new("L", net.size, 0), flou.point(lambda v: int(v * 0.85)), net))
+    img = Image.alpha_composite(img, lueur)
+    d = ImageDraw.Draw(img)
+    for a in vue.anneaux(ville):
+        d.line(a + [a[0]], fill=(255, 255, 255, 70), width=3, joint="curve")
+    for a in vue.anneaux(secteur):
+        d.line(a + [a[0]], fill=(255, 255, 255, 255), width=5, joint="curve")
+
+    # point du lieu de la réunion, avec deux cercles concentriques
+    x, y = vue.px(*LIEU_REUNION)
+    for r, a in ((70, 70), (46, 130)):
+        d.ellipse([x - r, y - r, x + r, y + r], outline=(255, 255, 255, a), width=4)
+    d.ellipse([x - 24, y - 24, x + 24, y + 24], fill=VERT + (255,), outline=(255, 255, 255, 255), width=7)
+
+    # le lieu, écrit en Syne, en haut à droite (hors de la ville), relié au point
+    f0, f1, f2 = syne(40, "Bold"), syne(122), syne(58, "Regular")
+    tw = max(d.textlength("Victoria Park", font=f1), d.textlength("RÉUNION PUBLIQUE · 14 OCTOBRE · 19 H", font=f0))
+    tx, ty = largeur - tw - 230, 360
+    d.text((tx, ty), "RÉUNION PUBLIQUE · 14 OCTOBRE · 19 H", font=f0, fill=VERT + (255,))
+    d.text((tx, ty + 70), "Victoria Park", font=f1, fill=(255, 255, 255, 255))
+    d.text((tx, ty + 230), "19, rue du Ballon", font=f2, fill=(225, 230, 240, 255))
+    d.rectangle([tx - 56, ty + 6, tx - 44, ty + 300], fill=VERT + (255,))
+    d.line([(tx - 50, ty + 300), (x + 50, y - 50)], fill=(255, 255, 255, 210), width=4)
+
+    img = img.convert("RGB")
+    mention(img, 28)
+    sortie = os.path.join(ICI, "visuel_reunion_epure.jpg")
+    img.save(sortie, quality=92)
+    print("Écrit :", sortie)
+
+
 def _lonlat(vue, p):
     """Inverse de vue.px : pixel vers (lon, lat)."""
     x = vue.x0 + p[0] / vue.largeur * vue.w
