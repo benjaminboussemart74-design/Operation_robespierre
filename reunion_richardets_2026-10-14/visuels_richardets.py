@@ -39,6 +39,10 @@ MENTION = "© IGN – BD ORTHO · Contours : Ville de Noisy-le-Grand"
 # Groupes scolaires : moyenne des points maternelle et élémentaire du fichier de la Ville.
 MPT = (2.567482, 48.829731)     # 17, avenue Gabriel-Péri (géocodage IGN)
 
+# Réunion publique du 14 octobre : secteur Richardets, Montfort, Charmilles et Yvris
+SECTEUR_REUNION = ("Les Richardets - Montfort", "Les Yvris")
+LIEU_REUNION = (2.575177, 48.833371)   # Victoria Park, 19, rue du Ballon (géocodage IGN)
+
 
 def geojson(jeu):
     f = os.path.join(CACHE, jeu + ".geojson")
@@ -90,14 +94,14 @@ def masque(vue, g, flou=0):
     return m.filter(ImageFilter.GaussianBlur(flou)) if flou else m
 
 
-def mention(img, taille):
+def mention(img, taille, texte=MENTION):
     d = ImageDraw.Draw(img)
     f = ImageFont.truetype(NORMAL, taille)
-    l, t, r, b = d.textbbox((0, 0), MENTION, font=f)
+    l, t, r, b = d.textbbox((0, 0), texte, font=f)
     x, y = img.width - (r - l) - taille * 1.6, img.height - (b - t) - taille * 1.4
     d.rectangle([x - taille * 0.5, y - taille * 0.4, x + (r - l) + taille * 0.5, y + (b - t) + taille * 0.6],
                 fill=(20, 22, 30))
-    d.text((x, y), MENTION, font=f, fill=(230, 230, 235))
+    d.text((x, y), texte, font=f, fill=(230, 230, 235))
 
 
 def situation(quartiers, cible):
@@ -199,10 +203,38 @@ def vue_rapprochee(quartiers, cible, ecoles):
     print("Écrit :", sortie)
 
 
+def vue_reunion(quartiers, avec_etiquette):
+    """Vue du ciel du secteur de la réunion, avec un seul point sur le lieu de la réunion."""
+    secteur = unary_union([quartiers[n] for n in SECTEUR_REUNION])
+    (x0, y0), (x1, y1) = merc(*secteur.bounds[:2]), merc(*secteur.bounds[2:])
+    largeur, hauteur = 1920, 1080
+    w = max((x1 - x0) * 1.15, (y1 - y0) * 1.15 * largeur / hauteur)
+    vue = Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
+    img = vue.photo().convert("RGBA")
+    x, y = vue.px(*LIEU_REUNION)
+    halo = Image.new("RGBA", img.size, REPERE + (0,))
+    m = Image.new("L", img.size, 0)
+    ImageDraw.Draw(m).ellipse([x - 60, y - 60, x + 60, y + 60], fill=170)
+    halo.putalpha(m.filter(ImageFilter.GaussianBlur(22)))
+    img = Image.alpha_composite(img, halo)
+    d = ImageDraw.Draw(img)
+    d.ellipse([x - 26, y - 26, x + 26, y + 26], fill=REPERE, outline=(255, 255, 255), width=7)
+    if avec_etiquette:
+        etiquette(d, x - 6, y, "Victoria Park – 19, rue du Ballon", ImageFont.truetype(GRAS, 32), "g")
+    img = img.convert("RGB")
+    mention(img, 18, "© IGN – BD ORTHO")
+    suffixe = "" if avec_etiquette else "_sans_texte"
+    sortie = os.path.join(ICI, f"visuel_lieu_reunion{suffixe}.jpg")
+    img.save(sortie, quality=92)
+    print("Écrit :", sortie)
+
+
 if __name__ == "__main__":
     quartiers = {q["properties"]["nom_quarti"]: shape(q["geometry"]) for q in geojson("quartiers-de-noisy-le-grand")}
     cible = quartiers[CIBLE]
     ecoles = [e for e in geojson("etablissements-scolaire")
               if cible.contains(Point(e["properties"]["geo_point_2d"]["lon"], e["properties"]["geo_point_2d"]["lat"]))]
+    vue_reunion(quartiers, avec_etiquette=True)
+    vue_reunion(quartiers, avec_etiquette=False)
     vue_rapprochee(quartiers, cible, ecoles)
     situation(quartiers, cible)
