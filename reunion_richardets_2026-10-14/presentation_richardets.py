@@ -30,7 +30,7 @@ from build_richardets import forme, notes, ordonner, remplacer_image, remplacer_
 ICI = os.path.dirname(os.path.abspath(__file__))
 MODELE = os.path.join(ICI, "modele", "PPT_Mont_dEst_V3.pptx")
 VISUELS = os.path.join(ICI, "Visuels_Richardets")
-SORTIE = os.path.join(ICI, "PPT_Richardets_V1.pptx")
+SORTIE = os.environ.get("SORTIE_PPT", os.path.join(ICI, "PPT_Richardets_V1.pptx"))
 
 # Charte (relevée dans le fichier du Mont d'Est)
 NUIT, VERT, CREME, BLANC = "0E1F5B", "72C493", "FAF5EC", "FFFFFF"
@@ -38,6 +38,10 @@ CARTE, GRIS = "132568", "8A90B0"     # fond des cartes sur bleu nuit, texte seco
 JAUNE = "F2D43A"                     # jaune des caméras en cours d'installation (carte fournie)
 POLICE = "Arial"
 G_COUVERTURE, G_SOMMAIRE, G_QUESTIONS = 2, 3, 28   # gabarits repris du Mont d'Est
+G_QR_ACCUEIL, G_QR_SORTIE = 1, 29                    # QR code et fiche de renseignement
+G_PERI_MERCREDI, G_PERI_CANTINE, G_KEOLIS = 6, 7, 27  # diapositives habituelles, chiffres de toute la ville
+SIGNALEMENTS = os.path.join(ICI, "signalements_par_arret.csv")
+LIGNES_PRINCIPALES = ("310", "312", "320")            # lignes qui traversent le quartier
 
 
 def rgb(h):
@@ -232,8 +236,126 @@ def triangle(d, x, y, couleur, cote=0.36):
     t.line.width = Pt(1.25)
 
 
+
 # ---------------------------------------------------------------------------
-# Les seize diapositives
+# Plan des bus du quartier
+# ---------------------------------------------------------------------------
+def fond_carte_bus(largeur=2400, hauteur=1350):
+    """Fond de carte sans texte : photographie aérienne, secteur en couleur, lignes et arrêts.
+    Renvoie (chemin de l'image, fonction lon/lat -> pixel, arrêts, lignes)."""
+    import csv
+    import json
+    from PIL import ImageDraw, ImageEnhance, ImageFilter, ImageOps
+    from shapely.geometry import shape
+    from shapely.ops import unary_union
+    import visuels_richardets as v
+
+    quartiers = {f["properties"]["nom_quarti"]: shape(f["geometry"]) for f in v.geojson("quartiers-de-noisy-le-grand")}
+    secteur = unary_union([quartiers[n] for n in v.SECTEUR_REUNION])
+    (x0, y0), (x1, y1) = v.merc(*secteur.bounds[:2]), v.merc(*secteur.bounds[2:])
+    w = max((x1 - x0) * 1.12, (y1 - y0) * 1.12 * largeur / hauteur)
+    vue = v.Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
+    photo = vue.photo(zoom_max=18)
+    gris = ImageEnhance.Brightness(ImageOps.grayscale(photo).convert("RGB")).enhance(0.6)
+    vif = ImageEnhance.Brightness(ImageEnhance.Color(photo).enhance(0.9)).enhance(0.85)
+    img = Image.composite(vif, gris, v.masque(vue, secteur, flou=2)).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    for a in vue.anneaux(secteur):
+        v.pointilles(d, a, (255, 255, 255, 230), 5, 30, 20)
+
+    traces = {t["route_short_name"]: t for t in json.load(open(os.path.join(ICI, ".cache", "traces_bus.json")))
+              if t["route_short_name"] in LIGNES_PRINCIPALES}
+    for nom in LIGNES_PRINCIPALES:
+        geom = traces[nom]["shape"]["geometry"]
+        brins = geom["coordinates"] if geom["type"] == "MultiLineString" else [geom["coordinates"]]
+        couleur = tuple(int(traces[nom]["route_color"][i:i + 2], 16) for i in (0, 2, 4))
+        for brin in brins:
+            pts = [vue.px(*c) for c in brin]
+            d.line(pts, fill=(255, 255, 255, 255), width=17, joint="curve")
+        for brin in brins:
+            d.line([vue.px(*c) for c in brin], fill=couleur + (255,), width=11, joint="curve")
+
+    arrets = []
+    for r in csv.DictReader(open(SIGNALEMENTS, encoding="utf-8")):
+        x, y = vue.px(float(r["longitude"]), float(r["latitude"]))
+        n = r["signalements"].strip()
+        arrets.append({"nom": r["arret"], "lignes": r["lignes"], "x": x, "y": y, "n": int(n) if n else None})
+        d.ellipse([x - 13, y - 13, x + 13, y + 13], fill=(255, 255, 255, 255), outline=(14, 31, 91, 255), width=6)
+    chemin = os.path.join(ICI, ".cache", "fond_carte_bus.jpg")
+    img.convert("RGB").save(chemin, quality=92)
+    lignes = [(nom, traces[nom]["route_color"]) for nom in LIGNES_PRINCIPALES]
+    return chemin, (largeur, hauteur), arrets, lignes
+
+
+# police aux mêmes dimensions qu'Arial gras (Liberation Sans), pour mesurer les étiquettes à 12 pt
+from PIL import ImageFont as _IF
+MESURE = _IF.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf", 12)
+
+# position des étiquettes (en pouces, par rapport au point) pour éviter les chevauchements
+DECALAGES = {
+    "Moulin à Vent": (0.15, -0.12), "Le Fort": (-0.2, -0.45), "Cité des Hêtres": (0.15, 0.0),
+    "Rue de la Chapelle": (-1.85, -0.2), "Gabriel Péri": (-1.25, -0.15), "Place du Combat": (-1.55, 0.1),
+    "Les Richardets - Centre": (-0.9, 0.15), "Ballon - Chapelle": (-0.75, -0.48), "Le Closeau": (-1.1, -0.2),
+    "La Butte aux Cailles": (0.15, -0.45), "Rue du Ballon": (0.15, -0.38), "Chapelle": (0.12, -0.42),
+    "Victor Hugo": (0.15, -0.12), "Les Graviers": (0.15, -0.05), "Rue des Aérostiers": (-1.85, -0.2),
+    "Les Aérostiers": (0.15, -0.12), "Collège des Yvris": (0.15, -0.12),
+    "Les Yvris - Noisy-le-Grand RER": (-3.1, 0.05),
+}
+
+
+def diapo_carte_bus(k):
+    d = k.diapo(NUIT, "Services publics de proximité · les bus", "Les bus du quartier et vos signalements",
+                "Plan des lignes 310, 312 et 320 qui traversent le quartier, avec leurs arrêts (données "
+                "ouvertes d'Île-de-France Mobilités). Les arrêts Moulin à Vent (lignes 206, 207, 306, 310) "
+                "et Les Aérostiers (ligne 212) sont en limite du quartier. Les cercles verts indiquent le "
+                "nombre de signalements recueillis par le formulaire de la Ville pour chaque arrêt.")
+    chemin, (lw, lh), arrets, lignes = fond_carte_bus()
+    mx, my, mw = 1.04, 2.45, 12.3
+    mh = mw * lh / lw
+    d.shapes.add_picture(chemin, Inches(mx), Inches(my), Inches(mw), Inches(mh))
+    texte(d, mx, my + mh + 0.08, mw, 0.3, "© IGN – BD ORTHO · Lignes et arrêts : Île-de-France Mobilités",
+          11, "C9CCDA", gras=False, align=PP_ALIGN.RIGHT)
+    vmax = max([a["n"] for a in arrets if a["n"]] or [0])
+    for a in arrets:
+        x, y = mx + a["x"] / lw * mw, my + a["y"] / lh * mh
+        if a["n"]:
+            diam = 0.38 + 0.52 * (a["n"] / vmax) ** 0.5   # surface proportionnelle au nombre
+            c = rect(d, x - diam / 2, y - diam / 2, diam, diam, VERT, MSO_SHAPE.OVAL, contour=BLANC)
+            tf = c.text_frame
+            tf.text = str(a["n"])
+            r = tf.paragraphs[0].runs[0]
+            r.font.name, r.font.size, r.font.bold, r.font.color.rgb = POLICE, Pt(16), True, rgb(NUIT)
+            tf.paragraphs[0].alignment = PP_ALIGN.CENTER
+            tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+        dx, dy = DECALAGES.get(a["nom"], (0.15, -0.1))
+        nom = a["nom"].replace(" - ", " – ")
+        largeur = MESURE.getlength(nom) / 72 + 0.12      # largeur réelle du nom, en pouces
+        e = texte(d, x + dx, y + dy, largeur, 0.3, nom, 12, BLANC)
+        e.text_frame.word_wrap = False
+        e.fill.solid()
+        e.fill.fore_color.rgb = rgb(NUIT)
+        tf = e.text_frame
+        tf.margin_left = tf.margin_right = Inches(0.05)
+        tf.auto_size = None
+    # légende des lignes
+    texte(d, 13.8, 2.5, 5.2, 0.45, "LIGNES QUI TRAVERSENT LE QUARTIER", 18, VERT, espacement=120)
+    for i, (nom, couleur) in enumerate(lignes):
+        y = 3.2 + i * 0.75
+        rect(d, 13.8, y + 0.12, 1.0, 0.22, couleur)
+        texte(d, 15.0, y, 3.9, 0.5, f"Ligne {nom}", 24, BLANC)
+    texte(d, 13.8, 5.55, 5.2, 0.45, "SIGNALEMENTS PAR ARRÊT", 18, VERT, espacement=120)
+    if vmax:
+        classement = sorted([a for a in arrets if a["n"]], key=lambda a: -a["n"])[:5]
+        for i, a in enumerate(classement):
+            y = 6.2 + i * 0.75
+            texte(d, 13.8, y, 1.3, 0.6, str(a["n"]), 28, VERT)
+            texte(d, 15.0, y + 0.05, 4.0, 0.6, a["nom"].replace(" - ", " – "), 20, BLANC)
+    else:
+        a_completer(d, 13.8, 6.15, 5.16, 3.5, "[Nombre de signalements par arrêt à compléter]", sombre=True)
+    return d
+
+# ---------------------------------------------------------------------------
+# Les diapositives
 # ---------------------------------------------------------------------------
 def construire():
     k = Deck()
@@ -251,7 +373,7 @@ def construire():
              "des réunions publiques organisées dans tous les quartiers.")
 
     # 2. Sommaire ----------------------------------------------------------------
-    parties = ["L'école des Richardets", "Circulation et sécurité", "Services publics de proximité",
+    parties = ["L'école des Richardets et le périscolaire", "Circulation et sécurité", "Services publics de proximité",
                "Équipements et cadre de vie", "Santé et accueil des seniors"]
     s = gabarit[G_SOMMAIRE]
     for i in range(1, 9):
@@ -459,7 +581,24 @@ def construire():
     # 16. Vos questions -------------------------------------------------------------------
     notes(gabarit[G_QUESTIONS], "Temps d'échange avec la salle.")
 
-    ordonner(prs, [G_COUVERTURE, G_SOMMAIRE] + k.nouvelles + [G_QUESTIONS])
+    # Diapositives habituelles du cycle -----------------------------------------------------
+    habituelles = {n: prs.slides[n - 1] for n in (G_QR_ACCUEIL, G_QR_SORTIE, G_PERI_MERCREDI,
+                                                    G_PERI_CANTINE, G_KEOLIS)}
+    for n in (G_QR_ACCUEIL, G_QR_SORTIE):
+        remplacer_texte(habituelles[n], "Text 0", "RÉUNION PUBLIQUE · QUARTIER DES RICHARDETS")
+    remplacer_texte(habituelles[G_PERI_MERCREDI], "Text 0", "LES ÉCOLES · LE PÉRISCOLAIRE · MERCREDIS")
+    remplacer_texte(habituelles[G_PERI_CANTINE], "Text 0", "LES ÉCOLES · LE PÉRISCOLAIRE · PAUSE MÉRIDIENNE")
+    remplacer_texte(habituelles[G_KEOLIS], "Text 0", "SERVICES PUBLICS DE PROXIMITÉ · LES BUS")
+    notes(habituelles[G_KEOLIS], "Courrier du Maire du 20 septembre 2026 à la direction générale de Keolis sur "
+          "les dysfonctionnements des lignes : retards, suppressions, fréquences non respectées, information "
+          "voyageurs défaillante. Demandes : sanctions contractuelles, réunion en mairie avec Keolis et "
+          "Île-de-France Mobilités, plan d'actions immédiat.")
+    n_carte = len(prs.slides._sldIdLst) + 1
+    diapo_carte_bus(k)
+
+    nv = k.nouvelles
+    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [G_PERI_MERCREDI, G_PERI_CANTINE]
+             + nv[4:8] + [n_carte, G_KEOLIS] + nv[8:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
     print("Écrit :", SORTIE, "-", len(prs.slides._sldIdLst), "diapositives")
 
