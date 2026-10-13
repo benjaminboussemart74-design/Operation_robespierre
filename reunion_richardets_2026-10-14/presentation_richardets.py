@@ -308,6 +308,61 @@ def diapo_ecoles_quartier(k):
 
 
 # ---------------------------------------------------------------------------
+# Périscolaire : mercredis et pause méridienne réunis sur une diapositive
+# (chiffres de toute la ville, repris à l'identique des deux diapositives du Mont d'Est)
+# ---------------------------------------------------------------------------
+PERISCOLAIRE = [
+    ("LE MERCREDI", [
+        ("Places en accueil de loisirs", "Sept. 2025", "1 616", "Oct. 2026", "1 784", "+168 places, soit +10 %"),
+        ("Animateurs recrutés", "Sept. 2025", "145", "Oct. 2026", "162", "+17 animateurs"),
+    ]),
+    ("À LA CANTINE", [
+        ("Enfants accueillis", "2025", "5 543", "2026", "5 727", "+3,3 %"),
+        ("Animateurs en maternelle", "2025", "199", "2026", "248", "+49 animateurs"),
+        ("Animateurs en élémentaire", "2025", "123", "2026", "130", "+5 %"),
+    ]),
+]
+
+
+def diapo_periscolaire(k, notes_mercredi, notes_cantine):
+    d = k.diapo(NUIT, "Les écoles · le périscolaire", "Plus de places et plus d'animateurs",
+                "À dire (non projeté) : chaque recrutement ouvre 8 places en maternelle et 12 en "
+                "élémentaire ; les places libérées sont réattribuées chaque semaine à partir des listes "
+                "d'attente ; les recrutements continuent, surtout pour les postes du mercredi.\n\n"
+                "Mercredis — " + notes_mercredi + "\n\nPause méridienne — " + notes_cantine)
+    texte(d, 1.04, 2.2, 15.8, 0.5, "Dans toute la ville, rentrée 2026 comparée à la rentrée 2025", 21, BLANC,
+          gras=False)
+    for c, (titre, lignes) in enumerate(PERISCOLAIRE):
+        x, w = 1.04 + c * 9.22, 8.7
+        ligne(d, x, 3.0, x + w, 3.0, VERT, 2)
+        texte(d, x, 3.15, w, 0.45, titre, 21, VERT, espacement=150)
+        for i, (libelle, an1, v1, an2, v2, evolution) in enumerate(lignes):
+            y = 3.8 + i * 1.55
+            texte(d, x, y, w, 0.4, libelle, 20, BLANC)
+            texte(d, x, y + 0.55, 1.3, 0.35, an1, 15, GRIS)
+            texte(d, x, y + 0.82, 2.0, 0.6, v1, 32, GRIS)
+            texte(d, x + 2.05, y + 0.72, 0.6, 0.6, "→", 30, VERT, gras=False)
+            texte(d, x + 2.75, y + 0.4, 1.4, 0.35, an2, 15, VERT)
+            texte(d, x + 2.75, y + 0.62, 2.7, 0.85, v2, 48, BLANC)
+            b = rect(d, x + 5.55, y + 0.8, w - 5.55, 0.5, VERT)
+            tf = b.text_frame
+            tf.text = evolution
+            r = tf.paragraphs[0].runs[0]
+            r.font.name, r.font.size, r.font.bold, r.font.color.rgb = POLICE, Pt(17), True, rgb(NUIT)
+            tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+            tf.margin_left = Inches(0.15)
+    for c, (titre, phrase) in enumerate((
+            ("CANTINES DE MATERNELLE", "96 % des cantines à 1 animateur pour 10 enfants ou mieux, contre 44 % en 2025"),
+            ("CANTINES D'ÉLÉMENTAIRE", "14 cantines sur 26 à 1 pour 25, 19 d'ici mi-octobre. Objectif : toutes d'ici la fin "
+                            "de l'année"))):
+        x = 1.04 + c * 9.22
+        rect(d, x, 8.65, 8.7, 1.75, CARTE)
+        texte(d, x + 0.35, 8.85, 8.0, 0.4, titre, 17, VERT, espacement=150)
+        texte(d, x + 0.35, 9.3, 8.0, 1.0, phrase, 21, BLANC)
+    return d
+
+
+# ---------------------------------------------------------------------------
 # Plan des bus du quartier
 # ---------------------------------------------------------------------------
 def fond_carte_bus(largeur=2400, hauteur=1350):
@@ -667,8 +722,10 @@ def construire():
     diapo_carte_bus(k)
 
     diapo_ecoles_quartier(k)
+    diapo_periscolaire(k, habituelles[G_PERI_MERCREDI].notes_slide.notes_text_frame.text,
+                       habituelles[G_PERI_CANTINE].notes_slide.notes_text_frame.text)
     nv = k.nouvelles
-    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [nv[14], G_PERI_MERCREDI, G_PERI_CANTINE]
+    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [nv[14], nv[15]]
              + nv[4:8] + [n_carte, G_KEOLIS] + nv[8:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
     print("Écrit :", SORTIE, "-", len(prs.slides._sldIdLst), "diapositives")
