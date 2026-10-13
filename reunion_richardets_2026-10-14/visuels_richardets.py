@@ -236,11 +236,93 @@ def vue_reunion(quartiers, avec_etiquette):
     print("Écrit :", sortie)
 
 
+# Lieux-dits du secteur de la réunion. Seuls deux quartiers ont un contour officiel ;
+# les quatre noms sont donc placés sur leur toponyme (IGN) ou sur l'équipement qui le porte.
+# (nom, lon, lat, décalage de l'étiquette en pixels)
+LIEUX_DITS = (
+    ("Montfort", 2.553361, 48.834092, (-560, 420)),        # toponyme IGN « le Montfort »
+    ("Richardets", 2.568632, 48.831611, (-180, -560)),      # toponyme IGN « les Richardets »
+    ("Charmilles", 2.575400, 48.832264, (620, -60)),       # groupe scolaire des Charmilles
+    ("Yvris", 2.574137, 48.827381, (330, 380)),             # toponyme IGN « les Yvris »
+)
+
+
+def situation_secteur(quartiers):
+    """La ville entière assombrie, le secteur de la réunion en couleur, les quatre noms placés."""
+    secteur = unary_union([quartiers[n] for n in SECTEUR_REUNION])
+    ville = unary_union(list(quartiers.values()))
+    (x0, y0), (x1, y1) = merc(*ville.bounds[:2]), merc(*ville.bounds[2:])
+    largeur, hauteur = 3840, 2160
+    w = max((x1 - x0) * 1.06, (y1 - y0) * 1.06 * largeur / hauteur)
+    vue = Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
+    photo = vue.photo(zoom_max=16)
+    gris = ImageEnhance.Brightness(ImageOps.grayscale(photo).convert("RGB")).enhance(0.42)
+    vif = ImageEnhance.Color(ImageEnhance.Contrast(photo).enhance(1.1)).enhance(1.25)
+    m = masque(vue, secteur)
+    img = Image.composite(vif, gris, m).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    for g in quartiers.values():
+        for a in vue.anneaux(g):
+            d.line(a + [a[0]], fill=(255, 255, 255, 80), width=3, joint="curve")
+    for a in vue.anneaux(ville):
+        d.line(a + [a[0]], fill=(255, 255, 255, 220), width=6, joint="curve")
+    halo = Image.new("RGBA", m.size, ACCENT + (0,))
+    halo.putalpha(m.filter(ImageFilter.GaussianBlur(14)).point(lambda v: int(v * 0.8) if v < 250 else 0))
+    img = Image.alpha_composite(img, halo)
+    d = ImageDraw.Draw(img)
+    # limite entre les deux quartiers officiels, en pointillé discret
+    for a in vue.anneaux(quartiers["Les Yvris"]):
+        for i in range(0, len(a) - 1):
+            if secteur.boundary.distance(Point(*_lonlat(vue, a[i]))) > 1e-5:
+                d.line([a[i], a[i + 1]], fill=(255, 255, 255, 170), width=4)
+    for a in vue.anneaux(secteur):
+        d.line(a + [a[0]], fill=ACCENT + (255,), width=9, joint="curve")
+        d.line(a + [a[0]], fill=(255, 255, 255, 255), width=3, joint="curve")
+
+    # les quatre noms, reliés à leur emplacement
+    f = ImageFont.truetype(GRAS, 64)
+    for nom, lon, lat, (dx, dy) in LIEUX_DITS:
+        x, y = vue.px(lon, lat)
+        l, t, r, b = d.textbbox((0, 0), nom, font=f)
+        tw, th = r - l, b - t
+        bx, by = x + dx - (tw + 90) / 2, y + dy - (th + 56) / 2
+        cx = min(max(x, bx), bx + tw + 90)
+        cy = by + th + 56 if dy < 0 else by
+        d.line([(x, y), (cx, cy)], fill=(255, 255, 255, 235), width=5)
+        d.rounded_rectangle([bx, by, bx + tw + 90, by + th + 56], radius=18, fill=CARTOUCHE)
+        d.rectangle([bx, by + 14, bx + 12, by + th + 42], fill=ACCENT)
+        d.text((bx + 50 - l, by + 28 - t), nom, font=f, fill=(255, 255, 255))
+        d.ellipse([x - 15, y - 15, x + 15, y + 15], fill=(255, 255, 255), outline=CARTOUCHE, width=5)
+
+    # titre, en haut à gauche
+    f1, f2 = ImageFont.truetype(GRAS, 76), ImageFont.truetype(NORMAL, 46)
+    l1 = "Richardets · Montfort · Charmilles · Yvris"
+    l2 = "Réunion publique · mercredi 14 octobre 2026 · Victoria Park"
+    w = max(d.textlength(l1, font=f1), d.textlength(l2, font=f2)) + 110
+    d.rounded_rectangle([90, 90, 90 + w, 90 + 215], radius=26, fill=CARTOUCHE)
+    d.rectangle([90, 114, 106, 281], fill=ACCENT)
+    d.text((150, 114), l1, font=f1, fill=(255, 255, 255))
+    d.text((150, 214), l2, font=f2, fill=(200, 205, 215))
+    img = img.convert("RGB")
+    mention(img, 30)
+    sortie = os.path.join(ICI, "visuel_situation_secteur_reunion.jpg")
+    img.save(sortie, quality=90)
+    print("Écrit :", sortie)
+
+
+def _lonlat(vue, p):
+    """Inverse de vue.px : pixel vers (lon, lat)."""
+    x = vue.x0 + p[0] / vue.largeur * vue.w
+    y = vue.y1 - p[1] / vue.hauteur * vue.h
+    return math.degrees(x / R), math.degrees(2 * math.atan(math.exp(y / R)) - math.pi / 2)
+
+
 if __name__ == "__main__":
     quartiers = {q["properties"]["nom_quarti"]: shape(q["geometry"]) for q in geojson("quartiers-de-noisy-le-grand")}
     cible = quartiers[CIBLE]
     ecoles = [e for e in geojson("etablissements-scolaire")
               if cible.contains(Point(e["properties"]["geo_point_2d"]["lon"], e["properties"]["geo_point_2d"]["lat"]))]
+    situation_secteur(quartiers)
     vue_reunion(quartiers, avec_etiquette=True)
     vue_reunion(quartiers, avec_etiquette=False)
     vue_rapprochee(quartiers, cible, ecoles)
