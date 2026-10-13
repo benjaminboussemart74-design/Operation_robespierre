@@ -417,10 +417,17 @@ def epingle(img, x, y, h):
     d.ellipse([cx - r * 0.2, cy - r * 0.2, cx + r * 0.2, cy + r * 0.2], fill=EPINGLE + (255,))
 
 
-def visuel_epingle(quartiers, avec_texte, echelle_ville=False):
+# Cadrage rapproché sur le lieu de la réunion : centre et largeur au sol (mètres). Le centre est
+# décalé au sud-ouest du Victoria Park pour garder dans le cadre les Charmilles, le centre des
+# Richardets et la limite est du quartier, avec l'autoroute A4 au nord comme repère.
+RAPPROCHE_CENTRE, RAPPROCHE_LARGEUR_M = (2.5728, 48.8312), 2400
+
+
+def visuel_epingle(quartiers, avec_texte, echelle_ville=False, rapproche=False):
     """Quartiers en couleur, extérieur en gris, contour en pointillés, épingle.
 
-    echelle_ville : cadrage sur toute la commune (sinon, sur les seuls quartiers de la réunion)."""
+    echelle_ville : cadrage sur toute la commune ; rapproche : cadrage serré autour du lieu de la
+    réunion ; sinon, cadrage sur les seuls quartiers de la réunion."""
     secteur = unary_union([quartiers[n] for n in SECTEUR_REUNION])
     ville = unary_union(list(quartiers.values()))
     cadre = ville if echelle_ville else secteur
@@ -429,6 +436,9 @@ def visuel_epingle(quartiers, avec_texte, echelle_ville=False):
     marge = 1.08 if echelle_ville else 1.18
     w = max((x1 - x0) * marge, (y1 - y0) * marge * largeur / hauteur)
     vue = Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
+    if rapproche:
+        lon, lat = RAPPROCHE_CENTRE
+        vue = Vue(*merc(lon, lat), RAPPROCHE_LARGEUR_M / math.cos(math.radians(lat)), largeur, hauteur)
     photo = vue.photo(zoom_max=17 if echelle_ville else 19)
     gris = ImageEnhance.Brightness(ImageOps.grayscale(photo).convert("RGB")).enhance(0.72)
     vif = ImageEnhance.Color(ImageEnhance.Contrast(photo).enhance(1.06)).enhance(1.15)
@@ -444,13 +454,17 @@ def visuel_epingle(quartiers, avec_texte, echelle_ville=False):
         for a in vue.anneaux(ville):
             d.line(a + [a[0]], fill=(255, 255, 255, 150), width=4, joint="curve")
     for a in vue.anneaux(secteur):
-        pointilles(d, a, (255, 255, 255, 255), 8 if echelle_ville else 9, *((34, 22) if echelle_ville else (46, 28)))
+        if rapproche:
+            pointilles(d, a, (255, 255, 255, 255), 11, 60, 36)
+        else:
+            pointilles(d, a, (255, 255, 255, 255), 8 if echelle_ville else 9,
+                       *((34, 22) if echelle_ville else (46, 28)))
     x, y = vue.px(*LIEU_REUNION)
-    epingle(img, x, y, 200 if echelle_ville else 230)
+    epingle(img, x, y, 300 if rapproche else 200 if echelle_ville else 230)
     if avec_texte:
         d = ImageDraw.Draw(img)
         f1, f2 = syne(76), syne(48, "Regular")
-        bx, by = x + 150, y - 250
+        bx, by = (x + 190, y - 330) if rapproche else (x + 150, y - 250)
         l1, l2 = "Victoria Park", "19, rue du Ballon"
         tw = max(d.textlength(l1, font=f1), d.textlength(l2, font=f2))
         d.rounded_rectangle([bx, by, bx + tw + 100, by + 190], radius=22, fill=(255, 255, 255, 240))
@@ -458,7 +472,8 @@ def visuel_epingle(quartiers, avec_texte, echelle_ville=False):
         d.text((bx + 50, by + 118), l2, font=f2, fill=(70, 80, 110, 255))
     img = img.convert("RGB")
     mention(img, 26)
-    sortie = os.path.join(ICI, "visuel_epingle{}{}.jpg".format("_ville" if echelle_ville else "",
+    sortie = os.path.join(ICI, "visuel_epingle{}{}.jpg".format(
+        "_ville" if echelle_ville else "_rapproche" if rapproche else "",
                                                            "" if avec_texte else "_sans_texte"))
     img.save(sortie, quality=92)
     print("Écrit :", sortie)
