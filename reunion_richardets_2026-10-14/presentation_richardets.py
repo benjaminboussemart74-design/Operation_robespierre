@@ -720,16 +720,40 @@ def diapo_carte_bus(k):
 PISTE = "E8473F"   # rouge de la piste cyclable sur le plan fourni
 
 
+def direction(d, x, y, w, h, forme_, libelle, lx, ly, lw):
+    """Flèche verte indiquant où mène une route, avec son étiquette."""
+    rect(d, x, y, w, h, VERT, forme_, contour=NUIT)
+    rect(d, lx, ly, lw, 0.5, NUIT, MSO_SHAPE.ROUNDED_RECTANGLE)
+    texte(d, lx, ly, lw, 0.5, libelle, 18, BLANC, align=PP_ALIGN.CENTER, ancre=MSO_ANCHOR.MIDDLE)
+
+
 def diapo_piste_cyclable(k):
     d = k.diapo(CREME, "Circulation et sécurité", "Une nouvelle piste cyclable pour joindre le centre",
                 "Plan d'aménagement du carrefour et de la piste cyclable (en rouge), avec la coupe de la "
-                "voie en encart.")
+                "voie en encart. En haut à gauche, la route vers le centre-ville ; en haut à droite, la "
+                "route vers l'entrée d'autoroute.")
     rect(d, 1.04, 2.55, 17.9, 6.95, BLANC)
     image(d, os.path.join(VISUELS, "Mobilites", "Mobilites_01_piste_cyclable_plan.png"),
           1.19, 2.7, 17.6, 6.65)
+    direction(d, 4.05, 2.62, 0.6, 0.75, MSO_SHAPE.UP_ARROW, "Vers le centre-ville", 4.85, 2.75, 3.1)
+    direction(d, 17.85, 4.5, 0.95, 0.6, MSO_SHAPE.RIGHT_ARROW, "Vers l'entrée d'autoroute",
+              14.75, 3.65, 4.05)
     yl = 9.85
     rect(d, 1.04, yl, 0.9, 0.36, PISTE)
     texte(d, 2.15, yl - 0.05, 8.0, 0.45, "Piste cyclable", 22, NUIT)
+    return d
+
+
+def diapo_piste_cyclable_plan(k):
+    d = k.diapo(CREME, "Circulation et sécurité", "Le plan d'aménagement du carrefour",
+                "Plan d'aménagement du carrefour et de la piste cyclable (en rouge), en pleine page ; "
+                "coupe de la voie en encart : trois voies de circulation et une piste cyclable "
+                "bidirectionnelle.")
+    rect(d, 1.04, 2.55, 17.9, 6.37, BLANC)
+    image(d, os.path.join(VISUELS, "Mobilites", "Mobilites_04_piste_cyclable_plan_carrefour.png"),
+          1.19, 2.7, 17.6, 6.07)
+    rect(d, 1.04, 9.3, 0.9, 0.36, PISTE)
+    texte(d, 2.15, 9.25, 8.0, 0.45, "Piste cyclable", 22, NUIT)
     return d
 
 
@@ -1023,9 +1047,10 @@ def construire():
                       "bus en passage avenue du Bois Saint-Martin ; piste cyclable ; accès RER sud-est ; "
                       "parking végétalisé de 175 places.")
     diapo_objectifs_richardets(k)
+    diapo_piste_cyclable_plan(k)
     nv = k.nouvelles
     ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + [nv[0], nv[19], nv[1], nv[22]] + nv[2:4] + [nv[14], nv[15]]
-             + [nv[4], nv[16], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS, nv[20], nv[21]] + nv[8:10] + [nv[18]]
+             + [nv[4], nv[16], nv[23], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS, nv[20], nv[21]] + nv[8:10] + [nv[18]]
              + nv[10:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
     print("Écrit :", SORTIE, "-", len(prs.slides._sldIdLst), "diapositives")
