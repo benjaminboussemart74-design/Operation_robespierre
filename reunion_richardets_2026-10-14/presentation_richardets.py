@@ -957,22 +957,30 @@ def construire():
                 "des investissements et nouvelles demandes de subventions ; vigilance du service des "
                 "sports sur l'emprise du chantier sur la piste d'athlétisme.")
     # comparatif : l'ancien projet (avant le mandat) et le nouveau projet
+    def pastille(x, y, signe, fond, couleur):
+        rect(d, x, y, 0.56, 0.56, fond, MSO_SHAPE.OVAL)
+        texte(d, x, y, 0.56, 0.56, signe, 18, couleur, align=PP_ALIGN.CENTER, ancre=MSO_ANCHOR.MIDDLE)
     rect(d, 1.04, 2.5, 4.6, 7.7, CARTE)
     texte(d, 1.4, 2.85, 4.0, 0.45, "ANCIEN PROJET", 20, GRIS, espacement=150)
-    texte(d, 1.4, 3.3, 4.0, 0.8, "avant l'élection du Maire", 16, GRIS, gras=False)
-    rect(d, 1.4, 4.45, 0.62, 0.62, GRIS, MSO_SHAPE.OVAL)
-    texte(d, 1.4, 4.45, 0.62, 0.62, "✕", 22, NUIT, align=PP_ALIGN.CENTER, ancre=MSO_ANCHOR.MIDDLE)
-    texte(d, 2.25, 4.42, 3.2, 1.4, "Des arbres abattus", 26, CREME)
-    texte(d, 5.85, 5.5, 0.8, 0.9, "→", 44, VERT, gras=False, align=PP_ALIGN.CENTER)
+    texte(d, 1.4, 3.3, 4.0, 0.5, "avant l'élection du Maire", 16, GRIS, gras=False)
+    texte(d, 1.4, 4.05, 4.0, 1.0, "4 M€", 54, CREME)
+    texte(d, 1.4, 5.05, 4.0, 0.9, "pour une tribune de 600 places", 20, CREME)
+    pastille(1.4, 6.55, "✕", GRIS, NUIT)
+    texte(d, 2.15, 6.45, 3.3, 1.5, "13 arbres abattus", 26, CREME)
     rect(d, 6.85, 2.5, 5.75, 7.7, VERT)
     texte(d, 7.25, 2.85, 5.0, 0.45, "NOUVEAU PROJET", 20, NUIT, espacement=150)
-    texte(d, 7.25, 3.3, 5.0, 0.8, "porté par la nouvelle municipalité", 16, NUIT, gras=False)
-    for j, item in enumerate(("Des toitures solarisées", "Une façade en bois",
-                              "La plantation de nouveaux arbres")):
-        yy = 4.45 + j * 1.75
-        rect(d, 7.25, yy, 0.62, 0.62, NUIT, MSO_SHAPE.OVAL)
-        texte(d, 7.25, yy, 0.62, 0.62, str(j + 1), 22, VERT, align=PP_ALIGN.CENTER, ancre=MSO_ANCHOR.MIDDLE)
-        texte(d, 8.1, yy - 0.03, 4.3, 1.4, item, 26, NUIT)
+    texte(d, 7.25, 3.3, 5.0, 0.5, "porté par la nouvelle municipalité", 16, NUIT, gras=False)
+    yy = 4.05
+    for j, (item, h) in enumerate((
+            ("Des toitures solarisées", 0.75),
+            ("Une façade en bois", 0.75),
+            ("Un plan de revégétalisation du stade : de nouvelles essences d'arbres aux abords de la "
+             "zone pavillonnaire pour limiter les nuisances sonores", 2.15),
+            ("Une subvention de 1 M€ va être demandée", 1.0))):
+        pastille(7.25, yy + 0.02, str(j + 1), NUIT, VERT)
+        texte(d, 8.0, yy, 4.4, h, item, 20, NUIT)
+        yy += h + 0.25
+    texte(d, 5.85, 5.5, 0.8, 0.9, "→", 44, VERT, gras=False, align=PP_ALIGN.CENTER)
     image(d, os.path.join(VISUELS, "Equipements", "Equipements_01_stade_Alain_Mimoun.jpg"),
           13.0, 2.5, 5.96, 7.7)
 
