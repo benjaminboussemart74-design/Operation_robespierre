@@ -630,6 +630,145 @@ def diapo_piste_cyclable(k):
 
 
 # ---------------------------------------------------------------------------
+# Les commerces de l'avenue Médéric
+# (commerces_mederic.csv, tiré de la base Sirene par commerces_mederic.py)
+# ---------------------------------------------------------------------------
+COMMERCES = os.path.join(ICI, "commerces_mederic.csv")
+# couleur de chaque catégorie sur le plan, reprise en pastille dans les cartes du bas
+COULEURS_COMMERCES = {"Alimentation": VERT, "Restaurants et cafés": JAUNE, "Coiffure et beauté": "C49BE0",
+                      "Santé": "6FB7E9", "Autres commerces": "F28C6B"}
+EXEMPLES_COMMERCES = {"Alimentation": "boulangeries, boucherie, supérettes, surgelés",
+                      "Restaurants et cafés": "restaurants, restauration rapide, cafés",
+                      "Coiffure et beauté": "salons de coiffure, institut de beauté",
+                      "Santé": "pharmacie, opticiens, vétérinaire",
+                      "Autres commerces": "garage, station-service, fleuriste, électroménager, mercerie"}
+
+def fond_plan_mederic(commerces, largeur=2600, hauteur=640):
+    """Plan schématique sans texte : rues IGN sur fond bleu nuit, avenue Médéric en clair.
+    Renvoie (chemin de l'image, vue, tracé de l'avenue en pixels)."""
+    import json
+    from PIL import ImageDraw
+    from shapely.geometry import LineString
+    from shapely.ops import linemerge, unary_union
+    import visuels_richardets as v
+
+    lons = [c["lon"] for c in commerces]
+    lats = [c["lat"] for c in commerces]
+    (x0, y0), (x1, y1) = v.merc(min(lons), min(lats)), v.merc(max(lons), max(lats))
+    vue = v.Vue((x0 + x1) / 2, (y0 + y1) / 2, (x1 - x0) * 1.12, largeur, hauteur)
+    routes = json.load(open(os.path.join(ICI, ".cache", "routes_mederic.json")))["features"]
+
+    img = Image.new("RGB", (largeur, hauteur), (11, 24, 74))
+    d = ImageDraw.Draw(img)
+    style = {"1": (9, (70, 88, 150)), "2": (8, (66, 84, 146)), "3": (7, (60, 78, 140)),
+             "4": (6, (56, 74, 136)), "5": (4, (46, 64, 124)), "6": (3, (38, 56, 114))}
+    avenue = []
+    for imp in ("6", "5", "4", "3", "2", "1"):
+        ep, coul = style[imp]
+        for f in routes:
+            p = f["properties"]
+            if p.get("importance") != imp or not f["geometry"]:
+                continue
+            brin = [vue.px(*c[:2]) for c in f["geometry"]["coordinates"]]
+            if p.get("nom_collaboratif_gauche") == "AV MEDERIC":
+                avenue.append(LineString(brin))
+            d.line(brin, fill=coul, width=ep, joint="curve")
+    axe = linemerge(unary_union(avenue))
+    parties = sorted(axe.geoms if hasattr(axe, "geoms") else [axe], key=lambda l: l.length, reverse=True)
+    # tracé principal continu d'ouest en est (les bretelles courtes sont écartées)
+    coords = []
+    for brin in sorted([p for p in parties if p.length > 60], key=lambda l: min(c[0] for c in l.coords)):
+        cs = list(brin.coords)
+        coords += cs if cs[0][0] < cs[-1][0] else cs[::-1]
+    axe = LineString(coords)
+    d.line(coords, fill=(11, 24, 74), width=30, joint="curve")
+    d.line(coords, fill=(214, 220, 236), width=20, joint="curve")
+    chemin = os.path.join(ICI, ".cache", "fond_plan_mederic.png")
+    img.save(chemin)
+    return chemin, vue, axe
+
+
+def diapo_commerces_mederic(k):
+    import csv
+    from shapely.geometry import Point
+    commerces = [{"nom": r["nom"], "numero": r["numero"], "categorie": r["categorie"],
+                  "lon": float(r["longitude"]), "lat": float(r["latitude"])}
+                 for r in csv.DictReader(open(COMMERCES, encoding="utf-8"))]
+    par_categorie = {c: [m for m in commerces if m["categorie"] == c] for c in COULEURS_COMMERCES}
+    d = k.diapo(NUIT, "Équipements et cadre de vie", "Les commerces de l'avenue Médéric",
+                "Source : base Sirene des entreprises (données ouvertes de la Ville, mise à jour du "
+                "15 août 2026), établissements actifs de l'avenue Médéric qui tiennent une boutique ou "
+                "une salle ouverte au public ; chaque point est placé à l'adresse déclarée (Base "
+                "Adresse Nationale). Ne sont pas comptés : la vente à distance ou à domicile, les "
+                "meublés de tourisme, les sièges domiciliés et les cabinets de santé libéraux de "
+                "l'avenue (deux médecins généralistes au 50, des infirmiers aux 92 et 114, des "
+                "kinésithérapeutes et ostéopathes). Sirene peut garder actif un commerce fermé "
+                "sans radiation : liste à confirmer par le service du commerce.\n\n"
+                + "\n".join(f"{c} ({len(ms)}) : " + ", ".join(f"{m['nom'].title()} ({m['numero']})" for m in ms)
+                            for c, ms in par_categorie.items()))
+
+    # Plan schématique de l'avenue
+    chemin, vue, axe = fond_plan_mederic(commerces)
+    mx, my, mw = 1.04, 2.45, 17.9
+    mh = mw * vue.hauteur / vue.largeur
+    d.shapes.add_picture(chemin, Inches(mx), Inches(my), Inches(mw), Inches(mh))
+    texte(d, mx, my + mh + 0.06, mw, 0.3, "Rues : IGN – BD TOPO · Commerces : base Sirene (Insee), "
+          "établissements actifs en août 2026", 11, "C9CCDA", gras=False, align=PP_ALIGN.RIGHT)
+    pouce = mw / vue.largeur
+
+    # points des commerces : rangés en chapelet de part et d'autre de l'avenue, chacun du côté de
+    # son adresse et dans l'ordre de sa position réelle, écartés juste assez pour ne pas se toucher
+    pas, ecart = 0.3 / pouce, 0.3 / pouce                # en pixels du plan
+    cotes = {1: [], -1: []}
+    for m in commerces:
+        pt = Point(vue.px(m["lon"], m["lat"]))
+        s = axe.project(pt)
+        a, b = axe.interpolate(max(s - 5, 0)), axe.interpolate(min(s + 5, axe.length))
+        sens = 1 if (b.x - a.x) * (pt.y - a.y) - (b.y - a.y) * (pt.x - a.x) > 0 else -1
+        cotes[sens].append([s, m])
+    for sens, liste in cotes.items():
+        liste.sort(key=lambda e: e[0])
+        blocs = [[e] for e in liste]                     # blocs de points contigus, centrés sur leur position
+        while True:
+            debuts = [sum(e[0] for e in bl) / len(bl) - (len(bl) - 1) * pas / 2 for bl in blocs]
+            i = next((i for i in range(1, len(blocs)) if debuts[i] < debuts[i - 1] + len(blocs[i - 1]) * pas), None)
+            if i is None:
+                break
+            blocs[i - 1:i + 1] = [blocs[i - 1] + blocs[i]]
+        for debut, bl in zip(debuts, blocs):
+            for j, (_, m) in enumerate(bl):
+                s = min(max(debut + j * pas, 0), axe.length)
+                a, b = axe.interpolate(max(s - 5, 0)), axe.interpolate(min(s + 5, axe.length))
+                n = ((b.y - a.y), -(b.x - a.x))
+                ln = (n[0] ** 2 + n[1] ** 2) ** 0.5
+                c = axe.interpolate(s)
+                x = mx + (c.x - sens * n[0] / ln * ecart) * pouce
+                y = my + (c.y - sens * n[1] / ln * ecart) * pouce
+                p = rect(d, x - 0.12, y - 0.12, 0.24, 0.24, COULEURS_COMMERCES[m["categorie"]], MSO_SHAPE.OVAL,
+                         contour=NUIT)
+                p.line.width = Pt(1.5)
+                p.name = f"{m['nom'].title()} ({m['numero']})"
+
+    nom_av = texte(d, mx + 0.25, my + 0.18, 3.6, 0.4, "Avenue Médéric", 18, BLANC)
+    nom_av.name = "Nom de l'avenue"
+
+    # Synthèse : total, puis une carte par catégorie (qui sert de légende au plan)
+    yb = my + mh + 0.55
+    texte(d, 1.04, yb - 0.1, 3.3, 1.3, str(len(commerces)), 88, VERT)
+    texte(d, 1.04, yb + 1.35, 3.3, 1.3, "commerces et services ouverts au public", 20, BLANC)
+    largeur = (17.9 - 3.6 - 4 * 0.22) / 5
+    for i, (cat, ms) in enumerate(par_categorie.items()):
+        x = 4.64 + i * (largeur + 0.22)
+        h = 10.55 - yb
+        rect(d, x, yb, largeur, h, CARTE)
+        rect(d, x + 0.3, yb + 0.33, 0.3, 0.3, COULEURS_COMMERCES[cat], MSO_SHAPE.OVAL)
+        texte(d, x + 0.75, yb + 0.1, largeur - 0.95, 0.75, str(len(ms)), 40, BLANC)
+        texte(d, x + 0.3, yb + 0.95, largeur - 0.55, 0.75, cat, 19, VERT)
+        texte(d, x + 0.3, yb + 1.75, largeur - 0.55, h - 1.9, EXEMPLES_COMMERCES[cat], 15, CREME, gras=False)
+    return d
+
+
+# ---------------------------------------------------------------------------
 # Les diapositives
 # ---------------------------------------------------------------------------
 def construire():
@@ -876,9 +1015,11 @@ def construire():
                        habituelles[G_PERI_CANTINE].notes_slide.notes_text_frame.text)
     diapo_piste_cyclable(k)
     diapo_zones_bleues(k)
+    diapo_commerces_mederic(k)
     nv = k.nouvelles
     ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [nv[14], nv[15]]
-             + [nv[4], nv[16], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS] + nv[8:13] + [G_QUESTIONS, G_QR_SORTIE])
+             + [nv[4], nv[16], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS] + nv[8:10] + [nv[18]]
+             + nv[10:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
     print("Écrit :", SORTIE, "-", len(prs.slides._sldIdLst), "diapositives")
 
