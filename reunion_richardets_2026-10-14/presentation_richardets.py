@@ -245,34 +245,28 @@ def triangle(d, x, y, couleur, cote=0.36):
 # L. Vignel, 14 octobre 2026) pour les Gobelins et les montants des Charmilles ; tableau de suivi
 # des travaux en régie 2026 (onglet « Travaux en régie ») ; comptes rendus des conseils d'école
 # (printemps 2026). On n'affiche que le réalisé et le programmé ; le reste va dans les notes.
-# Les deux écoles principales (cartes du haut) : (nom, montant, légende, [(état, [travaux])]).
-ECOLES_PRINCIPALES = [
-    ("École des Gobelins", "1,3 M€", "pour accueillir l'école des Richardets", [
-        ("RÉALISÉ CETTE ANNÉE", ["Création de sanitaires",
-                                 "Réfection des sols et des peintures",
-                                 "Travaux électriques",
-                                 "Clôtures et portails",
-                                 "Rénovation de la cour et pose de pare-ballons"]),
-    ]),
-    ("Les Charmilles", "23 000 €", "pour l'assainissement et le hall du groupe scolaire", [
-        ("FAIT", ["Mise en conformité du réseau d'assainissement (19 000 €)",
-                  "Remise en état du hall : plâtrerie et peinture (4 000 €)",
-                  "Faux plafonds remplacés, étais du réfectoire déposés",
-                  "Portes réglées, poignée remplacée",
-                  "Ventilateurs, films anti-UV et bancs dans la cour"]),
-        ("PROGRAMMÉ", ["Infiltration et peinture, classe de CM1-CM2",
-                       "Peinture de l'office du réfectoire"]),
-    ]),
-]
-
-# Les autres écoles (cartes du bas) : (nom, [(fait ?, travaux)]).
-AUTRES_ECOLES = [
-    ("Les Yvris", [(True, "Drapeau de l'entrée remis en état"),
-                   (False, "Peinture du hall élémentaire et du bureau de la direction")]),
-    ("Maternelle des Richardets", [(True, "Un rafraîchisseur d'air"),
-                                   (True, "Des films de protection solaire sur les vitrages")]),
-    ("Paul-Serelle", [(False, "Sécurisation du carrefour, à l'étude"),
-                      (False, "Réparation des fuites de la salle polyvalente")]),
+# Cinq cartes de même taille, pour ne privilégier aucune école ; aucun montant n'est projeté
+# (ils restent dans les notes). (nom, sous-titre ou None, [(fait ?, travaux)]).
+ECOLES = [
+    ("École des Gobelins", "pour accueillir l'école des Richardets",
+     [(True, "Création de sanitaires"),
+      (True, "Sols, peintures et électricité refaits"),
+      (True, "Clôtures et portails"),
+      (True, "Cour rénovée, pare-ballons posés")]),
+    ("Les Charmilles", None,
+     [(True, "Assainissement mis en conformité"),
+      (True, "Hall remis en état"),
+      (True, "Faux plafonds remplacés"),
+      (False, "Peinture d'une classe et de l'office")]),
+    ("Les Yvris", None,
+     [(True, "Drapeau de l'entrée remis en état"),
+      (False, "Peinture du hall et du bureau de la direction")]),
+    ("Maternelle des Richardets", None,
+     [(True, "Un rafraîchisseur d'air"),
+      (True, "Films de protection solaire sur les vitrages")]),
+    ("Paul-Serelle", None,
+     [(False, "Sécurisation du carrefour, à l'étude"),
+      (False, "Réparation des fuites de la salle polyvalente")]),
 ]
 
 NOTES_ECOLES_QUARTIER = (
@@ -304,40 +298,23 @@ NOTES_ECOLES_QUARTIER = (
 def diapo_ecoles_quartier(k):
     d = k.diapo(NUIT, "Les écoles du quartier", "Les travaux dans les écoles du quartier",
                 NOTES_ECOLES_QUARTIER)
-    # Cartes du haut : les Gobelins et les Charmilles, avec le montant investi
-    largeur, y0, h = 8.8, 2.45, 5.4
-    for i, (ecole, montant, legende, blocs) in enumerate(ECOLES_PRINCIPALES):
-        x = 1.04 + i * (largeur + 0.3)
-        rect(d, x, y0, largeur, h, CARTE)
-        rect(d, x, y0, largeur, 0.12, VERT)
-        texte(d, x + 0.35, y0 + 0.35, 4.6, 0.6, ecole, 28, BLANC)
-        texte(d, x + 0.35, y0 + 0.95, 4.9, 0.7, legende, 16, GRIS, gras=False)
-        texte(d, x + 4.6, y0 + 0.28, largeur - 4.95, 0.9, montant, 48, VERT, align=PP_ALIGN.RIGHT)
-        texte(d, x + 4.6, y0 + 1.15, largeur - 4.95, 0.35, "INVESTIS CETTE ANNÉE", 13, VERT,
-              align=PP_ALIGN.RIGHT, espacement=150)
-        y = y0 + 1.65
-        for etat, items in blocs:
-            texte(d, x + 0.35, y, largeur - 0.7, 0.35, etat, 15, VERT, espacement=150)
-            y += 0.4
-            for item in items:
-                rect(d, x + 0.37, y + 0.09, 0.17, 0.17, VERT if etat != "PROGRAMMÉ" else GRIS,
-                     MSO_SHAPE.OVAL)
-                texte(d, x + 0.7, y, largeur - 1.05, 0.38, item, 17, CREME)
-                y += 0.38
-            y += 0.05
-
-    # Cartes du bas : les autres écoles du quartier
-    largeur, y0, h = 5.77, 8.1, 2.2
-    for i, (ecole, items) in enumerate(AUTRES_ECOLES):
-        x = 1.04 + i * (largeur + 0.29)
+    # Trois cartes en haut, deux centrées en bas, toutes de la même taille
+    largeur, h, ecart = 5.77, 3.4, 0.29
+    for i, (ecole, sous_titre, items) in enumerate(ECOLES):
+        ligne_, col = divmod(i, 3)
+        decalage = 0 if ligne_ == 0 else (largeur + ecart) / 2
+        x, y0 = 1.04 + decalage + col * (largeur + ecart), 2.6 + ligne_ * (h + 0.3)
         rect(d, x, y0, largeur, h, CARTE)
         rect(d, x, y0, 0.1, h, VERT)
-        texte(d, x + 0.35, y0 + 0.22, largeur - 0.6, 0.5, ecole, 22, BLANC)
-        y = y0 + 0.82
+        texte(d, x + 0.35, y0 + 0.25, largeur - 0.6, 0.5, ecole, 24, BLANC)
+        y = y0 + 0.95
+        if sous_titre:
+            texte(d, x + 0.35, y0 + 0.78, largeur - 0.6, 0.35, sous_titre, 15, GRIS, gras=False)
+            y += 0.35
         for fait, item in items:
-            rect(d, x + 0.37, y + 0.08, 0.16, 0.16, VERT if fait else GRIS, MSO_SHAPE.OVAL)
-            texte(d, x + 0.68, y, largeur - 0.95, 0.7, item, 16, CREME)
-            y += 0.3 * -(-len(item) // 44) + 0.12     # environ 44 caractères par ligne à 16 pt
+            rect(d, x + 0.37, y + 0.09, 0.16, 0.16, VERT if fait else GRIS, MSO_SHAPE.OVAL)
+            texte(d, x + 0.68, y, largeur - 0.95, 0.7, item, 17, CREME)
+            y += 0.32 * -(-len(item) // 44) + 0.16    # environ 44 caractères par ligne à 17 pt
 
     # Légende des pastilles
     for j, (couleur, libelle) in enumerate(((VERT, "réalisé"), (GRIS, "programmé ou à l'étude"))):
@@ -444,8 +421,11 @@ def diapo_zones_bleues(k):
 # ---------------------------------------------------------------------------
 # L'école des Gobelins (Direction des Bâtiments et de l'Énergie, 14 octobre 2026)
 # ---------------------------------------------------------------------------
+TRAVAUX_GOBELINS = ["Création de sanitaires", "Réfection des sols et des peintures", "Travaux électriques",
+                    "Clôtures et portails", "Rénovation de la cour et pose de pare-ballons"]
+
+
 def diapo_gobelins(k):
-    gob = ECOLES_PRINCIPALES[0]
     d = k.diapo(CREME, "L'école des Richardets", "L'école des Gobelins, prête pour les élèves",
                 "Source : Direction des Bâtiments et de l'Énergie (14 octobre 2026). 1,3 million d'euros "
                 "investis cette année au sein du groupe scolaire des Gobelins pour permettre l'installation "
@@ -453,11 +433,11 @@ def diapo_gobelins(k):
                 "revêtements de sols et peinture, travaux électriques, installation de clôtures et de "
                 "portails, rénovation de la cour et mise en place de pare-ballons.")
     rect(d, 1.04, 2.5, 6.0, 3.6, NUIT)
-    texte(d, 1.45, 2.8, 5.3, 1.4, gob[1], 80, VERT)
+    texte(d, 1.45, 2.8, 5.3, 1.4, "1,3 M€", 80, VERT)
     texte(d, 1.45, 4.25, 5.3, 1.6, "investis cette année pour accueillir l'école des Richardets", 22, BLANC)
     image(d, os.path.join(VISUELS, "Ecole", "Ecole_02_ecole_des_Gobelins.jpg"), 1.04, 6.4, 6.0, 3.8)
     texte(d, 7.6, 2.5, 11.3, 0.45, "LES PRINCIPALES OPÉRATIONS D'ADAPTATION", 20, VERT, espacement=150)
-    for j, op in enumerate(gob[3][0][1]):
+    for j, op in enumerate(TRAVAUX_GOBELINS):
         yy = 3.15 + j * 1.42
         rect(d, 7.6, yy, 11.36, 1.2, NUIT)
         rect(d, 7.85, yy + 0.27, 0.66, 0.66, VERT, MSO_SHAPE.OVAL)
