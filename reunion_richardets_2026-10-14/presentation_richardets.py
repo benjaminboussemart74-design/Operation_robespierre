@@ -241,70 +241,109 @@ def triangle(d, x, y, couleur, cote=0.36):
 # ---------------------------------------------------------------------------
 # Travaux dans les écoles du quartier
 # ---------------------------------------------------------------------------
-# Sources : tableau de suivi des travaux des écoles (visites 2026, v1.78), comptes rendus des
-# conseils d'école (printemps 2026), tableau de suivi municipal des travaux 2026-2027.
-# On n'affiche que le réalisé et le programmé ; les demandes en attente vont dans les notes.
-ECOLES_QUARTIER = [
-    ("Les Charmilles", [
-        ("FAIT", ["Étais du réfectoire déposés (mai 2026)",
-                  "Ventilateurs et films anti-UV",
-                  "Bancs dans la cour",
-                  "Portes réglées, poignée remplacée"]),
-        ("EN COURS", ["Remplacement des dalles de faux plafond abîmées"]),
+# Sources : réponse de la Direction des Bâtiments et de l'Énergie au cabinet (courriel de
+# L. Vignel, 14 octobre 2026) pour les Gobelins et les montants des Charmilles ; tableau de suivi
+# des travaux en régie 2026 (onglet « Travaux en régie ») ; comptes rendus des conseils d'école
+# (printemps 2026). On n'affiche que le réalisé et le programmé ; le reste va dans les notes.
+# Les deux écoles principales (cartes du haut) : (nom, montant, légende, [(état, [travaux])]).
+ECOLES_PRINCIPALES = [
+    ("École des Gobelins", "1,3 M€", "pour accueillir l'école des Richardets", [
+        ("RÉALISÉ CETTE ANNÉE", ["Création de sanitaires",
+                                 "Réfection des sols et des peintures",
+                                 "Travaux électriques",
+                                 "Clôtures et portails",
+                                 "Rénovation de la cour et pose de pare-ballons"]),
+    ]),
+    ("Les Charmilles", "23 000 €", "pour l'assainissement et le hall du groupe scolaire", [
+        ("FAIT", ["Mise en conformité du réseau d'assainissement (19 000 €)",
+                  "Remise en état du hall : plâtrerie et peinture (4 000 €)",
+                  "Faux plafonds remplacés, étais du réfectoire déposés",
+                  "Portes réglées, poignée remplacée",
+                  "Ventilateurs, films anti-UV et bancs dans la cour"]),
         ("PROGRAMMÉ", ["Infiltration et peinture, classe de CM1-CM2",
                        "Peinture de l'office du réfectoire"]),
     ]),
-    ("Les Yvris", [
-        ("FAIT", ["Remise en état du drapeau de l'entrée (juin 2026)"]),
-        ("PROGRAMMÉ", ["Peinture du hall élémentaire et du bureau de la direction"]),
-    ]),
-    ("Maternelle des Richardets", [
-        ("FAIT", ["Un rafraîchisseur d'air", "Des films de protection solaire sur les vitrages"]),
-    ]),
-    ("Paul-Serelle", [
-        ("À L'ÉTUDE", ["Sécurisation du carrefour rue Paul-Serelle"]),
-        ("À RÉALISER", ["Réparation des fuites de la salle polyvalente"]),
-        ("À PROGRAMMER", ["Réverbère devant le portail"]),
-    ]),
+]
+
+# Les autres écoles (cartes du bas) : (nom, [(fait ?, travaux)]).
+AUTRES_ECOLES = [
+    ("Les Yvris", [(True, "Drapeau de l'entrée remis en état"),
+                   (False, "Peinture du hall élémentaire et du bureau de la direction")]),
+    ("Maternelle des Richardets", [(True, "Un rafraîchisseur d'air"),
+                                   (True, "Des films de protection solaire sur les vitrages")]),
+    ("Paul-Serelle", [(False, "Sécurisation du carrefour, à l'étude"),
+                      (False, "Réparation des fuites de la salle polyvalente")]),
 ]
 
 NOTES_ECOLES_QUARTIER = (
-    "Sources : tableau de suivi des travaux des écoles (visites 2026), comptes rendus des conseils "
-    "d'école du printemps 2026, tableau de suivi municipal des travaux 2026-2027. Les travaux "
-    "« programmés » aux Charmilles et aux Yvris étaient prévus pour l'été 2026 : leur réalisation "
-    "reste à confirmer auprès de la Direction des Bâtiments.\n\n"
-    "Demandes en attente, à connaître (non projetées). Charmilles maternelle : fissures, étais posés "
-    "au réfectoire, toiture à refaire (travaux reportés pour analyser une fissure), chaudière en "
-    "panne chaque année, brise-vues posés à l'envers ; les parents et la direction demandent le "
-    "rapport d'expertise et la participation à la commission travaux. Charmilles élémentaire : "
-    "allée de secours inachevée (environ 6 mètres, enjeu pour un élève en fauteuil), 13 chaises "
-    "manquantes, écrans numériques, rapport d'expertise. Richardets élémentaire : barrière côté rue "
-    "cassée, rideaux thermiques. Yvris maternelle : bouton d'ouverture du portail à rehausser, "
-    "placards à sécuriser, barre pour le parc à vélos, chaleur au réfectoire. Paul-Serelle "
-    "(synthèse des parents du 29 mai) : portes coupe-feu trop lourdes, détecteurs de fumée, "
-    "extincteurs non fixés, alarme PPMS, interphone et grille de la maternelle hors service, "
-    "fenêtres et stores défectueux, fuites, revêtement de cour.")
+    "Sources : Direction des Bâtiments et de l'Énergie, service Patrimoine Bâti (courriel du "
+    "14 octobre 2026) ; tableau de suivi des travaux en régie 2026 ; comptes rendus des conseils "
+    "d'école du printemps 2026.\n\n"
+    "École des Gobelins : 1,3 million d'euros investis cette année au sein du groupe scolaire des "
+    "Gobelins pour permettre l'installation et le déménagement de l'école des Richardets : création "
+    "de sanitaires, réfection des revêtements de sols et peinture, travaux électriques, installation "
+    "de clôtures et de portails, rénovation de la cour et mise en place de pare-ballons.\n\n"
+    "Les Charmilles : 19 000 € pour la mise en conformité du réseau d'assainissement et 4 000 € "
+    "d'aménagement et de remise en état du hall (pose de plaques de plâtre et mise en peinture). "
+    "Les travaux « programmés » (classe de CM1-CM2, office du réfectoire) étaient prévus pour l'été "
+    "2026 : leur réalisation reste à confirmer auprès de la Direction des Bâtiments. Même réserve "
+    "pour la peinture du hall élémentaire des Yvris. Paul-Serelle : un réverbère devant le portail "
+    "reste à programmer.\n\n"
+    "Demandes en attente, à connaître (non projetées). Charmilles maternelle : fissures, toiture à "
+    "refaire (travaux reportés pour analyser une fissure), chaudière en panne chaque année, "
+    "brise-vues posés à l'envers ; les parents et la direction demandent le rapport d'expertise et "
+    "la participation à la commission travaux. Charmilles élémentaire : allée de secours inachevée "
+    "(environ 6 mètres, enjeu pour un élève en fauteuil), 13 chaises manquantes, écrans numériques, "
+    "rapport d'expertise. Richardets élémentaire : barrière côté rue cassée, rideaux thermiques. "
+    "Yvris maternelle : bouton d'ouverture du portail à rehausser, placards à sécuriser, barre pour "
+    "le parc à vélos, chaleur au réfectoire. Paul-Serelle (synthèse des parents du 29 mai) : portes "
+    "coupe-feu trop lourdes, détecteurs de fumée, extincteurs non fixés, alarme PPMS, interphone et "
+    "grille de la maternelle hors service, fenêtres et stores défectueux, fuites, revêtement de cour.")
 
 
 def diapo_ecoles_quartier(k):
     d = k.diapo(NUIT, "Les écoles du quartier", "Les travaux dans les écoles du quartier",
                 NOTES_ECOLES_QUARTIER)
-    largeur, ecart = 4.25, 0.3
-    for i, (ecole, blocs) in enumerate(ECOLES_QUARTIER):
-        x = 1.04 + i * (largeur + ecart)
-        rect(d, x, 2.45, largeur, 7.85, CARTE)
-        rect(d, x, 2.45, largeur, 0.12, VERT)
-        texte(d, x + 0.3, 2.8, largeur - 0.5, 0.95, ecole, 26, BLANC)
-        y = 3.85 if len(ecole) > 18 else 3.45
+    # Cartes du haut : les Gobelins et les Charmilles, avec le montant investi
+    largeur, y0, h = 8.8, 2.45, 5.4
+    for i, (ecole, montant, legende, blocs) in enumerate(ECOLES_PRINCIPALES):
+        x = 1.04 + i * (largeur + 0.3)
+        rect(d, x, y0, largeur, h, CARTE)
+        rect(d, x, y0, largeur, 0.12, VERT)
+        texte(d, x + 0.35, y0 + 0.35, 4.6, 0.6, ecole, 28, BLANC)
+        texte(d, x + 0.35, y0 + 0.95, 4.9, 0.7, legende, 16, GRIS, gras=False)
+        texte(d, x + 4.6, y0 + 0.28, largeur - 4.95, 0.9, montant, 48, VERT, align=PP_ALIGN.RIGHT)
+        texte(d, x + 4.6, y0 + 1.15, largeur - 4.95, 0.35, "INVESTIS CETTE ANNÉE", 13, VERT,
+              align=PP_ALIGN.RIGHT, espacement=150)
+        y = y0 + 1.65
         for etat, items in blocs:
-            texte(d, x + 0.3, y, largeur - 0.5, 0.4, etat, 16, VERT, espacement=150)
-            y += 0.42
+            texte(d, x + 0.35, y, largeur - 0.7, 0.35, etat, 15, VERT, espacement=150)
+            y += 0.4
             for item in items:
-                rect(d, x + 0.32, y + 0.1, 0.18, 0.18, VERT if etat == "FAIT" else GRIS, MSO_SHAPE.OVAL)
-                texte(d, x + 0.65, y, largeur - 0.9, 1.0, item, 17, CREME)
-                lignes = -(-len(item) // 27)               # environ 27 caractères par ligne à 17 pt
-                y += 0.3 * lignes + 0.16
-            y += 0.12
+                rect(d, x + 0.37, y + 0.09, 0.17, 0.17, VERT if etat != "PROGRAMMÉ" else GRIS,
+                     MSO_SHAPE.OVAL)
+                texte(d, x + 0.7, y, largeur - 1.05, 0.38, item, 17, CREME)
+                y += 0.38
+            y += 0.05
+
+    # Cartes du bas : les autres écoles du quartier
+    largeur, y0, h = 5.77, 8.1, 2.2
+    for i, (ecole, items) in enumerate(AUTRES_ECOLES):
+        x = 1.04 + i * (largeur + 0.29)
+        rect(d, x, y0, largeur, h, CARTE)
+        rect(d, x, y0, 0.1, h, VERT)
+        texte(d, x + 0.35, y0 + 0.22, largeur - 0.6, 0.5, ecole, 22, BLANC)
+        y = y0 + 0.82
+        for fait, item in items:
+            rect(d, x + 0.37, y + 0.08, 0.16, 0.16, VERT if fait else GRIS, MSO_SHAPE.OVAL)
+            texte(d, x + 0.68, y, largeur - 0.95, 0.7, item, 16, CREME)
+            y += 0.3 * -(-len(item) // 44) + 0.12     # environ 44 caractères par ligne à 16 pt
+
+    # Légende des pastilles
+    for j, (couleur, libelle) in enumerate(((VERT, "réalisé"), (GRIS, "programmé ou à l'étude"))):
+        x = 14.0 + j * 1.45
+        rect(d, x, 10.53, 0.15, 0.15, couleur, MSO_SHAPE.OVAL)
+        texte(d, x + 0.25, 10.46, 3.5, 0.3, libelle, 13, GRIS, gras=False)
     return d
 
 
