@@ -467,7 +467,7 @@ def diapo_zones_bleues(k):
     d = k.diapo(NUIT, "Circulation et sécurité", "Les zones bleues de stationnement",
                 "Deux parkings concernés. 1. Secteur du gymnase des Yvris, chemin de la Noisette, près de "
                 "l'école élémentaire des Yvris et du collège Saint-Exupéry (point fourni : 48°49'35.57\" N, "
-                "2°35'00.63\" E). 2. Boulevard du Champy (point fourni : 48°50'14.62\" N, 2°34'48.08\" E). "
+                "2°35'00.63\" E). 2. Boulevard du Champy (point fourni : 48°50'14.85\" N, 2°34'48.08\" E). "
                 "Vues : orthophotographies IGN (© IGN – BD ORTHO). Règles de la zone bleue à compléter : "
                 "périmètre, durée de stationnement autorisée, date de mise en place, contrôle.")
     for i, (lieu, precision, vue, situation) in enumerate(PARKINGS_ZONE_BLEUE):
