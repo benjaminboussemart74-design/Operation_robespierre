@@ -425,6 +425,31 @@ def diapo_zones_bleues(k):
 
 
 # ---------------------------------------------------------------------------
+# L'école des Gobelins (Direction des Bâtiments et de l'Énergie, 14 octobre 2026)
+# ---------------------------------------------------------------------------
+def diapo_gobelins(k):
+    gob = ECOLES_PRINCIPALES[0]
+    d = k.diapo(CREME, "L'école des Richardets", "L'école des Gobelins, prête pour les élèves",
+                "Source : Direction des Bâtiments et de l'Énergie (14 octobre 2026). 1,3 million d'euros "
+                "investis cette année au sein du groupe scolaire des Gobelins pour permettre l'installation "
+                "et le déménagement de l'école des Richardets : création de sanitaires, réfection des "
+                "revêtements de sols et peinture, travaux électriques, installation de clôtures et de "
+                "portails, rénovation de la cour et mise en place de pare-ballons.")
+    rect(d, 1.04, 2.5, 6.0, 3.6, NUIT)
+    texte(d, 1.45, 2.8, 5.3, 1.4, gob[1], 80, VERT)
+    texte(d, 1.45, 4.25, 5.3, 1.6, "investis cette année pour accueillir l'école des Richardets", 22, BLANC)
+    image(d, os.path.join(VISUELS, "Ecole", "Ecole_02_ecole_des_Gobelins.jpg"), 1.04, 6.4, 6.0, 3.8)
+    texte(d, 7.6, 2.5, 11.3, 0.45, "LES PRINCIPALES OPÉRATIONS D'ADAPTATION", 20, VERT, espacement=150)
+    for j, op in enumerate(gob[3][0][1]):
+        yy = 3.15 + j * 1.42
+        rect(d, 7.6, yy, 11.36, 1.2, NUIT)
+        rect(d, 7.85, yy + 0.27, 0.66, 0.66, VERT, MSO_SHAPE.OVAL)
+        texte(d, 7.85, yy + 0.27, 0.66, 0.66, str(j + 1), 22, NUIT, align=PP_ALIGN.CENTER, ancre=MSO_ANCHOR.MIDDLE)
+        texte(d, 8.85, yy, 9.9, 1.2, op, 26, BLANC, ancre=MSO_ANCHOR.MIDDLE)
+    return d
+
+
+# ---------------------------------------------------------------------------
 # Plan des bus du quartier
 # ---------------------------------------------------------------------------
 def fond_carte_bus(largeur=2400, hauteur=1350):
@@ -692,15 +717,20 @@ def construire():
                 "démarré en septembre, après la notification des marchés de travaux, pour une durée "
                 "prévue de 20 mois. La réouverture de l'école agrandie et rénovée est prévue pour la "
                 "rentrée de septembre 2028.")
-    rect(d, 1.04, 2.55, 10.6, 4.1, NUIT)
-    texte(d, 1.5, 2.85, 9.8, 0.5, "RÉOUVERTURE PRÉVUE EN", 22, VERT, espacement=150)
-    texte(d, 1.5, 3.35, 9.8, 1.6, "septembre 2028", 80, BLANC)
-    texte(d, 1.5, 5.0, 9.8, 1.4, "Les élèves sont accueillis à l'école des Gobelins pendant toute "
-          "la durée du chantier", 24, CREME)
-    carte_chiffre(d, 1.04, 6.95, 5.15, 3.3, "Sept. 2026", "démarrage des travaux", taille=48)
-    carte_chiffre(d, 6.49, 6.95, 5.15, 3.3, "20 mois", "de travaux prévus, pour une école agrandie "
-                  "et rénovée", taille=48)
-    a_completer(d, 12.2, 2.55, 6.76, 7.7, "[Photo du chantier à fournir]")
+    rect(d, 1.04, 2.55, 7.3, 4.1, NUIT)
+    texte(d, 1.45, 2.85, 6.6, 0.5, "RÉOUVERTURE PRÉVUE EN", 20, VERT, espacement=150)
+    texte(d, 1.45, 3.35, 6.6, 1.2, "septembre 2028", 56, BLANC)
+    texte(d, 1.45, 4.75, 6.6, 1.6, "Les élèves sont accueillis à l'école des Gobelins pendant toute "
+          "la durée du chantier", 21, CREME)
+    carte_chiffre(d, 1.04, 6.95, 3.5, 3.3, "Sept. 2026", "démarrage des travaux", taille=34)
+    carte_chiffre(d, 4.84, 6.95, 3.5, 3.3, "20 mois", "de travaux, pour une école agrandie et rénovée",
+                  taille=34)
+    img = image(d, os.path.join(VISUELS, "Ecole", "Ecole_01_perspective_ecole_Richardets.jpg"),
+                8.75, 2.55, 10.21, 6.9, align="droite")
+    bas = (img.top + img.height) / 914400
+    rect(d, img.left / 914400, bas, img.width / 914400, 0.5, VERT)
+    texte(d, img.left / 914400 + 0.2, bas, img.width / 914400 - 0.4, 0.5,
+          "PERSPECTIVE · LA FUTURE ÉCOLE DES RICHARDETS", 16, NUIT, ancre=MSO_ANCHOR.MIDDLE, espacement=100)
 
     # 5. Le coût d'une annulation -------------------------------------------------
     d = k.diapo(NUIT, "L'école des Richardets", "Le coût d'une annulation",
@@ -775,17 +805,29 @@ def construire():
 
     # 9. Non à la fermeture du bureau de poste -------------------------------------------
     d = k.diapo(NUIT, "Services publics de proximité", "Non à la fermeture du bureau de poste des Richardets",
-                "La fermeture avait été décidée par La Poste sans information des habitants. Le Maire "
-                "s'y est opposé et a demandé un délai ainsi que la sauvegarde d'activités postales.")
-    texte(d, 1.04, 2.45, 10.9, 1.2, "Un service de proximité essentiel, auquel les habitants sont attachés",
+                "La fermeture avait été discutée dès 2024 entre La Poste et l'ancienne municipalité, sans "
+                "information des habitants. Courrier du Maire du 10 juin 2026 au délégué territorial de La "
+                "Poste pour la Seine-Saint-Denis : la nouvelle municipalité n'a été ni informée ni "
+                "consultée ; le Maire demande de suspendre la fermeture, d'organiser une réunion de travail "
+                "et de transmettre les éléments ayant fondé la décision (fréquentation, études, "
+                "correspondances avec l'ancienne municipalité). Le Maire s'est opposé à la fermeture et a "
+                "demandé un délai ainsi que la sauvegarde d'activités postales.")
+    texte(d, 1.04, 2.45, 11.2, 1.2, "Un service de proximité essentiel, auquel les habitants sont attachés",
           30, VERT)
-    frise(d, 1.04, 4.1, 10.9, [
-        ("15 juin 2026", "Courrier du Maire à La Poste"),
+    frise(d, 1.04, 3.75, 11.2, [
+        ("2024", "Discussion entre La Poste et l'ancienne municipalité sur la fermeture (non publique)"),
+        ("10 juin 2026", "Courrier du Maire au délégué territorial de La Poste"),
         ("Juin 2026", "Le Maire reçoit le délégué de La Poste et s'oppose à la fermeture"),
-        ("10 juillet 2026", "Nouvel échange entre le Maire et La Poste"),
     ], sur_nuit=True)
-    image(d, os.path.join(VISUELS, "Services", "Services_01_bureau_de_poste.jpg"), 12.45, 2.45, 6.5, 5.0)
-    a_completer(d, 12.45, 7.75, 6.5, 2.45, "[Situation actuelle du bureau à compléter]", sombre=True)
+    image(d, os.path.join(VISUELS, "Services", "Services_01_bureau_de_poste.jpg"), 1.04, 8.25, 3.6, 2.0,
+          align="gauche")
+    a_completer(d, 5.0, 8.25, 7.24, 2.0, "[Situation actuelle du bureau à compléter]", sombre=True)
+    lettre = image(d, os.path.join(VISUELS, "Services", "Services_02_courrier_Maire_La_Poste_10_juin_2026.png"),
+                   12.75, 2.3, 6.2, 7.35, align="droite")
+    x, w = lettre.left / 914400, lettre.width / 914400
+    rect(d, x, 9.7, w, 0.5, VERT)
+    texte(d, x, 9.7, w, 0.5, "COURRIER DU MAIRE · 10 JUIN 2026", 15, NUIT, align=PP_ALIGN.CENTER,
+          ancre=MSO_ANCHOR.MIDDLE, espacement=100)
 
     # 10. Le réseau de bus ---------------------------------------------------------------
     d = k.diapo(CREME, "Services publics de proximité", "Le réseau de bus",
@@ -811,23 +853,25 @@ def construire():
                 "dossier pour le prochain comité de pilotage ; révision de la programmation pluriannuelle "
                 "des investissements et nouvelles demandes de subventions ; vigilance du service des "
                 "sports sur l'emprise du chantier sur la piste d'athlétisme.")
-    colonnes = [("Le bâtiment", ["Des toitures solarisées", "Une façade végétalisée", "L'installation des sièges"]),
-                ("Les espaces verts", ["Les arbres replantés avant tout abattage",
-                                       "Une compensation végétale doublée",
-                                       "Une haie contre les nuisances sonores"])]
-    for i, (tete, items) in enumerate(colonnes):
-        x = 1.04 + i * 5.85
-        rect(d, x, 2.5, 5.55, 5.45, CARTE)
-        rect(d, x, 2.5, 5.55, 0.12, VERT)
-        texte(d, x + 0.4, 2.9, 4.8, 0.5, tete.upper(), 22, VERT, espacement=150)
-        for j, item in enumerate(items):
-            yy = 3.7 + j * 1.38
-            rect(d, x + 0.4, yy + 0.12, 0.26, 0.26, VERT, MSO_SHAPE.OVAL)
-            texte(d, x + 0.9, yy, 4.35, 1.3, item, 24, BLANC)
-    a_completer(d, 1.04, 8.3, 11.4, 1.9, "[Montant et calendrier à compléter]", sombre=True)
+    # comparatif : l'ancien projet (avant le mandat) et le nouveau projet
+    rect(d, 1.04, 2.5, 4.6, 7.7, CARTE)
+    texte(d, 1.4, 2.85, 4.0, 0.45, "ANCIEN PROJET", 20, GRIS, espacement=150)
+    texte(d, 1.4, 3.3, 4.0, 0.8, "avant l'élection du Maire", 16, GRIS, gras=False)
+    rect(d, 1.4, 4.45, 0.62, 0.62, GRIS, MSO_SHAPE.OVAL)
+    texte(d, 1.4, 4.45, 0.62, 0.62, "✕", 22, NUIT, align=PP_ALIGN.CENTER, ancre=MSO_ANCHOR.MIDDLE)
+    texte(d, 2.25, 4.42, 3.2, 1.4, "Des arbres abattus", 26, CREME)
+    texte(d, 5.85, 5.5, 0.8, 0.9, "→", 44, VERT, gras=False, align=PP_ALIGN.CENTER)
+    rect(d, 6.85, 2.5, 5.75, 7.7, VERT)
+    texte(d, 7.25, 2.85, 5.0, 0.45, "NOUVEAU PROJET", 20, NUIT, espacement=150)
+    texte(d, 7.25, 3.3, 5.0, 0.8, "porté par la nouvelle municipalité", 16, NUIT, gras=False)
+    for j, item in enumerate(("Des toitures solarisées", "Une façade en bois",
+                              "La plantation de nouveaux arbres")):
+        yy = 4.45 + j * 1.75
+        rect(d, 7.25, yy, 0.62, 0.62, NUIT, MSO_SHAPE.OVAL)
+        texte(d, 7.25, yy, 0.62, 0.62, str(j + 1), 22, VERT, align=PP_ALIGN.CENTER, ancre=MSO_ANCHOR.MIDDLE)
+        texte(d, 8.1, yy - 0.03, 4.3, 1.4, item, 26, NUIT)
     image(d, os.path.join(VISUELS, "Equipements", "Equipements_01_stade_Alain_Mimoun.jpg"),
-          12.95, 2.5, 6.0, 5.45)
-    a_completer(d, 12.95, 8.3, 6.0, 1.9, "[Perspective de la tribune à fournir]", sombre=True)
+          13.0, 2.5, 5.96, 7.7)
 
     # 12. Une nouvelle aire de jeux rue de la Chapelle --------------------------------------
     d = k.diapo(CREME, "Équipements et cadre de vie", "Une nouvelle aire de jeux rue de la Chapelle",
@@ -835,20 +879,13 @@ def construire():
                 "Astronautes, entre la rue de la Chapelle et la rue des Pléiades : concertation avec les "
                 "riverains cet hiver sur les aires de jeux et les équipements, travaux à la fin du "
                 "printemps, plantations à l'automne. Les crédits sont prévus pour 2027.")
-    image(d, os.path.join(VISUELS, "Equipements", "Equipements_02_square_Astronautes_plan.png"),
-          1.04, 2.4, 11.2, 6.3, align="gauche")
-    texte(d, 12.75, 2.45, 6.2, 0.45, "LE SQUARE", 21, VERT, espacement=150)
-    puces = ["Square du boulevard des Astronautes, rue de la Chapelle",
-             "Des jeux pour les enfants de 1 an à 10-12 ans",
-             "Sol souple, bancs, chaises longues et tables de jeux en plastique recyclé",
-             "Le séquoia géant et les arbres existants conservés"]
-    for j, item in enumerate(puces):
-        yy = 3.05 + j * 1.42
-        rect(d, 12.75, yy + 0.13, 0.24, 0.24, VERT, MSO_SHAPE.OVAL)
-        texte(d, 13.2, yy, 5.75, 1.35, item, 22, NUIT)
-    frise(d, 1.04, 8.75, 17.9, [("Cet hiver", "Concertation avec les riverains"),
-                                ("Fin du printemps", "Travaux"), ("À l'automne", "Plantations")],
-          sur_nuit=False, compacte=True)
+    plan = image(d, os.path.join(VISUELS, "Equipements", "Equipements_02_square_Astronautes_plan.png"),
+                 1.04, 2.35, 17.9, 8.0)
+    x, y = plan.left / 914400 + 0.35, plan.top / 914400 + 0.35
+    b = rect(d, x, y, 4.4, 0.85, VERT, MSO_SHAPE.ROUNDED_RECTANGLE, contour=NUIT)
+    b.line.width = Pt(3)
+    texte(d, x, y, 4.4, 0.85, "EN CONCERTATION", 26, NUIT, align=PP_ALIGN.CENTER,
+          ancre=MSO_ANCHOR.MIDDLE, espacement=120)
 
     # 13. Le Fort de Villiers ------------------------------------------------------------
     d = k.diapo(NUIT, "Équipements et cadre de vie", "Le Fort de Villiers", "")
@@ -889,8 +926,9 @@ def construire():
     diapo_piste_cyclable(k)
     diapo_zones_bleues(k)
     diapo_commerces_mederic(k)
+    diapo_gobelins(k)
     nv = k.nouvelles
-    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [nv[14], nv[15]]
+    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + [nv[0], nv[19]] + nv[1:4] + [nv[14], nv[15]]
              + [nv[4], nv[16], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS] + nv[8:10] + [nv[18]]
              + nv[10:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
