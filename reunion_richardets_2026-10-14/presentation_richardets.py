@@ -746,14 +746,13 @@ def diapo_piste_cyclable(k):
 
 def diapo_piste_cyclable_plan(k):
     d = k.diapo(CREME, "Circulation et sécurité", "Le plan d'aménagement du carrefour",
-                "Plan d'aménagement du carrefour et de la piste cyclable (en rouge), en pleine page ; "
-                "coupe de la voie en encart : trois voies de circulation et une piste cyclable "
-                "bidirectionnelle.")
-    rect(d, 1.04, 2.55, 17.9, 6.37, BLANC)
+                "Plan d'aménagement du carrefour giratoire et de la piste cyclable (en rouge), qui "
+                "contourne le rond-point et se poursuit le long de la voie (coupe A-A).")
+    rect(d, 1.04, 2.85, 17.9, 5.27, BLANC)
     image(d, os.path.join(VISUELS, "Mobilites", "Mobilites_04_piste_cyclable_plan_carrefour.png"),
-          1.19, 2.7, 17.6, 6.07)
-    rect(d, 1.04, 9.3, 0.9, 0.36, PISTE)
-    texte(d, 2.15, 9.25, 8.0, 0.45, "Piste cyclable", 22, NUIT)
+          1.19, 3.0, 17.6, 4.97)
+    rect(d, 1.04, 8.55, 0.9, 0.36, PISTE)
+    texte(d, 2.15, 8.5, 8.0, 0.45, "Piste cyclable", 22, NUIT)
     return d
 
 
