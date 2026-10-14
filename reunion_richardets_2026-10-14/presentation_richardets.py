@@ -278,7 +278,9 @@ def diapo_objectifs_richardets(k):
                 "menuiseries extérieures et isolation des combles ; réaménagement des cours de récréation "
                 "(remplacement des clôtures, création des rangements extérieurs, séparation des cours).\n\n"
                 "Programme de construction neuve : construction d'extensions permettant de créer des locaux "
-                "manquants au bon fonctionnement des entités pédagogiques ; construction de deux nouveaux préaux.")
+                "manquants au bon fonctionnement des entités pédagogiques ; construction de deux nouveaux préaux.\n\n"
+                "Illustration : plan des 1er et 2e étages et du sous-sol partiel (dossier de consultation des "
+                "entreprises, mars 2020, « Réaménagement et extension du groupe scolaire des Richardets »).")
     # Les trois objectifs
     largeur = 5.77
     for i, (titre, detail) in enumerate(OBJECTIFS_RICHARDETS):
@@ -286,15 +288,25 @@ def diapo_objectifs_richardets(k):
         rect(d, x, 2.5, largeur, 2.05, NUIT)
         texte(d, x + 0.4, 2.75, largeur - 0.8, 0.5, titre, 26, VERT)
         texte(d, x + 0.4, 3.4, largeur - 0.8, 1.3, detail, 18, CREME)
-    # Le programme des travaux
-    for (titre, items), x, w in zip(PROGRAMME_RICHARDETS, (1.04, 13.0), (11.4, 5.94)):
-        texte(d, x, 5.05, w, 0.45, titre, 20, VERT, espacement=150)
-        ligne(d, x, 5.6, x + w, 5.6, VERT, 2)
-        y = 5.85
+    # Le programme des travaux, à gauche
+    y = 4.95
+    for titre, items in PROGRAMME_RICHARDETS:
+        texte(d, 1.04, y, 10.3, 0.4, titre, 18, VERT, espacement=150)
+        ligne(d, 1.04, y + 0.48, 11.34, y + 0.48, VERT, 2)
+        y += 0.68
         for item in items:
-            rect(d, x + 0.02, y + 0.1, 0.18, 0.18, VERT, MSO_SHAPE.OVAL)
-            texte(d, x + 0.4, y, w - 0.4, 0.8, item, 19, NUIT)
-            y += 0.34 * -(-len(item) // (78 if w > 10 else 40)) + 0.3
+            rect(d, 1.06, y + 0.08, 0.17, 0.17, VERT, MSO_SHAPE.OVAL)
+            texte(d, 1.42, y, 9.9, 0.7, item, 17, NUIT)
+            y += 0.3 * -(-len(item) // 83) + 0.17
+        y += 0.2
+    # Le plan des étages, à droite
+    img = image(d, os.path.join(VISUELS, "Ecole", "Ecole_03_plan_etages_Richardets.jpg"),
+                11.75, 4.95, 7.19, 4.85, align="droite")
+    img.line.color.rgb = rgb(NUIT)
+    bas = (img.top + img.height) / 914400
+    rect(d, img.left / 914400, bas, img.width / 914400, 0.45, VERT)
+    texte(d, img.left / 914400 + 0.2, bas, img.width / 914400 - 0.4, 0.45,
+          "PLAN DES 1ER ET 2E ÉTAGES", 14, NUIT, ancre=MSO_ANCHOR.MIDDLE, espacement=100)
     return d
 
 
