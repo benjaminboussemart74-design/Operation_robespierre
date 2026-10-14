@@ -403,6 +403,28 @@ def diapo_periscolaire(k, notes_mercredi, notes_cantine):
 
 
 # ---------------------------------------------------------------------------
+# Zones bleues : parking du secteur du gymnase des Yvris
+# (point fourni par le cabinet : 48°49'35.57" N, 2°35'00.63" E ; vues aériennes IGN)
+# ---------------------------------------------------------------------------
+def diapo_zones_bleues(k):
+    d = k.diapo(NUIT, "Circulation et sécurité", "Les zones bleues de stationnement",
+                "Parking situé dans le secteur du gymnase des Yvris, chemin de la Noisette, près de "
+                "l'école élémentaire des Yvris et du collège Saint-Exupéry (point fourni : 48°49'35.57\" N, "
+                "2°35'00.63\" E). Vues : orthophotographies IGN. Règles de la zone bleue à compléter : "
+                "périmètre, durée de stationnement autorisée, date de mise en place, contrôle.")
+    img = image(d, os.path.join(VISUELS, "Securite", "Securite_03_zone_bleue_parking.jpg"),
+                1.04, 2.45, 11.2, 7.5, align="gauche")
+    bas = (img.top + img.height) / 914400
+    texte(d, 1.04, bas + 0.08, 11.2, 0.3, "© IGN – BD ORTHO", 11, "C9CCDA", gras=False, align=PP_ALIGN.RIGHT)
+    image(d, os.path.join(VISUELS, "Securite", "Securite_04_zone_bleue_situation.jpg"),
+          12.65, 2.45, 6.3, 4.2)
+    texte(d, 12.65, 6.75, 6.3, 0.8, "Secteur du gymnase des Yvris, chemin de la Noisette", 20, BLANC)
+    a_completer(d, 12.65, 7.65, 6.3, 2.3,
+                "[Périmètre, durée de stationnement autorisée et date de mise en place à compléter]", sombre=True)
+    return d
+
+
+# ---------------------------------------------------------------------------
 # Plan des bus du quartier
 # ---------------------------------------------------------------------------
 def fond_carte_bus(largeur=2400, hauteur=1350):
@@ -853,9 +875,10 @@ def construire():
     diapo_periscolaire(k, habituelles[G_PERI_MERCREDI].notes_slide.notes_text_frame.text,
                        habituelles[G_PERI_CANTINE].notes_slide.notes_text_frame.text)
     diapo_piste_cyclable(k)
+    diapo_zones_bleues(k)
     nv = k.nouvelles
     ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [nv[14], nv[15]]
-             + [nv[4], nv[16]] + nv[5:8] + [n_carte, G_KEOLIS] + nv[8:13] + [G_QUESTIONS, G_QR_SORTIE])
+             + [nv[4], nv[16], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS] + nv[8:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
     print("Écrit :", SORTIE, "-", len(prs.slides._sldIdLst), "diapositives")
 
