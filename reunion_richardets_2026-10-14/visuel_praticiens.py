@@ -31,6 +31,7 @@ ICI = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(ICI, ".cache", "geocodage_praticiens.json")
 SORTIE = os.path.join(ICI, "Visuels_Richardets", "Sante", "Sante_01_praticiens_ville.jpg")
 SORTIE_QUARTIER = os.path.join(ICI, "Visuels_Richardets", "Sante", "Sante_02_praticiens_quartier.jpg")
+SORTIE_QUARTIER_SEUL = os.path.join(ICI, "Visuels_Richardets", "Sante", "Sante_03_quartier_sans_praticiens.jpg")
 GEOCODAGE = "https://data.geopf.fr/geocodage/search?limit=1&citycode=93051&q="
 
 # Catégories de la carte (couleur des points). Les professions non listées ne sont pas des
@@ -100,12 +101,12 @@ def geocoder(adresses):
     return cache
 
 
-def carte(points, quartiers, quartier_seul=False):
+def carte(points, quartiers, quartier_seul=False, avec_points=True):
     """points : [(catégorie, lon, lat)]. Les praticiens d'une même adresse sont disposés en
     petite grappe autour du point, pour que chacun reste visible.
 
     quartier_seul : cadrage sur le secteur de la réunion (pleine largeur de diapositive) au lieu
-    de la commune entière."""
+    de la commune entière. avec_points=False : le même fond, sans aucun praticien."""
     secteur = unary_union([quartiers[n] for n in SECTEUR_REUNION])
     ville = unary_union(list(quartiers.values()))
     cadre = secteur if quartier_seul else ville
@@ -130,7 +131,7 @@ def carte(points, quartiers, quartier_seul=False):
         pointilles(d, a, (255, 255, 255, 255), 9, 34, 22)
     r = 28 if quartier_seul else 22
     par_lieu = {}
-    for cat, lon, lat in points:
+    for cat, lon, lat in (points if avec_points else []):
         par_lieu.setdefault((round(lon, 5), round(lat, 5)), []).append(cat)
     ordre = list(COULEURS)
     ombre = Image.new("RGBA", img.size, (0, 0, 0, 0))
@@ -151,7 +152,7 @@ def carte(points, quartiers, quartier_seul=False):
     for x, y, rr, c in sorted(pastilles, key=lambda p: p[2]):
         d.ellipse([x - rr, y - rr, x + rr, y + rr], fill=c + (255,), outline=(255, 255, 255, 255),
                   width=5 if rr == r else 3)
-    sortie = SORTIE_QUARTIER if quartier_seul else SORTIE
+    sortie = (SORTIE if not quartier_seul else SORTIE_QUARTIER if avec_points else SORTIE_QUARTIER_SEUL)
     os.makedirs(os.path.dirname(sortie), exist_ok=True)
     img.convert("RGB").save(sortie, quality=92)
     print("Écrit :", sortie)
@@ -171,6 +172,7 @@ def main(chemin):
         points.append((cat, g[0], g[1]))
     carte(points, quartiers)
     carte(points, quartiers, quartier_seul=True)
+    carte(points, quartiers, quartier_seul=True, avec_points=False)
     ville, dans_secteur = Counter(c for c, *_ in points), Counter(c for c, lon, lat in points
                                                                     if secteur.contains(Point(lon, lat)))
     print(f"\nPraticiens localisés : {len(points)} ; dans le secteur : {sum(dans_secteur.values())}")

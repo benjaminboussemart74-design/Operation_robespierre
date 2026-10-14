@@ -574,6 +574,18 @@ def diapo_praticiens_quartier(k):
     return d
 
 
+def diapo_quartier_seul(k):
+    """La carte de la diapositive précédente, sans les praticiens."""
+    d = k.diapo(NUIT, "Santé et accueil des seniors", "Le quartier",
+                "Secteur de la réunion : quartiers des Richardets – Montfort et des Yvris (contours de la Ville), "
+                "en couleurs, contour en pointillés. Fond : orthophotographie IGN.")
+    image(d, os.path.join(VISUELS, "Sante", "Sante_03_quartier_sans_praticiens.jpg"), 1.04, 2.45, 17.9,
+          17.9 * 1677 / 3800)
+    texte(d, 1.04, 10.45, 17.9, 0.3, "Fond : © IGN – BD ORTHO · Contours : Ville de Noisy-le-Grand", 11, GRIS,
+          gras=False)
+    return d
+
+
 # ---------------------------------------------------------------------------
 # RER E Est + et pôle gare des Yvris : une diapositive par projet, sans texte
 # (visuels transmis par la Direction de l'Environnement et de l'Espace Public, qui les commente à l'oral)
@@ -1066,6 +1078,7 @@ def construire():
     # 14. Les praticiens de santé dans la ville ----------------------------------------------
     diapo_praticiens(k)
     diapo_praticiens_quartier(k)
+    diapo_quartier_seul(k)
 
     # 14. Une maison médicale ---------------------------------------------------------------
     d = k.diapo(CREME, "Santé et accueil des seniors", "Une maison médicale", "")
