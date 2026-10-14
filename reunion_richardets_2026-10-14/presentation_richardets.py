@@ -239,6 +239,66 @@ def triangle(d, x, y, couleur, cote=0.36):
 
 
 # ---------------------------------------------------------------------------
+# Les objectifs du chantier de l'école des Richardets (description du projet, programme
+# de rénovation et de construction neuve, transmis par le cabinet le 14 octobre 2026)
+# ---------------------------------------------------------------------------
+OBJECTIFS_RICHARDETS = [
+    ("Accueillir plus d'élèves", "en prévision de la forte hausse démographique du sud de la Ville"),
+    ("Adapter les espaces", "aux besoins pédagogiques, pour le confort des enfants et de meilleures "
+                            "conditions d'enseignement"),
+    ("Mettre aux normes", "l'ensemble du groupe scolaire, notamment pour l'accueil des personnes à "
+                          "mobilité réduite"),
+]
+PROGRAMME_RICHARDETS = [
+    ("RÉNOVATION DE L'EXISTANT", [
+        "Réfection des logements de fonction pour y créer des salles supplémentaires",
+        "Remaniement et agrandissement du pôle restauration",
+        "Re-cloisonnement partiel des espaces existants",
+        "Mise aux normes PMR de la circulation",
+        "Remplacement des menuiseries extérieures et isolation des combles",
+        "Réaménagement des cours : clôtures remplacées, rangements extérieurs, cours séparées"]),
+    ("CONSTRUCTION NEUVE", [
+        "Des extensions pour créer les locaux qui manquent au bon fonctionnement de l'école",
+        "Deux nouveaux préaux"]),
+]
+
+
+def diapo_objectifs_richardets(k):
+    d = k.diapo(CREME, "L'école des Richardets", "Une école agrandie et rénovée",
+                "Description du projet. Augmentation de la capacité d'accueil du groupe scolaire en "
+                "prévision d'une forte ascension démographique sur le secteur sud de la Ville (aménagement "
+                "de salles supplémentaires par la création d'extensions et la réfection des logements de "
+                "fonction). Mise en cohérence des espaces existants avec les besoins pédagogiques "
+                "(restructuration lourde du groupe scolaire visant à une optimisation organisationnelle des "
+                "bâtiments, et une amélioration du confort d'accueil des enfants et des conditions "
+                "d'enseignement). Mise aux normes générale (accueil PMR).\n\n"
+                "Programme de rénovation : réfection des logements de fonction pour loger des salles "
+                "supplémentaires ; remaniement et agrandissement du pôle restauration ; re-cloisonnement "
+                "partiel des espaces existants ; mise aux normes PMR de la circulation ; remplacement des "
+                "menuiseries extérieures et isolation des combles ; réaménagement des cours de récréation "
+                "(remplacement des clôtures, création des rangements extérieurs, séparation des cours).\n\n"
+                "Programme de construction neuve : construction d'extensions permettant de créer des locaux "
+                "manquants au bon fonctionnement des entités pédagogiques ; construction de deux nouveaux préaux.")
+    # Les trois objectifs
+    largeur = 5.77
+    for i, (titre, detail) in enumerate(OBJECTIFS_RICHARDETS):
+        x = 1.04 + i * (largeur + 0.29)
+        rect(d, x, 2.5, largeur, 2.05, NUIT)
+        texte(d, x + 0.4, 2.75, largeur - 0.8, 0.5, titre, 26, VERT)
+        texte(d, x + 0.4, 3.4, largeur - 0.8, 1.3, detail, 18, CREME)
+    # Le programme des travaux
+    for (titre, items), x, w in zip(PROGRAMME_RICHARDETS, (1.04, 13.0), (11.4, 5.94)):
+        texte(d, x, 5.05, w, 0.45, titre, 20, VERT, espacement=150)
+        ligne(d, x, 5.6, x + w, 5.6, VERT, 2)
+        y = 5.85
+        for item in items:
+            rect(d, x + 0.02, y + 0.1, 0.18, 0.18, VERT, MSO_SHAPE.OVAL)
+            texte(d, x + 0.4, y, w - 0.4, 0.8, item, 19, NUIT)
+            y += 0.34 * -(-len(item) // (78 if w > 10 else 40)) + 0.3
+    return d
+
+
+# ---------------------------------------------------------------------------
 # Travaux dans les écoles du quartier
 # ---------------------------------------------------------------------------
 # Sources : réponse de la Direction des Bâtiments et de l'Énergie au cabinet (courriel de
@@ -950,8 +1010,9 @@ def construire():
                       "avec kiosque, consigne vélos et arceaux ; terminus de la ligne 310 et local chauffeurs ; "
                       "bus en passage avenue du Bois Saint-Martin ; piste cyclable ; accès RER sud-est ; "
                       "parking végétalisé de 175 places.")
+    diapo_objectifs_richardets(k)
     nv = k.nouvelles
-    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + [nv[0], nv[19]] + nv[1:4] + [nv[14], nv[15]]
+    ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + [nv[0], nv[19], nv[1], nv[22]] + nv[2:4] + [nv[14], nv[15]]
              + [nv[4], nv[16], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS, nv[20], nv[21]] + nv[8:10] + [nv[18]]
              + nv[10:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
