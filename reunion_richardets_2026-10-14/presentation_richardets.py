@@ -450,6 +450,16 @@ def diapo_gobelins(k):
 
 
 # ---------------------------------------------------------------------------
+# RER E Est + et pôle gare des Yvris : une diapositive par projet, sans texte
+# (visuels transmis par la Direction de l'Environnement et de l'Espace Public, qui les commente à l'oral)
+# ---------------------------------------------------------------------------
+def diapo_visuel_seul(k, titre, fichier, notes_orateur):
+    d = k.diapo(CREME, "Services publics de proximité · les transports", titre, notes_orateur)
+    image(d, os.path.join(VISUELS, "Mobilites", fichier), 1.04, 2.35, 17.9, 8.2)
+    return d
+
+
+# ---------------------------------------------------------------------------
 # Plan des bus du quartier
 # ---------------------------------------------------------------------------
 def fond_carte_bus(largeur=2400, hauteur=1350):
@@ -927,9 +937,24 @@ def construire():
     diapo_zones_bleues(k)
     diapo_commerces_mederic(k)
     diapo_gobelins(k)
+    diapo_visuel_seul(k, "Le projet RER E Est +", "Mobilites_02_projet_RER_E_Est_plus.jpg",
+                      "Présentation à l'oral par la Direction de l'Environnement et de l'Espace Public. Éléments "
+                      "du visuel : création d'une troisième voie ; reconstruction de la gare des Yvris – "
+                      "Noisy-le-Grand avec un nouveau bâtiment voyageurs, accès aux quais par une passerelle et "
+                      "des ascenseurs (mise aux normes d'accessibilité) ; reconstruction des ponts Paul-Serelle "
+                      "et des Yvris avec un tablier pour les modes doux ; démolition d'un passage souterrain et "
+                      "construction d'une passerelle piétonne accessible aux personnes à mobilité réduite ; "
+                      "rénovation de 4 ponts dans les bois Saint-Martin et de Célie pour faciliter le passage "
+                      "de la faune.")
+    diapo_visuel_seul(k, "L'aménagement du pôle gare des Yvris", "Mobilites_03_pole_gare_Yvris_plan.jpg",
+                      "Présentation à l'oral par la Direction de l'Environnement et de l'Espace Public. Éléments "
+                      "du plan projeté : parvis ouest avec square de proximité et dépose-minute ; parvis est "
+                      "avec kiosque, consigne vélos et arceaux ; terminus de la ligne 310 et local chauffeurs ; "
+                      "bus en passage avenue du Bois Saint-Martin ; piste cyclable ; accès RER sud-est ; "
+                      "parking végétalisé de 175 places.")
     nv = k.nouvelles
     ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + [nv[0], nv[19]] + nv[1:4] + [nv[14], nv[15]]
-             + [nv[4], nv[16], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS] + nv[8:10] + [nv[18]]
+             + [nv[4], nv[16], nv[5], nv[17]] + nv[6:8] + [n_carte, G_KEOLIS, nv[20], nv[21]] + nv[8:10] + [nv[18]]
              + nv[10:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
     print("Écrit :", SORTIE, "-", len(prs.slides._sldIdLst), "diapositives")
