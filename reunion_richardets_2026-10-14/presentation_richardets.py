@@ -589,6 +589,25 @@ def diapo_carte_bus(k):
     return d
 
 # ---------------------------------------------------------------------------
+# Piste cyclable vers le centre-ville (plan d'aménagement fourni par le cabinet)
+# ---------------------------------------------------------------------------
+PISTE = "E8473F"   # rouge de la piste cyclable sur le plan fourni
+
+
+def diapo_piste_cyclable(k):
+    d = k.diapo(CREME, "Circulation et sécurité", "Une nouvelle piste cyclable pour joindre le centre",
+                "Plan d'aménagement du carrefour et de la piste cyclable (en rouge), avec la coupe de la "
+                "voie en encart.")
+    rect(d, 1.04, 2.55, 17.9, 6.95, BLANC)
+    image(d, os.path.join(VISUELS, "Mobilites", "Mobilites_01_piste_cyclable_plan.png"),
+          1.19, 2.7, 17.6, 6.65)
+    yl = 9.85
+    rect(d, 1.04, yl, 0.9, 0.36, PISTE)
+    texte(d, 2.15, yl - 0.05, 8.0, 0.45, "Piste cyclable", 22, NUIT)
+    return d
+
+
+# ---------------------------------------------------------------------------
 # Les diapositives
 # ---------------------------------------------------------------------------
 def construire():
@@ -833,9 +852,10 @@ def construire():
     diapo_ecoles_quartier(k)
     diapo_periscolaire(k, habituelles[G_PERI_MERCREDI].notes_slide.notes_text_frame.text,
                        habituelles[G_PERI_CANTINE].notes_slide.notes_text_frame.text)
+    diapo_piste_cyclable(k)
     nv = k.nouvelles
     ordonner(prs, [G_QR_ACCUEIL, G_COUVERTURE, G_SOMMAIRE] + nv[0:4] + [nv[14], nv[15]]
-             + nv[4:8] + [n_carte, G_KEOLIS] + nv[8:13] + [G_QUESTIONS, G_QR_SORTIE])
+             + [nv[4], nv[16]] + nv[5:8] + [n_carte, G_KEOLIS] + nv[8:13] + [G_QUESTIONS, G_QR_SORTIE])
     prs.save(SORTIE)
     print("Écrit :", SORTIE, "-", len(prs.slides._sldIdLst), "diapositives")
 
