@@ -113,7 +113,7 @@ def carte(points, quartiers, quartier_seul=False, avec_points=True):
     (x0, y0), (x1, y1) = merc(*cadre.bounds[:2]), merc(*cadre.bounds[2:])
     # format du cadre de la diapositive : 10,2 x 7 pouces (ville) ou 17,9 x 7,9 pouces (quartier)
     largeur, hauteur = (3800, 1677) if quartier_seul else (2920, 2000)
-    marge = 1.1 if quartier_seul else 1.05
+    marge = 1.3 if quartier_seul else 1.05
     w = max((x1 - x0) * marge, (y1 - y0) * marge * largeur / hauteur)
     vue = Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
     photo = vue.photo(zoom_max=18 if quartier_seul else 17)
@@ -139,6 +139,8 @@ def carte(points, quartiers, quartier_seul=False, avec_points=True):
     pastilles = []
     for (lon, lat), cats in par_lieu.items():
         cx, cy = vue.px(lon, lat)
+        if not (2 * r < cx < largeur - 2 * r and 2 * r < cy < hauteur - 2 * r):
+            continue                       # cabinet au bord ou hors du cadre : pas de point coupé
         for k, cat in enumerate(sorted(cats, key=ordre.index)):
             # spirale de Vogel : grappe compacte et régulière
             rayon, angle = 2.15 * r * math.sqrt(k), k * 2.39996
