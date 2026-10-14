@@ -30,6 +30,7 @@ from visuels_richardets import SECTEUR_REUNION, Vue, geojson, masque, pointilles
 ICI = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(ICI, ".cache", "geocodage_praticiens.json")
 SORTIE = os.path.join(ICI, "Visuels_Richardets", "Sante", "Sante_01_praticiens_ville.jpg")
+SORTIE_QUARTIER = os.path.join(ICI, "Visuels_Richardets", "Sante", "Sante_02_praticiens_quartier.jpg")
 GEOCODAGE = "https://data.geopf.fr/geocodage/search?limit=1&citycode=93051&q="
 
 # Catégories de la carte (couleur des points). Les professions non listées ne sont pas des
@@ -99,16 +100,22 @@ def geocoder(adresses):
     return cache
 
 
-def carte(points, quartiers):
+def carte(points, quartiers, quartier_seul=False):
     """points : [(catégorie, lon, lat)]. Les praticiens d'une même adresse sont disposés en
-    petite grappe autour du point, pour que chacun reste visible."""
+    petite grappe autour du point, pour que chacun reste visible.
+
+    quartier_seul : cadrage sur le secteur de la réunion (pleine largeur de diapositive) au lieu
+    de la commune entière."""
     secteur = unary_union([quartiers[n] for n in SECTEUR_REUNION])
     ville = unary_union(list(quartiers.values()))
-    (x0, y0), (x1, y1) = merc(*ville.bounds[:2]), merc(*ville.bounds[2:])
-    largeur, hauteur = 2920, 2000          # format du cadre de la diapositive (10,2 x 7 pouces)
-    w = max((x1 - x0) * 1.05, (y1 - y0) * 1.05 * largeur / hauteur)
+    cadre = secteur if quartier_seul else ville
+    (x0, y0), (x1, y1) = merc(*cadre.bounds[:2]), merc(*cadre.bounds[2:])
+    # format du cadre de la diapositive : 10,2 x 7 pouces (ville) ou 17,9 x 7,9 pouces (quartier)
+    largeur, hauteur = (3800, 1677) if quartier_seul else (2920, 2000)
+    marge = 1.1 if quartier_seul else 1.05
+    w = max((x1 - x0) * marge, (y1 - y0) * marge * largeur / hauteur)
     vue = Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
-    photo = vue.photo(zoom_max=17)
+    photo = vue.photo(zoom_max=18 if quartier_seul else 17)
     # commune en photo atténuée, extérieur en gris sombre, secteur de la réunion éclairci
     gris = ImageEnhance.Brightness(ImageOps.grayscale(photo).convert("RGB")).enhance(0.45)
     commune = ImageEnhance.Brightness(ImageEnhance.Color(photo).enhance(0.45)).enhance(0.6)
@@ -121,7 +128,7 @@ def carte(points, quartiers):
         d.line(a + [a[0]], fill=(255, 255, 255, 170), width=5, joint="curve")
     for a in vue.anneaux(secteur):
         pointilles(d, a, (255, 255, 255, 255), 9, 34, 22)
-    r = 22
+    r = 28 if quartier_seul else 22
     par_lieu = {}
     for cat, lon, lat in points:
         par_lieu.setdefault((round(lon, 5), round(lat, 5)), []).append(cat)
@@ -144,9 +151,10 @@ def carte(points, quartiers):
     for x, y, rr, c in sorted(pastilles, key=lambda p: p[2]):
         d.ellipse([x - rr, y - rr, x + rr, y + rr], fill=c + (255,), outline=(255, 255, 255, 255),
                   width=5 if rr == r else 3)
-    os.makedirs(os.path.dirname(SORTIE), exist_ok=True)
-    img.convert("RGB").save(SORTIE, quality=92)
-    print("Écrit :", SORTIE)
+    sortie = SORTIE_QUARTIER if quartier_seul else SORTIE
+    os.makedirs(os.path.dirname(sortie), exist_ok=True)
+    img.convert("RGB").save(sortie, quality=92)
+    print("Écrit :", sortie)
 
 
 def main(chemin):
@@ -162,6 +170,7 @@ def main(chemin):
             continue
         points.append((cat, g[0], g[1]))
     carte(points, quartiers)
+    carte(points, quartiers, quartier_seul=True)
     ville, dans_secteur = Counter(c for c, *_ in points), Counter(c for c, lon, lat in points
                                                                     if secteur.contains(Point(lon, lat)))
     print(f"\nPraticiens localisés : {len(points)} ; dans le secteur : {sum(dans_secteur.values())}")
