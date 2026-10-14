@@ -519,6 +519,48 @@ def diapo_gobelins(k):
 
 
 # ---------------------------------------------------------------------------
+# Les praticiens de santé dans la ville (visuel_praticiens.py)
+# Source unique : fichier des professionnels de santé de la Ville, feuille « 2026 »
+# (mise à jour du 1er août 2025). Chiffres : sortie de visuel_praticiens.py.
+# ---------------------------------------------------------------------------
+LEGENDE_PRATICIENS = (("Médecins généralistes", "E84855"), ("Médecins spécialistes", "F28C28"),
+                      ("Chirurgiens-dentistes", "42A5F5"), ("Autres professions de santé", "72C493"))
+
+
+def diapo_praticiens(k):
+    d = k.diapo(NUIT, "Santé et accueil des seniors", "Peu de praticiens dans le quartier",
+                "Source : fichier des professionnels de santé de la Ville (mise à jour du 1er août 2025). "
+                "287 praticiens localisés à leur adresse de cabinet (12 praticiens exerçant uniquement à "
+                "domicile ou à distance ne sont pas représentés). Ne sont pas comptés : pharmacies, "
+                "opticiens, laboratoires, établissements, ambulances, vétérinaires et pratiques non "
+                "réglementées. Secteur de la réunion : quartiers des Richardets – Montfort et des Yvris "
+                "(contours de la Ville). Dans le secteur : 34 praticiens, dont 7 médecins généralistes "
+                "(sur 26 dans la ville) et 27 autres professionnels de santé ; aucun médecin spécialiste "
+                "(28 dans la ville) ni chirurgien-dentiste (48 dans la ville). Fond : orthophotographie IGN.")
+    image(d, os.path.join(VISUELS, "Sante", "Sante_01_praticiens_ville.jpg"), 1.04, 2.45, 10.2, 10.2 * 2000 / 2920)
+    # chiffres clés
+    rect(d, 11.6, 2.45, 7.36, 3.3, CARTE)
+    texte(d, 12.0, 2.7, 6.6, 1.2, "7", 72, VERT)
+    texte(d, 12.0, 3.95, 6.6, 1.3, "médecins généralistes dans le secteur, sur 26 dans la ville", 24, CREME)
+    rect(d, 11.6, 6.13, 7.36, 3.3, CARTE)
+    texte(d, 12.0, 6.38, 6.6, 1.2, "Aucun", 54, VERT)
+    texte(d, 12.0, 7.46, 6.6, 1.5, "médecin spécialiste ni chirurgien-dentiste dans le secteur", 24, CREME)
+    # légende
+    x = 1.04
+    for libelle, couleur in LEGENDE_PRATICIENS:
+        p = rect(d, x, 9.63, 0.24, 0.24, couleur, MSO_SHAPE.OVAL, contour=BLANC)
+        texte(d, x + 0.34, 9.6, 2.9, 0.45, libelle, 14, BLANC, gras=False)
+        x += 0.34 + {"Médecins généralistes": 2.45, "Médecins spécialistes": 2.4,
+                     "Chirurgiens-dentistes": 2.4, "Autres professions de santé": 2.95}[libelle]
+    tiret = ligne(d, x, 9.75, x + 0.6, 9.75, BLANC, 2.5)
+    tiret.line.dash_style = MSO_LINE_DASH_STYLE.DASH
+    texte(d, x + 0.72, 9.6, 2.6, 0.45, "Secteur de la réunion", 14, BLANC, gras=False)
+    texte(d, 1.04, 10.35, 17.9, 0.35, "Source : fichier des professionnels de santé de la Ville (mise à jour "
+          "du 1er août 2025) · Fond : © IGN – BD ORTHO", 11, GRIS, gras=False)
+    return d
+
+
+# ---------------------------------------------------------------------------
 # RER E Est + et pôle gare des Yvris : une diapositive par projet, sans texte
 # (visuels transmis par la Direction de l'Environnement et de l'Espace Public, qui les commente à l'oral)
 # ---------------------------------------------------------------------------
@@ -1006,6 +1048,9 @@ def construire():
     image(d, os.path.join(VISUELS, "Equipements", "Equipements_04_fort_de_Villiers_vue_aerienne.jpg"),
           10.26, 3.4, 8.7, 5.8)
     texte(d, 10.26, 9.28, 8.7, 0.3, "© IGN – BD ORTHO", 11, GRIS, gras=False, align=PP_ALIGN.RIGHT)
+
+    # 14. Les praticiens de santé dans la ville ----------------------------------------------
+    diapo_praticiens(k)
 
     # 14. Une maison médicale ---------------------------------------------------------------
     d = k.diapo(CREME, "Santé et accueil des seniors", "Une maison médicale", "")
