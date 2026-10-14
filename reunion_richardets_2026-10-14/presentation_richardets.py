@@ -403,24 +403,41 @@ def diapo_periscolaire(k, notes_mercredi, notes_cantine):
 
 
 # ---------------------------------------------------------------------------
-# Zones bleues : parking du secteur du gymnase des Yvris
-# (point fourni par le cabinet : 48°49'35.57" N, 2°35'00.63" E ; vues aériennes IGN)
+# Zones bleues : parkings du secteur du gymnase des Yvris et du boulevard du Champy
+# (points fournis par le cabinet ; vues aériennes IGN)
 # ---------------------------------------------------------------------------
+PARKINGS_ZONE_BLEUE = (
+    ("Secteur du gymnase des Yvris", "Chemin de la Noisette",
+     "Securite_03_zone_bleue_parking.jpg", "Securite_04_zone_bleue_situation.jpg"),
+    ("Boulevard du Champy", "Quartier des Richardets",
+     "Securite_05_zone_bleue_parking_Champy.jpg", "Securite_06_zone_bleue_situation_Champy.jpg"),
+)
+
+
 def diapo_zones_bleues(k):
     d = k.diapo(NUIT, "Circulation et sécurité", "Les zones bleues de stationnement",
-                "Parking situé dans le secteur du gymnase des Yvris, chemin de la Noisette, près de "
+                "Deux parkings concernés. 1. Secteur du gymnase des Yvris, chemin de la Noisette, près de "
                 "l'école élémentaire des Yvris et du collège Saint-Exupéry (point fourni : 48°49'35.57\" N, "
-                "2°35'00.63\" E). Vues : orthophotographies IGN. Règles de la zone bleue à compléter : "
+                "2°35'00.63\" E). 2. Boulevard du Champy (point fourni : 48°50'14.62\" N, 2°34'48.08\" E). "
+                "Vues : orthophotographies IGN (© IGN – BD ORTHO). Règles de la zone bleue à compléter : "
                 "périmètre, durée de stationnement autorisée, date de mise en place, contrôle.")
-    img = image(d, os.path.join(VISUELS, "Securite", "Securite_03_zone_bleue_parking.jpg"),
-                1.04, 2.45, 11.2, 7.5, align="gauche")
-    bas = (img.top + img.height) / 914400
-    texte(d, 1.04, bas + 0.08, 11.2, 0.3, "© IGN – BD ORTHO", 11, "C9CCDA", gras=False, align=PP_ALIGN.RIGHT)
-    image(d, os.path.join(VISUELS, "Securite", "Securite_04_zone_bleue_situation.jpg"),
-          12.65, 2.45, 6.3, 4.2)
-    texte(d, 12.65, 6.75, 6.3, 0.8, "Secteur du gymnase des Yvris, chemin de la Noisette", 20, BLANC)
-    a_completer(d, 12.65, 7.65, 6.3, 2.3,
-                "[Périmètre, durée de stationnement autorisée et date de mise en place à compléter]", sombre=True)
+    for i, (lieu, precision, vue, situation) in enumerate(PARKINGS_ZONE_BLEUE):
+        x, w = 1.04 + i * 9.22, 8.7
+        image(d, os.path.join(VISUELS, "Securite", vue), x, 2.45, w, w * 3 / 4)
+        # carte de situation en médaillon, dans l'angle supérieur droit de la vue
+        m = image(d, os.path.join(VISUELS, "Securite", situation), x + w - 2.95, 2.6, 2.8, 2.8 * 2 / 3)
+        m.line.color.rgb = rgb(BLANC)
+        m.line.width = Pt(2.5)
+        tf = rect(d, x, 9.3, 0.62, 0.62, VERT, MSO_SHAPE.OVAL).text_frame
+        tf.text = str(i + 1)
+        tf.margin_left = tf.margin_right = tf.margin_top = tf.margin_bottom = 0
+        tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+        p = tf.paragraphs[0]
+        p.alignment = PP_ALIGN.CENTER
+        r = p.runs[0]
+        r.font.name, r.font.size, r.font.bold, r.font.color.rgb = POLICE, Pt(22), True, rgb(NUIT)
+        texte(d, x + 0.85, 9.25, w - 0.85, 0.45, lieu, 24, BLANC)
+        texte(d, x + 0.85, 9.75, w - 0.85, 0.4, precision, 18, GRIS, gras=False)
     return d
 
 
