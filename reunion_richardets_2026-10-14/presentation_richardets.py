@@ -367,13 +367,14 @@ def diapo_periscolaire(k, notes_mercredi, notes_cantine):
 # Plan des bus du quartier
 # ---------------------------------------------------------------------------
 def fond_carte_bus(largeur=2400, hauteur=1350):
-    """Fond de carte sans texte : photographie aérienne, secteur en couleur, lignes et arrêts.
-    Renvoie (chemin de l'image, fonction lon/lat -> pixel, arrêts, lignes)."""
+    """Fond de carte schématique, sans texte : fond bleu nuit, rues (IGN), quartier éclairci et
+    cerné de pointillés, lignes de bus épaisses et décalées côte à côte, arrêts en points blancs.
+    Renvoie (chemin de l'image, taille, arrêts, lignes, pastilles de numéro de ligne)."""
     import csv
     import json
-    from PIL import ImageDraw, ImageEnhance, ImageFilter, ImageOps
-    from shapely.geometry import shape
-    from shapely.ops import unary_union
+    from PIL import ImageDraw
+    from shapely.geometry import LineString, box, shape
+    from shapely.ops import linemerge, unary_union
     import visuels_richardets as v
 
     quartiers = {f["properties"]["nom_quarti"]: shape(f["geometry"]) for f in v.geojson("quartiers-de-noisy-le-grand")}
@@ -381,36 +382,70 @@ def fond_carte_bus(largeur=2400, hauteur=1350):
     (x0, y0), (x1, y1) = v.merc(*secteur.bounds[:2]), v.merc(*secteur.bounds[2:])
     w = max((x1 - x0) * 1.12, (y1 - y0) * 1.12 * largeur / hauteur)
     vue = v.Vue((x0 + x1) / 2, (y0 + y1) / 2, w, largeur, hauteur)
-    photo = vue.photo(zoom_max=18)
-    gris = ImageEnhance.Brightness(ImageOps.grayscale(photo).convert("RGB")).enhance(0.6)
-    vif = ImageEnhance.Brightness(ImageEnhance.Color(photo).enhance(0.9)).enhance(0.85)
-    img = Image.composite(vif, gris, v.masque(vue, secteur, flou=2)).convert("RGBA")
+
+    img = Image.new("RGB", (largeur, hauteur), (11, 24, 74))
     d = ImageDraw.Draw(img)
     for a in vue.anneaux(secteur):
-        v.pointilles(d, a, (255, 255, 255, 230), 5, 30, 20)
+        d.polygon(a, fill=(22, 40, 104))
+    # rues : plus l'importance IGN est forte (1), plus le trait est épais et clair
+    style = {"1": (8, (70, 88, 150)), "2": (7, (66, 84, 146)), "3": (5, (56, 74, 136)),
+             "4": (4, (50, 68, 130)), "5": (2, (42, 60, 120)), "6": (2, (36, 54, 112))}
+    routes = json.load(open(os.path.join(ICI, ".cache", "routes_secteur.json")))["features"]
+    for imp in ("6", "5", "4", "3", "2", "1"):
+        ep, coul = style[imp]
+        for f in routes:
+            if f["properties"].get("importance") != imp or not f["geometry"]:
+                continue
+            g = f["geometry"]
+            for brin in (g["coordinates"] if g["type"] == "MultiLineString" else [g["coordinates"]]):
+                d.line([vue.px(c[0], c[1]) for c in brin], fill=coul, width=ep, joint="curve")
+    for a in vue.anneaux(secteur):
+        v.pointilles(d, a, (235, 238, 245), 5, 30, 20)
 
+    # lignes : tracé découpé au cadre, simplifié, puis décalé pour que les lignes qui partagent
+    # une rue apparaissent côte à côte (comme sur les plans de réseau)
     traces = {t["route_short_name"]: t for t in json.load(open(os.path.join(ICI, ".cache", "traces_bus.json")))
               if t["route_short_name"] in LIGNES_PRINCIPALES}
+    cadre = box(-40, -40, largeur + 40, hauteur + 40)
+    decalage = {"310": -12, "312": 0, "320": 12}
+    pastilles, lignes = [], []
     for nom in LIGNES_PRINCIPALES:
         geom = traces[nom]["shape"]["geometry"]
         brins = geom["coordinates"] if geom["type"] == "MultiLineString" else [geom["coordinates"]]
+        # un seul sens de circulation par ligne : le brin le plus long dans le cadre, décalé d'un
+        # seul tenant (fusionner les deux sens découperait le tracé en fragments)
+        morceaux = [LineString([vue.px(*c) for c in b]).intersection(cadre) for b in brins if len(b) > 1]
+        morceaux = [linemerge(m) if m.geom_type == "MultiLineString" else m for m in morceaux if not m.is_empty]
+        principal = max(morceaux, key=lambda m: m.length)
+        parties = list(principal.geoms) if hasattr(principal, "geoms") else [principal]
+        parties = [p.simplify(2.5).offset_curve(decalage[nom], join_style=1) for p in parties if p.length > 30]
+        parties = [p for p in parties if not p.is_empty and p.length > 30]
+
+        def segments(p):
+            return [q for q in (list(p.geoms) if hasattr(p, "geoms") else [p]) if len(q.coords) > 1]
         couleur = tuple(int(traces[nom]["route_color"][i:i + 2], 16) for i in (0, 2, 4))
-        for brin in brins:
-            pts = [vue.px(*c) for c in brin]
-            d.line(pts, fill=(255, 255, 255, 255), width=17, joint="curve")
-        for brin in brins:
-            d.line([vue.px(*c) for c in brin], fill=couleur + (255,), width=11, joint="curve")
+        for p in parties:
+            for q in segments(p):
+                d.line(list(q.coords), fill=(11, 24, 74), width=24, joint="curve")
+        for p in parties:
+            for q in segments(p):
+                d.line(list(q.coords), fill=couleur, width=15, joint="curve")
+        longue = max(parties, key=lambda p: p.length)
+        for t in {"310": (0.3, 0.72), "312": (0.3, 0.72), "320": (0.3,)}[nom]:
+            pt = longue.interpolate(t, normalized=True)
+            if 60 < pt.x < largeur - 60 and 40 < pt.y < hauteur - 40:
+                pastilles.append((nom, traces[nom]["route_color"], pt.x, pt.y))
+        lignes.append((nom, traces[nom]["route_color"]))
 
     arrets = []
     for r in csv.DictReader(open(SIGNALEMENTS, encoding="utf-8")):
         x, y = vue.px(float(r["longitude"]), float(r["latitude"]))
         n = r["signalements"].strip()
         arrets.append({"nom": r["arret"], "lignes": r["lignes"], "x": x, "y": y, "n": int(n) if n else None})
-        d.ellipse([x - 13, y - 13, x + 13, y + 13], fill=(255, 255, 255, 255), outline=(14, 31, 91, 255), width=6)
-    chemin = os.path.join(ICI, ".cache", "fond_carte_bus.jpg")
-    img.convert("RGB").save(chemin, quality=92)
-    lignes = [(nom, traces[nom]["route_color"]) for nom in LIGNES_PRINCIPALES]
-    return chemin, (largeur, hauteur), arrets, lignes
+        d.ellipse([x - 12, y - 12, x + 12, y + 12], fill=(255, 255, 255), outline=(11, 24, 74), width=5)
+    chemin = os.path.join(ICI, ".cache", "fond_carte_bus.png")
+    img.save(chemin)
+    return chemin, (largeur, hauteur), arrets, lignes, pastilles
 
 
 # police aux mêmes dimensions qu'Arial gras (Liberation Sans), pour mesurer les étiquettes à 12 pt
@@ -419,12 +454,12 @@ MESURE = _IF.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Bold.
 
 # position des étiquettes (en pouces, par rapport au point) pour éviter les chevauchements
 DECALAGES = {
-    "Moulin à Vent": (0.15, -0.12), "Le Fort": (-1.05, -0.45), "Cité des Hêtres": (-2.05, 0.3),
-    "Rue de la Chapelle": (-1.85, -0.2), "Gabriel Péri": (-1.25, -0.15), "Place du Combat": (-1.0, 0.45),
-    "Les Richardets - Centre": (0.05, 0.5), "Ballon - Chapelle": (-0.75, -0.48), "Le Closeau": (-1.1, -0.2),
+    "Moulin à Vent": (0.15, -0.12), "Le Fort": (-1.05, -0.45), "Cité des Hêtres": (-2.05, -0.12),
+    "Rue de la Chapelle": (-1.85, -0.2), "Gabriel Péri": (-1.25, -0.15), "Place du Combat": (-1.15, 0.2),
+    "Les Richardets - Centre": (0.05, 0.22), "Ballon - Chapelle": (-0.75, -0.48), "Le Closeau": (-1.1, -0.2),
     "La Butte aux Cailles": (0.15, -0.45), "Rue du Ballon": (0.15, -0.38), "Chapelle": (0.12, -0.42),
-    "Victor Hugo": (0.15, -0.12), "Les Graviers": (0.15, -0.05), "Rue des Aérostiers": (-1.85, -0.2),
-    "Les Aérostiers": (0.15, -0.12), "Collège des Yvris": (0.15, -0.12),
+    "Victor Hugo": (-1.75, -0.15), "Les Graviers": (0.15, -0.05), "Rue des Aérostiers": (-1.85, -0.2),
+    "Les Aérostiers": (0.15, -0.12), "Collège des Yvris": (-2.25, -0.47),
     "Les Yvris - Noisy-le-Grand RER": (-3.1, 0.05),
 }
 
@@ -434,32 +469,32 @@ def diapo_carte_bus(k):
     d = k.diapo(NUIT, "Services publics de proximité · les bus", "Les bus du quartier et vos signalements",
                 "Plan des lignes 310, 312 et 320 qui traversent le quartier, avec leurs arrêts (données "
                 "ouvertes d'Île-de-France Mobilités). Les arrêts Moulin à Vent (lignes 206, 207, 306, 310) "
-                "et Les Aérostiers (ligne 212) sont en limite du quartier. Les cercles verts indiquent le "
+                "et Les Aérostiers (ligne 212) sont en limite du quartier. Les pastilles vertes indiquent le "
                 "nombre de signalements recueillis par le formulaire de la Ville pour chaque arrêt "
                 "(472 signalements au total ; 156 rattachés avec certitude à un arrêt du quartier, les "
                 "saisies ambiguës ne sont pas comptées). Les problèmes sont comptés en mentions : un "
                 "signalement peut en citer plusieurs. Dans toute la ville : ligne 310, 312 signalements ; "
                 "ligne 320, 76 ; ligne 312, 13 ; ligne 220, 51.")
-    chemin, (lw, lh), arrets, lignes = fond_carte_bus()
+    chemin, (lw, lh), arrets, lignes, pastilles = fond_carte_bus()
     mx, my, mw = 1.04, 2.45, 12.3
     mh = mw * lh / lw
     d.shapes.add_picture(chemin, Inches(mx), Inches(my), Inches(mw), Inches(mh))
-    texte(d, mx, my + mh + 0.08, mw, 0.3, "© IGN – BD ORTHO · Lignes et arrêts : Île-de-France Mobilités",
+    texte(d, mx, my + mh + 0.08, mw, 0.3, "Rues : IGN – BD TOPO · Lignes et arrêts : Île-de-France Mobilités",
           11, "C9CCDA", gras=False, align=PP_ALIGN.RIGHT)
     vmax = max([a["n"] for a in arrets if a["n"]] or [0])
-    # d'abord les cercles, ensuite les noms, pour qu'aucun cercle ne masque un nom
-    for a in arrets:
-        if a["n"]:
-            x, y = mx + a["x"] / lw * mw, my + a["y"] / lh * mh
-            diam = 0.38 + 0.52 * (a["n"] / vmax) ** 0.5   # surface proportionnelle au nombre
-            c = rect(d, x - diam / 2, y - diam / 2, diam, diam, VERT, MSO_SHAPE.OVAL, contour=BLANC)
-            tf = c.text_frame
-            tf.text = str(a["n"])
-            tf.margin_left = tf.margin_right = 0
-            r = tf.paragraphs[0].runs[0]
-            r.font.name, r.font.size, r.font.bold, r.font.color.rgb = POLICE, Pt(16), True, rgb(NUIT)
-            tf.paragraphs[0].alignment = PP_ALIGN.CENTER
-            tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+    # pastilles de numéro posées sur les lignes
+    for nom, couleur, px, py in pastilles:
+        x, y = mx + px / lw * mw, my + py / lh * mh
+        p = rect(d, x - 0.33, y - 0.19, 0.66, 0.38, couleur, MSO_SHAPE.ROUNDED_RECTANGLE, contour=NUIT)
+        p.line.width = Pt(2)
+        tf = p.text_frame
+        tf.text = nom
+        tf.margin_left = tf.margin_right = tf.margin_top = tf.margin_bottom = 0
+        r = tf.paragraphs[0].runs[0]
+        r.font.name, r.font.size, r.font.bold, r.font.color.rgb = POLICE, Pt(14), True, rgb(NUIT)
+        tf.paragraphs[0].alignment = PP_ALIGN.CENTER
+        tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+    # étiquettes : nom de l'arrêt, suivi du nombre de signalements dans une pastille verte
     for a in arrets:
         x, y = mx + a["x"] / lw * mw, my + a["y"] / lh * mh
         dx, dy = DECALAGES.get(a["nom"], (0.15, -0.1))
@@ -472,6 +507,15 @@ def diapo_carte_bus(k):
         tf = e.text_frame
         tf.margin_left = tf.margin_right = Inches(0.05)
         tf.auto_size = None
+        if a["n"]:
+            c = rect(d, x + dx + largeur, y + dy, 0.42, 0.3, VERT)
+            tf = c.text_frame
+            tf.text = str(a["n"])
+            tf.margin_left = tf.margin_right = tf.margin_top = tf.margin_bottom = 0
+            r = tf.paragraphs[0].runs[0]
+            r.font.name, r.font.size, r.font.bold, r.font.color.rgb = POLICE, Pt(13), True, rgb(NUIT)
+            tf.paragraphs[0].alignment = PP_ALIGN.CENTER
+            tf.vertical_anchor = MSO_ANCHOR.MIDDLE
     # légende des lignes, sous la carte
     for i, (nom, couleur) in enumerate(lignes):
         x = mx + i * 2.6
