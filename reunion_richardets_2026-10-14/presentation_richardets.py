@@ -264,9 +264,9 @@ ECOLES = [
     ("Maternelle des Richardets", None,
      [(True, "Un rafraîchisseur d'air"),
       (True, "Films de protection solaire sur les vitrages")]),
-    ("Paul-Serelle", None,
-     [(False, "Sécurisation du carrefour, à l'étude"),
-      (False, "Réparation des fuites de la salle polyvalente")]),
+    ("Paul-Serelle", "travaux à venir",
+     [(False, "Sécurisation du carrefour : à l'étude"),
+      (False, "Fuites de la salle polyvalente : réparation programmée")]),
 ]
 
 NOTES_ECOLES_QUARTIER = (
