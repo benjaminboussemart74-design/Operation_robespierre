@@ -730,6 +730,7 @@ def construire():
                 "matériel scolaire. Le matériel de restauration a été déménagé dès le 1er juillet pour "
                 "permettre l'installation aux Gobelins le 20 juillet.")
     frise(d, 1.04, 3.75, 17.9, [
+        ("2024", "Projet validé par l'ancienne municipalité"),
         ("1er juillet 2026", "Déménagement du matériel de restauration"),
         ("6 juillet 2026", "Déménagement du matériel scolaire, après la fin de l'année"),
         ("20 juillet 2026", "Installation à l'école des Gobelins"),
