@@ -999,10 +999,13 @@ def construire():
           ancre=MSO_ANCHOR.MIDDLE, espacement=120)
 
     # 13. Le Fort de Villiers ------------------------------------------------------------
-    d = k.diapo(NUIT, "Équipements et cadre de vie", "Le Fort de Villiers", "")
-    image(d, os.path.join(VISUELS, "Equipements", "Equipements_03_fort_de_Villiers.jpg"), 1.04, 2.5, 10.6, 7.7,
-          align="gauche")
-    a_completer(d, 12.2, 2.5, 6.76, 7.7, "[Contenu à compléter]", sombre=True)
+    d = k.diapo(NUIT, "Équipements et cadre de vie", "Le Fort de Villiers",
+                "Vue aérienne du Fort de Villiers : orthophotographie IGN.")
+    # moitié gauche : photographie du fort ; moitié droite : vue aérienne (visuel_fort_villiers.py)
+    image(d, os.path.join(VISUELS, "Equipements", "Equipements_03_fort_de_Villiers.jpg"), 1.04, 3.4, 8.7, 5.8)
+    image(d, os.path.join(VISUELS, "Equipements", "Equipements_04_fort_de_Villiers_vue_aerienne.jpg"),
+          10.26, 3.4, 8.7, 5.8)
+    texte(d, 10.26, 9.28, 8.7, 0.3, "© IGN – BD ORTHO", 11, GRIS, gras=False, align=PP_ALIGN.RIGHT)
 
     # 14. Une maison médicale ---------------------------------------------------------------
     d = k.diapo(CREME, "Santé et accueil des seniors", "Une maison médicale", "")
